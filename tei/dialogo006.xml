@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Descarga desde https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo006.jpg" xml:id="p6"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="6" facs="#p6"/>
+<p>los bajorrelieves asirios desenterrados últimamente de
+las ruinas de Nínive, en los egipcios, y aun en los de los
+primitivos griegos; de suerte que es ésa una piedra en la
+que todos han tropezado al principio. Pero además de
+las causas generales, creo que puede señalarse otra 
+especial, si bien común a los mexicanos con algunos otros
+pueblos, la cual ha de haber influido para que no 
+adelantaran en las artes del dibujo. Discurriendo un 
+filósofo de nuestro siglo sobre los dos sistemas de escritura
+que se han usado, el jeroglífico o simbólico que expresa
+inmediatamente la idea y el fonético que copia la 
+palabra, sostiene que cuando en la primera edad de un 
+pueblo se introduce por malaventura el sistema simbólico,
+ese pueblo queda para siempre condenado a un grande
+atraso mental, pues la dificultad que el tal sistema tiene 
+para aprenderse y lo encogido y embarazoso que es
+luego para usarse serán siempre causa de que ni los 
+conocimientos adelanten mucho, ni lleguen a derramarse
+en la generalidad del pueblo. Cita como ejemplo a los 
+chinos.<hi rend="supercript">1</hi><note place="left" xml:id="nota1"><hi rend="supercript">1</hi> Desttut-Tracy, <title><hi rend="italic">Grammaire 
+générale</hi></title>, cap. 5.</note>
+Pero lo notable, y lo que hace a nuestro 
+propósito, es que la adopción del sistema de jeroglíficos, que
+ordinariamente son figuras humanas, o de brutos o de
+objetos naturales, no sólo engrilla el entendimiento, 
+sino que ahoga en su cuna el arte del dibujo. El que 
+traza una figura para expresar con ella una idea no se fija
+en la figura misma, sino en la idea que tiene que 
+expresar; así es que la mano va de prisa y dibuja al ojo y sin
+atención, dibuja como amanuense y no como artista.
+Así todo el mundo se acostumbra a ver y a trazar 
+malas figuras y el arte o no llega a nacer o bastardea
+luego.</p>
+</div>
+</body>
+</text>   
+</TEI>

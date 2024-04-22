@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Descarga desde https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo003.jpg" xml:id="p3"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="3" facs="#p3"/>
+<p>Una mañana de los últimos meses del año de 1860,
+entrábamos en la <name type="org">Academia de San Carlos</name> mi primo 
+don <name type="person">José Joaquín Pesado</name> y yo.  El director de pintura, 
+don <name type="person" xml:id="Clavé1">Pelegrín Clavé</name>, que nos encontró acaso, aprovechó
+la ocasión de devolverme un papel que le había
+yo prestado, con apuntes de fechas y citas relativas a los
+antiguos pintores mexicanos. Informado mi primo de
+lo que era, picó aquello su curiosidad y nos propuso
+que con el papel en la mano visitáramos la sala donde
+se van poniendo los cuadros que de esos pintores adquiere
+la <name type="org">Academia</name>. Muy de grado aceptamos la propuesta 
+el director y yo, y subido que hubimos a la sala,
+después de dar una ojeada por mayor a los cuadros,
+comenzó entre los tres esta conversación.</p>
+<sp>
+<speaker>Pesado</speaker>
+<p>Sea en hora buena. Veo que está adelantado el 
+pensamiento de juntar aquí una colección de obras de los
+maestros nacionales de más nombre, para que su 
+memoria florezca y nuestros jóvenes alumnos tengan más</p>
+</sp>
+</div>
+</body>
+</text>
+</TEI>

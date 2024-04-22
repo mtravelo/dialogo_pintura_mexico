@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Descarga desde https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo010.jpg" xml:id="p10"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="10" facs="#p10"/>
+<p>Bartolomé de Mesa a pintar la sala capitular; que diez
+años después, el día 2 de octubre, cuando se ajustaban
+apenas dos años de ganado <name type="country">México</name>, llegó a <name type="city">Veracruz</name> en
+compañía de algunas familias españolas, y se puso bajo
+los auspicios de <name type="person">Hernán Cortés</name>, a quien siguió en su
+expedición de Hibueras; que pintó cuadros para la 
+iglesia que los franciscanos fundaron en 
+<name type="city">Tehuantepec</name>,<note>Se refiere a Santo Domingo Tehuantepec, ciudad en el estado de Oaxaca.</note> 
+para otros muchos templos y para la casa del conquistador;
+que retrató a éste en 1538, a doña 
+<name type="person">Marina</name><note>También conocida como Malinalli, Malintzin o Malinche (Coatzacoalcos, <hi rend="italic">ca.</hi> 1500-Ciudad de México, 
+<hi rend="italic">ca.</hi> 1550). Mujer de clase alta en la sociedad mexica que fue cedida como tributo a los españoles por los indígenas de Tabasco 
+después de perder una batalla. Tuvo un papel importante en la conquista de México como intérprete, consejera e intermediaria de Hernán Cortés,
+con quien tuvo un hijo, Martín, uno de los primeros mestizos del Nuevo Mundo.</note> en
+<name>Coatzacoalcos</name>, al padre fray Martín Valencia, al primer virrey 
+don Antonio de Mendoza y a Alvar Núñez de Guzmán.
+Estos dos últimos retratos dice que eran de cuerpo 
+entero y que los poseyó <name type="person">Boturini</name><note>Lorenzo Boturini Benaducci (Sondrio, <hi rend="italic">ca.</hi>1702-Madrid, 1755). Historiador,
+anticuario y cronista de la culturas indígenas de la Nueva España. Promotor del culta a la Virgen de Guadalupe.</note>,
+según una de las
+partidas del inventario que se formó de los objetos que le
+quitaron. Añade que acaso la mejor pintura de 
+Cifuentes es una que representa el bautismo de Magiscatzin,
+donde están retratados éste y doña <name type="person">Marina</name>, y que ese 
+cuadro se salvó del incendio en que perecieron muchos
+otros en la casa de los marqueses del Valle el año 1652,
+por haberlo antes regalado <name type="person">Cortés</name> a los padres de San
+Francisco de <name type="city">Tlaxcala</name>, en cuyo convento asegura que
+está. Dice, por último, que el artista era disipado y
+que perdía en el juego cuanto ganaba con sus pinceles.<hi rend="supercript">5</hi><note xml:id="nota5">5 En el <title><hi rend="italic">Diccionario universal 
+de historia y de geografía</hi></title>, que con amplias adiciones reimprimió en México don Rafael Rafael, 1853, tomo 2, p. 314.</note>
+</p>
+<sp>
+<speaker>Pesado</speaker>
+<p>¿De dónde tomaría nuestro amigo tan curiosas noticias?</p>
+</sp>
+<sp>
+<speaker>Couto</speaker>
+<p>Dos ocasiones se lo pregunté: la primera me señaló
+como fuentes el archivo de la Casa de Contratación de
+<name type="city">Sevilla</name>, si bien a mí me pareció cosa extraña que en</p>
+</sp>
+<sp>
+<speaker></speaker>
+<p>
+</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>
