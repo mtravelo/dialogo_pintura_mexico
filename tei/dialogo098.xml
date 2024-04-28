@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+
 <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -58,54 +59,91 @@
         </encodingDesc>
 </teiHeader>
 <facsimile>
-    <graphic url="../imgs/dialogo012.jpg" xml:id="p12"></graphic>
+    <graphic url="../imgs/dialogo098.jpg" xml:id="p98"></graphic>
 </facsimile>
 <text>
+<front><p></p></front>
 <body>
-<div>
-<pb n="12" facs="#p12"/>
-<sp who="Couto">
-<p>hubiera retratado en <name type="place">Coatzacoalcos</name> a doña <name type="persona">Marina</name> porque
-sólo se detuvieron allí seis días y para entonces había
-ella roto sus relaciones con <name type="person">Cortés</name>, habiéndose casado
-durante el viaje, en un pueblezuelo cerca de <name type="place">Orizaba</name>, con
-Juan de Jaramillo, uno de los capitanes de la 
-expedición;<hi rend="superscript">7</hi><note type="bibliográfica" xml:id="nota7"><hi rend="superscript">7</hi><bibl><author>Bernal Díaz</author>, en el mismo capítulo.</bibl></note>
-que no pueden haberse pintado cuadros para 
-iglesia fundada por franciscanos en <name type="city">Tehuantepec</name> por la
-sencilla razón de que aquellos padres no hicieron 
-fundación en ese lugar entonces ni después; y que en el
-inventario de los objetos secuestrados a <name type="person">Boturini</name>, el cual
-está en su proceso, no hay la partida referente a los 
-retratos de don Antonio de Mendoza y Alvar Núñez de
-Guzmán, siendo además este último persona 
-desconocida en la historia de América.<hi rend="superscript">8</hi><note type="aclaratoria" xml:id="nota8"><hi rend="superscript">8</hi> No sé si el conde querría señalar 
-con estos nombres al conquistador de la Nueva Galicia, y fundador de Guadalajara, pero ése se llamó
-Nuño de Guzmán. Yo, en efecto, no conozco en nuestra historia personaje que se llamara Alvar Núñez de Guzmán.</note>
-Concluye con que a su
-juicio la biografía de Cifuentes es una ficción. A mí 
-solamente me detiene para creerlo así el que, siendo el
-señor Cortina hombre de honor, no puedo concebir que
-vendiese al público como verdad un cuento inventado
-de cabeza.</p>
-</sp>
-<sp>
-<speaker>Clavé</speaker>
-<p>Yo he leído en el viaje del italiano Beltrami, que 
-estuvo acá por los años de 24 y 25, que el primer pintor
-europeo que ilustró a <name type="place">México</name> después de la conquista,
-fue un tal <name type="person">Arteaga</name> y que tras él vino <name type="person">Cristóbal de 
-<hi rend="italic">Villalando</hi></name>; y dice que del primero vio una Visitación de la
-Virgen en Santa Teresa la Antigua, y del segundo 
-soberbias pinturas en San Francisco y San Agustín.<hi rend="superscript">9</hi><note type="bibliográfica" xml:id="nota9"><hi rend="superscript">9</hi><bibl><title><hi rend="italic">Le
- Mexique</hi></title>, París, 1830, tomo 2, carta XI, p. 203</bibl> .</note></p>
-</sp>
-<sp>
-<speaker>Couto</speaker>
-<p>No son ésas las únicas ni quizá las mayores 
-equivocaciones del viajero piamontés. El pintor <name type="person">Arteaga</name> que</p>
-</sp>
-</div>
+<p></p>
 </body>
+<back>
+<div type="Notas">
+<pb n="98" facs="#p98"/>
+<!-- continuación nota 22 párrafo a bando -->
+<note type="explicativa" xml:id="nota22b"><p><cit><quote xml:lang="la">
+<lb/>Tutelari, vere sapientiz illuminatrici
+<lb/>celeberrimum hoc mnemosynon. D.
+<lb/><bibl>(Triunpho parthenico, § V, p. 30, vuelta)</bibl></quote></cit></p></note>
+
+<note type="bibliográfica" xml:id="nota23"><hi rend="superscript">23</hi> <bibl><title><hi rend="italic">Relación histórica de las exequias 
+funerales del rey don Philippo II N.S., hechas por el Tribunal del Santo Oficio de la Inquisición de
+esta Nueva España</hi></title>, etcétera, México, 1600.</bibl></note>
+
+<note type="bibliográfica" xml:id="nota24"><hi rend="superscript">24</hi> <bibl>Véase en el tomo 4 de <author>Clavijero</author> 
+la disertación séptima que trata de esta materia.</bibl></note>
+
+<note type="explicativa" xml:id="nota25a"><hi rend="superscript">25</hi> <p>En el 
+artículo «México» del <bibl><title>Diccionario</title> 
+citado en la nota 5</bibl>, publicó
+el señor don Joaquín García Icazbalceta una curiosa noticia sobre la
+historia de la tipografía entre nosotros (tomo 5, p. 961). Prosiguiendo
+en sus indagaciones, ha hecho después nuevos descubrimientos y el
+último apunte que me ha dado presenta los datos siguientes:</p>
+
+<table rows="7" cols="2">
+<head>Siglo XVI</head>
+<row>
+    <cell role="label">Ediciones de que tiene ejemplares en su librería</cell><cell role="data">20</cell>
+</row>
+<row>
+    <cell role="label">Idem que ha visto, pero de que no tiene ejemplar</cell><cell role="data">45</cell>
+    </row>
+<row>
+    <cell role="label">Idem de que ha hallado noticia, pero que no ha visto</cell><cell role="data">29</cell>
+</row>
+<row>
+    <cell role="label">Total</cell><cell role="data">94</cell>
+</row>
+</table>
+
+<p>De las cuales pertenecen</p>
+
+<table>
+<row>
+    <cell role="label">A Juan Cromberger</cell><cell role="data">9</cell>
+</row>
+<row>
+    <cell role="label">A Juan Pablos</cell><cell role="data">16</cell>
+</row>
+<row>
+    <cell role="label">A Antonio de Espinosa</cell><cell role="data">11</cell>
+</row>
+<row>
+    <cell role="label">A Pedro Ocharte</cell><cell role="data">18</cell>
+</row>
+<row>
+    <cell role="label">A Pedro Balli</cell><cell role="data">19</cell>
+</row>
+<row>
+    <cell role="l">A Antonio Ricardo</cell><cell role="data">6</cell>
+</row>
+<row>
+    <cell role="label">A Melchor Ocharte</cell><cell>1</cell>
+</row>
+<row>
+    <cell role="label">Ha visto sin nombre de impresor</cell><cell role="data">3</cell>
+</row>
+<row>
+    <cell role="label">Entre las que ha hallado citadas, falta el nombre del impresor en</cell><cell>11</cell>
+</row>
+<row>
+    <cell role="label">Total</cell><cell>94</cell>
+</row>
+</table>
+<p>De estas ediciones hay algunas notables por la dificultad que ofrecía
+su ejecución, como la del doble vocabulario español mexicano y mexicano</p>
+</note>
+</div>
+</back>
 </text>   
 </TEI>

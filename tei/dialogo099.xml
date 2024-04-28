@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo099.jpg" xml:id="p9"></graphic>
+</facsimile>
+<text>
+<front><p></p></front>
+<body><p></p>
+</body>
+<back>
+<div type="Notas">
+<pb n="99" facs="#p99"/>
+
+<note type="explicativa" xml:id="nota25b"><hi rend="superscript">25b</hi>español del padre Molina, 
+impreso por Antonio de Espinosa en 1571,
+un tomo en folio. Pero la que sobre todas llama la atención es la del
+misal del mismo impresor, de que posee un ejemplar el señor Ramírez y
+que he tenido el gusto de registrar. Es también un tomo en folio, como
+los misales que hoy se usan, ejecutado con regulares caracteres góticos,
+las rúbricas de tinta roja, notas musicales donde las tienen esta clase de
+libros y alguna estampa de madera. Por una nota que hay al fin,
+consta que acabó de imprimirse en septiembre de 1561. El señor Ramírez nos
+decía con donaire que si antes de haberlo adquirido le hubiesen hablado
+de él, habría escrito una disertación para probar que en México no
+había podido hacerse en aquel tiempo semejante impresión; y el señor García,
+tan entendido en el arte tipográfico, ha escrito en sus apuntes: <cit><quote>«Parece
+increíble que obra de tal consideración se ejecutase en nuestras
+imprentas a poco más de mediado el siglo XVI, y yo dudaría del 
+hecho a no tener el libro a la vista. Hoy mismo, después de tres siglos,
+sería casi imposible ejecutar aquí cosa semejante, si no era haciendo
+venir exprofeso los útiles necesarios».</quote></cit></note>
+
+<note type="bibliográfica" xml:id="nota26"><hi rend="superscript">26</hi> <bibl><author>Balbuena</author>, 
+<title rend="italic">Grandeza mexicana</title>, edición de 1603, p. 31 y a la vuelta.</bibl></note>
+
+<note type="bibliográfica" xml:id="nota27"><hi rend="superscript">27</hi> <bibl>El mismo <author>Balbuena</author> al 
+final del cap. 2 de la <title rend="italic">Grandeza mexicana</title>.</bibl></note>
+
+<note type="bibliográfica" xml:id="nota28"><hi rend="superscript">28</hi> <bibl>Véase por ejemplo 
+al licenciado <author>Cayetano Cabrera</author>, <title rend="italic">Escudo de armas de México</title>, núm. 291.</bibl></note>
+
+<note type="bibliográfica" xml:id="nota29"><hi rend="superscript">29</hi> <bibl><title rend="italic">Monarquía indiana</title>, lib. 17, cap. 4.</bibl></note>
+
+<note type="bibliográfica" xml:id="nota30"><hi rend="superscript">30</hi> <bibl><author>Vetancurt</author> en la <title rend="italic">Crónica</title>, 
+tratado 22, cap. 32, núm. 39.</bibl> </note>
+
+<note type="bibliográfica" xml:id="nota31"><hi rend="superscript">31</hi> <bibl>Don <author>Nicolás Antonio</author>, 
+<title rend="italic">Biblioteca nova</title>; el señor <author>Eguiara</author>, <title rend="italic">Biblioteca
+mexicana</title>; y <author>Beristáin</author>, <title rend="italic">Biblioteca hispano americana septentrional</title>, en
+el artículo «Baltasar Echave». Debo advertir que algunos escritores 
+antiguos, como Balbuena y Vetancurt, le han llamado Chávez; pero él se
+firmaba en sus cuadros Echave. Conocida es la incuria y el desaliño de
+los antiguos en punto de ortografía española.</bibl></note>
+
+<note type="bibliográfica" xml:id="nota32a"><hi rend="nota32a">32</hi> <bibl>De este rarísimo libro no he encontrado un solo ejemplar en 
+ninguna biblioteca pública ni particular. Creo que lo tuvo a la vista don
+Nicolás Antonio, pues no pudo tomar de otro escritor anterior la
+noticia que de él da. El señor Eguiara se equivocó al decir que Enrico 
+Martínez lo había mencionado en su Repertorio de los tiempos; don <author>José de
+Vargas y Ponce</author> lo citó en la foja 2 de la <title rend="italic">Disertación acerca de la 
+lengua castellana</title> que puso en seguida de la <title rend="italic">Declamación contra los abusos
+introducidos en el castellano</title>, Madrid, 1793; y por ahí tuyo noticia de su
+existencia el doctor don <author>Pedro Felipe Monlau</author>, quien lo ha listado bajo el</bibl></note>
+
+</div>
+</back>
+</text>   
+</TEI>

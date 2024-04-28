@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <title>Diálogo sobre la historia de la pintura en México</title>
                 <respStmt>
                     <resp>Edición y codificación</resp>
                     <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
@@ -42,7 +40,7 @@
 </profileDesc>
         <encodingDesc>
         <projectDesc>
-            <p>Descarga desde https://recogito.pelagios.org/</p>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
                 <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
@@ -66,6 +64,7 @@
 <body>
 <div>
 <pb n="8" facs="#p8"/>
+<sp who="Pesado"><speaker></speaker>
 <p>mal no recuerdo, en el libro en que explica sus artes,
 dice que la historia y la pintura son dos cosas que no
 pueden separarse en las antigüedades mexicanas, 
@@ -82,10 +81,9 @@ juicio, de la prisa que se daban en pintar, y de que
 atendiendo sólo a la fiel representación de las cosas, es
 decir de la idea o pensamiento, descuidaban la 
 perfección de la imagen, contentándose a veces con dar 
-únicamente el contorno.<hi rend="supercript">3</hi><note place="left" xml:id="nota3"><hi rend="supercript">3</hi><title><hi rend="italic">Storia antica
-del Messico</hi></title>, lib. 7, §§ 47, 48 y 49.</note>
-</p>
-<sp>
+únicamente el contorno.<hi rend="supercript">3</hi><note type="bibliográfica" xml:id="nota4"><hi rend="superscript">4</hi> <bibl>El mismo 
+<author>Clavijero</author>, allí.</bibl></note></p></sp>
+<sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Ya supondrán ustedes que la regularidad y belleza de
 la figura es lo primero para un artista y que a sus ojos
@@ -96,11 +94,11 @@ existe, pero no la hacen desaparecer. Mas lo que ahora
 querría yo saber es si quedan noticias de la traza que
 los mexicanos se daban para pintar.</p>
 </sp>
-<sp>
+<sp who="Couto">
 <speaker>Couto</speaker>
 <p>Lo hacían sobre tejidos de filamentos de maguey o
-de ixtle,<hi rend="supercript">a</hi><note place="bottom" xml:id="notaA">a Es la palma llamada en mexicano <hi>icxolt</hi>.</note>
-</p>
+de ixtle,<hi rend="supercript">a</hi><note type="aclaratoria" place="bottom" xml:id="notaA">a Es la palma llamada en
+mexicano <hi rend="italic">icxolt</hi>.</note> sobre pieles adobadas y sobre papel fuerte.</p>
 </sp>
 </div>
 </body>

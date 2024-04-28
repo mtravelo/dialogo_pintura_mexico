@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+
 <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -58,54 +59,30 @@
         </encodingDesc>
 </teiHeader>
 <facsimile>
-    <graphic url="../imgs/dialogo012.jpg" xml:id="p12"></graphic>
+    <graphic url="../imgs/dialogo105.jpg" xml:id="p105"></graphic>
 </facsimile>
 <text>
+<front><p></p></front>
 <body>
-<div>
-<pb n="12" facs="#p12"/>
-<sp who="Couto">
-<p>hubiera retratado en <name type="place">Coatzacoalcos</name> a doña <name type="persona">Marina</name> porque
-sólo se detuvieron allí seis días y para entonces había
-ella roto sus relaciones con <name type="person">Cortés</name>, habiéndose casado
-durante el viaje, en un pueblezuelo cerca de <name type="place">Orizaba</name>, con
-Juan de Jaramillo, uno de los capitanes de la 
-expedición;<hi rend="superscript">7</hi><note type="bibliográfica" xml:id="nota7"><hi rend="superscript">7</hi><bibl><author>Bernal Díaz</author>, en el mismo capítulo.</bibl></note>
-que no pueden haberse pintado cuadros para 
-iglesia fundada por franciscanos en <name type="city">Tehuantepec</name> por la
-sencilla razón de que aquellos padres no hicieron 
-fundación en ese lugar entonces ni después; y que en el
-inventario de los objetos secuestrados a <name type="person">Boturini</name>, el cual
-está en su proceso, no hay la partida referente a los 
-retratos de don Antonio de Mendoza y Alvar Núñez de
-Guzmán, siendo además este último persona 
-desconocida en la historia de América.<hi rend="superscript">8</hi><note type="aclaratoria" xml:id="nota8"><hi rend="superscript">8</hi> No sé si el conde querría señalar 
-con estos nombres al conquistador de la Nueva Galicia, y fundador de Guadalajara, pero ése se llamó
-Nuño de Guzmán. Yo, en efecto, no conozco en nuestra historia personaje que se llamara Alvar Núñez de Guzmán.</note>
-Concluye con que a su
-juicio la biografía de Cifuentes es una ficción. A mí 
-solamente me detiene para creerlo así el que, siendo el
-señor Cortina hombre de honor, no puedo concebir que
-vendiese al público como verdad un cuento inventado
-de cabeza.</p>
-</sp>
-<sp>
-<speaker>Clavé</speaker>
-<p>Yo he leído en el viaje del italiano Beltrami, que 
-estuvo acá por los años de 24 y 25, que el primer pintor
-europeo que ilustró a <name type="place">México</name> después de la conquista,
-fue un tal <name type="person">Arteaga</name> y que tras él vino <name type="person">Cristóbal de 
-<hi rend="italic">Villalando</hi></name>; y dice que del primero vio una Visitación de la
-Virgen en Santa Teresa la Antigua, y del segundo 
-soberbias pinturas en San Francisco y San Agustín.<hi rend="superscript">9</hi><note type="bibliográfica" xml:id="nota9"><hi rend="superscript">9</hi><bibl><title><hi rend="italic">Le
- Mexique</hi></title>, París, 1830, tomo 2, carta XI, p. 203</bibl> .</note></p>
-</sp>
-<sp>
-<speaker>Couto</speaker>
-<p>No son ésas las únicas ni quizá las mayores 
-equivocaciones del viajero piamontés. El pintor <name type="person">Arteaga</name> que</p>
-</sp>
-</div>
+<p></p>
 </body>
+<back>
+<div type="Notas">
+<pb n="105" facs="#p105"/>
+<note type="bibliográfica" xml:id="nota64b"> <cit><quote>Zempoala, que en tiempos atrás era una muy grande Provincia, 
+sacándola de muy pequeños manantiales, y de parte (al parecer y juicio
+humano) mucho más baja que adonde había de venir, estando metida
+entre cerros y barrancas».</quote></cit> <bibl><title rend="italic">Monarquía indiana</title>, lib. 20, cap. 63.</bibl></note>
+
+<note type="bibliográfica" xml:id="nota65"><hi rend="superscript">65</hi> <bibl>Véase la interesante carta en que cuenta a un amigo su vida, y
+que don <author>Manuel Payno</author> insertó en su biografía publicada en el tomo 22
+del<title rend="italic">Museo mexicano</title>, p. 16.</bibl> En aquella carta se cuenta no sólo la
+carrera del artista, sino sus satisfacciones, sus enojos con sus rivales, sus
+alabanzas propias, todo con una ingenuidad, una ufanía casi infantiles.
+Su vanidad no ofende, por lo mismo que se presenta sin el menor 
+embozo de fingida modestia.</note>
+
+</div>
+</back>
 </text>   
 </TEI>

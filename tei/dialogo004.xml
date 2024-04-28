@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <title>Diálogo sobre la historia de la pintura en México</title>
                 <respStmt>
                     <resp>Edición y codificación</resp>
                     <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
@@ -41,7 +40,7 @@
 </profileDesc>
         <encodingDesc>
         <projectDesc>
-            <p>Descarga desde https://recogito.pelagios.org/</p>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
                 <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
@@ -65,6 +64,7 @@
 <body>
 <div>
 <pb n="4" facs="=#p4"/>
+<sp who="Pesado"><speaker></speaker>
 <p>modelos que estudiar. Mala vergüenza era para la <name type="org">Academia</name>
 que no se encontrase en ella recuerdo alguno de
 la antigua escuela mexicana, en la que por cierto no 
@@ -72,16 +72,17 @@ faltaron hombres de mérito. Ahora lo que importa es que
 esta colección, que empieza a reparar esa falta no sólo
 se conserve, sino que se enriquezca cada día con nuevas
 adquisiciones.</p>
-<sp>
+</sp>
+<sp who="Couto">
 <speaker>Couto</speaker>
 <p>Sólo enriqueciéndola y completándola, llenará el
 propósito que se tuvo al poner mano a su formación, que
 fue presentar, por medio de una serie de cuadros, la
-historia del arte en <name type="country">México</name>. En esta sala esa historia
+historia del arte en <name type="place">México</name>. En esta sala esa historia
 no se lee, sino que ella misma va pasando delante de
 los ojos.</p>
 </sp>
-<sp>
+<sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>El pensamiento lo tuve por acertado desde la primera
 vez que de él me hablaste, pero, en cuanto a la ejecución,
@@ -89,8 +90,13 @@ creo que les faltan a ustedes algunos capítulos del principio
 de la historia, de manera que la galería se parece
 hasta ahora a aquellos códices antiguos de que se han
 perdido las primeras hojas. Si no he visto mal, el 
-cuadro más viejo que hay aquí es de<name type="person">Baltasar de Echave,</name>
-es decir, del primer tercio del siglo XVII. Así es que
+cuadro más viejo que hay aquí es de<name type="person" xml:id="EO" ref="http://viaf.org/viaf/171463300">Baltasar 
+de Echave</name>,<note>Baltasar de Echave Orio o el Viejo (Zumaya, 1548-Ciudad de México 
+<hi rend="italic">ca.</hi> 1620). Pintor y escritor vasco establecido en la Nueva España en el segundo tercio 
+del siglo <num value="16">XVI</num>. Fue fundador de la escuela mexicana de pintura y cabeza de una dinastía de pintores con el mismo nombre 
+que destacaron en la plástica colonial. Era un notable colorista que cultivó la temática religiosa con un toque fino y
+ belleza rafaelesca.</note>
+es decir, del primer tercio del siglo <num value="17">XVII</num>. Así es que
 se echa menos todo lo anterior.</p>
 </sp>
 <sp>

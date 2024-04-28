@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <title>Diálogo sobre la historia de la pintura en México</title>
                 <respStmt>
                     <resp>Edición y codificación</resp>
                     <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
@@ -43,7 +42,7 @@
 </profileDesc>
         <encodingDesc>
         <projectDesc>
-            <p>Descarga desde https://recogito.pelagios.org/</p>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
                 <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
@@ -67,6 +66,7 @@
 <body>
 <div>
 <pb n="11" facs="#p11"/>
+<sp who="Couto"><speaker></speaker>
 <p>los documentos de aquella oficina se encontrasen 
 todos los particulares que acabo de referir. La segunda
 me dijo que los había sacado de unos apuntes del 
@@ -75,9 +75,9 @@ regalado. Aun me agregó que la marca o cifra con que
 firmaba sus cuadros Rodrigo de Cifuentes, era ésta: una
 <hi rend="italic">R</hi>, cuyo trazo delantero inferior, muy prolongado, 
 llevaba inscritas una <hi rend="italic">o</hi> y una 
-<hi rend="italic">c</hi>, y arriba una s.</p>
+<hi rend="italic">c</hi>, y arriba una <hi rend="italic">s</hi>.</p>
+</sp>
 <sp>
-<!-- falta incluir figura de ka firma <figure><head><figdesc><graphi url=""/></figdesc></head></figure> -->
 <speaker>Clavé</speaker>
 <p>Paréceme que usted tiene algún empacho en admitir de
 plano las noticias del conde.</p>
@@ -96,10 +96,12 @@ manos encontró jamás referencia ni alusión al artista
 sacado a luz por el señor Cortina; que el hecho de haber
 acompañado a Cortés en su jornada de las Hibueras 
 sufre la grave objeción de que no aparece su nombre en
-la menuda lista que nos da n<name type="person">Bernal Díaz</name><note>Bernal Díaz del Castillo (Medina del Campo, 1496-Santiago de 
+la menuda lista que nos da n<name type="person" ref=" http://viaf.org/viaf/59081563">Bernal 
+Díaz</name><note>Bernal Díaz del Castillo (Medina del Campo, 1496-Santiago de 
 Guatemala, 1584). Conquistador que acompañó a Cortés en la expedición que culminó con la caída de México-Tenochtitlan. Se le atribuye 
-la crónica sobre los aconteciemientos relacionados con la conquista.</note><hi rend="superscript">6</hi><note xml:id="nota6">6 <title><hi rend="italic">Historia 
-verdadera de la conquista de Nueva España</hi></title>, cap. 174.</note>
+la crónica sobre los aconteciemientos relacionados con la 
+conquista.</note><hi rend="superscript">6</hi><note type="bibliográfica" xml:id="nota6"><hi rend="superscript">6</hi><bibl><title><hi rend="italic">Historia
+ verdadera de la conquista de Nueva España</hi></title>, cap. 174.</bibl></note>
 del cortejo que llevaba el conquistador, y en la cual se hace mención
 hasta de farsantes, juglares y otras gentes de menos 
 valía que un pintor de cámara; que es poco verosímil que</p>

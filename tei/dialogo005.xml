@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <title>Diálogo sobre la historia de la pintura en México</title>
                 <respStmt>
                     <resp>Edición y codificación</resp>
                     <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
@@ -42,7 +40,7 @@
 </profileDesc>
         <encodingDesc>
         <projectDesc>
-            <p>Descarga desde https://recogito.pelagios.org/</p>
+            <p>Downloaded from https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
                 <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
@@ -66,7 +64,7 @@
 <body>
 <div>
 <pb n="5" facs="#p5"/>
-<sp>
+<sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>No querría tanto. Sé que esas pinturas, de grande 
 interés para la arqueología y la historia, no lo son 
@@ -85,12 +83,12 @@ la naturaleza, como animales de ingrata vista. Todo
 indica que en las razas indígenas no estaba despierto el 
 sentido de la belleza, que es de donde procede el arte.</p>
 </sp>
-<sp>
+<sp who="Clavé">
 <speaker>Couto</speaker>
 <p>El sentido de la belleza ha sido dado a pocos pueblos
 en la tierra. Los griegos entre los antiguos, y los 
 italianos entre los modernos, lo han tenido en grado superior.
-Sin embargo, en la <name type="country">Grecia</name> misma fue necesario el 
+Sin embargo, en la <name type="place">Grecia</name> misma fue necesario el 
 trascurso de siglos y la concurrencia de mil circunstancias
 felices para que se desenvolviera y afinara. En cuanto
 a los defectos de dibujo de las obras mexicanas, algunos

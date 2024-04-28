@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <title>Diálogo sobre la historia de la pintura en México</title>
                 <respStmt>
                     <resp>Edición y codificación</resp>
                     <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
@@ -43,7 +41,7 @@
 </profileDesc>
         <encodingDesc>
         <projectDesc>
-            <p>Descarga desde https://recogito.pelagios.org/</p>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
                 <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
@@ -67,23 +65,25 @@
 <body>
 <div>
 <pb n="9" facs="#p9"/>
-<p>
-Este último lo fabricaban también de ixtle y de
+<sp who="Couto"><speaker></speaker>
+<p>Este último lo fabricaban también de ixtle y de
 maguey, de algodón y de algunas otras materias. Para los
 colores se servían de tierras minerales, palos de tinte y
 yerbas. Por ejemplo: el negro lo sacaban del humo de
-ocote,<hi rend="supercript">b</hi><note place="bottom" xml:id="notaB"><hi rend="supercript">b</hi>Especie de pino, muy conocida en el país.</note>
+ocote,<hi rend="supercript">b</hi><note type="aclaratoria" place="bottom" xml:id="notaB"><hi rend="supercript">b</hi>Especie 
+de pino, muy conocida en el país.</note>
 el azul del añil, el purpúreo de la grana, etcétera.
 Trazaban la composición sobre una tira larga de lienzo
 o papel, que luego plegaban en partes o arrollaban 
 sobre sí misma, como hacían los antiguos con sus 
-volúmenes.<hi rend="supercript">4</hi><note xml:id="nota4">4<hi rend="supercript">4</hi> El mismo Clavijero, allí.</note>
+volúmenes.<hi rend="supercript">4</hi><note type="bibliográfica" xml:id="nota4"><hi rend="superscript">4</hi> <bibl>El mismo 
+<author>Clavijero</author>, allí.</bibl></note>
 Una cosa se observa, casi sin excepción, en sus
 dibujos, y hace honor a sus sentimientos, y es que 
 siempre presentaban cubierto en las figuras de uno y otro
-sexo lo que el pudor quiere que se oculte.
-</p>
-<sp>
+sexo lo que el pudor quiere que se oculte.</p>
+</sp>
+<sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>Mas sea lo que fuere de las obras de los indios, ellas
 nada tienen que hacer con la pintura que hoy usamos,
@@ -93,16 +93,16 @@ Si los mexicanos pintaban (y en efecto pintaron mucho),
 entre nosotros, pero que no se enlaza con su historia
 posterior. Cuando decía yo que a la que ustedes van 
 formando en esta sala le falta el principio, aludía a que no
-veo cuadros del siglo XVI, que fue cuando entraron a
+veo cuadros del siglo <num value="16">XVI</num>X, que fue cuando entraron a
 la tierra los hombres y las artes de <name type="place">Europa</name>. ¿Se ha 
 logrado averiguar quién fue el primer maestro que pasó a
 Nueva España?</p>
 </sp>
-<sp>
+<sp who="Couto">
 <speaker>Couto</speaker>
 <p>Nuestro difunto amigo el conde de la Cortina 
 escribió que fue un Rodrigo de Cifuentes, nacido en <name type="place">Córdoba</name>,
-año 1493; que en 1513 ayudaba en Sevilla a su maestro</p>
+año 1493; que en 1513 ayudaba en <name type="place">Sevilla</name> a su maestro</p>
 </sp>
 </div>
 </body>
