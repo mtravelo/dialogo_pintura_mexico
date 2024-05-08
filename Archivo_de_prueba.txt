@@ -1,1 +1,5 @@
 Este archivo es una prueba para el repositorio
+
+Para establecer nombre de usuario y contraseña de Github en caso de que sea necesario:
+https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git?platform=mac
+
