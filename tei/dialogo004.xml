@@ -66,7 +66,7 @@
 <pb n="4" facs="=#p4"/>
 <sp who="Pesado"><speaker></speaker>
 <p>modelos que estudiar. Mala vergüenza era para 
-la <name type="org" xml:id="recogito-8b0c5888-275a-4ecf-ab00-d259f44c253d" ref="http://viaf.org/viaf/155250580">Academia</name>
+la Academia
 que no se encontrase en ella recuerdo alguno de
 la antigua escuela mexicana, en la que por cierto no 
 faltaron hombres de mérito. Ahora lo que importa es que
@@ -94,7 +94,7 @@ hasta ahora a aquellos códices antiguos de que se han
 perdido las primeras hojas. Si no he visto mal, el 
 cuadro más viejo que hay aquí es de 
 <name type="person"  xml:id="recogito-27a9cb2e-34f3-4402-bb41-ab9d5b69d070" ref="http://viaf.org/viaf/171463300">Baltasar 
-de Echave</name>,<note target="recogito-27a9cb2e-34f3-4402-bb41-ab9d5b69d070" resp="MTRS">Baltasar de Echave Orio o el Viejo 
+de Echave</name>,<note type="informativa" target="recogito-27a9cb2e-34f3-4402-bb41-ab9d5b69d070" resp="MTRS">Baltasar de Echave Orio o el Viejo 
 (Zumaya, 1548-Ciudad de México 
 <hi rend="italic">ca.</hi> 1620). Pintor y escritor vasco establecido en la Nueva España en el segundo tercio 
 del siglo <num value="16">XVI</num>. Fue fundador de la escuela mexicana de pintura y cabeza de una dinastía de pintores con el mismo nombre 
