@@ -99,15 +99,19 @@ conocida como Malinalli, Malintzin o Malinche
 <hi rend="italic">ca.</hi> 1530). Mujer de clase alta en la sociedad mexica que fue cedida como tributo a los españoles por los indígenas de Tabasco 
 después de perder una batalla. Tuvo un papel importante en la conquista de México como intérprete, consejera e intermediaria de Hernán Cortés,
 con quien tuvo un hijo, Martín, uno de los primeros mestizos del Nuevo Mundo.</note> en
-<name type="place" ref="http://sws.geonames.org/3530517" xml:id="recogito-8652ace2-396f-40d2-a930-316ebd20da43" cert="high">Coatzacoalcos</name>, al padre fray Martín Valencia, al primer virrey 
+<name type="place" ref="http://sws.geonames.org/3530517" xml:id="recogito-8652ace2-396f-40d2-a930-316ebd20da43" cert="high">Coatzacoalcos</name>, al padre fray
+<name type="person" ref="http://viaf.org/viaf/37806959">Martín Valencia</name><note type="informativa" resp="MTRS">Martín de Valencia (León, 1474-Ciudad de México, 1534). Misionero franciscano, 
+líder de los doce apóstoles que iniciaron  la evangelización en la Nueva España en 1524.</note>, al primer virrey 
 don Antonio de Mendoza y a Alvar Núñez de Guzmán.
 Estos dos últimos retratos dice que eran de cuerpo 
-entero y que los poseyó <name type="person" ref="http://viaf.org/viaf/9149365888285600495">Boturini</name><note target="recogito-8598b7d8-5fe7-4f84-a3fa-93a6ff8ed60b" resp="MTRS">Lorenzo Boturini Benaducci (Sondrio, <hi rend="italic">ca.</hi>1702-Madrid, 1755). Historiador,
+entero y que los poseyó <name type="person" ref="http://viaf.org/viaf/9149365888285600495">Boturini</name><note target="recogito-8598b7d8-5fe7-4f84-a3fa-93a6ff8ed60b" resp="MTRS">Lorenzo 
+Boturini Benaducci (Sondrio, <hi rend="italic">ca.</hi>1702-Madrid, 1755). Historiador,
 anticuario y cronista de las culturas indígenas de la Nueva España. Promotor de la devoción a la Virgen de Guadalupe.</note>,
 según una de las
 partidas del inventario que se formó de los objetos que le
 quitaron. Añade que acaso la mejor pintura de 
-Cifuentes es una que representa el bautismo de Magiscatzin,
+Cifuentes es una que representa el bautismo de <name type="person">Magiscatzin<name>,<note type="informativa" resp="MTRS">Se refiere a Martín Cortés 
+Malintzin (Ciudad de México, 1522-Granada, 1569), hijo primogénito de Cortés y Marina.</note>
 donde están retratados éste y doña Marina, y que ese 
 cuadro se salvó del incendio en que perecieron muchos
 otros en la casa de los marqueses del Valle el año <date when="1652">1652</date>,
@@ -128,7 +132,7 @@ amplias adiciones reimprimió en México don Rafael Rafael, 1853, tomo 2, p. 314
 <speaker>Couto</speaker>
 <p>Dos ocasiones se lo pregunté: la primera me señaló
 como fuentes el archivo de la Casa de Contratación de
-<name type="place">Sevilla</name>, si bien a mí me pareció cosa extraña que en</p>
+<name type="place" ref="http://sws.geonames.org/2510911" xml:id="recogito-dea3d0ac-9282-488d-8d07-84fdfdbac489" cert="high">Sevilla</name>, si bien a mí me pareció cosa extraña que en</p>
 </sp>
 </div>
 </body>
