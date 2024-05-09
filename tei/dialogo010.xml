@@ -69,14 +69,14 @@
 <p>Bartolomé de Mesa a pintar la sala capitular; que diez
 años después, el día <date when="1523-08-02">2 de octubre</date>, cuando se ajustaban
 apenas dos años de
-<rs xml:id="recogito-3efdafa8-22ab-4158-a094-27d66bcc1e6e" type="event">ganado México</rs><note target="recogito-3efdafa8-22ab-4158-a094-27d66bcc1e6e" resp="MTRS">Se refiere a la conquista del imperio azteca.</note>
-llegó a <name type="place">Veracruz</name><note>Ciudad costera
+<rs xml:id="recogito-3efdafa8-22ab-4158-a094-27d66bcc1e6e" type="event">ganado México</rs><note type="informativa" target="recogito-3efdafa8-22ab-4158-a094-27d66bcc1e6e" resp="MTRS">Se refiere a la conquista del imperio azteca.</note>
+llegó a <name type="place" ref="http://sws.geonames.org/3514783">Veracruz</name><note type="informativa" rep="MTRS">Ciudad costera
  fundada por el explorador Hernán Cortés el <date when="1519-04-22">22 de abril de 1519</date>, que fue Viernes Santo, con el nombre de Villa Rica
   de la Vera Cruz. Durante tres siglos fue el puerto más importante para el arribo de  la flota española
    destinada al virreinato de la Nueva España.</note>
  en compañía de algunas familias españolas, y se puso bajo
 los auspicios de <name type="person" xml:id="recogito-b554b283-68c2-45cb-87b2-ad298fe3bbe9" ref="http://viaf.org/viaf/49223767">Hernán 
-Cortés</name>,<note target="recogito-b554b283-68c2-45cb-87b2-ad298fe3bbe9" resp="MTRS">Hernán Cortés de Monroy y Pizarro
+Cortés</name>,<note type="informativa" target="recogito-b554b283-68c2-45cb-87b2-ad298fe3bbe9" resp="MTRS">Hernán Cortés de Monroy y Pizarro
  Altamirano (Medellín, 1485-Castilleja de la Cuesta, 1547). Explorador, capitán general y escritor español de
   linaje noble y algunos estudios en la Universidad de Salamanca que consiguió éxitos con la espada y la pluma. Lideró
   la conquista de México-Tenochtitlan en 1521, con la alianza de grupos indígenas sometidos por los aztecas. Con el fin
@@ -86,7 +86,7 @@ Cortés</name>,<note target="recogito-b554b283-68c2-45cb-87b2-ad298fe3bbe9" resp
 </note>
  a quien siguió en su
 expedición de 
-<name type="place" ref="http://sws.geonames.org/3608932" xml:id="recogito-c0087564-77be-4bf1-bb5d-c3996f12dd5d" cert="high">Hibueras;</name><note target="recogito-c0087564-77be-4bf1-bb5d-c3996f12dd5d" resp="MTRS">Durante 
+<name type="place" ref="http://sws.geonames.org/3608932" xml:id="recogito-c0087564-77be-4bf1-bb5d-c3996f12dd5d" cert="high">Hibueras;</name><note type="informativa" target="recogito-c0087564-77be-4bf1-bb5d-c3996f12dd5d" resp="MTRS">Durante 
 la conquista el territorio hondureño también fue conocido como Hibueras o Higüeras.</note>
 que pintó cuadros para la 
 iglesia que los franciscanos fundaron en 
