@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/feyy56q9wqjjvr"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -76,8 +76,8 @@ el azul del añil, el purpúreo de la grana, etcétera.
 Trazaban la composición sobre una tira larga de lienzo
 o papel, que luego plegaban en partes o arrollaban 
 sobre sí misma, como hacían los antiguos con sus 
-volúmenes.<hi rend="supercript">4</hi><note type="bibliográfica" xml:id="nota4"><hi rend="superscript">4</hi> <bibl>El mismo 
-<author>Clavijero</author>, allí.</bibl></note>
+volúmenes.<hi rend="supercript">4</hi><note type="bibliográfica" xml:id="nota4"><hi rend="superscript">4</hi> 
+<bibl>El mismo <author>Clavijero</author>, allí.</bibl></note>
 Una cosa se observa, casi sin excepción, en sus
 dibujos, y hace honor a sus sentimientos, y es que 
 siempre presentaban cubierto en las figuras de uno y otro
@@ -93,16 +93,16 @@ Si los mexicanos pintaban (y en efecto pintaron mucho),
 entre nosotros, pero que no se enlaza con su historia
 posterior. Cuando decía yo que a la que ustedes van 
 formando en esta sala le falta el principio, aludía a que no
-veo cuadros del siglo <num value="16">XVI</num>X, que fue cuando entraron a
-la tierra los hombres y las artes de <name type="place">Europa</name>. ¿Se ha 
+veo cuadros del siglo <num value="16">XVI</num>, que fue cuando entraron a
+la tierra los hombres y las artes de <name type="place" ref="http://sws.geonames.org/6255148" xml:id="recogito-c1af53bf-8326-463e-abda-65c133a03641" cert="high">Europa</name>. ¿Se ha 
 logrado averiguar quién fue el primer maestro que pasó a
 Nueva España?</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Nuestro difunto amigo el conde de la Cortina 
-escribió que fue un Rodrigo de Cifuentes, nacido en <name type="place">Córdoba</name>,
-año 1493; que en 1513 ayudaba en <name type="place">Sevilla</name> a su maestro</p>
+escribió que fue un Rodrigo de Cifuentes, nacido en <name type="place" ref="http://sws.geonames.org/2519240" xml:id="recogito-b29ec293-eff1-47cc-96e7-6f19ba592e47" cert="high">Córdoba</name>,
+año <date when="1493">1493</date>; que en <date when="1513">1513</date> ayudaba en <name type="place" ref="http://sws.geonames.org/2510911" xml:id="recogito-29c7b479-1c5a-4230-97fc-8057d3bf9e10" cert="high">Sevilla</name> a su maestro</p>
 </sp>
 </div>
 </body>

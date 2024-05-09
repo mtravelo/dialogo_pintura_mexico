@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo035.jpg" xml:id="p35"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="35" facs="#p35"/>
+<sp toWhom="Clavé">
+<speaker></speaker>
+<p>bien entendido, y un total en que descansa regaladamente
+la vista. Tengo también por de José Juárez,
+aunque no están firmados, los tres grandes lienzos que hay
+en San Francisco, en la escalera que sube de la sala de
+Profundis, y representan milagros del santo fundador
+y del beato Salvador de Orta. El estilo me parece todo
+de este pintor. Aquellos cuadros son de bastante 
+mérito.<hi rend="superscript">37</hi><note type="bibliográfica" xml:id="nota37"><hi rend="superscript">37</hi> <bibl>Estos cuadros estaban 
+ya en aquel sitio cuando el padre <author>Vetancurt</author>
+escribía su <title rend="italic">Crónica</title>, pues los menciona en el tratado 2o., cap. 32, 
+número 41.</bibl></note></p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>¿Sabes la época precisa en que pintaba?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>En la portería de San Diego hay un cuadro apaisado
+del niño Jesús y san Juan, firmado de su mano y con
+fecha <date when="1642">1642</date>. Los de san Alejo y san Justo y Pastor, de
+que habló el señor Clavé, son de <date when="1653">1653</date>. En el convento
+de San Francisco he visto otro de la visión que tuvo el
+santo, cuando un ángel le presentó un vaso de agua
+cristalina, símbolo de la pureza sacerdotal, y es de 1698.
+De manera que trabajó en la ciudad al menos por 
+espacio de <num type="cardinal" value="56">56</num> años.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Creo que has dicho antes que hacia el mismo tiempo
+florecía Sebastián de Arteaga, a quien Beltrami supuso
+el más antiguo pintor de México, y que de él es ese 
+desposorio de la Virgen que tenemos a la vista.</p>
+</sp>
+
+</div>
+</body>
+</text>   
+</TEI>

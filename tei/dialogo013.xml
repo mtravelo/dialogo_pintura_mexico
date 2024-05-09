@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo013.jpg" xml:id="p13"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="13" facs="#p13"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>conocemos en México es Sebastián de Arteaga, de quien
+hay en esta sala ese excelente cuadro del Desposorio de
+la Virgen, estimado por ustedes como una de nuestras
+mejores joyas. Pero le recuerdo que en una imagen de
+Cristo crucificado, que juntos examinamos usted y yo en
+la sacristía de la Colegiata de Guadalupe, hace ya algún
+tiempo, leemos que había sido hecha por Sebastián de
+Arteaga el año de <date when="1643">1643</date>.<hi rend="superscript">10</hi><note type="explicativa" xml:id="nota10">
+<p><hi rend="superscript">10</hi> La inscripción que tiene abajo dice a la letra: «Puso este santo
+crucifijo por su devoción en este tribunal del santo oficio de la Inquisición
+Sebastián de Arteaga notario de él. Año 1643 Ft.»</p>
+<p>Por no recargar el diálogo, no he hablado en él de algunas pinturas
+que erradamente pudieran tomarse por primitivas en la historia del
+arte en México. Son las siguientes:</p>
+<p>1a. En el presbiterio de la iglesia de Guadalupe hay un cuadro de algún 
+algún mérito, que representa una procesión en que es conducida la
+imagen a su templo. Veytia dice que probablemente fue pintado hacia 1531,
+y que aquella procesión es en la que se llevó la Virgen a la primera
+ermita que se le construyó (<bibl><title rend="italic">Baluartes de México</title>, pp. 23-25</bibl>). A
+los ojos de los profesores la obra presenta los rasgos característicos de la
+escuela mexicana a mediados del siglo siguiente. Además, en el 
+cuadro hay dos inscripciones, una española y otra mexicana. Al pie de 
+ésta se lee: <cit><quote>«a devoción de Diego de la Concepción y José Ferrer: año 1653»</quote></cit>.
+Ésta es la letra que se ponía en obras de esa clase para señalar a las 
+personas que las habían mandado hacer. De las dos inscripciones, han
+hablado Cabrera, <bibl><title rend="italic">Escudo de armas de México</title>, § 703</bibl>, el mismo Veytia en
+el lugar citado, don <bibl><author>Juan B. Muñoz</author> en el § 21 de su <title>Memoria sobre las
+apariciones</title></bibl>, y el doctor <bibl><author>Alcocer</author> en el cap. XI, § 2 de 
+su<title rend="italic">Apología</title></bibl>. Hoy
+aparece en el cuadro una tercera inscripción que dice que en mil 
+setecientos noventa y tantos un cura de allí los hizo limpiar y aceitar. Las
+tres leyendas parecen ahora de un tiempo y en la vieja española está
+corregido el anacronismo de dar tratamiento de excelencia al señor don 
+Sebastián Ramírez de Fuenleal, sólo se le llama ilustrísimo.</p>
+<p>2a. De las colecciones de retratos que hay en los edificios públicos de
+la capital, las más completas y más importantes son sin duda dos: primera, la
+de los virreyes, de que existen dos juegos, uno en el Museo Nacional y
+es el mismo que estuvo en Palacio hasta la Independencia, y otro en las
+Casas Consistoriales; segunda, la de los arzobispos en el salón de sínodos del
+Arzobispado. Ambas son de bastante interés para la historia civil, lo
+serían igualmente para la del arte en México si todos los retratos 
+hubieran sido hechos aquí y tomados inmediatamente de los originales; pero
+tengo el sentimiento de creer que no reúnen esa doble calidad. He 
+examinado de cerca la del Museo, gracias a la bondad de su sabio 
+conservador el señor don Fernando Ramírez, y daré sobre ella algún pormenor.
+Consta de 62 cuadros, todos de tamaño uniforme, las figuras de medio
+cuerpo en pie y sin otra cosa al fondo, en los dos primeros siglos, que
+el escudo de armas de cada virrey. Empieza la colección por el
+conquistador don Fernando Cortés y acaba en el teniente general don Juan
+O’Donojú que celebró en 1821 el tratado de Córdoba. Don Luis de
+Velasco el Segundo está duplicado por haber sido dos veces virrey; pero el
+segundo retrato es simple copia del primero, con leves variaciones en cosas 
+accesorias. En el de Cortés se recortó alrededor del rostro el lienzo en que
+primero estuvo, y sobre el pedazo que se agregó de nueva tela se 
+escribió el letrero y se pintó el escudo, que por cierto no es el que concedió
+Carlos V al conquistador, y usaron los marqueses del Valle. El retrato
+en sí mismo tiene semejanza con el que hay en el Hospital de Jesús y
+ambos parecen copias regulares de un original cuyo paradero
+ignoramos. Los de los diez primeros virreyes hasta don Luis de Velasco el Segundo,
+que acabó en 1611, son en lo general de mérito; algunos de ellos lo 
+tienen muy señalado, como el de don Martín Enríquez, el del conde de
+la Coruña y el del joven marqués de Montesclaros. Pero ninguno
+presenta rasgos de la escuela mexicana, si no es acaso el del señor don 
+Pedro Moya de Contreras, en que asoman tintes semejantes a los que 
+luego usó Luis Juárez. No es remoto que alguno de sus maestros lo
+hubiera hecho. Desde el duodécimo virrey don fray García Guerra hasta el duque de
+Veraguas que fue el vigésimo sexto, la colección baja infinito como obra de arte,
+sólo hay regular el del marqués de Cadereita; en muchos de los otros se
+ve el último punto de impericia y desaliño a que puede llegar la pintura;
+y de seguro no se empleó para hacerlos a los buenos maestros que había
+entonces en México, como los Echaves, Arteaga, José Juárez, etcétera. Un
+poco mejora en los del duque de Veraguas y conde de Paredes, más
+todavía en el del señor don fray Payo de Rivera Enríquez, y por último en
+el del conde de Moctezuma hay individualidad. Todos los que he 
+mencionado hasta aquí son anónimos. El del trigésimo tercer virrey, duque de 
+Alburquerque, está firmado por Nicolás Rodríguez Juárez, se nota en la 
+ejecución cierta timidez que no hay en otras obras del mismo maestro. Su
+sucesor el duque de Linares fue retratado de cuerpo entero por el otro
+Rodríguez Juárez (Juan) en el lienzo que existe en el Carmen y de que
+hablaré adelante. La media figura de la colección me parece una 
+réplica de ése, hecha por el mismo autor, con más valentía pero con menos
+detención en el rostro, aunque quizá con más esmero en las ropas; buen
+retrato y de bastante carácter. Superior es todavía el del marqués de
+Casafuerte, que está firmado por aquel distinguido artista, y
+ciertamente es de lo mejor y más digno que hay en toda la serie. Viene en 
+seguida la escuela de Ibarra, Cabrera, etcétera, y en verdad que no es el retrato
+el género de pintura que la honra, pues lo que produjo en esta línea
+dista infinito de sus cuadros religiosos. De Ibarra hay allí el del señor 
+Vizarrón, lánguido y relamido; el del conde de Fuenclara, en que la 
+riqueza de los paños no resarce la pobreza del rostro, y el del duque de
+la conquista peor que los otros. Cabrera retrató al primer conde de
+Revillagigedo y da pena leer escrito el nombre de tal artista al pie de
+semejante lienzo. Mejor se desempeñó Juan Patricio Morlete Ruiz en
+los del marqués de las Amarillas y don Francisco Cagigal (una misma
+figura con distintas cabezas) y sobre todo en el del marqués de Croix,
+que es positivamente bueno. Los que siguen hasta don Juan O'Donojú
+(si se exceptúa acaso el de Marquina) son muy pobre cosa, y en
+muchos se ve descender el arte, aunque por distinto camino, al puesto en
+que se hallaba un siglo atrás. Los nombres de sus autores no merecen
+repetirse. Si entre nuestros pintores conocidos se ha de hacer juicio
+comparativo respecto del arte del retrato, el primer lugar toca de justicia
+a Juan Rodríguez, el segundo pudieran pretenderlo su hermano
+Nicolás y Juan Patricio. Al lado del primero estarían los que copiaron a
+los virreyes del siglo XVI, si sus retratos se hubieran hecho aquí;
+pero vuelvo a decir que no tienen sabor de obra mexicana, y pertenecen
+a un periodo en que el arte empezaba a introducirse entre nosotros y
+no contaba aún profesores (al menos que conozcamos) capaces de 
+ejecutar aquello. Yo sospecho que en época posterior se formó el proyecto
+de hacer la colección y entonces se suplieron los virreyes anteriores
+de la manera que fue posible, quizá pidiéndolos a España.
+Ésta que, en cuanto a la colección de que he hablado, es simple 
+conjetura, tratándose de los arzobispos es un hecho que está a la vista. Los
+retratos de los primeros prelados evidentemente son hechos después
+que los posteriores.</p></note>
+No pudo, pues, ser el primer
+pintor europeo venido a Nueva España. Respecto del
+segundo, supongo que Beltrami quiso referirse a 
+Cristóbal Villalpando, de quien hay porción de pinturas en la
+ciudad. Pero por los cuadros de la Pasión, que están en
+los corredores altos de San Francisco, y (entre nosotros
+sea dicho) nada tienen de soberbio, consta que pintaba
+en <date when="1710">1710</date>. No es, pues, el segundo en el orden 
+cronológico de nuestros pintores. A Beltrami debemos estar
+agradecidos por la estima que hizo de nuestra escuela
+de pintura y porque lejos de dejarse llevar, con 
+respecto a ella, del espíritu de murmuración que sobre todas
+materias es tan común en los viajeros que nos visitan,
+más bien haya pecado de largo y fácil en elogios. Pero
+no puede ponerse gran confianza en sus noticias 
+porque generalmente son inexactas.
+</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Estoy notando que usted se conforma con contradecir
+los orígenes del arte que se le indican y se guarda de
+mostrarnos cómo cree que tuvo principio en México.</p>
+</sp>
+<sp who="Couto">
+<speaker></speaker>
+<p>Yo pienso que quienes trajeron acá el arte de la 
+pintura, y empezaron a enseñarlo a los indios, fueron los</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

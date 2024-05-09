@@ -71,6 +71,7 @@
 <back>
 <div type="Notas">
 <pb n="96" facs="#p96"/>
+<!-- continuación nota 10 -->
 <note type="explicativa" xml:id="nota10d">
 <p>figura con distintas cabezas) y sobre todo en el del marqués de Croix,
 que es positivamente bueno. Los que siguen hasta don Juan O'Donojú
@@ -81,7 +82,7 @@ repetirse. Si entre nuestros pintores conocidos se ha de hacer juicio
 comparativo respecto del arte del retrato, el primer lugar toca de justicia
 a Juan Rodríguez, el segundo pudieran pretenderlo su hermano
 Nicolás y Juan Patricio. Al lado del primero estarían los que copiaron a
-los virreyes del siglo XVI, si sus retratos se hubieran hecho aquí;
+los virreyes del siglo <num value="16">XVI</num>, si sus retratos se hubieran hecho aquí;
 pero vuelvo a decir que no tienen sabor de obra mexicana, y pertenecen
 a un periodo en que el arte empezaba a introducirse entre nosotros y
 no contaba aún profesores (al menos que conozcamos) capaces de 
@@ -113,7 +114,7 @@ México</hi></title>, tratado 2o., cap. 3, núm. 63.</bibl></note>
 indiana</hi></title>, lib. 17, cap. 2, y lib. 20, cap. 19. </bibl></note>
 
 <note type="bibliográfica" xml:id="nota14a"><hi rend="superscript">14</hi> <bibl><author>Vetancurt</author>, 
-<title><hi rend="italic">Menologio franciscano</hi></title>, en el día 29 de junio.
+<title><hi rend="italic">Menologio franciscano</hi></title>, en el día <date when="06-29">29 de junio</date>.
 <author>Valadés</author>, <title><hi rend="italic">Reth.</hi></title>, cap. 23, p. 4. 
 El mismo <author>Vetancurt</author> en la <title><hi rend="italic">Crónica</hi></title> (tratado
 5o., cap. 4, núm. 81) habla de una copia de la Virgen de los Remedios 

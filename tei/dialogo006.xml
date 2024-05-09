@@ -17,7 +17,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/bsksxnkvr98d55"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -66,7 +66,7 @@
 <pb n="6" facs="#p6"/>
 <sp who="Clavé"><speaker></speaker>
 <p>los bajorrelieves asirios desenterrados últimamente de
-las ruinas de <name type="place" ref="http://viaf.org/viaf/3162299497620062313">Nínive</name>, en los 
+las ruinas de <name type="place"  ref="http://dare.ht.lu.se/places/21808" xml:id="recogito-54e4de77-f33f-4264-a86f-2a25b876b6be" cert="high">Nínive</name>, en los 
 egipcios, y aun en los de los
 primitivos griegos; de suerte que es ésa una piedra en la
 que todos han tropezado al principio. Pero además de
@@ -87,7 +87,7 @@ conocimientos adelanten mucho, ni lleguen a derramarse
 en la generalidad del pueblo. Cita como ejemplo a los 
 chinos.<hi rend="supercript">1</hi><note type="bibliográfica" xml:id="nota1">
 <hi rend="superscript">1</hi><bibl><author>Desttut-Tracy</author>,
- <title><hi rend="italic">Grammaire générale</hi></title>, cap. 5.</bibl></note>
+ <title rend="italic">Grammaire générale</title>, cap. 5.</bibl></note>
 Pero lo notable, y lo que hace a nuestro 
 propósito, es que la adopción del sistema de jeroglíficos, que
 ordinariamente son figuras humanas, o de brutos o de

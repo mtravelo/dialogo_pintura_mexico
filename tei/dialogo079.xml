@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo079.jpg" xml:id="p79"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="79" facs="#p79"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>Los particulares y el gobierno mismo poco o nada habían
+hecho por el arte antes de la erección de la 
+Academia; pero no lo necesitaba porque los profesores 
+encontraban empleo sobrado en los templos, en los conventos,
+en los colegios, en fin, en todas las casas, en todos los
+establecimientos de comunidad, que casi sin excepción
+eran eclesiásticos. Y esto es lo que realmente hace 
+florecer y prosperar la pintura, como las otras artes sus
+hermanas, según enseña la experiencia: donde quiera
+que han encontrado un teatro como el que aquí 
+tuvieron, allí se han desenvuelto con holgura porque allí es
+donde la competencia hace esforzarse al ingenio, donde
+los maestros se lucen ante el público y donde éste a su
+vez puede alentarlos con su voz y sus aplausos. La 
+paga que da un particular por algún retrato de familia,
+que hunde luego en su casa, y las pensiones y protección
+que un gobierno concede a los alumnos en 
+establecimientos de la clase de la Academia son nada en 
+comparación de ese otro, para avivar y levantar el ingenio.
+Pero desde antes de concluirse el siglo pasado, y en el
+primer decenio del presente, las comunidades 
+eclesiásticas dejaron de ocupar a los pintores, por causas que
+no es ahora ocasión de indagar. En seguida vino la 
+insurrección y la serie de revueltas que a ella se 
+siguieron. Nada notable nos queda de todo ese periodo, pero
+tampoco hay rastro de que en él se hubiese pedido
+nada al arte. Así es que fue cayendo en inercia, que pasó
+luego a ser letargo y remató en la muerte, que era la 
+situación en que se hallaba cuando empezó a restaurarse
+la Academia, por los años de <date when="1845">1845</date> y <date when="1846">1846</date>.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

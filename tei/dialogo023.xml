@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo023.jpg" xml:id="p23"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="23" facs="#p23"/>
+<sp who="Pesado">
+<speaker></speaker>
+<p>de Europa, de África y de las islas las semillas, las
+plantas, los animales que faltaban; con estos auxilios la
+nueva agricultura solicitaba y explotaba la feracidad de
+nuestra tierra. Se habían enseñado al pueblo las artes
+de la vida civil, y establecídose con regularidad el 
+comercio de Europa por Veracruz, y el de la China por
+los puertos del Pacífico. Nuestras grandes poblaciones,
+Oaxaca, Mérida, Campeche, Veracruz, Puebla, Querétaro,
+Valladolid, Guadalajara, Culiacán, Durango, 
+Zacatecas, San Luis Potosí, el Saltillo, deben su primer
+origen a ese periodo durante el cual se las sacó de 
+planta y llegaron ya algunas a bastante altura. La minería,
+bajo cuya sombra se creó todo entre nosotros, no sólo
+estaba plantificada, sino que había adquirido gran 
+desarrollo en una zona tan extensa como la que corre desde
+Culiacán hasta Taxco y Pachuca, que fue donde Bartolomé
+de Medina inventó en <date when="1557">1557</date> el beneficio de metales
+por azogue en grandes patios, invento de inmensas
+consecuencias en el arte minero y que hoy mismo no es
+todavía reemplazado por otro mejor. La capital se había
+renovado en su mayor parte, y era ya la primera
+ciudad del Nuevo Mundo, emporio del tráfico que por
+ambos mares se hacia, centro de los negocios, foco de
+ilustración y de ciencia para todo el país. Existía en ella
+la Universidad, primera escuela de enseñanza general
+en el reino, dirigida por maestros tan hábiles como
+Cervantes de Salazar en las humanidades y el padre 
+Veracruz en ciencias sagradas. Había además otros tres
+colegios para la juventud estudiosa. La imprenta, de la
+que México fue cuna en las Américas, trabajaba desde
+<date when="1536">1536</date>; y para fin del siglo había habido siete u ocho 
+impresores, de los cuales nos quedan cerca de cien ediciones</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

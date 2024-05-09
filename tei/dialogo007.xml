@@ -17,7 +17,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/kiezruyjnrbv3n"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -74,7 +74,8 @@ de escribir que el de jeroglíficos y pinturas.</p>
 </sp>
 <sp who="Pesado">
 <speaker>Couto</speaker>
-<p><name type="person" ref="http://viaf.org/viaf/34454460">Champollion el Menor</name><note> 
+<p><name type="person" xml:id="recogito-30719ed2-9e68-46c6-8810-780db16fdbc1" ref="http://viaf.org/viaf/34454460">Champollion 
+el Menor</name><note> 
 Jean-François Champollion (Figeac, 1790-París, 1832). Historiador y lingüista francés, considerado el padre de la egiptología 
 por haber descifrado la escritura jeroglífica gracias al estudio de la piedra de Rosetta, fragmento de una estela antigua.</note>
 explica por este mismo 
@@ -95,13 +96,15 @@ objeto, y descuidaba los brazos, el torso, las piernas,
 que no se consideraban sino como partes accesorias. El
 concluirlas y acabarlas con precisión ni daría más 
 estima al signo, ni le añadiría 
-claridad.<hi rend="supercript">2</hi><note type="bibliográfica" xml:id="nota2"><hi rend="superscript">2</hi> <bibl><title><hi rend="italic">Lettres à M. 
-le Duc de Blacas, relatives au Musée Royal Egyptien de Turin</hi></title>, carta I.</bibl></note>
+claridad.<hi rend="supercript">2</hi><note type="bibliográfica" xml:id="nota2"><hi rend="superscript">2</hi> 
+<bibl><title rend="italic">Lettres à M. 
+le Duc de Blacas, relatives au Musée Royal Egyptien de Turin</title>, carta I.</bibl></note>
 </p>
 </sp>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
-<p>Ahora hago memoria de que en <name type="person" ref="http://viaf.org/viaf/71428093">Clavijero</name><note>Francisco Javier Clavijero 
+<p>Ahora hago memoria de que en <name type="person" ref="http://viaf.org/viaf/71428093">Clavijero</name><note target="recogito-30719ed2-9e68-46c6-8810-780db16fdbc1" resp="MTRS">Francisco 
+Javier Clavijero 
 (Puerto de Veracruz, 1731-Bolonia, 1787). Clérigo jesuita, historiador, filósofo y educador, considerado
 el exponente más destacado de la Ilustración en la Nueva España. Después de la expulsión de la Compañía de Jesús, 
 influyente y poderosa orden religiosa, fue precursor del indigenismo y uno de los autores fundamentales de la 

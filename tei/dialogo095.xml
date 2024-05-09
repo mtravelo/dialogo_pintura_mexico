@@ -71,12 +71,13 @@
 <back>
 <div type="Notas">
 <pb n="95" facs="#p95"/>
+<!-- continuación nota 10 -->
 <note type="explicativa" xml:id="nota10c">
-<p>Carlos V al conquistador, y usaron los marqueses del Valle. El retrato
+<p>Carlos <num type="ordinal" value="5">V</num> al conquistador, y usaron los marqueses del Valle. El retrato
 en sí mismo tiene semejanza con el que hay en el Hospital de Jesús y
 ambos parecen copias regulares de un original cuyo paradero
 ignoramos. Los de los diez primeros virreyes hasta don Luis de Velasco el Segundo,
-que acabó en 1611, son en lo general de mérito; algunos de ellos lo 
+que acabó en <date when="1611">1611</date>, son en lo general de mérito; algunos de ellos lo 
 tienen muy señalado, como el de don Martín Enríquez, el del conde de
 la Coruña y el del joven marqués de Montesclaros. Pero ninguno
 presenta rasgos de la escuela mexicana, si no es acaso el del señor don 

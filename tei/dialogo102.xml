@@ -69,18 +69,22 @@
 <back>
 <div type="Notas">
 <pb n="102" facs="#p102"/>
-<note>Bermúdez, y si es el mismo que pintó en México el cuadro de la 
+<!-- continuación nota 43 -->
+<note type="bibliográfica" xml:id="nota43b">Bermúdez, y si es el mismo que pintó en México el cuadro de la 
 Academia, y otro que he visto firmado de su nombre, en poder del mismo señor
 Lucio.</note>
 
 <note type="bibliográfica" xml:id="nota44"><hi rend="superscript">44</hi>Véase a Sigüenza en el pasaje copiado en la nota 39.</note>
 
-<note type="bibliográfica" xml:id="nota45"><hi rend="superscript">45</hi> <bibl><title>Crónica</title>, tratado 2o, cap. 32, núms. 42 y 51.</bibl></note>
+<note type="bibliográfica" xml:id="nota45"><hi rend="superscript">45</hi> 
+<bibl><title rend="italic">Crónica</title>, tratado 2o, cap. 32, núms. 42 y 51.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota46"><hi rend="superscript">46</hi> Véanse en las <bibl><title>Gacetas de México</title></bibl> de Sahagún de Arévalo la 
+<note type="bibliográfica" xml:id="nota46"><hi rend="superscript">46</hi> Véanse en 
+las <bibl><title rend="italic">Gacetas de México</title></bibl> de Sahagún de Arévalo la 
 correspondiente a ese mes, que es la primera que aquel periodista publicó.</note>
 
-<note type="bibliográfica" xml:id="nota47"><hi rend="superscript">47</hi> <bibl><title>Museo pictórico</title>, tercer tomo, artículo «Bartolomé Esteban 
+<note type="bibliográfica" xml:id="nota47"><hi rend="superscript">47</hi> 
+<bibl><title rend="italic">Museo pictórico</title>, tercer tomo, artículo «Bartolomé Esteban 
 Murillo», que es el núm. 173</bibl>. El mismo autor refiere, y consta del testamento
 de Murillo, que su hijo don Gabriel, sujeto de grande habilidad en
 la pintura, y de mayores esperanzas, pasó a Indias, y aquí murió bien
@@ -95,21 +99,26 @@ desconocida. Ceán Bermúdez, en el artículo de su padre, corrigió la
 equivocacion en que había caído Palomino, llamándole José y no 
 Gabriel.</note>
 
-<note type="bibliográfica" xml:id="nota48"><hi rend="superscript">48</hi> <bibl><author>Conde y Oquendo</author>, <title rend="italic">Disertacion 
-histórica sobre la aparición de
-María Santísima de Guadalupe</title>, cap. 3, § 15, núm. 210.</bibl></note>
+<note type="bibliográfica" xml:id="nota48"><hi rend="superscript">48</hi>
+<bibl><author>Conde y Oquendo</author>, <title rend="italic">Disertacion 
+histórica sobre la aparición de María Santísima de Guadalupe</title>, cap. 3, § 15, núm. 210.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota49"><hi rend="superscript">49</hi> <bibl>En el <title rend="italic">Diccionario universal de
-historia y de geografía</title>, reimpreso aquí por don Rafael Rafael, artículo «Ibarra».</bibl></note>
+<note type="bibliográfica" xml:id="nota49"><hi rend="superscript">49</hi> 
+<bibl>En el <title rend="italic">Diccionario universal de historia y de geografía</title>, 
+reimpreso aquí por don Rafael Rafael, artículo «Ibarra».</bibl></note>
 
-<note type="bibliográfica" xml:id="nota50"><hi rend="superscript">50</hi> <bibl><title rend="italic">Maravilla americana</title>, § 4, p. 9.</bibl></note>
+<note type="bibliográfica" xml:id="nota50"><hi rend="superscript">50</hi> 
+<bibl><title rend="italic">Maravilla americana</title>, § 4, p. 9.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota51"><hi rend="superscript">51</hi> <bibl><title rend="italic">Escudo de armas de México</title>, lib. 2, cap. 8, núm. 333.</bibl></note>
+<note type="bibliográfica" xml:id="nota51"><hi rend="superscript">51</hi> 
+<bibl><title rend="italic">Escudo de armas de México</title>, lib. 2, cap. 8, núm. 333.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota52"><hi rend="superscript">52</hi> <bibl>Véase en la <title rend="italic">Biblioteca</title> de Beristáin el artículo «Buzeta (fray Pedro
+<note type="bibliográfica" xml:id="nota52"><hi rend="superscript">52</hi> 
+<bibl>Véase en la <title rend="italic">Biblioteca</title> de Beristáin el artículo «Buzeta (fray Pedro
 José)».</bibl></note>
 
-<note type="bibliográfica" xml:id="nota53a"><hi rend="superscript">53</hi> <cit><quote>«Ninguno puede recibir discípulos de color quebrado; y el que contra
+<note type="bibliográfica" xml:id="nota53a"><hi rend="superscript">53</hi> <cit><quote>«Ninguno puede 
+recibir discípulos de color quebrado; y el que contra
 este Estatuto lo ejecutare, se los expelerá la Junta cuando lo sepa.
 Mas el profesor que hubiere de recibir discípulos, ha de ser pintor 
 declarado por esta Academia. Siendo, como se ordena, él facultativo,

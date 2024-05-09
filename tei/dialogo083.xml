@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo083.jpg" xml:id="p83"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="83" facs="#p83"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>del gran salón construido en la fachada. Los frescos
+que allí trabajen nuestros alumnos no sólo les servirán
+de ensayo en un género tan poco usado hasta aquí 
+entre nosotros, y que en manos de los grandes artistas del
+siglo <num value="16">XVI</num> en Italia se elevó a la mayor altura, sino que
+acaso les proporcionen ocupación para lo venidero, si
+logramos que el público forme su paladar y tome gusto
+a estas cosas. Tal es la mira que nos hemos propuesto.
+</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Los espejos, que tanto te escuecen y tan mala 
+competencia hacen a la pintura, siempre gustarán en el
+mundo. Acuérdate de lo que decía el conde Xavier Maistre,
+que un espejo es el cuadro que reúne más votos y en
+el que nadie encuentra qué criticar, porque cada uno 
+registra allí la imagen que mejor le parece, la suya 
+propia. Pero ya que ha pasado delante de nosotros, como
+decías al principio, la historia que aquí se va formando
+de la pintura en México, holgárame de que el señor
+Clavé nos manifestase el sentir que ella le ha inspirado,
+vista en su conjunto y por mayor.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Si tomamos la escuela desde Baltasar de Echave, 
+porque para juzgar de lo que le precedió faltan
+monumentos, paréceme que la dirección que le dio aquel hábil
+maestro fue la misma que seguían los que en Italia se
+llaman cincocentistas, es decir, los de la escuela de Rafael
+y demás del Renacimiento. Sus principios se propagaron
+a España, como antes vimos, y prevalecían allí en</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

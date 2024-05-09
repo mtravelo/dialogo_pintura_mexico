@@ -17,7 +17,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/mbyi9sc4ydz6jq"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -88,7 +88,8 @@ sentido de la belleza, que es de donde procede el arte.</p>
 <p>El sentido de la belleza ha sido dado a pocos pueblos
 en la tierra. Los griegos entre los antiguos, y los 
 italianos entre los modernos, lo han tenido en grado superior.
-Sin embargo, en la <name type="place">Grecia</name> misma fue necesario el 
+Sin embargo, en la 
+<name type="place" ref="http://sws.geonames.org/390903" xml:id="recogito-457a1ef2-2e4c-4906-aeab-b8e196f3858a" cert="high">Grecia</name> misma fue necesario el 
 trascurso de siglos y la concurrencia de mil circunstancias
 felices para que se desenvolviera y afinara. En cuanto
 a los defectos de dibujo de las obras mexicanas, algunos

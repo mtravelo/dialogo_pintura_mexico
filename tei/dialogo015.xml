@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo015.jpg" xml:id="p15"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="15" facs="#p15"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>Puso también escuela de pintura; y el padre 
+Torquemada recordaba que él había alcanzado a ver en la 
+fragua de los herreros, y en otra sala grande, algunas cajas
+donde estaban los vasos de los colores de los pintores;
+si bien al tiempo que escribía no quedaba ya rastro de
+aquello.<hi rend="superscript">13</hi><note type="bibliográfica" xml:id="nota13"> <hi rend="superscript">13</hi> <bibl><title><hi rend="italic">Monarquía 
+indiana</hi></title>, lib. 17, cap. 2, y lib. 20, cap. 19. </bibl></note></p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>¡En qué materia no tendremos los mexicanos que ir
+a buscar la primera cuna de nuestra civilización en el
+convento de San Francisco! El historiador Gibbon 
+decía que Francia era una monarquía creada por los 
+obispos; en menor escala México fue realmente una 
+sociedad formada por ellos y por los misioneros.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>¿Pero usted cree que el mismo padre Gante enseñaba a
+los indios a pintar?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Así parecen indicarlo los términos en que se 
+explican los escritores antiguos.<hi rend="superscript">14</hi><note type="bibliográfica" xml:id="nota14"><hi rend="superscript">14</hi>
+<bibl><author>Vetancurt</author>, 
+<title rend="italic">Menologio franciscano</title>, en el día 29 de junio.
+<author>Valadés</author>, <title><hi rend="italic">Reth.</hi></title>, cap. 23, p. 4. 
+El mismo <author>Vetancurt</author> en la <title><hi rend="italic">Crónica</hi></title> (tratado
+5o., cap. 4, núm. 81) habla de una copia de la Virgen de los Remedios 
+hecha de piedra por el padre Gante para ponerse en el convento de
+México, del cual se trasladó al de Xochimilco y luego a Tepepan.</bibl> Aunque el padre no 
+trabajara materialmente en ella, dirigía el
+trabajo.</note>
+Y no es cosa en que pueda
+ponerse reparo, porque aquel insigne religioso era 
+persona de gran disposición para todo género de artes, 
+hasta llegar a decir alguno de sus contemporáneos que
+ninguna ignoraba.<hi rend="superscript">15</hi><note type="bibliográfica" xml:id="nota15"><hi rend="superscript">15</hi> 
+<cit><quote xml:lang="la">
+«Nullius enim nescius erat».</quote></cit> <bibl><author>Valadés</author></bibl>.</note> 
+Observe usted por otra parte que la
+enseñanza que en aquella época empezó a darse a los
+indios naturalmente no tendría la extensión y plenitud
+que tiene la que ahora se da en una Academia como ésta.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

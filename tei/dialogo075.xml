@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo0075.jpg" xml:id="p75"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="75" facs="#p75"/>
+<sp who="Clavé">
+<speaker></speaker>
+<p>prueba de la verdad de lo que acabo de decir, pues cuando
+el arte llegó a su apogeo en la escuela de Cabrera, él y
+los otros profesores se dieron modo de plantear una
+academia, según nos ha referido el señor Couto. Este
+juicio de los inteligentes en todos tiempos y países, a la
+verdad, llama la atención. Hay, pues, que buscar otras
+causas para explicar el hecho de haber decaído aquí la
+pintura, cuando se abrió esta escuela el año de <date when="1785">1785</date>.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Me ocurre desde luego que pueden señalarse dos
+entre otras. La una es que la elección de los primeros
+maestros de pintura que se enviaron de España fue, a
+lo que parece, poco acertada. Con título de primer 
+director vino don Ginés Andrés de Aguirre, académico de
+mérito de la de San Fernando de Madrid, quien en el
+espacio de trece o catorce años que vivió en México ni
+en obras ni en discípulos dejó cosa digna de memoria.
+Yo no he visto más cuadro suyo que una Virgen de
+medio cuerpo en un nicho o templete de piedra, siguiendo
+el estilo del padre Pozzo, y es obrita en que apenas
+puede ponerse atención. Acompañole, con carácter de
+segundo director, don Cosme de Acuña, el cual, a poco,
+solicitó y obtuvo volver a España, pretendiendo que
+fueran allá a aprender con él los discípulos de la 
+Academia.<hi rend="superscript">60</hi><note type="explicativa" 
+xml:id="nota60"><hi rend="superscript">60</hi> Así resulta de las actas de 
+sesiones de la junta superior de gobierno de la Academia.</note> 
+No eran hombres como éstos los que podían
+mantener en su esplendor y mucho menos adelantar
+el arte que habían ejercitado en México Echave, 
+Arteaga, Rodríguez Juárez y Cabrera, y que aún tenía
+profesores como Alcíbar.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

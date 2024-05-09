@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo084.jpg" xml:id="p84"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="84" facs="#p84"/>
+<sp who="Clavé">
+<speaker></speaker>
+<p>el siglo <num value="16">XVI</num>, que fue cuando Echave debió formarse,
+puesto que tenemos obras suyas desde los primeros años
+del siguiente. Echave es siempre fiel a esos principios;
+correcto, gracioso, de ejecución detenida y acabada, de
+bastante esmalte en el color, lo cual da a sus tablas 
+frescura y brillantez. Sobre sus huellas fueron Luis Juárez
+y otros, de modo que puede mirársele como la 
+personificación o el representante del primer periodo no sólo
+por ser el más antiguo, y de consiguiente quien marcó
+la senda, sino porque reúne en grado superior las 
+cualidades que caracterizan ese periodo. A la mitad de él,
+y cuando empieza a desaparecer aquel primer maestro,
+viene Sebastián de Arteaga, que tentó otra vía, no 
+resueltamente y desde sus primeros pasos, sino por 
+grados, según se infiere del estudio y observación de los
+pocos cuadros que nos quedan. Por punto de partida en
+esa vía puede tomarse el lienzo de los Desposorios que
+aquí tenemos, y por término el de santo Tomás, del
+presbiterio de San Agustín. Su pintura es vigorosa,
+grasa, y aun si se quiere de más verdad que la de 
+Echave, porque a pesar de sus incorrecciones quizá se 
+pegaba más al natural. En cambio, carece de la gracia de su
+antecesor y de la sencillez y pureza que lo distinguen.
+En Arteaga hay más fuerza y mucho más rasgo en el
+manejo del pincel; en Echave, mejor doctrina y delicadeza
+de sentimiento. De los secuaces de Arteaga, el
+más señalado que conocemos es el segundo Baltasar de
+Echave. Al concluir el siglo, Juan Rodríguez Juárez
+abre un tercer camino y adopta nuevo estilo, franco, de
+masas sencillas y grandiosas, pero algo amanerado en el
+colorido, en el que por ganar esplendidez hizo resaltar
+hasta la exageración el azul y el rojo. Este estilo </p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

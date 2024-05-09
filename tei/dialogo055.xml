@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo055.jpg" xml:id="p55"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="55" facs="#p55"/>
+<sp who="Clavé">
+<speaker></speaker>
+<p>está formado con inteligencia, y la figura de la Virgen,
+que con ternura maternal aparta el rostro para no ver
+el acto, es interesante. En los otros cuadros suyos que
+están ahí á los lados, se nota igual pericia y gusto.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Lo más importante que de Ibarra conozco en México
+son los dos lienzos que cubren las testeras del aula 
+mayor o general del Colegio de San Ildefonso, y fueron
+pintados en <date when="1740">1740</date>. El uno, que es el que queda a la 
+derecha como entramos, ofrece una especie de alegoría, no
+muy feliz a la verdad, en que se registran el Padre 
+Eterno en la parte superior, san José con el Niño en medio,
+y abajo los dos santos mártires, san Josaphat arzobispo
+y san Juan Nepomuceno, ya muertos. El de la 
+izquierda, que en mi juicio le saca mucha ventaja, es de 
+perspectiva, representa la parte central del interior de un
+templo; bajo la cúpula se levanta un templete, dentro
+del cual San Luis Gonzaga adora arrodillado a la
+Virgen, que aparece con el niño entre nubes: en los 
+remates superiores están a los lados san Ildefonso y santa
+Catarina; por último, en dos columnas de delante se ven
+las estatuas de santo Tomás de Aquino, y un santo 
+obispo, que acaso será san Agustín. Las figuras son 
+buenas, la perspectiva está formada con arte, y la obra
+toda en su conjunto, aunque pertenece a un género que
+los peritos reputan algo extravagante (no obstante 
+haberlo usado maestros como el padre Pozzo), hace 
+efecto. Otro cuadro suyo encontramos en Texcoco el señor
+Clavé y yo, que nos llamó la atención, y que su dueño, que
+era un pobre, no quiso vender para la Academia, a</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

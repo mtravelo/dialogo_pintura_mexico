@@ -69,7 +69,7 @@
 <back>
 <div type="Notas">
 <pb n="103" facs="#p103"/>
-
+<!-- continuación nota 53 -->
 <note type="bibliográfica" xml:id="nota53b"><cit><quote>que pueda aprovechar en esta facultad (que no todos lo pueden 
 conseguir, porque para ésta y la poesía es fuerza nacer con estas gracias),
 le ordenará vaya a casa del secretario, y le diga cómo quiere aprender
@@ -111,7 +111,8 @@ Mucho más cuando para ocurrir a casos de esta clase estaba fundado desde
 el primer tercio del siglo <num value="18">XVIII</num>, por el virrey marqués de Valero, el convento
 de capuchinas indias de Corpus Christi.</note>
 
-<note type="bibliográfica" xml:id="nota56"><hi rend="superscript">56</hi> <bibl><title rend="italic">Manifiesto satisfactorio</title></bibl>, parte primera, núm. 17</note>
+<note type="bibliográfica" xml:id="nota56"><hi rend="superscript">56</hi> <bibl><title rend="italic">Manifiesto
+satisfactorio</title></bibl>, parte primera, núm. 17</note>
 </div>
 </back>
 </text>   

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo051.jpg" xml:id="p51"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="51" facs="#p51"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>padre.<hi rend="superscript">47</hi> <note type="bibliográfica" xml:id="nota47"><hi rend="superscript">47</hi> 
+<bibl><title rend="italic">Museo pictórico</title>, tercer tomo, artículo «Bartolomé Esteban 
+Murillo», que es el núm. 173</bibl>. El mismo autor refiere, y consta del testamento
+de Murillo, que su hijo don Gabriel, sujeto de grande habilidad en
+la pintura, y de mayores esperanzas, pasó a Indias, y aquí murió bien
+mozo. Recuerdo que el difunto señor arzobispo don Manuel Posadas estaba
+en la idea de que ese pintor había venido a Nueva España y que varios
+de los cuadros que aquí corren por del padre eran suyos. El hecho es
+posible, y entonces habría sido ése el mejor medio de que a nuestra 
+escuela se comunicara algo del estilo y la manera del insigne artista sevillano.
+Pero yo declaro que no he encontrado rastro alguno de la existencia
+entre nosotros de tal persona, que no es verosímil pasase enteramente
+desconocida. Ceán Bermúdez, en el artículo de su padre, corrigió la
+equivocacion en que había caído Palomino, llamándole José y no 
+Gabriel.</note> 
+En esa hipótesis éste habría sido otro medio para
+que a Rodríguez Juárez y sus contemporáneos se 
+comunicara algo del estilo de aquel célebre maestro y de su
+escuela, especialmente en el color. Pero sea lo que 
+fuere de estas conjeturas, que de tales no pasan, el hecho
+cierto es que en Juan Rodríguez encontramos una 
+verdadera novedad, una revolución (como ahora dicen) en
+la pintura.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Un maestro, sin embargo, conozco que no la siguió,
+y era de aquel tiempo, según usted me ha dicho,
+Cristóbal de Villalpando.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>En efecto, hay pinturas de él, a lo menos desde <date when="1683">1683</date>
+hasta <date when="1710">1710</date>.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Villalpando se me ha hecho notable, en primer lugar,
+por la gran desigualdad de sus obras. En algunas se 
+detiene la vista por su mérito, al paso que en otras la
+mano del artista cae hasta parecer menos que mediano.
+Tales son, por ejemplo, las de la Pasión en los claustros de
+San Francisco, de que hablaba usted antes; en segundo
+lugar, tratándose de valentía y rasgo de imaginación,
+tal vez en México ninguno ha tenido más que él. 
+Básteme citar en prueba los grandes lienzos que cubren las
+paredes de la sacristía de Catedral, y representan la</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

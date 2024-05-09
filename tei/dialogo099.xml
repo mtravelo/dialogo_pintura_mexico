@@ -59,7 +59,7 @@
         </encodingDesc>
 </teiHeader>
 <facsimile>
-    <graphic url="../imgs/dialogo099.jpg" xml:id="p9"></graphic>
+    <graphic url="../imgs/dialogo099.jpg" xml:id="p99"></graphic>
 </facsimile>
 <text>
 <front><p></p></front>
@@ -68,7 +68,7 @@
 <back>
 <div type="Notas">
 <pb n="99" facs="#p99"/>
-
+<!-- continuación nota 25 -->
 <note type="explicativa" xml:id="nota25b"><hi rend="superscript">25b</hi>español del padre Molina, 
 impreso por Antonio de Espinosa en 1571,
 un tomo en folio. Pero la que sobre todas llama la atención es la del
@@ -83,21 +83,23 @@ de él, habría escrito una disertación para probar que en México no
 había podido hacerse en aquel tiempo semejante impresión; y el señor García,
 tan entendido en el arte tipográfico, ha escrito en sus apuntes: <cit><quote>«Parece
 increíble que obra de tal consideración se ejecutase en nuestras
-imprentas a poco más de mediado el siglo XVI, y yo dudaría del 
-hecho a no tener el libro a la vista. Hoy mismo, después de tres siglos,
+imprentas a poco más de mediado el siglo <num value="16">XVI</num>, y yo dudaría del 
+hecho a no tener el libro a la vista. Hoy mismo, después de <num type="cardinal" value="3">tres</num> siglos,
 sería casi imposible ejecutar aquí cosa semejante, si no era haciendo
 venir exprofeso los útiles necesarios».</quote></cit></note>
 
 <note type="bibliográfica" xml:id="nota26"><hi rend="superscript">26</hi> <bibl><author>Balbuena</author>, 
-<title rend="italic">Grandeza mexicana</title>, edición de 1603, p. 31 y a la vuelta.</bibl></note>
+<title rend="italic">Grandeza mexicana</title>, edición de<date when="1603">1603</date>, p. 31 y a la vuelta.</bibl></note>
 
 <note type="bibliográfica" xml:id="nota27"><hi rend="superscript">27</hi> <bibl>El mismo <author>Balbuena</author> al 
 final del cap. 2 de la <title rend="italic">Grandeza mexicana</title>.</bibl></note>
 
 <note type="bibliográfica" xml:id="nota28"><hi rend="superscript">28</hi> <bibl>Véase por ejemplo 
-al licenciado <author>Cayetano Cabrera</author>, <title rend="italic">Escudo de armas de México</title>, núm. 291.</bibl></note>
+al licenciado <author>Cayetano Cabrera</author>, <title rend="italic">Escudo de armas de
+México</title>, núm. 291.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota29"><hi rend="superscript">29</hi> <bibl><title rend="italic">Monarquía indiana</title>, lib. 17, cap. 4.</bibl></note>
+<note type="bibliográfica" xml:id="nota29"><hi rend="superscript">29</hi> <bibl><title rend="italic">Monarquía 
+indiana</title>, lib. 17, cap. 4.</bibl></note>
 
 <note type="bibliográfica" xml:id="nota30"><hi rend="superscript">30</hi> <bibl><author>Vetancurt</author> en la <title rend="italic">Crónica</title>, 
 tratado 22, cap. 32, núm. 39.</bibl> </note>
@@ -110,7 +112,7 @@ antiguos, como Balbuena y Vetancurt, le han llamado Chávez; pero él se
 firmaba en sus cuadros Echave. Conocida es la incuria y el desaliño de
 los antiguos en punto de ortografía española.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota32a"><hi rend="nota32a">32</hi> <bibl>De este rarísimo libro no he encontrado un solo ejemplar en 
+<note type="bibliográfica" xml:id="nota32a"><hi rend= "superscript">32</hi> <bibl>De este rarísimo libro no he encontrado un solo ejemplar en 
 ninguna biblioteca pública ni particular. Creo que lo tuvo a la vista don
 Nicolás Antonio, pues no pudo tomar de otro escritor anterior la
 noticia que de él da. El señor Eguiara se equivocó al decir que Enrico 

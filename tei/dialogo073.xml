@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo073.jpg" xml:id="p73"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="73" facs="#p73"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>también teniente de director. Pintó mucho en su vida,
+que debió ser larga, y sus cuadros de san Luis 
+Gonzaga eran muy apreciados de nuestros padres. Ciertas 
+incorrecciones de dibujo y una especie de atonía que creía
+yo observar en sus obras me hacían tenerlo en menos,
+hasta que, en la sala de juntas de la archicofradía del
+Santísimo en Catedral, vi los dos grandes lienzos que
+allí ha dejado; el uno, de la última Cena del Señor, y el
+otro del triunfo de la fe. En ellos aprendí a conocer lo
+que valía Alcíbar, pues son dos obras de importancia y
+de singular belleza, en especial la Cena. Es de notarse
+que debió pintarlas siendo ya muy viejo, pues tienen 
+fecha de <date when="1799">1799</date>, es decir, cerca de 50 años después de 
+cuando acompañaba a Cabrera a estudiar y copiar la Virgen
+de Guadalupe; y sin embargo, no hay allí muestras de
+debilidad senil. Poco antes, en carta que escribía al doctor
+Conde, procuraba defender contra los tiros de 
+Bartolache la memoria de aquel su amigo.<hi rend="superscript">59</hi><note type="bibliográfica" 
+xml:id="nota59"><hi rend="superscript">59</hi> <bibl>Apéndice al § X, cap. 4 
+de la <title rend="italic">Disertación histórica</title>
+del doctor <author>Conde</author></bibl>.</note>
+En breve debió él mismo bajar al sepulcro.</p>
+</sp>
+<sp who="Pesado">
+<speaker></speaker>
+<p>Dices que con Acíbar se cierra el catálogo de 
+nuestros antiguos pintores. Pero algunos años antes se 
+había fundado esta Academia, dotándola el soberano, y
+enviando de España maestros y modelos que aquí no
+eran conocidos, como la hermosa colección de yesos
+que está abajo, en las galerías de escultura. Muy lejos,
+pues, de que debiera entonces acabar el arte, fue de 
+esperarse que tuviera buenas creces y floreciera como
+nunca.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo071.jpg" xml:id="p71"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="71" facs="#p71"/>
+<sp who="Clavé">
+<speaker></speaker>
+<p>agrado. En el Carmen, antes de la librería, hemos visto
+el señor Couto y yo cuadros suyos alegóricos, que es 
+género a que parece que era inclinado. De Arnáez y 
+Osorio andan obras en la ciudad.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>pintura que había en México. Fuera de los que ya hemos
+mencionado, con Cabrera se unieron para la fundación
+de la Academia, José Manuel Domínguez, como primer
+director, Miguel Espinosa de los Monteros y Pedro
+Quintana. Florecía también a la sazón José Páez, que
+pintó en el claustro bajo de San Fernando la vida de
+san Francisco Solano (año <date when="1764">1764</date>), y en la entrada del
+coro alguna cosa que no carece de interés. En San
+Ildefonso hay un lienzo de su mano que representa la
+muerte de santa Rosalía, de dibujo incorrecto y no 
+agradable colorido, pero en el que la traza o invención es
+excelente. Si él discurrió aquel asunto y no lo tomó de
+alguna estampa, ciertamente que era artista de ingenio
+y sensibilidad. Andrés Islas pintó en <date when="1773">1773</date> el retablo de
+san Juan evangelista que está en la capilla de
+Aránzazu y algo que hay en la Profesa, todo de menos que
+mediano mérito. Don Mariano Vázquez, que dicen fue
+discípulo de Cabrera, don Manuel García, don Roberto
+José Gutiérrez, don Andrés López y don Rafael Joaquín
+Gutiérrez, examinaron con Bartolache la imágen de
+Guadalupe el año <date when="1787">1787</date>, en su calidad de profesores
+de pintura, y firmaron el atestado que aquel publicó.
+De Vázquez tenemos ahí su retrato, pintado por él 
+mismo, que es ese que hace juego con el de Juan Rodríguez</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

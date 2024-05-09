@@ -68,6 +68,7 @@
 <back>
 <div type="Notas">
 <pb n="94" facs="#p94"/>
+<!-- continuación nota 10 -->
 <note type="explicativa" xml:id="nota10b">
 <p>algún mérito, que representa una procesión en que es conducida la
 imagen a su templo. Veytia dice que probablemente fue pintado hacia 1531,
@@ -76,7 +77,8 @@ ermita que se le construyó (<bibl><title><hi rend="italic">Baluartes de México
 los ojos de los profesores la obra presenta los rasgos característicos de la
 escuela mexicana a mediados del siglo siguiente. Además, en el 
 cuadro hay dos inscripciones, una española y otra mexicana. Al pie de 
-ésta se lee: <cit><quote>«a devoción de Diego de la Concepción y José Ferrer: año 1653»</quote></cit>.
+ésta se lee: <cit><quote>«a devoción de Diego de la Concepción y José Ferrer:
+año <date when="1653">1653</date>»</quote></cit>.
 Ésta es la letra que se ponía en obras de esa clase para señalar a las 
 personas que las habían mandado hacer. De las dos inscripciones, han
 hablado Cabrera, <bibl><title><hi rend="italic">Escudo de armas de México</hi></title>, § 703</bibl>, el mismo Veytia en
@@ -98,11 +100,11 @@ hubieran sido hechos aquí y tomados inmediatamente de los originales; pero
 tengo el sentimiento de creer que no reúnen esa doble calidad. He 
 examinado de cerca la del Museo, gracias a la bondad de su sabio 
 conservador el señor don Fernando Ramírez, y daré sobre ella algún pormenor.
-Consta de 62 cuadros, todos de tamaño uniforme, las figuras de medio
+Consta de <num type="cardinal" value="62">62</num> cuadros, todos de tamaño uniforme, las figuras de medio
 cuerpo en pie y sin otra cosa al fondo, en los dos primeros siglos, que
 el escudo de armas de cada virrey. Empieza la colección por el
 conquistador don Fernando Cortés y acaba en el teniente general don Juan
-O'Donojú que celebró en 1821 el tratado de Córdoba. Don Luis de
+O'Donojú que celebró en <date when="1821">1821</date> el tratado de Córdoba. Don Luis de
 Velasco el Segundo está duplicado por haber sido dos veces virrey; pero el
 segundo retrato es simple copia del primero, con leves variaciones en cosas 
 accesorias. En el de Cortés se recortó alrededor del rostro el lienzo en que

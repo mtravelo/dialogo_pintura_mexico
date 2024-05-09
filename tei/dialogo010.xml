@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/l0w70ya6vswcvy"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -67,13 +67,16 @@
 <pb n="10" facs="#p10"/>
 <sp who="Couto"><speaker></speaker>
 <p>Bartolomé de Mesa a pintar la sala capitular; que diez
-años después, el día <date>2 de octubre</date>, cuando se ajustaban
-apenas dos años de ganado <name type="place">México</name>, llegó a <name type="place">Veracruz</name><note>Ciudad costera
+años después, el día <date when="1523-08-02">2 de octubre</date>, cuando se ajustaban
+apenas dos años de
+<rs xml:id="recogito-3efdafa8-22ab-4158-a094-27d66bcc1e6e" type="event">ganado México</rs><note target="recogito-3efdafa8-22ab-4158-a094-27d66bcc1e6e" resp="MTRS">Se refiere a la conquista del imperio azteca.</note>
+llegó a <name type="place">Veracruz</name><note>Ciudad costera
  fundada por el explorador Hernán Cortés el <date when="1519-04-22">22 de abril de 1519</date>, que fue Viernes Santo, con el nombre de Villa Rica
   de la Vera Cruz. Durante tres siglos fue el puerto más importante para el arribo de  la flota española
    destinada al virreinato de la Nueva España.</note>
  en compañía de algunas familias españolas, y se puso bajo
-los auspicios de <name type="person" ref="http://viaf.org/viaf/49223767">Hernán Cortés</name>,<note>Hernán Cortés de Monroy y Pizarro
+los auspicios de <name type="person" xml:id="recogito-b554b283-68c2-45cb-87b2-ad298fe3bbe9" ref="http://viaf.org/viaf/49223767">Hernán 
+Cortés</name>,<note target="recogito-b554b283-68c2-45cb-87b2-ad298fe3bbe9" resp="MTRS">Hernán Cortés de Monroy y Pizarro
  Altamirano (Medellín, 1485-Castilleja de la Cuesta, 1547). Explorador, capitán general y escritor español de
   linaje noble y algunos estudios en la Universidad de Salamanca que consiguió éxitos con la espada y la pluma. Lideró
   la conquista de México-Tenochtitlan en 1521, con la alianza de grupos indígenas sometidos por los aztecas. Con el fin
@@ -82,20 +85,24 @@ los auspicios de <name type="person" ref="http://viaf.org/viaf/49223767">Hernán
    de los nativos, así como los sucesos previos, durante y posteriores a la conquista.
 </note>
  a quien siguió en su
-expedición de <name type="place">Hibueras</name>; que pintó cuadros para la 
+expedición de 
+<name type="place" ref="http://sws.geonames.org/3608932" xml:id="recogito-c0087564-77be-4bf1-bb5d-c3996f12dd5d" cert="high">Hibueras;</name><note target="recogito-c0087564-77be-4bf1-bb5d-c3996f12dd5d" resp="MTRS">Durante 
+la conquista el territorio hondureño también fue conocido como Hibueras o Higüeras.</note>
+que pintó cuadros para la 
 iglesia que los franciscanos fundaron en 
 <name type="place">Tehuantepec</name>,
 para otros muchos templos y para la casa del conquistador;
-que retrató a éste en 1538, a doña 
-<name type="person" ref="http://viaf.org/viaf/57416895">Marina</name><note>También conocida como Malinalli, Malintzin o Malinche 
+que retrató a éste en <date when="1538">1538</date>, a doña 
+<name type="person" xml:id="recogito-a0ba29c8-0e04-498f-a23c-522c27e39761" ref="http://viaf.org/viaf/57416895">Marina</name><note target="recogito-a0ba29c8-0e04-498f-a23c-522c27e39761" resp="MTRS">También 
+conocida como Malinalli, Malintzin o Malinche 
 (Coatzacoalcos, <hi rend="italic">ca.</hi> 1500-Ciudad de México, 
 <hi rend="italic">ca.</hi> 1530). Mujer de clase alta en la sociedad mexica que fue cedida como tributo a los españoles por los indígenas de Tabasco 
 después de perder una batalla. Tuvo un papel importante en la conquista de México como intérprete, consejera e intermediaria de Hernán Cortés,
 con quien tuvo un hijo, Martín, uno de los primeros mestizos del Nuevo Mundo.</note> en
-<name>Coatzacoalcos</name>, al padre fray Martín Valencia, al primer virrey 
+<name ref="http://sws.geonames.org/3530517" xml:id="recogito-4bd39d47-c359-4438-a05d-9d59e55959bd" cert="low">Coatzacoalcos</name>, al padre fray Martín Valencia, al primer virrey 
 don Antonio de Mendoza y a Alvar Núñez de Guzmán.
 Estos dos últimos retratos dice que eran de cuerpo 
-entero y que los poseyó <name type="person" ref="http://viaf.org/viaf/9149365888285600495">Boturini</name><note>Lorenzo Boturini Benaducci (Sondrio, <hi rend="italic">ca.</hi>1702-Madrid, 1755). Historiador,
+entero y que los poseyó <name type="person" xml:id="recogito-8598b7d8-5fe7-4f84-a3fa-93a6ff8ed60b" ref="http://viaf.org/viaf/9149365888285600495">Boturini</name><note target="recogito-8598b7d8-5fe7-4f84-a3fa-93a6ff8ed60b" resp="MTRS">Lorenzo Boturini Benaducci (Sondrio, <hi rend="italic">ca.</hi>1702-Madrid, 1755). Historiador,
 anticuario y cronista de las culturas indígenas de la Nueva España. Promotor de la devoción a la Virgen de Guadalupe.</note>,
 según una de las
 partidas del inventario que se formó de los objetos que le
@@ -103,15 +110,15 @@ quitaron. Añade que acaso la mejor pintura de
 Cifuentes es una que representa el bautismo de Magiscatzin,
 donde están retratados éste y doña <name type="person">Marina</name>, y que ese 
 cuadro se salvó del incendio en que perecieron muchos
-otros en la casa de los marqueses del Valle el año 1652,
+otros en la casa de los marqueses del Valle el año <date when="1652">1652</date>,
 por haberlo antes regalado <name type="person">Cortés</name> a los padres de San
-Francisco de <name type="place">Tlaxcala</name>, en cuyo convento asegura que
+Francisco de <name type="place" ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:1005092" xml:id="recogito-f4348f39-de07-42d4-ae93-1800e7b0a76e" cert="high">Tlaxcala</name>, en cuyo convento asegura que
 está. Dice, por último, que el artista era disipado y
 que perdía en el juego cuanto ganaba con sus
-pinceles.<hi rend="supercript">5</hi></p><note type="bibliográfica" xml:id="nota5"><hi rend="superscript">5</hi> <bibl>En 
-el <title><hi rend="italic">Diccionario 
-universal de historia y de geografía</hi></title>, que con
-amplias adiciones reimprimió en México don Rafael Rafael, 1853, tomo 2, p. 314.</bibl></note>
+pinceles.<hi rend="supercript">5</hi><note type="bibliográfica" xml:id="nota5"><hi rend="superscript">5</hi> 
+<bibl>En el <title rend="italic">Diccionario 
+universal de historia y de geografía</title>, que con
+amplias adiciones reimprimió en México don Rafael Rafael, 1853, tomo 2, p. 314.</bibl></note></p>
 </sp>
 <sp>
 <speaker>Pesado</speaker>

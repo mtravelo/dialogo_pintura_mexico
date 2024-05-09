@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo065.jpg" xml:id="p65"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="65" facs="#p65"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>admita por discípulo a hombre de color quebrado; que
+todo el que pretenda matricularse compruebe antes
+que es español; y que si a pesar de todo se introdujere
+alguno que no lo sea, se le eche de la escuela luego que
+se descubra.<hi rend="superscript">53</hi><note type="bibliográfica" xml:id="nota53"><hi rend="superscript">53</hi> 
+<cit><quote>«Ninguno puede recibir discípulos de color quebrado; y el que contra
+este Estatuto lo ejecutare, se los expelerá la Junta cuando lo sepa.
+Mas el profesor que hubiere de recibir discípulos, ha de ser pintor 
+declarado por esta Academia. Siendo, como se ordena, él facultativo,
+cuando se le lleve un niño, deberá saber que sea español y de buenas
+costumbres. Y hará una inspección del genio del dicho; y será como
+se ha acostumbrado que es de mostrarle un ojo dentro de un círculo,
+con todo su repartimiento, y otro actuado de claro y oscuro, 
+instruyéndole el modo de esta operación, dándole tiempo suficiente para la
+ejecucion. Y si conociere que el genio del niño es competente para 
+que pueda aprovechar en esta facultad (que no todos lo pueden 
+conseguir, porque para ésta y la poesía es fuerza nacer con estas gracias),
+le ordenará vaya a casa del secretario, y le diga cómo quiere aprender
+esta facultad con aquel maestro: y dicho secretario reconocerá, 
+llevando este dicho niño su fe de bautismo, si es de la calidad dicha. Y si 
+acaso ocurriere alguno con empeño para recepción, que no tuviere estas 
+condiciones, le dirá no se puede recibir, por estar prevenido por estatuto:
+y si no es como se dice, sino de calidad, etcétera, lo matriculará en su 
+libro, y le dará un billete para que lo reciban; y sólo de este modo se 
+recibirán los discípulos, y no de otra manera: con lo que no llorarán los
+futuros lo que hasta aquí los presentes».</quote></cit> <bibl><title rend="italic">Estatutos o 
+constituciones que deberá observar y guardar la Academia de la muy noble
+e inmemorial arte de la Pintura</title>, cap. 92.</bibl> Estos estatutos están firmados por
+Miguel Cabrera, presidente; José Manuel Domínguez, primer director;
+Miguel Espinosa de los Monteros; Juan Patricio Morlete Ruiz,
+segundo director; Pedro de Quintana, director; Francisco Antonio
+Vallejo, tercer director; José de Alcíbar, director. Ante mí, 
+Lorenzo Barba Figueroa, secretario.</note>
+Los profesores muestran temer que el
+arte valga menos, y aun llegue a envilecerse, si es 
+ejercitado por otras manos. Raro sentir en maestros que
+todo se lo debían a su mérito individual.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Paréceme que eso que cuentas hace poco verosímil la
+voz que algunos traen en México de que Cabrera era
+un indio zapoteca, nacido en Oaxaca, que vino a la
+capital en tiempo y por motivos que se 
+ignoran.<hi rend="superscript">54</hi><note type="bibliográfica" xml:id="nota54"><hi rend="superscript">54</hi> 
+<bibl><title rend="italic">Diccionario universal de historia y de geografía</title>, reimpreso por
+Rafael, artículo «Cabrera».</bibl> Este artículo está suscrito con las iniciales de
+don Manuel Orozco y Berra, persona muy instruida en nuestra historia.
+Yo siento que no se me haya ofrecido ocasión antes de ahora de 
+presentarle los motivos de duda que tengo respecto de algunas de las aserciones
+contenidas en aquella pequeña biografía, pues me habría sido 
+grato discutirlos con persona tan capaz de dar voto en la materia.</note> 
+Si tal hubiera sido, no habría escrito y firmado en los 
+estatutos un artículo que sería una ejecutoria de degradación
+para él y los suyos.</p>
+</sp>
+<sp who="Couto">
+<speaker></speaker>
+<p>En cuanto al lugar de su nacimiento, la tradición oral,
+que de mozo alcancé yo entre los pintores de México,
+lo hacía natural de la Villa de San Miguel el Grande en
+el departamento de Guanajuato, y respecto de su 
+origen, además de la reflexión que acabas de hacer, la 
+colocación que tuvieron dos de sus hijas contradice el que
+has mencionado.<hi rend="superscript">55</hi><note type="explicativa" xml:id="nota55"><hi rend="superscript">55</hi> 
+Entraron de religiosas en el convento de capuchinas españolas de
+esta ciudad. La primera, doña Luisa, no pudo permanecer en el claustro
+por falta de salud. La segunda, doña Mariana, profesó, vivió allí largos
+años, y murió en nuestra época. La madre de ambas, y mujer de 
+Cabrera, era doña Ana María Solano. Estos pormenores están sacados de la
+carta de edificación que, según la costumbre de las capuchinas, se 
+imprimió a su muerte. Quien haya conocido la inviolable persistencia de
+aquella comunidad en guardar sus reglas y usos se persuadirá de que
+no habría habido empeño ni valimiento que la hiciese admitir a una
+pretendiente a quien faltara alguna de las calidades requeridas.
+Mucho más cuando para ocurrir a casos de esta clase estaba fundado desde
+el primer tercio del siglo <num value="18">XVIII</num>, por el virrey marqués de Valero, el convento
+de capuchinas indias de Corpus Christi.</note>
+</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>¿Y de su vida qué ha rastreado usted? Holgaría de
+saber algo de tan señalado artista.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

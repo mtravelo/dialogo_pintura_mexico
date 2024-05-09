@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo050.jpg" xml:id="p50"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="50" facs="#p50"/>
+<sp who="Calvé">
+<speaker></speaker>
+<p>constara que todas son de un autor, yo diría que entre
+aquella y éstas había mediado un siglo, según lo que 
+varía el colorido.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Yo no sé si la novedad hecha por Juan Rodríguez 
+debe atribuirse, al menos en parte, a inspiración venida
+de fuera, esto es, al deseo de imitar las obras que desde
+el siglo <num value="16">XVI</num> pudieron empezar a llegar de pintores 
+sevillanos, y señaladamente del gran Bartolomé Murillo.
+Sabemos que éste, en su primera época, antes de ir a
+Madrid, se mantenía en Sevilla pintando de feria, como
+dice Palomino, y que aun hizo una partida de pinturas 
+para cargazón de Indias, con la cual adquirió un pedazo de
+caudal para costear el viaje. Muy probable es que algo de
+ello viniera a México. Además, se cree que la 
+hermosísima Virgen que llaman de Belén, y está en el coro de
+Catedral, fue un don que, viviendo todavía el pintor,
+hizo a este cabildo un obispo que pasó para las Filipinas
+y se consagró aquí. Si la tradición es fiel, Juan Rodríguez 
+debió ver aquel egregio cuadro, que en un 
+hombre de su talento bastaba para que nacieran nuevas ideas
+sobre el arte. Por último, consta que de los dos hijos de
+Murillo, el mayor, don Gabriel, sujeto de grande habilidad
+en la pintura, y de mayores esperanzas, vino a 
+Indias, y en ellas murió bien mozo, si bien vivía todavía
+al tiempo del fallecimiento de su padre, acaecida en
+Sevilla el año de <date when="1682">1682</date>. ¿No puede ser la Nueva España el
+punto adonde viniera? Algunos lo han creído así y aun
+sospechan que varias de las pinturas que entre nosotros
+corren con nombre de Murillo son del hijo y no del</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

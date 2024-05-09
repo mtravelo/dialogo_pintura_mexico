@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo018.jpg" xml:id="p18"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="18" facs="#p18"/>
+<sp who="Calvé">
+<speaker></speaker>
+<p>primeros destellos de la escuela llamada del Renacimiento,
+cabalmente a la sazón que Hernán Cortés guerreaba en
+México por conquistar este imperio. Creció luego 
+aquella luz en manos de su discípulo Gaspar Becerra, 
+pintor, escultor y arquitecto, que fue como Berruguete a
+estudiar en Italia. Tras él porción de españoles volaron
+a la culta península, y de regreso a la patria esparcieron
+entre nosotros la doctrina que allí habían cogido. Así
+lo hicieron el mudo Navarrete, Vicente Joannes, el 
+célebre Pablo de Céspedes, Francisco Ribalta, Pedro de
+Villegas, mi paisano el catalán Mingot y otros.
+Además, algunos artistas extranjeros de alto mérito, como
+el Ticiano, vinieron a trabajar en España, atraídos de la
+regia munificencia de Carlos <num type="ordinal" value="5">V</num>y 
+Felipe <num type="ordinal" value="2">II</num>. De esa 
+manera se formó dentro del siglo <num value="16">XVI</num> la esclarecida 
+escuela española que en el siguiente tuvo hombres como 
+Velázquez, Murillo y Ribera, y de la cual procede y es 
+una rama esta de 
+México.<hi rend="superscript">17</hi><note type="bibliográfica" xml:id="nota17"><hi rend="superscript">17</hi> <bibl>Véanse sobre todo 
+esto la excelente oración pronunciada por el señor
+Jovellanos en la Academia de San Fernando de Madrid el año de 1781
+(tomo 2 de sus obras, p. 120, edición de don León Amarita, Madrid,
+1830), y a <author>Ceán Bermúdez</author> en la introducción del <title>Diccionario histórico
+de los profesores de bellas artes en España</title>, y en los artículos de
+los artistas del siglo <num value="16">XVI</num>; en el tomo 6 hay catálogos cronológicos
+de todos.</bibl></note></p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Lo que es el arte de copiar, o sea, reproducir 
+fielmente en la obra que se hace la obra que se toma por 
+dechado, parece cierto que había adelantado bastante en
+manos de los alumnos mexicanos de aquella época. 
+Torquemada asegura que si bien en tiempo de la gentilidad
+no sabían hacer hombres hermosos, después que fueron 
+cristianos y vieron los cuadros que se traían de Europa,
+no había retablo ni imagen por prima que fuese que no 
+la retrataran y contrahicieran.<hi rend="superscript">18</hi><note type="bibliográfica" xml:id="nota18"><hi rend="superscript">18</hi> 
+<bibl>Lib. 17, cap. 1 de la <title rend="italic">Monarquía indiana</title>.</bibl></note>
+Lo mismo había escrito
+el padre Motolinía.<hi rend="superscript">19</hi><note type="bibliográfica" xml:id="nota19"><hi rend="superscript">19</hi> 
+<bibl><title rend="italic">Historia de los indios 
+de Nueva España</title>, tratado 3o., cap. 13, edición de García Icazbalceta.</bibl></note>
+ nuestro buen Bernal Díaz del
+Castillo no sólo dice que los lapidarios y pintores que</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

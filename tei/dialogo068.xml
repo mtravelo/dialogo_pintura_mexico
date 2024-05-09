@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <biblStruct>
+                <monogr>
+                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo068.jpg" xml:id="p68"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="68" facs="#p68"/>
+<sp who="Couto">
+<speaker></speaker>
+<p>Ibarra, Osorio, Juan Patricio, Alcíbar y Arnáez, el
+juicio que se expone en la Maravilla americana. Entre las
+pinturas de San Ildefonso, una tiene fecha de <date when="1761">1761</date> y
+otra de <date when="1764">1764</date>, año en que aún vivía Cabrera; finalmente,
+la de la Universidad es de <date when="1774">1774</date>. Esta última es una 
+especie de cuadro votivo o conmemoratorio, mandado 
+pintar por el claustro cuando Carlos <num type="ordinal" value="3">III</num> alcanzó del 
+pontífice Clemente <num type="ordinal" value="14">XIV</num> que se pusiera en la letanía de la
+Virgen la deprecación Mater inmaculata. El fondo de
+la composición lo forma la perspectiva de un grande
+edificio, dentro del cual, en el plano inferior, aparecen
+arrodillados el papa, el rey, el arzobispo Lorenzana y
+el virrey Bucareli. Tras ellos, por uno y otro lado, hay
+grupos de estudiantes. En un segundo plano aéreo está
+la Santísima Virgen en el centro sobre nubes, los
+cuatro doctores que llaman marianos, san Pablo y santa
+Catarina, tutelares de la Universidad, y santo Tomás,
+san Juan Nepomuceno y san Luis Gonzaga, patronos
+de los estudios. La figura de la Virgen, en especial, es
+bella.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Debe sentirse que ese interesante cuadro haya sufrido
+bastante por el desabrigo del sitio en que está.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Afortunadamente los de San Ildefonso se conservan
+bien. Uno, que hay en el General Chico, representa la
+muerte de san Javier. El cadáver del apóstol de las 
+Indias, en tierra, apoyado sobre una piedra, y al raso</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>
