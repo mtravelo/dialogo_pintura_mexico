@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -68,14 +68,14 @@
 <sp who="Couto">
 <speaker></speaker>
 <p>de Paredes en <date when="1680">1680</date>, y cuya pomposa descripción nos
-ha dejado don Carlos de Sigüenza en el Teatro de 
-virtudes políticas. De José Rodríguez dice que sólo era
+ha dejado don Carlos de Sigüenza en el <title><hi rend="italic">Teatro de 
+virtudes políticas</hi></title>. De José Rodríguez dice que sólo era
 inferior a los antiguos en la edad, y que a retratos hechos
 por él no faltó quien los saludara como vivos. Igual le
 parece Alvarado en la valentía del dibujo y en la 
 elegancia del colorido.<hi rend="superscript">40</hi><note type="bibliográfica" xml:id="nota40"><hi rend="superscript">40</hi> 
-<bibl><title rend="italic">Teatro de 
-virtudes políticas que constituyen a un príncipe</title>, § 2.</bibl></note>
+<bibl><title><hi rend="italic">Teatro de 
+virtudes políticas que constituyen a un príncipe</hi></title>, § 2.</bibl></note>
 Pero hay que recordar que aquel
 erudito escritor era inclinado como pocos a la hipérbole.
 También debieron existir hacia la misma época José
