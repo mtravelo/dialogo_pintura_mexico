@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -84,24 +84,28 @@ principio no vendrían a las Américas cuadros y
 modelos de primera clase.</p>
 </sp>
 <sp who="Couto">
-<speaker>Coouto</speaker>
+<speaker>Couto</speaker>
 <p>Alguna muestra de lo que venía se ha conservado 
 hasta nuestro tiempo y por ahí puede juzgarse. El 
 Santo Cristo de bulto que está en el retablo principal de la
 capilla, que llaman de reliquias en Catedral, contigua a
-la sacristía, fue un presente de Carlos V a la iglesia
+la sacristía, fue un presente de Carlos <num type="ordinal" value="5">V</num> a la iglesia
 metropolitana.<hi rend="superscript">16</hi><note type="bibliográfica" xml:id="nota16"><hi rend="superscript">16</hi> 
 <bibl><author>Sariñana</author>, 
-<title rend="italic">Noticia de la deseada y última dedicación del templo
-metropolitano de México</title>, en 22 de diciembre de 1667, p. 26, vuelta.</bibl></note></p>
+<title><hi rend="italic">Noticia de la deseada y última dedicación del templo
+metropolitano de México</hi></title>, en <date when="1667-12-22">22 de diciembre de 1667</date>, p. 26, vuelta.</bibl></note></p>
 </sp>
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Decía yo que no vendrían en los primeros tiempos
 obras muy importantes, porque en España misma 
 empezaba entonces a introducirse el arte que ha prevalecido
-en los tres últimos siglos. Alonso Berruguete, discípulo
-de Miguel Ángel, volviendo de Italia, nos traía los</p>
+en los tres últimos siglos. <name type="person" ref="http://viaf.org/viaf/106962913">Alonso Berruguete</name>,<note>Alonso Berruguete (Paredes de Nava, <hi>ca.</hi> 1486-Toledo, 1561). 
+Escultor y pintor español, representante del estilo manierista escultórico.</note> discípulo
+de <name type="person" ref="http://viaf.org/viaf/24585191">Miguel 
+Ángel</name>,<note type="editorial" resp="MTRS">Michelangelo di Lodovico Buonarroti Simoni (Caprese, 1475-Roma, 1564). Arquitecto, escultor y pintor italiano, 
+gran figura del Renacimiento que desarrolló su labor artística en Florencia y Roma.</note> 
+volviendo de Italia, nos traía los</p>
 </sp>
 </div>
 </body>

@@ -17,7 +17,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -65,12 +65,12 @@
 <div>
 <pb n="12" facs="#p12"/>
 <sp who="Couto">
-<p>hubiera retratado en <name type="place">Coatzacoalcos</name> a doña <name type="persona">Marina</name> porque
+<p>hubiera retratado en <name type="place">Coatzacoalcos</name> a doña Marina porque
 sólo se detuvieron allí seis días y para entonces había
-ella roto sus relaciones con <name type="person">Cortés</name>, habiéndose casado
+ella roto sus relaciones con Cortés, habiéndose casado
 durante el viaje, en un pueblezuelo cerca de <name type="place">Orizaba</name>, con
 Juan de Jaramillo, uno de los capitanes de la 
-expedición;<hi rend="superscript">7</hi><note type="bibliográfica" xml:id="nota7"><hi rend="superscript">7</hi><bibl><author>Bernal Díaz</author>, en el mismo capítulo.</bibl></note>
+expedición;<hi rend="superscript">7</hi><note type="bibliográfica" xml:id="nota7"><hi rend="superscript">7</hi> <bibl><author>Bernal Díaz</author>, en el mismo capítulo.</bibl></note>
 que no pueden haberse pintado cuadros para 
 iglesia fundada por franciscanos en <name type="city">Tehuantepec</name> por la
 sencilla razón de que aquellos padres no hicieron 
@@ -91,19 +91,19 @@ de cabeza.</p>
 </sp>
 <sp>
 <speaker>Clavé</speaker>
-<p>Yo he leído en el viaje del italiano Beltrami, que 
+<p>Yo he leído en el viaje del italiano <name type="person" ref="http://viaf.org/viaf/169272">Beltrami</name>, que 
 estuvo acá por los años de <date when="1824">1824</date> y <date when="1825">1825</date>, que el primer pintor
-europeo que ilustró a <name type="place">México</name> después de la conquista,
+europeo que ilustró a México después de la conquista,
 fue un tal <name type="person">Arteaga</name> y que tras él vino <name type="person">Cristóbal de 
 <hi rend="italic">Villalando</hi></name>; y dice que del primero vio una Visitación de la
 Virgen en Santa Teresa la Antigua, y del segundo 
 soberbias pinturas en San Francisco y San Agustín.<hi rend="superscript">9</hi><note type="bibliográfica" xml:id="nota9"><hi rend="superscript">9</hi> 
-<bibl><title rend="italic">Le Mexique</title>, París, 1830, tomo 2, carta XI, p. 203</bibl> .</note></p>
+<bibl><title><hi rend="italic">Le Mexique</hi></title>, París, 1830, tomo 2, carta XI, p. 203</bibl>.</note></p>
 </sp>
 <sp>
 <speaker>Couto</speaker>
 <p>No son ésas las únicas ni quizá las mayores 
-equivocaciones del viajero piamontés. El pintor <name type="person">Arteaga</name> que</p>
+equivocaciones del viajero piamontés. El pintor Arteaga que</p>
 </sp>
 </div>
 </body>

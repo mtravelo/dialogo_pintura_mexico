@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -74,7 +74,7 @@ mejores joyas. Pero le recuerdo que en una imagen de
 Cristo crucificado, que juntos examinamos usted y yo en
 la sacristía de la Colegiata de Guadalupe, hace ya algún
 tiempo, leemos que había sido hecha por Sebastián de
-Arteaga el año de <date when="1643">1643</date>.<hi rend="superscript">10</hi><note type="explicativa" xml:id="nota10">
+Arteaga el año de <date when="1643">1643</date>.<hi rend="superscript">10</hi><note type="bibliográfica" xml:id="nota10">
 <p><hi rend="superscript">10</hi> La inscripción que tiene abajo dice a la letra: «Puso este santo
 crucifijo por su devoción en este tribunal del santo oficio de la Inquisición
 Sebastián de Arteaga notario de él. Año 1643 Ft.»</p>
@@ -83,19 +83,19 @@ que erradamente pudieran tomarse por primitivas en la historia del
 arte en México. Son las siguientes:</p>
 <p>1a. En el presbiterio de la iglesia de Guadalupe hay un cuadro de algún 
 algún mérito, que representa una procesión en que es conducida la
-imagen a su templo. Veytia dice que probablemente fue pintado hacia 1531,
+imagen a su templo. Veytia dice que probablemente fue pintado hacia <date when="1531">1531</date>,
 y que aquella procesión es en la que se llevó la Virgen a la primera
-ermita que se le construyó (<bibl><title rend="italic">Baluartes de México</title>, pp. 23-25</bibl>). A
+ermita que se le construyó (<bibl><title><hi rend="italic">Baluartes de México</hi></title>, pp. 23-25</bibl>). A
 los ojos de los profesores la obra presenta los rasgos característicos de la
 escuela mexicana a mediados del siglo siguiente. Además, en el 
 cuadro hay dos inscripciones, una española y otra mexicana. Al pie de 
-ésta se lee: <cit><quote>«a devoción de Diego de la Concepción y José Ferrer: año 1653»</quote></cit>.
+ésta se lee: <cit><quote>«a devoción de Diego de la Concepción y José Ferrer: año <date when="1653">1653</date>»</quote></cit>.
 Ésta es la letra que se ponía en obras de esa clase para señalar a las 
 personas que las habían mandado hacer. De las dos inscripciones, han
 hablado Cabrera, <bibl><title rend="italic">Escudo de armas de México</title>, § 703</bibl>, el mismo Veytia en
 el lugar citado, don <bibl><author>Juan B. Muñoz</author> en el § 21 de su <title>Memoria sobre las
 apariciones</title></bibl>, y el doctor <bibl><author>Alcocer</author> en el cap. XI, § 2 de 
-su<title rend="italic">Apología</title></bibl>. Hoy
+su <title rend="italic">Apología</title></bibl>. Hoy
 aparece en el cuadro una tercera inscripción que dice que en mil 
 setecientos noventa y tantos un cura de allí los hizo limpiar y aceitar. Las
 tres leyendas parecen ahora de un tiempo y en la vieja española está
@@ -112,21 +112,21 @@ hubieran sido hechos aquí y tomados inmediatamente de los originales; pero
 tengo el sentimiento de creer que no reúnen esa doble calidad. He 
 examinado de cerca la del Museo, gracias a la bondad de su sabio 
 conservador el señor don Fernando Ramírez, y daré sobre ella algún pormenor.
-Consta de 62 cuadros, todos de tamaño uniforme, las figuras de medio
+Consta de <num type="cardinal" value="62">62</num> cuadros, todos de tamaño uniforme, las figuras de medio
 cuerpo en pie y sin otra cosa al fondo, en los dos primeros siglos, que
 el escudo de armas de cada virrey. Empieza la colección por el
 conquistador don Fernando Cortés y acaba en el teniente general don Juan
-O’Donojú que celebró en 1821 el tratado de Córdoba. Don Luis de
+O’Donojú que celebró en <date when="1821">1821</date> el tratado de Córdoba. Don Luis de
 Velasco el Segundo está duplicado por haber sido dos veces virrey; pero el
 segundo retrato es simple copia del primero, con leves variaciones en cosas 
 accesorias. En el de Cortés se recortó alrededor del rostro el lienzo en que
 primero estuvo, y sobre el pedazo que se agregó de nueva tela se 
 escribió el letrero y se pintó el escudo, que por cierto no es el que concedió
-Carlos V al conquistador, y usaron los marqueses del Valle. El retrato
+Carlos <num type="ordinal" value="5">V</num> al conquistador, y usaron los marqueses del Valle. El retrato
 en sí mismo tiene semejanza con el que hay en el Hospital de Jesús y
 ambos parecen copias regulares de un original cuyo paradero
 ignoramos. Los de los diez primeros virreyes hasta don Luis de Velasco el Segundo,
-que acabó en 1611, son en lo general de mérito; algunos de ellos lo 
+que acabó en <date when="1611">1611</date>, son en lo general de mérito; algunos de ellos lo 
 tienen muy señalado, como el de don Martín Enríquez, el del conde de
 la Coruña y el del joven marqués de Montesclaros. Pero ninguno
 presenta rasgos de la escuela mexicana, si no es acaso el del señor don 
@@ -170,7 +170,7 @@ repetirse. Si entre nuestros pintores conocidos se ha de hacer juicio
 comparativo respecto del arte del retrato, el primer lugar toca de justicia
 a Juan Rodríguez, el segundo pudieran pretenderlo su hermano
 Nicolás y Juan Patricio. Al lado del primero estarían los que copiaron a
-los virreyes del siglo XVI, si sus retratos se hubieran hecho aquí;
+los virreyes del siglo <num value="16">XVI</num>, si sus retratos se hubieran hecho aquí;
 pero vuelvo a decir que no tienen sabor de obra mexicana, y pertenecen
 a un periodo en que el arte empezaba a introducirse entre nosotros y
 no contaba aún profesores (al menos que conozcamos) capaces de 

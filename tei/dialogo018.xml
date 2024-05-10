@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
 <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -18,7 +17,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -80,7 +79,7 @@ célebre Pablo de Céspedes, Francisco Ribalta, Pedro de
 Villegas, mi paisano el catalán Mingot y otros.
 Además, algunos artistas extranjeros de alto mérito, como
 el Ticiano, vinieron a trabajar en España, atraídos de la
-regia munificencia de Carlos <num type="ordinal" value="5">V</num>y 
+regia munificencia de Carlos <num type="ordinal" value="5">V</num> y 
 Felipe <num type="ordinal" value="2">II</num>. De esa 
 manera se formó dentro del siglo <num value="16">XVI</num> la esclarecida 
 escuela española que en el siguiente tuvo hombres como 
@@ -90,8 +89,8 @@ México.<hi rend="superscript">17</hi><note type="bibliográfica" xml:id="nota17
 esto la excelente oración pronunciada por el señor
 Jovellanos en la Academia de San Fernando de Madrid el año de 1781
 (tomo 2 de sus obras, p. 120, edición de don León Amarita, Madrid,
-1830), y a <author>Ceán Bermúdez</author> en la introducción del <title>Diccionario histórico
-de los profesores de bellas artes en España</title>, y en los artículos de
+1830), y a <author>Ceán Bermúdez</author> en la introducción del <title><hi rend="italic">Diccionario histórico
+de los profesores de bellas artes en España</hi></title>, y en los artículos de
 los artistas del siglo <num value="16">XVI</num>; en el tomo 6 hay catálogos cronológicos
 de todos.</bibl></note></p>
 </sp>
@@ -106,11 +105,11 @@ no sabían hacer hombres hermosos, después que fueron
 cristianos y vieron los cuadros que se traían de Europa,
 no había retablo ni imagen por prima que fuese que no 
 la retrataran y contrahicieran.<hi rend="superscript">18</hi><note type="bibliográfica" xml:id="nota18"><hi rend="superscript">18</hi> 
-<bibl>Lib. 17, cap. 1 de la <title rend="italic">Monarquía indiana</title>.</bibl></note>
+<bibl>Lib. 17, cap. 1 de la <title ><hi rend="italic">Monarquía indiana</hi></title>.</bibl></note>
 Lo mismo había escrito
 el padre Motolinía.<hi rend="superscript">19</hi><note type="bibliográfica" xml:id="nota19"><hi rend="superscript">19</hi> 
-<bibl><title rend="italic">Historia de los indios 
-de Nueva España</title>, tratado 3o., cap. 13, edición de García Icazbalceta.</bibl></note>
+<bibl><title ><hi rend="italic">Historia de los indios 
+de Nueva España</hi></title>, tratado 3o., cap. 13, edición de García Icazbalceta.</bibl></note>
  nuestro buen Bernal Díaz del
 Castillo no sólo dice que los lapidarios y pintores que</p>
 </sp>

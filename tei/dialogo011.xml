@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
 <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,7 +17,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -94,10 +92,10 @@ número, ni en la multitud de manuscritos de todas
 clases que en el espacio de largos años han pasado por sus
 manos encontró jamás referencia ni alusión al artista
 sacado a luz por el señor Cortina; que el hecho de haber
-acompañado a Cortés en su jornada de las <name type="place">Hibueras</name> 
+acompañado a Cortés en su jornada de las Hibueras
 sufre la grave objeción de que no aparece su nombre en
 la menuda lista que nos da n<name type="person" ref=" http://viaf.org/viaf/59081563">Bernal 
-Díaz</name><note>Bernal Díaz del Castillo (Medina del Campo, 1496-Santiago de 
+Díaz</name><note type="editorial" resp="MTRS">Bernal Díaz del Castillo (Medina del Campo, 1496-Santiago de 
 Guatemala, 1584). Conquistador que acompañó a Cortés en la expedición que culminó con la caída de México-Tenochtitlan. Se le atribuye 
 la crónica sobre los aconteciemientos relacionados con la 
 conquista.</note><hi rend="superscript">6</hi><note type="bibliográfica" xml:id="nota6"><hi rend="superscript">6</hi> 

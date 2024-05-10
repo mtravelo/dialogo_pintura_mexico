@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
 <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -18,7 +17,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -78,18 +77,18 @@ Vázquez, insigne pintor europeo, quien introdujo buena
 doctrina que siguieron Juan de Rúa y otros.<hi rend="superscript">21</hi><note type="bibliográfica" 
 xml:id="nota21"><hi rend="superscript">21</hi> <bibl><author>Cabrera</author> copió este 
 fragmento de Ibarra en la p. 10 de su <title><hi rend="italic">Maravilla americana</hi></title>, impresa en México en la imprenta del Colegio de
-San Ildefonso el año 1756.</bibl></note>
+San Ildefonso el año <date when="1756">1756</date>.</bibl></note>
 Por don Carlos de Sigüenza y Góngora sabemos que las 
 pinturas del altar mayor de la capilla de la Universidad, 
 dedicada a santa Catarina Mártir, eran de mano del 
 «excelentísimo pintor Alonso Vázquez»; que fueron su
 última obra; y que con ellas hizo un presente a la
 Universidad el virrey marqués de Montesclaros, quien
-gobernó desde <date when="1603">1603</date> hasta <date when="1607">1607</date>.<hi rend="superscript">22</hi><note type="explicativa" xml:id="nota22">
+gobernó desde <date when="1603">1603</date> hasta <date when="1607">1607</date>.<hi rend="superscript">22</hi><note type="bibliográfica" xml:id="nota22">
 <!-- cita 2 dentro de cita 1 -->
 <p>Describiendo uno de los altares que se pusieron en los corredores
 de la Universidad en las funciones hechas a la Purísima en enero de
-1682, dice que había en él <cit type="cita1"><quote>«dos valientes imágenes, la una del arcángel
+<date>1682</date>, dice que había en él <cit type="cita1"><quote>«dos valientes imágenes, la una del arcángel
 gel san Miguel, príncipe de la milicia celestial y protector de la Iglesia,
 a cuyos pies yacía por triunfo de su diestra, el dragón antiguo, y
 la otra de la elegantísima Virgen Santa Catarina Mártir, a quien 
@@ -121,14 +120,14 @@ Tampoco he visto nada de Andrés de Concha,
 celebradísimo de sus contemporáneos, entre otros,
 de Bernardo de Balbuena en la Grandeza mexicana. Consta que hizo
 las pinturas del túmulo erigido por la Inquisición
-para las exequias de Felipe <num type="ordinal" value="2">II</num> en 1599 y el retablo que
+para las exequias de Felipe <num type="ordinal" value="2">II</num> en <date when="1599">1599</date> y el retablo que
 poco antes se había puesto en San Agustín<hi rend="superscript">23</hi><note type="bibliográfica"
  xml:id="nota23"><hi rend="superscript">23</hi> <bibl><title><hi rend="italic">Relación histórica de las exequias 
 funerales del rey don Philippo II N.S., hechas por el Tribunal del Santo Oficio de la Inquisición de
 esta Nueva España</hi></title>, etcétera, México, 1600.</bibl></note> 
 y que si
 estuvo en la antigua iglesia, probablemente perecería
-en el incendio de la noche del 11 de diciembre de 1676.
+en el incendio de la noche del <date when="1676-12-11">11 de diciembre de 1676</date>.
 Mas para juzgar en globo como Ibarra, Balbuena y los
 demás, quiero decir, para creer que hubo ya en el 
 siglo <num value="16">XVI</num> pintores bien aleccionados en México, me</p>

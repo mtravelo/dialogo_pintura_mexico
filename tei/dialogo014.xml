@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -69,7 +69,8 @@
 <speaker></speaker>
 <p>misioneros. El documento más antiguo que conozco en
 el particular es la carta del primer obispo de Tlaxcala,
-don fray Julián Garcés, al papa Paulo <num type="ordinal" value="2">II</num>, que debió 
+don fray <name type="person" ref="http://viaf.org/viaf/53980718">Julián Garcés</name>, <note type="editorial" resp="MTRS">Julián Garcés (Zaragoza, 
+1452-Tlaxcala, 1542). Religioso dominico, primer obispo de la Nueva España y protector de los indígenas.</note> al papa Paulo <num type="ordinal" value="2">II</num>, que debió 
 escribirse cuando más tarde en <date when="1537">1537</date>. En ella habla de las
 escuelas que en los conventos se habían establecido 
 para los indios y solían contener hasta trescientos, 
@@ -83,13 +84,16 @@ quingenteni, et sic de singulis ordinatim secundum magnitudinem
 civitatum et oppidorum... Jam vero ingenii docilitas supra 
 modum, ceu cantare jubeas, seu legere, scribere, pingere fingere ceteraque
 id genus liberalium artium et aliarum, ad rudimenta omnia perspicaces»</quote></cit> etcétera. 
-<bibl> <author> Dávila Padilla</author>, <title rend="italic">Historia de la fundación y discurso de la 
-Provincia de Santiago de México de la orden de Predicadores</title>, lib. 1o., cap.
+<bibl> <author> Dávila Padilla</author>, <title><hi rend="italic">Historia de la fundación y discurso de la 
+Provincia de Santiago de México de la orden de Predicadores</hi></title>, lib. 1o., cap.
 42</bibl>, trae íntegra la carta. La versión española que pone en seguida me
 parece que no siempre expresa con fidelidad y exactitud lo que dice el
 original latino, como sucede en el pasaje que acabo de copiar.</note>
 De aquellas escuelas, la más célebre fue la que 
-puso en México fray Pedro de Gante en la capilla de San
+puso en México fray <name type="person" ref="http://viaf.org/viaf/56640612">Pedro 
+de Gante</name><note type="editorial" resp="MTRS">Pieter van der Moere o Pedro de Gante (Geraardsbergen, 1478-Ciudad de México, 1572). 
+Religioso franciscano,  educador  y defensor de los pueblos originarios. Fundador de la 
+escuela de San José de Belén para la nobleza indígena, primera escuela de artes y oficios.</note> en la capilla de San
 José, que él mismo edificó.</p>
 </sp>
 <sp who="Clavé">
@@ -103,11 +107,14 @@ edificio vasto, sin puertas, de muchas naves, que luego
 se redujeron a cinco. Estaba en el convento de San
 Francisco, a la banda de oriente del atrio actual, hacia 
 la parte que ocupa ahora la capilla de Servitas, antiguo 
-sitio de la casa de recreo de Moctezuma, de que hablan
+sitio de la casa de recreo 
+de <name type="person" ref="http://viaf.org/viaf/291707100">Moctezuma</name>,<note type="editorial" resp="MTRS">Moctezuma II Xocoyotzin 
+(Tenochtitlan, 1468-1520). Último soberano del imperio azteca. En su reinado se dio el primer contacto con los exploradores-conquistadores españoles que  culminó con la conquista de México-Tenochtitlan.</note> 
+de que hablan
 los conquistadores.<hi rend="superscript">12</hi><note type="bibliográfica" xml:id="nota12"><hi rend="superscript">12</hi> 
 <bibl><author>Vetancurt</author>, 
-<title rend="italic">Crónica de la Provincia del Santo Evangelio de 
-México</title>, tratado 2o., cap. 3, núm. 63.</bibl></note>
+<title><hi rend="italic">Crónica de la Provincia del Santo Evangelio de 
+México</hi></title>, tratado 2o., cap. 3, núm. 63.</bibl></note>
 Fue en México la primera
 parroquia de españoles e indios; allí se les enseñaba la 
 doctrina y se celebraba la misa; fue tambien el primer 

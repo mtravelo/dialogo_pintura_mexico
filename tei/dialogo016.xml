@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -69,7 +69,10 @@
 <speaker></speaker>
 <p>Parece ser que estuvo limitada a la simple copia de los
 cuadros y esculturas que por entonces se traían de 
-España, Italia y Flandes. El estudio del modelo natural y
+<name type="place" ref="http://histogis.acdh.oeaw.ac.at/shapes/permalink/b7da00140f1ac122dcf5217af2e48fc1/" xml:id="recogito-e5fd690f-d12d-4f05-b21d-9d4dc53a8e42" cert="high">España</name>, 
+<name type="place" ref="http://pleiades.stoa.org/places/1052" xml:id="recogito-8628fcab-36a1-4c40-855c-fadb316a44be" cert="high">Italia</name> 
+y <name type="place" ref="http://sws.geonames.org/3337388" xml:id="recogito-de3097de-8021-40f4-b35a-3451cd7f9b0c" cert="high">Flandes</name>. 
+El estudio del modelo natural y
 sobre todo la composición original, que es el ápice del
 arte, no es verosímil que entrasen en los primeros 
 ensayos que aquí se hicieron, y que seguirían la ley a que se
@@ -93,7 +96,10 @@ mira a la historia sagrada, se les dio presentándoles los
 hechos en pintura que un predicador explicaba desde
 el púlpito, señalando los personajes con una vara, como
 se ve en la estampa que sirve de portada a la obra de
-Torquemada. También se les hacían representar 
+<name type="person" ref="http://viaf.org/viaf/100236046">Torquemada</name>.<note type="editorial" resp="MTRS">Juan de  
+Torquemada (Torquemada, <hi rend="italic">ca.</hi> 1563-Ciudad de México, 1624). Misionero e historiador franciscano, 
+autor de <title><hi rend="italic">Monarquía indiana</hi></title>, obra sobre cultura antigua mexicana basada en códices, pinturas, manuscritos, testimonios orales y el trabajo de otros cronistas.</note> 
+También se les hacían representar 
 dramáticamente los sucesos, ya por medio de hombres 
 vivos, ya con santos de talla, de lo cual quedan vestigios 
 en las funciones de la Semana Mayor, que se hacen en 

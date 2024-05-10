@@ -65,20 +65,20 @@
 <div>
 <pb n="3" facs="#p3"/>
 <p>Una mañana de los últimos meses del año de <date when="1860">1860</date>,
-entrábamos en la <name type="org" xml:id="recogito-28468c49-9d1b-4da5-8efb-be1a88466d82" ref="http://viaf.org/viaf/155250580">Academia de San 
-Carlos</name><note target="recogito-28468c49-9d1b-4da5-8efb-be1a88466d82" resp="MTRS">Fundada en 1781, con el nombre de Real Academia de San Carlos de las Nobles Artes 
+entrábamos en la <name type="org" ref="http://viaf.org/viaf/155250580">Academia de San 
+Carlos</name><note type="editorial" resp="MTRS">Fundada en 1781, con el nombre de Real Academia de San Carlos de las Nobles Artes 
 de la Nueva España, por el rey de España Carlos III (Madrid, 1716-Madrid, 1788) a petición de los funcionarios 
 de la Casa de Moneda para establecer una escuela de grabado que apoyara y mejorara la producción y acuñación de
  monedas. Primera academia de artes en el continente americano, que siguió el modelo de la Real Academia de San 
  Fernando de Madrid, con tres ramas principales: arquitectura, pintura y escultura. Durante el siglo XIX su existencia 
  y permanencia fueron inestables debido a la guerra de Independencia, invasiones extranjeras y revueltas internas.</note> mi primo 
-don <name type="person" xml:id="recogito-7723c0f9-758d-4527-9e9c-651c1868fd33" ref="http://viaf.org/viaf/63665754">José Joaquín
-Pesado</name><note target="recogito-7723c0f9-758d-4527-9e9c-651c1868fd33" resp="MTRS">José Joaquín Pesado 
+don <name type="person" ref="http://viaf.org/viaf/63665754">José Joaquín
+Pesado</name><note type="editorial" resp="MTRS">José Joaquín Pesado 
 (Palmar del Bravo, 1801-Ciudad de México, 1861). Escritor, poeta y político mexicano. Militante del Partido Liberal y ministro del 
 Interior y de Relaciones Interiores y Exteriores. Miembro de la Academia de Letrán, de la Academia de la Lengua y profesor de filosofía 
 en la Universidad de México.</note>
-y <rs ref="Couto" type="person" xml:id="recogito3">yo</rs>.
-<note>Se refiere al autor del Diálogo. <name type="person" ref="http://viaf.org/viaf/70025777">José Bernardo Couto</name> (Orizaba, 1803-Ciudad de México, 1862). 
+y <rs ref="Couto" type="person">yo</rs>.<note type="editorial" resp="MTRS">Se refiere al autor 
+del <hi>Diálogo</hi>. <name type="person" ref="http://viaf.org/viaf/70025777">José Bernardo Couto</name> (Orizaba, 1803-Ciudad de México, 1862). 
 Jurista, escritor y académico mexicano. Diputado federal y senador por el Partido Liberal Moderado, 
 consejero de Estado y ministro de Justicia. Miembro de la Real Academia Española de la Lengua de Madrid.
  Presidente de la Junta Directiva de la Academia de Nobles Artes de San Carlos, en la que contribuyó en su 
@@ -86,19 +86,19 @@ consejero de Estado y ministro de Justicia. Miembro de la Real Academia Español
  europeos para impartir clases de pintura: el catalán Pelegrín Clavé (Barcelona, 1811-Barcelona, 1880), el italiano 
  Eugenio Landesio (Altessano, 1810-Roma, 1879) y el inglés George August Periam (1801-<hi rend="italic">ca.</hi> 1853).
 </note>  El director de pintura, 
-don <name type="person" xml:id="recogito-2e700e88-1d69-42d0-91c0-ed1439c48201" ref="http://viaf.org/viaf/9908023">Pelegrín 
-Clavé</name><note target="recogito-2e700e88-1d69-42d0-91c0-ed1439c48201" resp="MTRS">Pelegrín Clavé y Roque
+don <name type="person" ref="http://viaf.org/viaf/9908023">Pelegrín 
+Clavé,</name><note type="editorial" resp="MTRS">Pelegrín Clavé y Roque
 (Barcelona, 1811-Barcelona, 1880). Pintor catalán cercano al grupo de los nazarenos, pintores del romanticismo alemán, en particular 
 a Johann Friedrich Overbeck (Lubeca, 1789-Roma, 1869), a quien conoció durante una estancia en la Ciudad Eterna. En México fue director de 
 la Academia de San Carlos (1846-1868). Fue miembro de la Real Academia Catalana de Bellas Artes de San Jorge, de la Academia de Bellas Artes 
-de Brera y de la Real Academia de las Tres Nobles Artes de San Fernando de Madrid.</note>, que nos encontró acaso, aprovechó
+de Brera y de la Real Academia de las Tres Nobles Artes de San Fernando de Madrid.</note> que nos encontró acaso, aprovechó
 la ocasión de devolverme un papel que le había
 yo prestado, con apuntes de fechas y citas relativas a los
 antiguos pintores mexicanos. Informado mi primo de
 lo que era, picó aquello su curiosidad y nos propuso
 que con el papel en la mano visitáramos la sala donde
 se van poniendo los cuadros que de esos pintores adquiere
-la <name type="org" xml:id="recogito-83ccba21-ac4f-4cef-b81d-8ff2f420a8f2" ref="http://viaf.org/viaf/155250580">Academia</name>. 
+la Academia. 
 Muy de grado aceptamos la propuesta 
 el director y yo, y subido que hubimos a la sala,
 después de dar una ojeada por mayor a los cuadros,
