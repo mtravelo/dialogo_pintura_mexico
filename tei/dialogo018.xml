@@ -69,21 +69,40 @@
 <p>primeros destellos de la escuela llamada del Renacimiento,
 cabalmente a la sazón que Hernán Cortés guerreaba en
 México por conquistar este imperio. Creció luego 
-aquella luz en manos de su discípulo Gaspar Becerra, 
+aquella luz en manos de su discípulo <name type="person" ref="http://viaf.org/viaf/62471598">Gaspar Becerra</name>,<note type="editorial" resp="MTRS">Gaspar Becerra 
+(Baeza, <hi>ca</hi>. 1520-Madrid, 1570). Escultor y pintor español, personalidad destacada del Renacimiento en España.
+</note> 
 pintor, escultor y arquitecto, que fue como Berruguete a
 estudiar en Italia. Tras él porción de españoles volaron
 a la culta península, y de regreso a la patria esparcieron
 entre nosotros la doctrina que allí habían cogido. Así
-lo hicieron el mudo <name>Navarrete</name>, Vicente Joannes, el 
-célebre Pablo de Céspedes, Francisco Ribalta, Pedro de
+lo hicieron el mudo <name type="person" ref="http://viaf.org/viaf/70645009">Navarrete</name>,<note type="editorial" resp="MTRS">Juan Fernández de 
+Navarrete (Logroño, <hi rend="italic">ca.</hi> 1538-Madrid, 1579). 
+Pintor español que destacó en la segunda mitad del siglo <num value="16">XVI</num> y participó en la decoración del monasterio de El Escorial</note> 
+<name type="person" ref="http://viaf.org/viaf/95686704">Vicente Joannes</name>,<note type="editorial" resp="MTRS">Vicente Macip Comes, conocido como Vicente Joannes
+(¿Valencia?, <hi rend="italic">ca.</hi> 1555-Valencia, <hi rend="italic">ca.</hi> 1623). Pintor español renacentista, nieto  de Vicente Macip e hijo de Juan de Juanes.</note> 
+el célebre <name type="person" ref=" http://viaf.org/viaf/5737049">Pablo de Céspedes</name>,<note type="editorial" resp="MTRS">Pablo Céspedes (¿Córdoba?, <hi rend="italic">ca.</hi> 1538/1548-Córdoba, 1608). 
+Pintor, escultor, poeta y humanista del renacimiento y manierismo español.
+</note> 
+<name type="person" ref="http://viaf.org/viaf/37712445">Francisco Ribalta</name>,<note type="editorial" resp="MTRS">Francisco de Ribalta (Lérida, 1565-Valencia, 1628). Pintor español de estilo barroco que cultivó el naturalismo y un intenso claroscuro.</note> 
+Pedro de
 Villegas, mi paisano el catalán Mingot y otros.
 Además, algunos artistas extranjeros de alto mérito, como
-el Ticiano, vinieron a trabajar en España, atraídos de la
+el <name type="person" ref="http://viaf.org/viaf/109266837">Ticiano</name>,<note type="editorial" resp="MTRS">
+Tiziano Vecellio di Gregorio, conocido como Tiziano o Tiaciano (Pieve di Cadores, 
+1488/1490-Venecia, 1576). Pintor italiano renacentista y uno de los exponentes más destacados de la escuela veneciana.</note> 
+vinieron a trabajar en España, atraídos de la
 regia munificencia de Carlos <num type="ordinal" value="5">V</num> y 
 Felipe <num type="ordinal" value="2">II</num>. De esa 
 manera se formó dentro del siglo <num value="16">XVI</num> la esclarecida 
 escuela española que en el siguiente tuvo hombres como 
-Velázquez, Murillo y Ribera, y de la cual procede y es 
+<name type="person" ref="http://viaf.org/viaf/76324831">Velázquez</name>,<note type="editorial" resp="MTRS">Diego Rodríguez de Silva y Velázquez (Sevilla, 1599-Madrid, 1660). Pintor barroco español estimado uno de los exponentes más trascendentales de la pintura española y de la plástica mundial. Fue el primero en introducir en España el estilo naturalista y la iluminación tenebrista de Caravaggio. Ocupó el cargo más importante en la corte de Felipe IV, pintor de cámara, y se dedicó a retratar a la familia real y elaborar cuadros para decorar mansiones de la realeza. En su última etapa su estilo fue más esquemático y abocetado con un dominio
+ magistral de la luz y produjo sus últimas obras maestras: Las meninas y La hilanderas.</note> 
+<name type="person" ref=" http://viaf.org/viaf/76584455">Murillo</name><note type="editorial" resp="MTRS">Bartolomé Estebán Murillo (Sevilla, 1618-1682). Pintor barroco español con más fortuna crítica durante su época y pilar de la escuela sevillana, que reunió gran cantidad de discípulos 
+y seguidores. Produjo obras por encargo de carácter religioso, pintura de género y retratos.</note> y 
+<name type="person" ref="http://viaf.org/viaf/83103470">Ribera</name>,<note type="editorial" resp="MTRS">José de Ribera (Játiva, 1591-Nápoles, 1652). Pintor y grabador español que cultivó el naturalismo y un estilo tenebrista, desarrolló su carrera en Italia donde tuvo gran prestigio.
+</note> 
+y de la cual procede y es 
 una rama esta de 
 México.<hi rend="superscript">17</hi><note type="bibliográfica" xml:id="nota17"><hi rend="superscript">17</hi> <bibl>Véanse sobre todo 
 esto la excelente oración pronunciada por el señor
@@ -107,9 +126,11 @@ no había retablo ni imagen por prima que fuese que no
 la retrataran y contrahicieran.<hi rend="superscript">18</hi><note type="bibliográfica" xml:id="nota18"><hi rend="superscript">18</hi> 
 <bibl>Lib. 17, cap. 1 de la <title ><hi rend="italic">Monarquía indiana</hi></title>.</bibl></note>
 Lo mismo había escrito
-el padre Motolinía.<hi rend="superscript">19</hi><note type="bibliográfica" xml:id="nota19"><hi rend="superscript">19</hi> 
+el padre <name type="person" ref="http://viaf.org/viaf/104831464">Motolinía</name>.<hi rend="superscript">19</hi><note type="bibliográfica" xml:id="nota19"><hi rend="superscript">19</hi> 
 <bibl><title ><hi rend="italic">Historia de los indios 
-de Nueva España</hi></title>, tratado 3o., cap. 13, edición de García Icazbalceta.</bibl></note>
+de Nueva España</hi></title>, tratado 3o., cap. 13, edición de García 
+Icazbalceta.</bibl></note><note type="editorial" resp="MTRS">Toribio de Benavente 
+(Benavente, 1482-Ciudad de México, 1569). Misionero franciscano e historiador que sustituyó su nombre al observar que los indígenas calificaban con el adjetivo motolinia (en náhuatl, pobre) a los franciscanos que llegaron con él a México.</note>
  nuestro buen Bernal Díaz del
 Castillo no sólo dice que los lapidarios y pintores que</p>
 </sp>

@@ -67,17 +67,18 @@
 <pb n="13" facs="#p13"/>
 <sp who="Couto">
 <speaker></speaker>
-<p>conocemos en México es Sebastián de Arteaga, de quien
+<p>conocemos en México es <name type="person" ref="http://viaf.org/viaf/309813029" xml:id="SA">Sebastián de Arteaga</name>,<note>Sebastián López de Arteaga (Sevilla, 1610-Ciudad de México, 1656). Pintor barroco español que introdujo el estilo en la entonces Nueva España, ahora México. Fue uno de los pintores más destacados de cuadros religiosos, con un estilo tenebrista de fuertes </note> 
+de quien
 hay en esta sala ese excelente cuadro del Desposorio de
 la Virgen, estimado por ustedes como una de nuestras
 mejores joyas. Pero le recuerdo que en una imagen de
 Cristo crucificado, que juntos examinamos usted y yo en
 la sacristía de la Colegiata de Guadalupe, hace ya algún
-tiempo, leemos que había sido hecha por Sebastián de
-Arteaga el año de <date when="1643">1643</date>.<hi rend="superscript">10</hi><note type="bibliográfica" xml:id="nota10">
+tiempo, leemos que había sido hecha por <name ref="SA">Sebastián de
+Arteaga</name> el año de <date when="1643">1643</date>.<hi rend="superscript">10</hi><note type="bibliográfica" xml:id="nota10">
 <p><hi rend="superscript">10</hi> La inscripción que tiene abajo dice a la letra: «Puso este santo
 crucifijo por su devoción en este tribunal del santo oficio de la Inquisición
-Sebastián de Arteaga notario de él. Año 1643 Ft.»</p>
+<name>Sebastián de Arteaga</name> notario de él. Año 1643 Ft.»</p>
 <p>Por no recargar el diálogo, no he hablado en él de algunas pinturas
 que erradamente pudieran tomarse por primitivas en la historia del
 arte en México. Son las siguientes:</p>
@@ -137,7 +138,8 @@ Veraguas que fue el vigésimo sexto, la colección baja infinito como obra de ar
 sólo hay regular el del marqués de Cadereita; en muchos de los otros se
 ve el último punto de impericia y desaliño a que puede llegar la pintura;
 y de seguro no se empleó para hacerlos a los buenos maestros que había
-entonces en México, como los Echaves, Arteaga, José Juárez, etcétera. Un
+entonces en México, como los Echaves
+Arteaga, José Juárez, etcétera. Un
 poco mejora en los del duque de Veraguas y conde de Paredes, más
 todavía en el del señor don fray Payo de Rivera Enríquez, y por último en
 el del conde de Moctezuma hay individualidad. Todos los que he 
@@ -184,7 +186,7 @@ que los posteriores.</p></note>
 No pudo, pues, ser el primer
 pintor europeo venido a Nueva España. Respecto del
 segundo, supongo que Beltrami quiso referirse a 
-Cristóbal Villalpando, de quien hay porción de pinturas en la
+<name type="person" ref="http://viaf.org/viaf/50072029" xml:id="CV">Cristóbal Villalpando</name>,<note type="editorial" resp="MTRS">Cristóbal de Villalpando (Ciudad de México, ca. 1649-1714). Pintor novohispano, uno de los más afamados de la época. Realizó para la Catedral Metropolitana cuatro pinturas que son consideradas como sus obras de mayor empeño.</note> de quien hay porción de pinturas en la
 ciudad. Pero por los cuadros de la Pasión, que están en
 los corredores altos de San Francisco, y (entre nosotros
 sea dicho) nada tienen de soberbio, consta que pintaba

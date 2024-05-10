@@ -93,7 +93,7 @@ de la historia, de manera que la galería se parece
 hasta ahora a aquellos códices antiguos de que se han
 perdido las primeras hojas. Si no he visto mal, el 
 cuadro más viejo que hay aquí es de 
-<name type="person"  ref="http://viaf.org/viaf/171463300">Baltasar 
+<name type="person"  ref="http://viaf.org/viaf/171463300" xml:id="BEO">Baltasar 
 de Echave</name>,<note type="editorial" resp="MTRS">Baltasar de Echave Orio o el Viejo 
 (Zumaya, 1548-Ciudad de México 
 <hi rend="italic">ca.</hi> 1620). Pintor y escritor vasco establecido en la Nueva España en el segundo tercio 

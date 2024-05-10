@@ -67,19 +67,22 @@
 <sp who="Cuoto">
 <speaker></speaker>
 <p>español venido a México. La única que he encontrado, en
-testimonios antiguos, es la que nos da el pintor don José
-de Ibarra, que parece haber conservado las tradiciones
-históricas de su arte. Escribiendo a don Miguel Cabrera,
-su amigo, le dice que con anterioridad a Echave, 
-Arteaga, los Juárez, Becerra, etcétera, es decir, antes de los
-artistas del siglo <num value="17">XVII</num>, pasó a este reino Alonso 
-Vázquez, insigne pintor europeo, quien introdujo buena
+testimonios antiguos, es la que nos da el pintor don 
+<name type="person" ref="http://viaf.org/viaf/72567450">José de Ibarra</name>,<note type="editorial" resp="MTRS">José de Ibarra (Guadalajara, 1685-Ciudad de México, 1756). Pintor 
+novohispano discípulo de Juan Correa y una de las figuras más destacadas de la primera mitad del siglo XVIII.</note> que parece haber conservado las tradiciones
+históricas de su arte. Escribiendo a don <name type="person" ref="http://viaf.org/viaf/58928953">Miguel Cabrera</name>,<note type="editorial" resp="MTRS">Miguel Mateo Maldonado y Cabrera (San Miguel Tlalixtac, 1695-Ciudad de México, 1768). 
+Pintor novohispano y uno de los máximos exponentes del barroco del virreinato. Fue fundador de la primera academia de pintura.</note>
+su amigo, le dice que con anterioridad a <name type="person"  ref="http://viaf.org/viaf/171463300" xml:id="BEO">Echave</name>, 
+<name type="person" ref="http://viaf.org/viaf/309813029">Arteaga</name>, los 
+Juárez,<note type="editorial" resp="MTRS">Familia de pintores que abarcó tres generaciones: Luis Juárez, José Juárez y Juan Rodríguez Juárez.</note> Becerra, etcétera, es decir, antes de los
+artistas del siglo <num value="17">XVII</num>, pasó a este reino 
+<name type="person" ref=" http://viaf.org/viaf/95786799">Alonso Vázquez</name>,<note>Alonso Vázquez (Ronda, <hi rend="italic">ca.</hi> 1564-Ciudad de México, <hi rend="italic">ca.</hi> 1608). Pintor español de estilo manierista, cuya actividad se desarrolló en Sevilla antes de emigrar a México como pintor del virrey Juan de Mendoza.</note> insigne pintor europeo, quien introdujo buena
 doctrina que siguieron Juan de Rúa y otros.<hi rend="superscript">21</hi><note type="bibliográfica" 
 xml:id="nota21"><hi rend="superscript">21</hi> <bibl><author>Cabrera</author> copió este 
 fragmento de Ibarra en la p. 10 de su <title><hi rend="italic">Maravilla americana</hi></title>, impresa en México en la imprenta del Colegio de
 San Ildefonso el año <date when="1756">1756</date>.</bibl></note>
-Por don Carlos de Sigüenza y Góngora sabemos que las 
-pinturas del altar mayor de la capilla de la Universidad, 
+Por don <name type="person" ref="http://viaf.org/viaf/59112593">Carlos de Sigüenza</name> y Góngora<note type="editorial" resp="MTRS">Carlos de Sigüenza y Góngora (Ciudad de México, 1645-1700). Polígrafo, cosmógrafo, matemático, historiador y poeta jesuita. Una de las figuras intelectuales más sobresalientes de la Nueva España.</note> sabemos que las 
+pinturas del altar mayor de la capilla de la <name type="org" ref="http://viaf.org/viaf/126551000">Universidad</name>,<note>Se refiere a la Real y Pontificia Universidad de México, fundada en 1551 por cédula real de Carlos V, que se organizó en cuatro facultades mayores (Teología, Derecho Canónico, Derecho Civil y Medicina) y una menor (Artes).</note> 
 dedicada a santa Catarina Mártir, eran de mano del 
 «excelentísimo pintor Alonso Vázquez»; que fueron su
 última obra; y que con ellas hizo un presente a la

@@ -68,10 +68,14 @@
 <speaker></speaker>
 <p>aquí se iban formando eran muy extremados oficiales,
 sino que según se le significaba, a su juicio, ni aquel tan
-nombrado pintor como fue el muy antiguo Apeles, ni
+nombrado pintor como fue el muy 
+antiguo <name type="person" ref="http://viaf.org/viaf/262959121">Apeles</name>,<note>Apeles (Colofón, 352 a.C.-Cos, 308 a.C.). 
+Afamado pintor de la Antigüedad Clásica cuyas obras se han perdido y se conocen por 
+descripciones literarias.</note> ni
 los de su tiempo, que se decían Berruguete y Micael 
-Ángelo, ni otro moderno, natural de Burgos, que se decía
-que era otro Apeles y tenía gran fama, harían con sus
+Ángelo, ni otro moderno, natural de <name type="place" ref="http://pleiades.stoa.org/places/345254116" xml:id="recogito-ab07f24c-d708-41d9-b33c-8bd4688619c7" cert="high">Burgos</name>, que se decía
+que era otro Apeles 
+y tenía gran fama, harían con sus
 muy sutiles pinceles las obras que ejecutaban tres 
 indios mexicanos, grandes maestros del oficio, llamados
 Andrés de Aquino, Juan de la Cruz y el Crespillo.<hi rend="superscript">20</hi><note type="bibliográfica" 
@@ -96,7 +100,7 @@ de su aprendizaje.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>Mas antes de acabar el siglo<num value="16"></num>XVI se había ya aquí
+<p>Mas antes de acabar el siglo <num value="16"></num>XVI se había ya aquí
 salido de la estrechez de la copia, y empezádose a
 practicar la pintura en su propia extension. Ustedes me
 preguntaban antes si queda noticia del primer maestro</p>
