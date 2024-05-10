@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -73,7 +73,7 @@ verdad y tanto carácter, era una mano maestra.</p>
 </sp>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
-<p>No tenía yo de Baltasar de Echave, a quien apenas
+<p>No tenía yo de <name ref="#BEO">Baltasar de Echave</name>, a quien apenas
 conocía de oídas, el concepto que estos cuadros me 
 hacen formar. Lo reputo ahora uno de nuestros más 
 aventajados artistas y creo que en cualquier país donde 
@@ -84,7 +84,7 @@ hubiera existido se habría hecho un distinguido lugar.
 <speaker>Couto</speaker>
 <p>No escasean, si bien debe cuidarse de no confundirlas
 con las del segundo pintor del mismo nombre que
-antes mencioné. Del viejo he visto encima de la puerta
+antes mencioné. Del <rs ref="#BEO">Viejo</rs> he visto encima de la puerta
 grande del convento de San Francisco, un san Cristóbal
 colosal, pintado en <date when="1601">1601</date>, y que por desgracia retocó
 en <date when="1776">1776</date> un José Mariano Albo, desconocido para mí; en

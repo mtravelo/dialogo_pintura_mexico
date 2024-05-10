@@ -67,18 +67,19 @@
 <pb n="13" facs="#p13"/>
 <sp who="Couto">
 <speaker></speaker>
-<p>conocemos en México es <name type="person" ref="http://viaf.org/viaf/309813029" xml:id="SA">Sebastián de Arteaga</name>,<note>Sebastián López de Arteaga (Sevilla, 1610-Ciudad de México, 1656). Pintor barroco español que introdujo el estilo en la entonces Nueva España, ahora México. Fue uno de los pintores más destacados de cuadros religiosos, con un estilo tenebrista de fuertes </note> 
+<p>conocemos en México 
+es <name type="person" ref="http://viaf.org/viaf/309813029" xml:id="SA">Sebastián de Arteaga</name>,<note>Sebastián López de Arteaga (Sevilla, 1610-Ciudad de México, 1656). Pintor barroco español que introdujo el estilo en la entonces Nueva España, ahora México. Fue uno de los pintores más destacados de cuadros religiosos, con un estilo tenebrista de fuertes </note> 
 de quien
 hay en esta sala ese excelente cuadro del Desposorio de
 la Virgen, estimado por ustedes como una de nuestras
 mejores joyas. Pero le recuerdo que en una imagen de
 Cristo crucificado, que juntos examinamos usted y yo en
 la sacristía de la Colegiata de Guadalupe, hace ya algún
-tiempo, leemos que había sido hecha por <name ref="SA">Sebastián de
+tiempo, leemos que había sido hecha por <name ref="#SA">Sebastián de
 Arteaga</name> el año de <date when="1643">1643</date>.<hi rend="superscript">10</hi><note type="bibliográfica" xml:id="nota10">
 <p><hi rend="superscript">10</hi> La inscripción que tiene abajo dice a la letra: «Puso este santo
 crucifijo por su devoción en este tribunal del santo oficio de la Inquisición
-<name>Sebastián de Arteaga</name> notario de él. Año 1643 Ft.»</p>
+Sebastián de Arteaga notario de él. Año 1643 Ft.»</p>
 <p>Por no recargar el diálogo, no he hablado en él de algunas pinturas
 que erradamente pudieran tomarse por primitivas en la historia del
 arte en México. Son las siguientes:</p>

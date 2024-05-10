@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -100,7 +100,7 @@ Oracion del Huerto?</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>Son del mismo Echave: ahí tienes su firma en el primero.
+<p>Son del mismo <name ref="#BEO">Echave</name>: ahí tienes su firma en el primero.
 Nos los cedieron los padres del oratorio de San
 Felipe Neri, en cuyos claustros estaban. Probablemente</p>
 </sp>

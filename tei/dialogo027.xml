@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -86,15 +86,16 @@ brillante y tan bien entendido.</p>
 <speaker>Clavé</speaker>
 <p>Pero aquí, señor don Joaquín, sí que es decidida la 
 superioridad del otro cuadro que está a la derecha, el de la
-Oración del huerto. Confieso a usted que no he encontrado
+Oración del Huerto. Confieso a usted que no he encontrado
 en México figura más resignada, más celestial que
-la del Salvador orando; creo que el mismo Overbeck
+la del Salvador orando; creo que el mismo
+<name type="person" ref="http://viaf.org/viaf/58339">Overbeck</name><note type="editorial" resp="MTRS">Johann Friedrich Overbeck (Lubeca, 1789-Roma, 1869). Pintor y grabador alemán que perteneció a los nazarenos, grupo pictórico del romanticismo que revivió la espiritualidad del arte cristiano medieval.</note>
 con gusto la prohijaría por suya. Es cosa notable
 encontrar cuadros como ése pintados aquí, antes de la 
 época en que Velázquez y Murillo florecían en España.
 Aquel del martirio de san Ponciano, comprado por
 nuestro don Bernardo a un particular, muestra la habilidad
-de Echave en el desnudo. El torso del cuerpo del
+de <name ref="#BEO">Echave</name> en el desnudo. El torso del cuerpo del
 mártir, aunque en actitud violenta, y éste del sayón que
 figura en primer término con una tea en la mano, están
 modelados con pericia; pero noten ustedes aquella cara

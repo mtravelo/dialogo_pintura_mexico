@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -67,19 +67,19 @@
 <pb n="29" facs="#p29"/>
 <sp who="Couto">
 <speaker></speaker>
-<p>pincel famoso de Baltasar de Echave»;<hi rend="superscript">30</hi><note type="bibliográfica" 
+<p>pincel famoso de <name ref="#BEO">Baltasar de Echave</name>»;<hi rend="superscript">30</hi><note type="bibliográfica" 
 xml:id="nota30"><hi rend="superscript">30</hi> <bibl><author>Vetancurt</author> en 
-la <title rend="italic">Crónica</title>, 
+la <title><hi  rend="italic">Crónica</hi></title>, 
 tratado 22, cap. 32, núm. 39.</bibl> </note> 
 y efectivamente alguno de los cuadros está firmado con su nombre. A 
 primera vista yo los atribuía más bien al segundo Echave;
 pero como el texto del cronista, que debió ser contemporáneo 
-de éste, parece referirse al viejo, habrá que decir
+de éste, parece referirse al <rs ref="#BEO">Viejo</rs>, habrá que decir
 o que la obra se trabajó originalmente con menos
 cuidado que otras, o que ha sufrido más por el desabrigo
 del lugar donde está, o finalmente que algún retocador
 puso en ella su mano indocta. En poder de particulares 
-hay también pinturas de Echave, de que he visto
+hay también pinturas de <name ref="#BEO">Echave</name>, de que he visto
 algunas. Por último, si (como lo creo) son suyas una
 santa Cecilia que hay en San Agustín, y una Sacra 
 Familia en la Profesa, aunque no tienen su nombre, serán

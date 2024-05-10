@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -68,7 +68,7 @@
 <sp who="Pesado">
 <speaker></speaker>
 <p>sombra de cultura, tal vez hasta sin domicilios fijos. La 
-bizarra entrada que con un puñado de hombres hizo Cortés
+bizarra entrada que con un puñado de hombres hizo <name ref="HC">ortés</name>
 en <date when="1521">1521</date>, que es lo que nosotros acostumbramos llamar
 la conquista, y forma sin disputa uno de los hechos més
 señalados de la historia del mundo, produjo el efecto
@@ -77,7 +77,7 @@ México, y de los régulos sus aliados y tributarios,
 sometiendo los distritos que regían o tiranizaban, al
 mando militar de la raza conquistadora. Pero esa entrada
 no podía ella misma hacer la civilización de la tierra.
-A la toma de la ciudad de México siguió inmediatamente
+A la toma de la <name type="place" ref="http://sws.geonames.org/3996063" xml:id="recogito-3a3af2d0-d753-4072-9699-4dc2fc767700" cert="high">ciudad de México</name> siguió inmediatamente
 un periodo de nueve años de iniquidad, desconcierto
 y anarquía, en que no se obró sino el mal. Mas
 contando desde la venida de la Segunda Audiencia en
@@ -92,8 +92,11 @@ extensión del continente americano, y que era aquella
 la época en que en Europa pesaba sobre España la suma
 de todas las cosas en política, en religion y en guerras.
 Nuestras fronteras se avanzaron hasta los departamentos
-de Coahuila, Nuevo Leon, Nuevo México, Durango
-y Sinaloa. Los salvajes que aún había dentro y fuera de
+de <name type="place" ref="http://sws.geonames.org/4013674" xml:id="recogito-734eca45-3a72-4e09-b37d-dd0a337754db" cert="low">Coahuila</name>, 
+<name type="place" >Nuevo Leon</name>,
+<name type="place"  ref="http://sws.geonames.org/5481136" xml:id="recogito-c70040f4-dd34-4aeb-8747-008134047b06" cert="high">Nuevo México</name>,
+ <name type="place"  ref="http://sws.geonames.org/4011741" xml:id="recogito-fdcc9c12-ee1d-4fb0-8e25-03c806ab1524" cert="high">Durango</name>
+y <name type="place" ref="http://sws.geonames.org/3983035" xml:id="recogito-73ff4975-dd9a-4f70-9692-07e2feb923a1" cert="high">Sinaloa</name>. Los salvajes que aún había dentro y fuera de
 ellas si bien causaban harto mal a las propiedades 
 particulares, no podían ya inspirar temor a la autoridad 
 establecida, la cual de verdad era señora de la tierra, y la
