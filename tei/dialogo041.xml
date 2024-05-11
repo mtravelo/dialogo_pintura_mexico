@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -67,16 +67,17 @@
 <pb n="41" facs="#p41"/>
 <sp who="Couto">
 <speaker></speaker>
-<p>sean éstas dos las mejores. Correa pintó mucho: suyos
+<p>sean éstas dos las mejores. <name ref="#JC">Correa</name> pintó mucho: suyos
 son, entre otros, los dos cuadros del purgatorio que están
 a los costados del altar del Perdón en Catedral, y tienen
 fecha de <date when="1704">1704</date>; si bien debió trabajar en México desde
 antes de concluirse el siglo precedente. También hay
 obras de su mano en Santo Domingo y la Merced: una
 de las que vi en este último convento es copia del 
-desposorio de la Virgen, de Arteaga. A Correa le hace más
+desposorio de la Virgen, de Arteaga. A <name ref="#JC">Correa</name> le hace más
 honor alguno de sus discípulos que sus pinturas. Hablo
-de don José Ibarra, quien en su carta a Cabrera, que cité
+de don <name ref="#JI">José Ibarra</name>, quien en su carta a <name type="person">Cabrera</name>,<note type="editorial" resp="MTRS">Miguel Mateo Maldonado y Cabrera (San Miguel Tlalixtac, 1695-Ciudad de México, 1768). Pintor novohispano y uno de los máximos exponentes del barroco del virreinato. Fue fundador de la primera academia de pintura.</note> 
+que cité
 antes, le llama su maestro. Por cierto que cuenta que
 para hacer las Vírgenes de Guadalupe, se valía de un
 papel aceitado, en el cual se habían tomado al trasluz
