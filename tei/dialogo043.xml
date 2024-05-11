@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -74,7 +74,8 @@ Pero antes quiero decirte que del mismo siglo <num value="16">XVI</num>
 conozco, además de otros oscuros, algunos que por su
 mérito te nombraré. Sea el primero Juan de Herrera,
 a quien nuestros antepasados llamaron el divino, como
-en España a Luis Morales, o porque sólo se ejercitaba
+en España a <name type="person" ref="http://viaf.org/viaf/31849912"></name>Luis Morales,<note>Luis de Morales (Badajoz, <hi rend="italic">ca</hi>. 1510-1586). Pintor español de estilo manierista.</note> 
+o porque sólo se ejercitaba
 en asuntos sagrados, o por la perfección con que los 
 desempeñó. En la capilla de reliquias de Catedral, que
 mencioné atrás, hay en el altar principal doce cuadritos 
@@ -89,7 +90,7 @@ algún sabor de estilo holandés.</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>El segundo es fray Diego Becerra,<hi rend="superscript">44</hi><note type="bibliográfica" 
-xml:id="nota44"><hi rend="superscript">44</hi>Véase a Sigüenza en el pasaje copiado en la nota 39.</note>
+xml:id="nota44"><hi rend="superscript">44</hi> Véase a Sigüenza en el pasaje copiado en la nota 39.</note>
 lego franciscano,
 connovicio del padre Vetancurt, que le llama insigne,
 y por quien sabemos que en la segunda mitad del siglo

@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -93,7 +93,8 @@ de jesuitas. Del otro no tengo noticia.</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Pues comenzaré por ese otro. Era presbítero y se llamaba
-Nicolás. Esta santa Gertrudis que ves aquí ofreciendo
+<name type="person" ref=" http://viaf.org/viaf/8289126" xml:id="NRJ">Nicolás</name>.<note type="editorial" resp="MTRS">Nicolás Rodríguez Juárez  (Ciudad de México, 1666-1734). Pintor y clérigo, miembro de una familia de pintores, bisnieto de Luis Juárez, nieto de José Juárez, hijo de Antonio Rodríguez y hermano de Antonio Rodríguez Juárez.</note> 
+Esta santa Gertrudis que ves aquí ofreciendo
 su corazón al Cristo crucificado, que está sobre el 
 altar, fue pintada por él en <date when="1690">1690</date>, según consta de la firma
 que se lee abajo. En los claustros de la Profesa hay obras

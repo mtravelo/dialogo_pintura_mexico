@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -79,7 +79,7 @@ a la composición. La santa tenía que estar arrodillada
 delante del altar; y era preciso sacrificar o la vista de
 éste, que el espectador naturalmente espera encontrar al
 frente, o la figura de la santa, que es la protagonista, 
-poniéndola de espaldas. Nicolás Rodríguez salió del 
+poniéndola de espaldas. <name ref="#NRJ">Nicolás Rodríguez</name> salió del 
 embarazo cogiendo al soslayo la escena, pero de manera
 que conservando del altar lo bastante para que se 
 comprenda el asunto, la santa en el rostro y cuerpo se 
@@ -94,7 +94,8 @@ el espectador.</p>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>Las pinturas que en Tepozotlán nos llamaron la 
-atención son de Juan Rodríguez Juárez y consistían en una
+atención son de <name type="person" ref="http://viaf.org/viaf/95750441" xml:id="JRJ">Juan Rodríguez Juárez</name><note type="editorial" resp="MTRS">Juan Rodríguez Juáez (Ciudad de México, 1675-1728 ). Pintor novohispano que perteneció a una numerosa familia de pintores: bisnieto de Luis Juárez, nieto de José Juárez, hijo de Antonio Rodríguez y hermano Nicolás Rodríguez Juárez.</note> 
+y consistían en una
 serie de cuadros que representan la vida de la Virgen.
 Por cierto que delante de alguno, el de la Huida de Egipto,
 nos detuvimos largo rato. La composición es graviosa

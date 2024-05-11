@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -73,7 +73,7 @@ varía el colorido.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>Yo no sé si la novedad hecha por Juan Rodríguez 
+<p>Yo no sé si la novedad hecha por <name ref="JRJ">Juan Rodríguez</name> 
 debe atribuirse, al menos en parte, a inspiración venida
 de fuera, esto es, al deseo de imitar las obras que desde
 el siglo <num value="16">XVI</num> pudieron empezar a llegar de pintores 
@@ -87,7 +87,7 @@ ello viniera a México. Además, se cree que la
 hermosísima Virgen que llaman de Belén, y está en el coro de
 Catedral, fue un don que, viviendo todavía el pintor,
 hizo a este cabildo un obispo que pasó para las Filipinas
-y se consagró aquí. Si la tradición es fiel, Juan Rodríguez 
+y se consagró aquí. Si la tradición es fiel, <name ref="#JRJ">Juan Rodríguez</name> 
 debió ver aquel egregio cuadro, que en un 
 hombre de su talento bastaba para que nacieran nuevas ideas
 sobre el arte. Por último, consta que de los dos hijos de
