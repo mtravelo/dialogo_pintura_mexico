@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -72,7 +72,7 @@
 <div type="Notas">
 <pb n="95" facs="#p95"/>
 <!-- continuación nota 10 -->
-<note type="explicativa" xml:id="nota10c">
+<note type="bibliográfica" xml:id="nota10c">
 <p>Carlos <num type="ordinal" value="5">V</num> al conquistador, y usaron los marqueses del Valle. El retrato
 en sí mismo tiene semejanza con el que hay en el Hospital de Jesús y
 ambos parecen copias regulares de un original cuyo paradero
