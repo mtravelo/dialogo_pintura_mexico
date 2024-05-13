@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -68,7 +68,7 @@
 <sp who="Couto">
 <speaker></speaker>
 <p>padre.<hi rend="superscript">47</hi> <note type="bibliográfica" xml:id="nota47"><hi rend="superscript">47</hi> 
-<bibl><title rend="italic">Museo pictórico</title>, tercer tomo, artículo «Bartolomé Esteban 
+<bibl><title><hi rend="italic">Museo pictórico</hi></title>, tercer tomo, artículo «Bartolomé Esteban 
 Murillo», que es el núm. 173</bibl>. El mismo autor refiere, y consta del testamento
 de Murillo, que su hijo don Gabriel, sujeto de grande habilidad en
 la pintura, y de mayores esperanzas, pasó a Indias, y aquí murió bien
@@ -83,11 +83,11 @@ desconocida. Ceán Bermúdez, en el artículo de su padre, corrigió la
 equivocacion en que había caído Palomino, llamándole José y no 
 Gabriel.</note> 
 En esa hipótesis éste habría sido otro medio para
-que a Rodríguez Juárez y sus contemporáneos se 
+que a <name ref="#JRJ">Rodríguez Juárez</name> y sus contemporáneos se 
 comunicara algo del estilo de aquel célebre maestro y de su
 escuela, especialmente en el color. Pero sea lo que 
 fuere de estas conjeturas, que de tales no pasan, el hecho
-cierto es que en Juan Rodríguez encontramos una 
+cierto es que en <name ref="#JRJ">Juan Rodríguez</name> encontramos una 
 verdadera novedad, una revolución (como ahora dicen) en
 la pintura.</p>
 </sp>
@@ -95,7 +95,7 @@ la pintura.</p>
 <speaker>Clavé</speaker>
 <p>Un maestro, sin embargo, conozco que no la siguió,
 y era de aquel tiempo, según usted me ha dicho,
-Cristóbal de Villalpando.</p>
+<name ref="#CV">Cristóbal de Villalpando</name>.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
@@ -104,7 +104,7 @@ hasta <date when="1710">1710</date>.</p>
 </sp>
 <sp who="Clavé">
 <speaker>Clavé</speaker>
-<p>Villalpando se me ha hecho notable, en primer lugar,
+<p><name ref="#CV">Villalpando</name> se me ha hecho notable, en primer lugar,
 por la gran desigualdad de sus obras. En algunas se 
 detiene la vista por su mérito, al paso que en otras la
 mano del artista cae hasta parecer menos que mediano.

@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -75,12 +75,12 @@ bastante ventaja al Cristo y la Virgen.</p>
 <p>Parece que con estudio han colocado ustedes ese
 cuadrito cerca de los de Ibarra, a quien mencionabas 
 hablando de Aguilera. En el colorido noto que Enríquez 
-e Ibarra se parecían mucho, y que los dos caminaron
-sobre las pisadas de Juan Rodríguez.</p>
+e <name ref="#JI">Ibarra</name> se parecían mucho, y que los dos caminaron
+sobre las pisadas de <name ref="#JRJ">Juan Rodríguez</name>.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>En efecto, don José Ibarra entró a toda vela en la 
+<p>En efecto, don <name ref="#JI">José Ibarra</name> entró a toda vela en la 
 novedad introducida por aquel célebre maestro, y acaso
 hasta la exageró en algunos puntos, como en la 
 predilección del color rojo y azul que prodigaba en sus obras.

@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -79,14 +79,15 @@ parecido que su autor concebía como un poeta.</p>
 </sp>
 <sp who="Couto">
 <speaker></speaker>
-<p>Sí, como un poeta, pero del tiempo de Góngora y 
-Villegas. Por lo demás, de Villalpando he visto obras más
+<p>Sí, como un poeta, pero del tiempo de <name type="person" ref=" http://viaf.org/viaf/12309145">Góngora</name><note type="editorial" resp="MTRS">Luis de Góngora y Argote (Córdoba, 1561-1627).  Poeta y dramaturgo español del Siglo de Oro, máximo representante del culteranismo, corriente literaria del barroco en España.</note> 
+y <name type="person" ref="http://viaf.org/viaf/56604566">Villegas</name>.<note type="editorial" resp="MTRS">Francisco de Quevedo y Villegas (Madrid, 1580, Ciudad Real, 1645). Político y literato español del Siglo de Oro perteneciente a la  corriente conceptista.</note> 
+Por lo demás, de <name ref="#CV">Villalpando</name> he visto obras más
 chicas, cuadros de caballete, en que me ha parecido 
 encontrar juicio y mejor gusto; por ejemplo, uno que hay
 en la Encarnación y representa a san Francisco 
 orando en el desierto; la figura del santo es sumamente 
 devota y expresiva. Respecto del colorido, tiene razón el
-señor Clavé, Villalpando no adoptó el de Juan Rodríguez
+señor Clavé, <name ref="#CV">Villalpando</name> no adoptó el de <name ref="#JRJ">Juan Rodríguez</name>
 y sus secuaces, sino que usó siempre el suyo propio. 
 Ignoro si sería de la misma familia otro Villalpando, el
 bachiller Carlos, de quien tenemos aquí ese cuadrito de
