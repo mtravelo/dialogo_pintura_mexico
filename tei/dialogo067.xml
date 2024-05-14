@@ -77,7 +77,8 @@ su tiempo.</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Si alguno puede estar a su lado, creo que es don 
-Francisco Antonio Vallejo, de quien tenemos en esta
+<name type="person" xml:id="FV">Francisco Antonio Vallejo</name>,<note type="editorial" resp="MTRS">Francisco Antonio Vallejo (Ciudad de México, 1722-1785). Pintor novohispano del barroco tardío.</note> 
+de quien tenemos en esta
 galería aquella Purísima que nos vino de la parroquia de
 Coyoacán.</p>
 </sp>

@@ -99,7 +99,7 @@ podrían decirse de una escuela.</p>
 <speaker>Couto</speaker>
 <!-- pendiente Alcíbar VIAF -->
 <p>Yo también he oído contar eso que dices, y en efecto
-sabemos que algunos pintores tan hábiles como <name type="person" xml:id="JA"></name>Alcíbar<note type="editorial" resp="MTRS">José de Alcíbar (Ciudad de México, 1730-1803). Pintor novohispano, uno de los más activos y representativos de la segunda mitad del siglo XVIII.</note>
+sabemos que algunos pintores tan hábiles como <name type="person" ref="http://viaf.org/viaf/41713509" xml:id="JA"></name>Alcíbar<note type="editorial" resp="MTRS">José de Alcíbar (Ciudad de México, 1730-1803). Pintor novohispano, uno de los más activos y representativos de la segunda mitad del siglo XVIII.</note>
 y Arnáez estaban a su lado. Hay, sin embargo, una
 circunstancia en que debe repararse, y es la unidad de</p>
 </sp>

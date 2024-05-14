@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -76,11 +76,11 @@ hasta que, en la sala de juntas de la archicofradía del
 Santísimo en Catedral, vi los dos grandes lienzos que
 allí ha dejado; el uno, de la última Cena del Señor, y el
 otro del triunfo de la fe. En ellos aprendí a conocer lo
-que valía Alcíbar, pues son dos obras de importancia y
+que valía <name ref="#JA">Alcíbar</name>, pues son dos obras de importancia y
 de singular belleza, en especial la Cena. Es de notarse
 que debió pintarlas siendo ya muy viejo, pues tienen 
-fecha de <date when="1799">1799</date>, es decir, cerca de 50 años después de 
-cuando acompañaba a Cabrera a estudiar y copiar la Virgen
+fecha de <date when="1799">1799</date>, es decir, cerca de <num type="cardinal" value="50">50</num> años después de 
+cuando acompañaba a <name ref="#MC">Cabrera</name> a estudiar y copiar la Virgen
 de Guadalupe; y sin embargo, no hay allí muestras de
 debilidad senil. Poco antes, en carta que escribía al doctor
 Conde, procuraba defender contra los tiros de 
@@ -92,7 +92,7 @@ En breve debió él mismo bajar al sepulcro.</p>
 </sp>
 <sp who="Pesado">
 <speaker></speaker>
-<p>Dices que con Acíbar se cierra el catálogo de 
+<p>Dices que con <name ref="#JA">Alcíbar</name> se cierra el catálogo de 
 nuestros antiguos pintores. Pero algunos años antes se 
 había fundado esta Academia, dotándola el soberano, y
 enviando de España maestros y modelos que aquí no

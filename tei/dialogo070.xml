@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -76,7 +76,7 @@ usar las reglas.</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Otro cuadro hay en la misma sacristía que no tiene
-firma, pero que supongo ser también de Vallejo y 
+firma, pero que supongo ser también de <name ref="#FV">Vallejo</name> y 
 representa la Pentecostés. El semblante de la Virgen, que
 ocupa el centro del cenáculo, tiene mucha expresión, y
 la nube rojiza que se abre arriba, y de la cual se 
@@ -84,8 +84,8 @@ desprenden las lenguas de fuego que bajan sobre los
 apóstoles, hace buen efecto. Lo hace también en su conjunto
 otro cuadro suyo, el descendimiento de la cruz, que 
 existe en la capilla alta de la Casa de Ejercicios de la 
-Profesa. En general Vallejo tiene la facilidad, la blandura
-y la belleza que caracterizan a Cabrera.</p>
+Profesa. En general <name ref="#FV">Vallejo</name> tiene la facilidad, la blandura
+y la belleza que caracterizan a <name ref="#MC">Cabrera</name>.</p>
 </sp>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
