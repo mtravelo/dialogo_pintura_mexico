@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -72,9 +72,9 @@ en todo lo que lleva su nombre y que a los ojos del
 espectador lo hace aparecer como salido de una mano,
 aunque no todo sea de igual mérito. Acuérdate que las
 desigualdades que notamos en la vida de la Virgen por
-Juan Rodríguez en Tepozotlán nos hicieron sospechar
+<name ref="#JRJ">Juan Rodríguez</name> en Tepozotlán nos hicieron sospechar
 que algunos de los cuadros serían hechos por sus 
-discípulos. No sucede así con los de Cabrera, lo cual me
+discípulos. No sucede así con los de <name ref="#MC">Cabrera</name>, lo cual me
 parece que prueba que en éstos no sólo la invención y la
 traza en grande, sino aun la ejecución, al menos en las
 partes principales, como las cabezas, era suya. De
@@ -97,8 +97,8 @@ están bien distribuidas en cada lienzo y bien agrupadas
 donde conviene. El carácter que más resalta en él es la
 suavidad, la morbidez y cierto ambiente general de 
 belleza que se derrama en todo lo que hace. No tenía sin
-duda la buena escuela ni el acendrado gusto de Baltasar
-de Echave el viejo y ciertamente carecía del</p>
+duda la buena escuela ni el acendrado gusto de <name ref="#BEO">Baltasar
+de Echave</name> el Viejo y ciertamente carecía del</p>
 </sp>
 </div>
 </body>

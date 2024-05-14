@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -67,8 +67,8 @@
 <pb n="62" facs="#p62"/>
 <sp who="Clavé">
 <speaker></speaker>
-<p>vigor que distingue a Sebastián de Arteaga en algunas de
-sus obras, pero no sé qué magia hay en Cabrera que
+<p>vigor que distingue a <name ref="#SA">Sebastián de Arteaga</name> en algunas de
+sus obras, pero no sé qué magia hay en <name ref="#MC">Cabrera</name> que
 siempre se le ve con placer, siempre gusta. Una de las
 cosas en que más sobresale es en las cabezas, que casi
 todas son bellas. Y ya ustedes considerarán cuánto tiene

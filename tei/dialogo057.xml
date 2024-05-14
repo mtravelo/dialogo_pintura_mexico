@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -73,13 +73,13 @@ ejemplo, quien porfiaba haber visto desencajonar, traída de
 Roma, la imagen de Nuestra Señora de la Fuente que
 está en el convento de Regina, cuando el presbítero don
 Cayetano Cabrera recordaba con zumba la prisa que 
-había visto darse a Ibarra para concluirla y entregarla el
+había visto darse a <name ref="#JI">Ibarra</name> para concluirla y entregarla el
 día que lo tenía ofrecido, y que aun había trabajado
 aquella noche con luz artificial para pintar en el cuadro
 las candelas que alumbran a la imagen y era lo que le
 faltaba.<hi rend="superscript">51</hi> <note type="bibliográfica"
 xml:id="nota51"><hi rend="superscript">51</hi> 
-<bibl><title rend="italic">Escudo de armas de México</title>, lib. 2, cap. 8, núm. 333.</bibl></note></p>
+<bibl><title><hi  rend="italic">Escudo de armas de México</hi></title>, lib. 2, cap. 8, núm. 333.</bibl></note></p>
 </sp>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
@@ -94,7 +94,7 @@ y Leon <num type="ordinal" value="10">X</num>.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>No daría poco que reír a Ibarra la disputa de los que
+<p>No daría poco que reír a <name ref="=#JI">Ibarra</name> la disputa de los que
 habían visto llegar del extranjero su cuadro, si bien
 aquello debía por otra parte lisonjearle. Algunos 
 chistes se le escaparían en la ocasión, porque parece que era

@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -67,10 +67,10 @@
 <pb n="68" facs="#p68"/>
 <sp who="Couto">
 <speaker></speaker>
-<p>Ibarra, Osorio, Juan Patricio, Alcíbar y Arnáez, el
+<p>Ibarra, Osorio, Juan Patricio, <name ref="#JA">Alcíbar</name> y Arnáez, el
 juicio que se expone en la Maravilla americana. Entre las
 pinturas de San Ildefonso, una tiene fecha de <date when="1761">1761</date> y
-otra de <date when="1764">1764</date>, año en que aún vivía Cabrera; finalmente,
+otra de <date when="1764">1764</date>, año en que aún vivía <name ref="#MC">Cabrera</name>; finalmente,
 la de la Universidad es de <date when="1774">1774</date>. Esta última es una 
 especie de cuadro votivo o conmemoratorio, mandado 
 pintar por el claustro cuando Carlos <num type="ordinal" value="3">III</num> alcanzó del 

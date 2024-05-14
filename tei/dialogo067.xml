@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -68,7 +68,7 @@
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Me parece que dijo usted antes que en rededor de 
-Cabrera se agrupaban algunos de los pintores sus 
+<name ref="#MC">Cabrera</name> se agrupaban algunos de los pintores sus 
 contemporáneos y que aun había de ellos quienes trabajaran
 en su taller. Yo tengo notado que se le parecen, 
 aunque disten bastante de él casi todos los que conozco de
@@ -91,7 +91,7 @@ en el Colegio de San Ildefonso los que allí trabajó.</p>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>Pesado
-¿Vallejo era, pues, coetáneo de Cabrera?</p>
+¿Vallejo era, pues, coetáneo de <name ref="#MC">Cabrera</name>?</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>

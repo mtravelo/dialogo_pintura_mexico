@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -73,7 +73,7 @@ estaban llenas de cuadros suyos. Por último, sus mismos
 compañeros de profesión, ¡cosa notable entre gentes de
 un oficio!, aceptaron llanamente el principado que el 
 voto público le concedía en el arte. Cuando en el año de
-1753 concibieron el proyecto de plantear en México una
+<date when="1753">1753</date> concibieron el proyecto de plantear en México una
 academia, a semejanza de las que por entonces 
 empezaban a haber en España, pusieron a su cabeza a 
 Cabrera, con el carácter de presidente perpetuo, que era el
@@ -90,7 +90,7 @@ artistas nacionales que lo concibieron</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>La Academia estaba limitada a la pintura. El 
-autógrafo de las estatutos, firmado de Cabrera y de los otros
+autógrafo de las estatutos, firmado de <name ref="#MC">Cabrera</name> y de los otros
 directores, lo he visto en poder de don Francisco 
 Abadiano, bisnieto suyo. Componíase la escuela de un 
 presidente, seis directores, un maestro de matemáticas, un
