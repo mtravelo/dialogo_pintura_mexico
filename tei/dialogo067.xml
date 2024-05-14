@@ -77,7 +77,7 @@ su tiempo.</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Si alguno puede estar a su lado, creo que es don 
-<name type="person" xml:id="FV">Francisco Antonio Vallejo</name>,<note type="editorial" resp="MTRS">Francisco Antonio Vallejo (Ciudad de México, 1722-1785). Pintor novohispano del barroco tardío.</note> 
+<name type="person" ref="http://viaf.org/viaf/96161240" xml:id="FV">Francisco Antonio Vallejo</name>,<note type="editorial" resp="MTRS">Francisco Antonio Vallejo (Ciudad de México, 1722-1785). Pintor novohispano del barroco tardío.</note> 
 de quien tenemos en esta
 galería aquella Purísima que nos vino de la parroquia de
 Coyoacán.</p>
@@ -92,7 +92,7 @@ en el Colegio de San Ildefonso los que allí trabajó.</p>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>Pesado
-¿Vallejo era, pues, coetáneo de <name ref="#MC">Cabrera</name>?</p>
+¿<name ref="FV">Vallejo</name> era, pues, coetáneo de <name ref="#MC">Cabrera</name>?</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
