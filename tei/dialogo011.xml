@@ -86,22 +86,23 @@ plano las noticias del conde.</p>
 Fernando Ramírez, a quien también dieron en rostro por
 su novedad y me ofreció que las aquilataría. En efecto,
 en un buen artículo biográfico que luego ha escrito del
-padre fray Diego Valadés, nota que ni en los autores 
+padre fray Diego Valadés,<note type="editorial" resp="MTRS">Diego Valadés (Tlaxcala, 1533-Roma, 1584). Misionero franciscano historiador, escritor, políglota, dibujante y grabador. Fue el primer mexicano en imprimir un libro en Europa, <title rend="italic"><hi>Retórica cristiana</hi></title>, 1579.</note> 
+nota que ni en los autores 
 impresos que tenemos de aquella época, y son hartos en
 número, ni en la multitud de manuscritos de todas 
 clases que en el espacio de largos años han pasado por sus
 manos encontró jamás referencia ni alusión al artista
 sacado a luz por el señor Cortina; que el hecho de haber
-acompañado a Cortés en su jornada de las Hibueras
+acompañado a <name ref="#HC">Cortés</name> en su jornada de las Hibueras
 sufre la grave objeción de que no aparece su nombre en
-la menuda lista que nos da n<name type="person" ref=" http://viaf.org/viaf/59081563">Bernal 
-Díaz</name><note type="editorial" resp="MTRS">Bernal Díaz del Castillo (Medina del Campo, 1496-Santiago de 
+la menuda lista que nos da <name type="person" ref=" http://viaf.org/viaf/59081563">Bernal 
+Díaz</name><hi rend="superscript">6</hi><note type="bibliográfica" xml:id="nota6"><hi rend="superscript">6</hi> 
+<bibl><title><hi rend="italic">Historia
+ verdadera de la conquista de Nueva España</hi></title>, cap. 174.</bibl></note>
+del cortejo que llevaba el conquistador,<note type="editorial" resp="MTRS">Bernal Díaz del Castillo (Medina del Campo, 1496-Santiago de 
 Guatemala, 1584). Conquistador que acompañó a Cortés en la expedición que culminó con la caída de México-Tenochtitlan. Se le atribuye 
 la crónica sobre los aconteciemientos relacionados con la 
-conquista.</note><hi rend="superscript">6</hi><note type="bibliográfica" xml:id="nota6"><hi rend="superscript">6</hi> 
-<bibl><title rend="italic">Historia
- verdadera de la conquista de Nueva España</title>, cap. 174.</bibl></note>
-del cortejo que llevaba el conquistador, y en la cual se hace mención
+conquista.</note> y en la cual se hace mención
 hasta de farsantes, juglares y otras gentes de menos 
 valía que un pintor de cámara; que es poco verosímil que</p>
 </sp>

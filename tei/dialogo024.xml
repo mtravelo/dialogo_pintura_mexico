@@ -144,7 +144,7 @@ corta, cuando en uno de los certámenes poéticos que
 por entonces hubo, se presentaron hasta trescientos 
 autores, aspirando al premio.<hi rend="superscript">26</hi><note type="bibliográfica" 
 xml:id="nota26"><hi rend="superscript">26</hi> <bibl><author>Balbuena</author>, 
-<title rend="italic">Grandeza mexicana</title>, edición de <date when="1603">1603</date>, p. 31 y a la vuelta.</bibl></note> 
+<title><hi  rend="italic">Grandeza mexicana</hi></title>, edición de <date when="1603">1603</date>, p. 31 y a la vuelta.</bibl></note> 
 Yo bien sé que no habría en México trescientos poetas que mereciesen tal 
 nombre; pero siempre será cierto que había ese número de
 personas que cultivaban la poesía y se ocupaban en ella.
@@ -152,7 +152,8 @@ México, bajo todos aspectos, era para aquellos tiempos
 una ciudad animada, lujosa, galana, que daba golpe a
 quien llegaba a verla y que merecía que un contemporáneo,
 uno de los que descollaban en esas justas poéticas,
-le dirigiera en <date when="1603">1603</date>este saludo:</p>
+le dirigiera en <date when="1603">1603</date> este saludo:<hi rend="supercript">a</hi><note type="aclaratoria" place="bottom" xml:id="notaA"> <hi rend="supercript">a</hi> Es la palma llamada en
+mexicano <hi rend="italic">icxolt</hi>.</note> </p>
 <cit><quote>
 <lg type="tercetos_encadenados">
     <lg type="terceto" n="1" rhyme="ABA" met="3x11">
