@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -72,9 +72,9 @@ que durante él, los profesores para componer sus obras
 se guiaban más por estampas y grabados que por el
 estudio del natural; de ahí puede en parte provenir la 
 facilidad y fecundidad que en ellos se nota, y que en
-Cabrera, el artista que más ha descollado en México, es
+<name ref="#MC">Cabrera</name>, el artista que más ha descollado en México, es
 verdaderamente un portento. Dentro de su taller se 
-distinguía entre otros Alcíbar, que cierra el catálogo de los
+distinguía entre otros <name ref="#JA">Alcíbar</name>, que cierra el catálogo de los
 antiguos pintores mexicanos. La prenda que generalmente
 caracteriza a la escuela toda, es la suavidad y
 blandura, que parece inspirada por el dulce ambiente

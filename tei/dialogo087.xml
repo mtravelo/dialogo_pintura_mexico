@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -91,8 +91,8 @@ seno llegaban a distinguirse de algún modo.</p>
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Y a fe que algunos de esos retratos no carecen de
-mérito, como los que nos ha dejado Juan Rodríguez Juárez
-y Juan Patricio Ruiz Morlete. Pero ya que el señor 
+mérito, como los que nos ha dejado <name ref="#JRJ">Juan Rodríguez Juárez</name>
+y <name ref="#JPM">Juan Patricio Ruiz Morlete</name>. Pero ya que el señor 
 Pesado ha extrañado una cosa, permítanme ustedes a mí
 que extrañe otra. Paréceme haber notado que las dos
 artes liberales hermanas de la mía no caminaron en 

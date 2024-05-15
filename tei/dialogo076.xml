@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -68,13 +68,13 @@
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Pues yo pensé que el primer director de pintura 
-enviado acá había sido Ximeno.</p>
+enviado acá había sido <name  type="person" ref=" http://viaf.org/viaf/11529531" xml:id="RXP">Ximeno</name>.<note>Rafael Ximeno y Planes (Valencia, 1759-Ciudad de México, 1825). Pintor e ilustrador español, segundo director de la Academia de San Carlos, realizó los frescos de las iglesias de Jesús María y la Profesa.</note></p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Tal es la oscuridad en que han quedado los dos que
-le precedieron. Don Rafael Ximeno y Planes, educado en
-la Academia de San Carlos de Valencia, vino a 
+le precedieron. Don <name ref="#RXP">Rafael Ximeno y Planes</name>,  
+educado en la Academia de San Carlos de Valencia, vino a 
 reemplazar a Acuña el año de <date when="1793">1793</date>. A la muerte de Aguirre
 en principios de este siglo, el gobierno quiso que fuese
 segundo director del ramo nuestro compatriota don 
@@ -84,8 +84,8 @@ mexicana debe existir en Madrid. Humboldt, que la vio,
 asegura que sus dibujos de plantas y animales pueden
 competir con lo mejor que en ese género ha producido
 Europa.<hi rend="superscript">61</hi><note type="bibliográfica" 
-xml:id="nota61"><hi rend="superscript">61</hi> <bibl><title rend="italic">Essai 
-politique sur le royaume de la Nouvelle Espagne</title>, lib. 2, cap. 7</bibl>.</note> 
+xml:id="nota61"><hi rend="superscript">61</hi> <bibl><title><hi rend="italic">Essai 
+politique sur le royaume de la Nouvelle Espagne</hi></title>, lib. 2, cap. 7</bibl>.</note> 
 Lo mismo oí a don Pablo de la Llave y a otros
 que la conocieron. Sin embargo, su nombramiento 
 para la Academia encontró dificultades que impidieron
@@ -93,7 +93,8 @@ que se llevase a cabo.</p>
 </sp>
 <sp who="Clavé">
 <speaker>Clavé</speaker>
-<p>Ximeno no merecerá a usted la censura que sus 
+<p><name ref="#RXP">Ximeno</name>
+no merecerá a usted la censura que sus 
 predecesores, pues de su pericia quedan en México
 monumentos importantes. Tal es la pintura de la cúpula de 
 Catedral, en que representó la Asuncion de Nuestra 

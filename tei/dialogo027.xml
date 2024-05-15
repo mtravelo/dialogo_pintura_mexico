@@ -90,7 +90,7 @@ superioridad del otro cuadro que está a la derecha, el de la
 Oración del Huerto. Confieso a usted que no he encontrado
 en México figura más resignada, más celestial que
 la del Salvador orando; creo que el mismo
-<name type="person" ref="http://viaf.org/viaf/58339">Overbeck</name><note type="editorial" resp="MTRS">Johann Friedrich Overbeck (Lubeca, 1789-Roma, 1869). Pintor y grabador alemán que perteneció a los nazarenos, grupo pictórico del romanticismo que revivió la espiritualidad del arte cristiano medieval.</note>
+<name type="person" ref="http://viaf.org/viaf/58339" xml:id="JFO">Overbeck</name><note type="editorial" resp="MTRS">Johann Friedrich Overbeck (Lubeca, 1789-Roma, 1869). Pintor y grabador alemán que perteneció a los nazarenos, grupo pictórico del romanticismo que revivió la espiritualidad del arte cristiano medieval.</note>
 con gusto la prohijaría por suya. Es cosa notable
 encontrar cuadros como ése pintados aquí, antes de la 
 época en que <name ref="=#DRV">Velázquez</name> y <name ref="#BEM">Murillo</name> florecían en España.

@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -84,10 +84,12 @@ pocos que se le igualen.</p>
 <p>Yo también espero que las obras de los artistas que
 en la Academia o bajo sus auspicios se han formado
 aquí y en Italia no sólo mantengan, sino que aumenten
-el lustre de nuestra escuela. Los nombres de Cordero,
-Pina, Rebull, Flores, Ramírez, Sagredo, Monroy, etcétera,
+el lustre de nuestra escuela. Los nombres de <name type="person" ref="http://viaf.org/viaf/10651072"></name>Cordero,<note type="editorial" rendition="MTRS">Juan Cordero (Teziutlán, 1822-Ciudad de México, 1884). Pintor mexicano del siglo XIX, perteneciente a la escuela clásica, obtuvo amplio reconocimiento en Roma y Florencia. </note>
+<name type="person" ref="http://viaf.org/viaf/8486274">Pina</name>,<note type="editorial" resp="MTRS">José Salomón Pina (Ciudad de México, 1830-1909). Pintor mexicano del siglo XIX, discípulo de Pelegrín Clavé y el primero de sus alumnos en conseguir una pensión para acudir a estudiar a Roma.
+</note> Rebull,<note>Santiago Rebull (Ciudad de México, 1829-1902). Pintor mexicano del siglo XIX, compañero de José Salomón Pina.</note> 
+Flores, Ramírez, Sagredo, Monroy, etcétera,
 no quedarán oscurecidos al lado de los de Echave, 
-Juárez, Arteaga, Rodríguez, Ibarra y Cabrera. Además,
+<name ref="#JJ">Juárez</name>, <name ref="#SA">Arteaga</name>, <name ref="#JRJ">Rodríguez</name>, <name ref="#JI">Ibarra</name> y <name ref="#MC">Cabrera</name>. Además,
 en favor de los primeros se notará siempre la superior
 instrucción, el conocimiento más fundamental del arte,
 un gusto formado con la vista y el estudio de los más

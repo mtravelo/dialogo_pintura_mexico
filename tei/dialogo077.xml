@@ -18,7 +18,7 @@
                 <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
             </publicationStmt>
             <sourceDesc>
-                <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
                     <title>Diálogo sobre la historia de la pintura en México</title>
@@ -67,13 +67,13 @@
 <pb n="77" facs="#p77"/>
 <sp who="Clavé">
 <speaker></speaker>
-<p>embargo, Ximeno se desempeñó bien y su obra es en
+<p>embargo, <name ref="#RXP">Ximeno</name> se desempeñó bien y su obra es en
 materia de ornamentación lo mejor que se registra
 en aquel templo.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>Que Ximeno era un artista de mérito no tiene duda.
+<p>Que <name ref="#RXP">Ximeno</name> era un artista de mérito no tiene duda.
 Y cabalmente el género en que me parece que descollaba
 es ese que con razón gradúa usted del más difícil, la
 gran pintura mural. A más de la obra de que ha hablado
@@ -85,7 +85,7 @@ delante de palacio, el arco del foro del antiguo teatro y
 alguna otra cosa, había levantado la hermosa capilla del
 Señor de Santa Teresa, cuya cúpula, por su valentía,
 no ha tenido igual en la ciudad. La obra de pintura
-se encargó a don Rafael Ximeno. En el dombo pintó la
+se encargó a don <name ref="#RXP">Rafael Ximeno</name>. En el dombo pintó la
 historia que corre de la renovación de la imagen; en el
 ábside, el alboroto que hubo en el pueblo del Cardonal
 cuando se dispuso trasladarla a México. El resto del
@@ -99,7 +99,7 @@ debe serle grato. Es ese que está colgado en el rincón.</p>
 </sp>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
-<p>Los frescos de Ximeno me parecieron siempre preferibles
+<p>Los frescos de <name ref="#RXP">Ximeno</name> me parecieron siempre preferibles
 a sus pinturas al óleo. Además de algunas</p>
 </sp>
 </div>
