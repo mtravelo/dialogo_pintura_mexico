@@ -68,7 +68,7 @@
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Pues yo pensé que el primer director de pintura 
-enviado acá había sido <name  type="person" ref=" http://viaf.org/viaf/11529531" xml:id="RXP">Ximeno</name>.<note>Rafael Ximeno y Planes (Valencia, 1759-Ciudad de México, 1825). Pintor e ilustrador español, segundo director de la Academia de San Carlos, realizó los frescos de las iglesias de Jesús María y la Profesa.</note></p>
+enviado acá había sido <name  type="person" ref=" http://viaf.org/viaf/11529531" xml:id="RXP">Ximeno</name>.<note type="editorial" reps="MTRS">Rafael Ximeno y Planes (Valencia, 1759-Ciudad de México, 1825). Pintor e ilustrador español, segundo director de la Academia de San Carlos, realizó los frescos de las iglesias de Jesús María y la Profesa.</note></p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
