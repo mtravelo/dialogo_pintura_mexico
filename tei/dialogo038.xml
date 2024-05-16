@@ -78,7 +78,7 @@ lado, y los cuatro evangelistas chicos que hay abajo. El
 entierro se adquirió de la iglesia que llaman del 
 Hospital de Texcoco; los demás nos vienen de la Colegiata de
 Guadalupe, cuyo cabildo los donó a la Academia.
-Sospecho que este pintor pudo ser hijo del primer <name ref="BEO">Baltasar
+Sospecho que este pintor pudo ser hijo del primer <name ref=#"BEO">Baltasar
 de Echave</name> no sólo por llevar su nombre según el uso de
 las familias entre nosotros, sino porque algún biógrafo
 del padre dice positivamente que no sólo su mujer, sino
@@ -121,7 +121,7 @@ sino hasta que se ponga a pintar la naturaleza».</quote></cit> <bibl><title><hi
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>La diferencia del estilo entre los dos se echa de ver
-luego. El <rs ref="BEO">Viejo</rs> atildaba y concluía perfectamente sus
+luego. El <rs ref="#BEO">Viejo</rs> atildaba y concluía perfectamente sus
 obras, en las cuales resplandece por otra parte un 
 excelente gusto y buena ciencia del arte. Este segundo era
 pintor de efecto, que daba golpes fuertes y no se 
