@@ -152,8 +152,7 @@ México, bajo todos aspectos, era para aquellos tiempos
 una ciudad animada, lujosa, galana, que daba golpe a
 quien llegaba a verla y que merecía que un contemporáneo,
 uno de los que descollaban en esas justas poéticas,
-le dirigiera en <date when="1603">1603</date> este saludo:<hi rend="supercript">a</hi><note type="aclaratoria" place="bottom" xml:id="notaA"> <hi rend="supercript">a</hi> Es la palma llamada en
-mexicano <hi rend="italic">icxolt</hi>.</note> </p>
+le dirigiera en <date when="1603">1603</date> este saludo:</p>
 <!-- se agregó nota a como prueba -->
 <cit><quote>
 <lg type="tercetos_encadenados">
@@ -162,6 +161,8 @@ mexicano <hi rend="italic">icxolt</hi>.</note> </p>
         <l n="2" rhyme="B">primor del mundo, traza peregr<rhyme>ina</rhyme>,</l>
         <l n="3" rhyme="A">grandeza ilustre, lustre sober<rhyme>ano</rhyme>;</l>
     </lg>
+        <lg>
+        </lg
     <lg type="terceto" n="2" rhyme="BCB" met="3x11">
         <l n="4" rhyme="B">Fénix de galas, de riquezas m<rhyme>ina</rhyme>,</l>
         <l n="5" rhyme="C">museo de ciencias, y de ingenios fu<rhyme>ente</rhyme>,</l>
