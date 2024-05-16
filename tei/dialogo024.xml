@@ -68,7 +68,7 @@
 <sp who="Pesado">
 <speaker></speaker>
 <p>conocidas.<hi rend="superscript">25</hi><note type="bibliográfica" xml:id="nota25"><hi rend="superscript">25</hi> <p>En el 
-artículo «México» del <bibl><title>Diccionario</title> 
+artículo «México» del <bibl><title><hi rend="italic">Diccionario</hi></title> 
 citado en la nota 5</bibl>, publicó el señor don Joaquín García Icazbalceta una curiosa noticia sobre la
 historia de la tipografía entre nosotros (tomo 5, p. 961). Prosiguiendo en sus indagaciones, ha hecho después nuevos descubrimientos y el
 último apunte que me ha dado presenta los datos siguientes:</p>
@@ -154,6 +154,7 @@ quien llegaba a verla y que merecía que un contemporáneo,
 uno de los que descollaban en esas justas poéticas,
 le dirigiera en <date when="1603">1603</date> este saludo:<hi rend="supercript">a</hi><note type="aclaratoria" place="bottom" xml:id="notaA"> <hi rend="supercript">a</hi> Es la palma llamada en
 mexicano <hi rend="italic">icxolt</hi>.</note> </p>
+<!-- se agregó nota a como prueba -->
 <cit><quote>
 <lg type="tercetos_encadenados">
     <lg type="terceto" n="1" rhyme="ABA" met="3x11">
