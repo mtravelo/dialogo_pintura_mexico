@@ -70,7 +70,7 @@
 <div type="Notas">
 <pb n="98" facs="#p98"/>
 <!-- continuación nota 22, cita 2 en párrafo a bando -->
-<note type="explicativa" xml:id="nota22b"><p><cit><quote xml:lang="la">
+<note type="biblográfica" xml:id="nota22b"><p><cit><quote xml:lang="la">
 <lb/>Tutelari, vere sapientiz illuminatrici
 <lb/>celeberrimum hoc mnemosynon. D.»
 <lb/><bibl>(<title><hi rend="italic">Triunpho parthenico</hi></title>, 
