@@ -1,0 +1,324 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+
+body {background-color:#EFEFEF;
+    color:#000033;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20px;
+	line-height:150%;
+	text-align:justify;
+	margin-top:0px;
+	text-indent:0px;
+	}
+
+
+a:link{color:#4A6491;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20px;
+    text-decoration:none;
+	text-align:center;
+	margin-top:0px;
+    margin-bottom:0px;
+	padding:0px;}
+
+a:visited{color:#4A6491;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20px;
+    text-decoration:none;}
+
+a:hover{color:#0E223D; 
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20px;
+    text-indent: 0;}
+
+
+a:active {
+	color: #0E223D;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 20px;
+	margin-bottom: 0;
+	text-indent: 0;
+	text-decoration: none;
+	text-align: left;
+}
+/*Barra de navegación*/
+
+a.estilo1:link {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#4A6491;  font-size:20x; text-align:center; padding:5px;}
+a.estilo1:visited {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:##4A6491;; font-size:20x; text-align:center;}
+a.estilo1:hover {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#0E223D; font-size:20x; text-align:center; background-color:#F5DEB3;}
+a.estilo1:active{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#0E223D; font-size:20px; text-align:center; background-color:#F5DEB3;}
+
+/*Tabla de contenido*/
+
+a.estilo2:link {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#000033; font-size:20x; margin:0;}
+a.estilo2:visited {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#000033; font-size:20x;margin:0;}
+a.estilo2:hover {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#000033; font-size:20x; text-decoration:underline; margin:0;}
+a.estilo2:active{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#000033; font-size:20x; margin:0;}
+
+/*Links en texto*/
+
+a.estilo3:link {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#4A6491; font-size:20x;}
+a.estilo3:visited {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#660000; font-size:20x;}
+a.estilo3:hover {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#660000;  font-size:20x; text-decoration:underline;}
+a.estilo3:active{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#660000; font-size:20x;}
+
+/*Cambio de páginas*/
+
+a.estilo4:link {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#4A6491; font-size:18x; padding:5px;}
+a.estilo4:visited {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#4A6491; font-size:18x;}
+a.estilo4:hover {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#660000; font-size:18x; text-decoration:underline;}
+a.estilo4:active{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#4A6491; font-size:18x;}
+
+
+/*Tipo más pequeño*/
+
+a.estilo5:link {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;color:#4A6491; font-size:12x; line-height:100%;}
+a.estilo5:visited {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;color:#4A6491; font-size:12x; line-height:100%;}
+a.estilo5:hover {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;color:#660000; font-size:12x; text-decoration:underline;}
+a.estilo5:active{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;color:#4A6491; font-size:12x; line-height:100%;}
+
+
+/*Banner*/
+
+
+a.estilo6:link {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#4A6491;  font-size:20x; text-align:center; padding:5px;}
+a.estilo6:visited {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:##4A6491;; font-size:20x; text-align:center;}
+a.estilo6:hover {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#0E223D; font-size:20x; text-align:center; }
+a.estilo6:active{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+color:#0E223D; font-size:20px; text-align:center; background-color:#F5DEB3;}
+
+h1 {color:#660000;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size:26px;
+	margin-top:75px;
+	margin-bottom:50px;
+	text-align: left;
+    text-indent: 0;
+	line-height:150%;}
+
+h2 {color: #000033;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 20px;
+    margin-bottom:0px;
+	margin-top:25px;
+	margin-left:50px;
+	text-align: left;
+    text-indent: 0;}
+
+
+h3 {color: #4A6491;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 24px;
+    margin-bottom: 3em;
+    text-align: left;
+    text-indent: 0; }
+
+h4 {
+	color:#660000;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 22px;
+    text-align: left;
+    text-indent: 0; }
+
+
+
+prueba{
+	background-color:#E8A83F0;}
+
+.tablacontenido{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 20px;
+    text-align: left;
+	margin-left:50px;
+	margin-right:20px;
+	margin-bottom:30px;}
+
+
+
+.nombre {color:#4A6491;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20px;}
+	
+.cargo {color:#000033;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height:150%;
+	font-size:20px;
+	margin-bottom:0;
+	}
+
+
+.capitular {color:#243363;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height:150%;
+	font-size:30px;
+	margin-bottom:0;
+	}
+
+.menu {color:#243363;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height:150%;
+	font-size:30px;
+	margin-bottom:0;
+	}
+
+.fuentes {color:#000033;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height:100%;
+	font-size:30px;
+	margin-top:0x;
+	margin-bottom:10px;
+	vertical-align:central;
+	text-align:center;
+	}
+
+.iie {color:#000033;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height:100%;
+	font-size:18px;
+	margin-top:20px;
+	margin-bottom:10;
+	vertical-align:central;
+	text-align:center;
+	}
+
+.presentacion{background-color:#FAFAFA;
+    color: #333;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20px;
+	line-height:150%;
+	text-align:justify;
+	}
+
+.fondo{background-image:url(imgs/ctlg_azulnoche.jpg);
+	background-repeat: repeat-y}
+
+.centrar{text-align:center;
+	margin-bottom:-20px;}
+
+p.sinespacio{padding-bottom:0;}
+
+.epigrafe{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+			color:#0B3861;
+		margin-left:250px;
+		text-indent:20x;
+		text-align:left;
+		font-size:18px;		
+}
+	
+.copy{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+			color:#4A6491;
+	 font-size:12px;
+	 line-height:100%;
+	 text-align:center;}
+	
+
+.nota{background-color:#FAFAFA;
+    color: #000033;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:16px;
+	line-height:150%;
+	text-align:justify}
+	
+.pie{background-color:#FAFAFA;
+    color: #333;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:12x;
+	line-height:150%;
+	text-align:center}
+
+.llamada{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;color:#660000;font-size:18px;}
+
+.llamadanota{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;color:#660000;font-size:16px;}
+
+
+.folio{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:18px;
+	text-align:center;
+}
+
+.mapa{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 16px;
+	padding:0px;
+	margin-top:0px;
+	text-align:left;}
+
+.margenizq{margin-left:75px;}
+
+.margender{margin-rightt:250px;}
+
+
+.facsimil {background-color:#FAFAFA;
+    color: #333;
+    font-family::"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20x;
+	line-height:1=0%;
+	text-align:justify;}
+	
+.cierra{tex-align:rigth;}
+
+
+
+.margen{padding-left:50px;
+	vertical-align:text-top;}
+	
+.margend{padding-right:100px;
+	vertical-align:text-top;}
+	
+.margenes{
+	padding-left: 50px;
+	padding-right: 50px;
+	vertical-align: text-top;
+	text-align: justify;
+}	
+	
+.indices{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#000033; font-size:18px; margin-top:1em; margin-bottom:0px; line-height:150%}
+
+.fondotrigo{background-color:#F5DEB3;}
+
+p{text-align:justify; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+p.francesa {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:18px;
+	padding-top:0px;
+	text-indent: -30px;
+	padding-left: 30px;
+	margin:0px;
+	i}
+
+p.derecha{text-align:right; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+
+.subtitulo{
+	color:#660000;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 20px;
+    text-align: left;
+    text-indent: 0;
+
+	}
+	
+p.cita{margin-left:20px;
+	text-indent:0px; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
