@@ -70,27 +70,27 @@
 <div type="Notas">
 <pb n="104" facs="#p194"/>
 
-<note type="bibliográfica" xml:id="nota57"><hi rend="superscript">57</hi> <bibl><title><hi rend="italic">Disertación histórica sobre la aparición 
+<note type="autor" xml:id="nota57"><hi rend="superscript">57</hi> <bibl><title><hi rend="italic">Disertación histórica sobre la aparición 
 de María Santísima de Guadalupe</hi></title>, cap. 4, § X, núm. 282 en la nota.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota58"><hi rend="superscript">58</hi> <bibl>En la pieza núm. 2 al 
+<note type="autor" xml:id="nota58"><hi rend="superscript">58</hi> <bibl>En la pieza núm. 2 al 
 fin del <title><hi rend="italic">Manifiesto satisfactorio</hi></title></bibl>.</note>
 
-<note type="bibliográfica" xml:id="nota59"><hi rend="superscript">59</hi> <bibl>Apéndice al § X, cap. 4 
+<note type="autor" xml:id="nota59"><hi rend="superscript">59</hi> <bibl>Apéndice al § X, cap. 4 
 de la <title><hi rend="italic">Disertación histórica</hi></title>
 del doctor <author>Conde</author></bibl>.</note>
 
-<note type="bibliográfica" xml:id="nota60"><hi rend="superscript">60</hi> Así resulta de las actas de 
+<note type="autor" xml:id="nota60"><hi rend="superscript">60</hi> Así resulta de las actas de 
 sesiones de la junta superior de gobierno de la Academia.</note>
 
-<note type="bibliográfica" xml:id="nota61"><hi rend="superscript">61</hi> <bibl><title><hi rend="italic">Essai 
+<note type="autor" xml:id="nota61"><hi rend="superscript">61</hi> <bibl><title><hi rend="italic">Essai 
 politique sur le royaume de la Nouvelle Espagne</hi></title>, lib. 2, cap. 7</bibl>.</note>
 
-<note type="bibliográfica" xml:id="nota62"><hi rend="superscript">62</hi> Véase el pasaje de don
+<note type="autor" xml:id="nota62"><hi rend="superscript">62</hi> Véase el pasaje de don
 Carlos de Sigüenza y Góngora, copiado en
 la nota 39.</note>
 
-<note type="bibliográfica" xml:id="nota63"><hi rend="superscript">63</hi> <cit><quote xml:lang="la">Utinam 
+<note type="autor" xml:id="nota63"><hi rend="superscript">63</hi> <cit><quote xml:lang="la">Utinam 
 et Phidiam ab initio coluissent indigene, ut coluere 
 Vitruvium, atque Apellem! nam ut architectos, et pictores excellentes 
 habuere non paucos, ita statuariis optimis vulgo caruere</quote></cit>. <bibl>Maneyro, <title><hi rend="italic">De
@@ -100,7 +100,7 @@ producido una de las más insignes escuelas de pintura de la Europa
 moderna, y arquitectos de primer orden, carece casi absolutamente de
 estatuaria.</note>
 
-<note type="bibliográfica" xml:id="nota64a"><hi rend="superscript">64</hi> El padre Torquemada hace la historia y la descripción de esta obra
+<note type="autor" xml:id="nota64a"><hi rend="superscript">64</hi> El padre Torquemada hace la historia y la descripción de esta obra
 en los términos siguientes: <cit><quote>«Era varón (el padre Tembleque) de muy
 constante y determinado ánimo, lo cual se conoció en muchas y diversas
 ocasiones; una de las cuales fue, que morando en el convento de

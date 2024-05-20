@@ -72,7 +72,7 @@
 <div type="Notas">
 <pb n="96" facs="#p96"/>
 <!-- continuación nota 10 -->
-<note type="bibliográfica" xml:id="nota10d">
+<note type="autor" xml:id="nota10d">
 <p>figura con distintas cabezas) y sobre todo en el del marqués de Croix,
 que es positivamente bueno. Los que siguen hasta don Juan O'Donojú
 (si se exceptúa acaso el de Marquina) son muy pobre cosa, y en
@@ -94,7 +94,7 @@ conjetura, tratándose de los arzobispos es un hecho que está a la vista. Los
 retratos de los primeros prelados evidentemente son hechos después
 que los posteriores.</p></note>
 
-<note type="bibliográfica" xml:id="nota11"><hi rend="superscript">11</hi> 
+<note type="autor" xml:id="nota11"><hi rend="superscript">11</hi> 
 <cit><quote xml:lang="la">«Aluntur intra monasteriorum ambitum per suas classes et 
 contubernia, per scholas et doctrivia, ex ditioribus trecenteni, quadrigenteni,
 quingenteni, et sic de singulis ordinatim secundum magnitudinem
@@ -108,13 +108,13 @@ Provincia de Santiago de México de la orden de Predicadores</hi></title>, lib. 
 parece que no siempre expresa con fidelidad y exactitud lo que dice el
 original latino, como sucede en el pasaje que acabo de copiar.</note>
 
-<note type="bibliográfica" xml:id="nota12"><hi rend="superscript">12</hi> <bibl><author>Vetancurt</author>, <title> <hi rend="italic">Crónica de la Provincia del Santo Evangelio de 
+<note type="autor" xml:id="nota12"><hi rend="superscript">12</hi> <bibl><author>Vetancurt</author>, <title> <hi rend="italic">Crónica de la Provincia del Santo Evangelio de 
 México</hi></title>, tratado 2o., cap. 3, núm. 63.</bibl></note>
 
-<note type="bibliográfica" xml:id="nota13"> <hi rend="superscript">13</hi> <bibl><title><hi rend="italic">Monarquía 
+<note type="autor" xml:id="nota13"> <hi rend="superscript">13</hi> <bibl><title><hi rend="italic">Monarquía 
 indiana</hi></title>, lib. 17, cap. 2, y lib. 20, cap. 19. </bibl></note>
 
-<note type="bibliográfica" xml:id="nota14a"><hi rend="superscript">14</hi> <bibl><author>Vetancurt</author>, 
+<note type="autor" xml:id="nota14a"><hi rend="superscript">14</hi> <bibl><author>Vetancurt</author>, 
 <title><hi rend="italic">Menologio franciscano</hi></title>, en el día <date when="06-29">29 de junio</date>.
 <author>Valadés</author>, <title><hi rend="italic">Reth.</hi></title>, cap. 23, p. 4. 
 El mismo <author>Vetancurt</author> en la <title><hi rend="italic">Crónica</hi></title> (tratado

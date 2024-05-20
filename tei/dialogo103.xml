@@ -70,7 +70,7 @@
 <div type="Notas">
 <pb n="103" facs="#p103"/>
 <!-- continuación nota 53 -->
-<note type="bibliográfica" xml:id="nota53b"><cit><quote>que pueda aprovechar en esta facultad (que no todos lo pueden 
+<note type="autor" xml:id="nota53b"><cit><quote>que pueda aprovechar en esta facultad (que no todos lo pueden 
 conseguir, porque para ésta y la poesía es fuerza nacer con estas gracias),
 le ordenará vaya a casa del secretario, y le diga cómo quiere aprender
 esta facultad con aquel maestro: y dicho secretario reconocerá, 
@@ -89,7 +89,7 @@ segundo director; Pedro de Quintana, director; Francisco Antonio
 Vallejo, tercer director; José de Alcíbar, director. Ante mí, 
 Lorenzo Barba Figueroa, secretario.</note>
 
-<note type="bibliográfica" xml:id="nota54"><hi rend="superscript">54</hi> <bibl><title><hi rend="italic">Diccionario universal de historia y de geografía</hi></title>, reimpreso por
+<note type="autor" xml:id="nota54"><hi rend="superscript">54</hi> <bibl><title><hi rend="italic">Diccionario universal de historia y de geografía</hi></title>, reimpreso por
 Rafael, artículo «Cabrera».</bibl> Este artículo está suscrito con las iniciales de
 don Manuel Orozco y Berra, persona muy instruida en nuestra historia.
 Yo siento que no se me haya ofrecido ocasión antes de ahora de 
@@ -97,7 +97,7 @@ presentarle los motivos de duda que tengo respecto de algunas de las aserciones
 contenidas en aquella pequeña biografía, pues me habría sido 
 grato discutirlos con persona tan capaz de dar voto en la materia.</note>
 
-<note type="bibliográfica" xml:id="nota55"><hi rend="superscript">55</hi> Entraron de religiosas en el convento de capuchinas españolas de
+<note type="autor" xml:id="nota55"><hi rend="superscript">55</hi> Entraron de religiosas en el convento de capuchinas españolas de
 esta ciudad. La primera, doña Luisa, no pudo permanecer en el claustro
 por falta de salud. La segunda, doña Mariana, profesó, vivió allí largos
 años, y murió en nuestra época. La madre de ambas, y mujer de 
@@ -111,7 +111,7 @@ Mucho más cuando para ocurrir a casos de esta clase estaba fundado desde
 el primer tercio del siglo <num value="18">XVIII</num>, por el virrey marqués de Valero, el convento
 de capuchinas indias de Corpus Christi.</note>
 
-<note type="bibliográfica" xml:id="nota56"><hi rend="superscript">56</hi> <bibl><title><hi rend="italic">Manifiesto
+<note type="autor" xml:id="nota56"><hi rend="superscript">56</hi> <bibl><title><hi rend="italic">Manifiesto
 satisfactorio</hi></title></bibl>, parte primera, núm. 17</note>
 </div>
 </back>

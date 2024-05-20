@@ -72,14 +72,14 @@ Torquemada recordaba que él había alcanzado a ver en la
 fragua de los herreros, y en otra sala grande, algunas cajas
 donde estaban los vasos de los colores de los pintores;
 si bien al tiempo que escribía no quedaba ya rastro de
-aquello.<hi rend="superscript">13</hi><note type="bibliográfica" xml:id="nota13"> <hi rend="superscript">13</hi> <bibl><title><hi rend="italic">Monarquía 
+aquello.<hi rend="superscript">13</hi><note type="autor" xml:id="nota13"> <hi rend="superscript">13</hi> <bibl><title><hi rend="italic">Monarquía 
 indiana</hi></title>, lib. 17, cap. 2, y lib. 20, cap. 19. </bibl></note></p>
 </sp>
 <sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>¡En qué materia no tendremos los mexicanos que ir
 a buscar la primera cuna de nuestra civilización en el
-convento de San Francisco! El historiador <name type="person" ref="http://viaf.org/viaf/24601933">Gibbon</name><note type="editorial" reps="MTRS">Edward Emily Gibbon (Londres, 1737-1794). Historiador, político y escritor británico, autor de <title><hi rend="italic">Historia de la decadencia y caída del Imperio romano</hi></title>, (1776-1778), obra fundamental para la evolución de la historiografía sobre el tema.</note> 
+convento de San Francisco! El historiador <name type="person" ref="http://viaf.org/viaf/24601933">Gibbon</name><note type="editorial" resp="MTRS">Edward Emily Gibbon (Londres, 1737-1794). Historiador, político y escritor británico, autor de <title><hi rend="italic">Historia de la decadencia y caída del Imperio romano</hi></title>, (1776-1778), obra fundamental para la evolución de la historiografía sobre el tema.</note> 
 decía que Francia era una monarquía creada por los 
 obispos; en menor escala México fue realmente una 
 sociedad formada por ellos y por los misioneros.</p>
@@ -92,7 +92,7 @@ los indios a pintar?</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Así parecen indicarlo los términos en que se 
-explican los escritores antiguos.<hi rend="superscript">14</hi><note type="bibliográfica" xml:id="nota14"><hi rend="superscript">14</hi>
+explican los escritores antiguos.<hi rend="superscript">14</hi><note type="autor" xml:id="nota14"><hi rend="superscript">14</hi>
 <bibl><author>Vetancurt</author>, 
 <title><hi rend="italic">Menologio franciscano</hi></title>, en el día 29 de junio.
 <author>Valadés</author>, <title><hi rend="italic">Reth.</hi></title>, cap. 23, p. 4. 
@@ -106,7 +106,7 @@ Y no es cosa en que pueda
 ponerse reparo, porque aquel insigne religioso era 
 persona de gran disposición para todo género de artes, 
 hasta llegar a decir alguno de sus contemporáneos que
-ninguna ignoraba.<hi rend="superscript">15</hi><note type="bibliográfica" xml:id="nota15"><hi rend="superscript">15</hi> 
+ninguna ignoraba.<hi rend="superscript">15</hi><note type="autor" xml:id="nota15"><hi rend="superscript">15</hi> 
 <cit><quote xml:lang="la">«Nullius enim nescius erat».</quote></cit> <bibl><author>Valadés</author></bibl>.</note> 
 Observe usted por otra parte que la
 enseñanza que en aquella época empezó a darse a los

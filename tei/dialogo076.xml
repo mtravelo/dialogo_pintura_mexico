@@ -68,7 +68,7 @@
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Pues yo pensé que el primer director de pintura 
-enviado acá había sido <name  type="person" ref=" http://viaf.org/viaf/11529531" xml:id="RXP">Ximeno</name>.<note type="editorial" reps="MTRS">Rafael Ximeno y Planes (Valencia, 1759-Ciudad de México, 1825). Pintor e ilustrador español, segundo director de la Academia de San Carlos, realizó los frescos de las iglesias de Jesús María y la Profesa.</note></p>
+enviado acá había sido <name  type="person" ref=" http://viaf.org/viaf/11529531" xml:id="RXP">Ximeno</name>.<note type="editorial" resp="MTRS">Rafael Ximeno y Planes (Valencia, 1759-Ciudad de México, 1825). Pintor e ilustrador español, segundo director de la Academia de San Carlos, realizó los frescos de las iglesias de Jesús María y la Profesa.</note></p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
@@ -83,7 +83,7 @@ botánica de Sessé y Mociño, y cuya magnífica flora
 mexicana debe existir en Madrid. Humboldt, que la vio,
 asegura que sus dibujos de plantas y animales pueden
 competir con lo mejor que en ese género ha producido
-Europa.<hi rend="superscript">61</hi><note type="bibliográfica" 
+Europa.<hi rend="superscript">61</hi><note type="autor" 
 xml:id="nota61"><hi rend="superscript">61</hi> <bibl><title><hi rend="italic">Essai 
 politique sur le royaume de la Nouvelle Espagne</hi></title>, lib. 2, cap. 7</bibl>.</note> 
 Lo mismo oí a don Pablo de la Llave y a otros

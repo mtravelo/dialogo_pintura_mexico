@@ -77,7 +77,7 @@ su amigo, le dice que con anterioridad a <name ref="#BEO">Echave</name>,
 Juárez</name>,<note type="editorial" resp="MTRS">Familia de pintores que abarcó tres generaciones: Luis Juárez, José Juárez y Juan Rodríguez Juárez.</note> Becerra, etcétera, es decir, antes de los
 artistas del siglo <num value="17">XVII</num>, pasó a este reino 
 <name type="person" ref=" http://viaf.org/viaf/95786799">Alonso Vázquez</name>,<note type="editorial" resp="MTRS">Alonso Vázquez (Ronda, <hi rend="italic">ca.</hi> 1564-Ciudad de México, <hi rend="italic">ca.</hi> 1608). Pintor español de estilo manierista, cuya actividad se desarrolló en Sevilla antes de emigrar a México como pintor del virrey Juan de Mendoza.</note> insigne pintor europeo, quien introdujo buena
-doctrina que siguieron Juan de Rúa y otros.<hi rend="superscript">21</hi><note type="bibliográfica" 
+doctrina que siguieron Juan de Rúa y otros.<hi rend="superscript">21</hi><note type="autor" 
 xml:id="nota21"><hi rend="superscript">21</hi> <bibl><author>Cabrera</author> copió este 
 fragmento de Ibarra en la p. 10 de su <title><hi rend="italic">Maravilla americana</hi></title>, impresa en México en la imprenta del Colegio de
 San Ildefonso el año <date when="1756">1756</date>.</bibl></note>
@@ -87,7 +87,7 @@ dedicada a santa Catarina Mártir, eran de mano del
 «excelentísimo pintor Alonso Vázquez»; que fueron su
 última obra; y que con ellas hizo un presente a la
 Universidad el virrey marqués de Montesclaros, quien
-gobernó desde <date when="1603">1603</date> hasta <date when="1607">1607</date>.<hi rend="superscript">22</hi><note type="bibliográfica" xml:id="nota22">
+gobernó desde <date when="1603">1603</date> hasta <date when="1607">1607</date>.<hi rend="superscript">22</hi><note type="autor" xml:id="nota22">
 <!-- cita 2 dentro de cita 1 -->
 <p>Describiendo uno de los altares que se pusieron en los corredores
 de la Universidad en las funciones hechas a la Purísima en enero de
@@ -127,7 +127,7 @@ en la <title><hi rend="italic">Grandeza mexicana</hi></title>.<note type="editor
 las pinturas del túmulo erigido por la Inquisición
 para las exequias de<name>Felipe <num type="ordinal" value="2">II</num></name><note type="editorial" resp="MTRS">Felipe II (Valladolid, 1527-San Lorenzo El Escorial, 1598). Rey de España y monarca del mayor imperio del mundo que se extendió a Portugal, Nápoles, Sicilia, en el continente europeo, los virreinatos de América y las islas Filipinas en Asia.</note>
 en <date when="1599">1599</date> y el retablo que
-poco antes se había puesto en San Agustín<hi rend="superscript">23</hi><note type="bibliográfica"
+poco antes se había puesto en San Agustín<hi rend="superscript">23</hi><note type="autor"
  xml:id="nota23"><hi rend="superscript">23</hi> <bibl><title><hi rend="italic">Relación histórica de las exequias 
 funerales del rey don Philippo II N.S., hechas por el Tribunal del Santo Oficio de la Inquisición de
 esta Nueva España</hi></title>, etcétera, México, 1600.</bibl></note> 

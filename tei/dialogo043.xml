@@ -74,7 +74,7 @@ Pero antes quiero decirte que del mismo siglo <num value="16">XVI</num>
 conozco, además de otros oscuros, algunos que por su
 mérito te nombraré. Sea el primero Juan de Herrera,
 a quien nuestros antepasados llamaron el divino, como
-en España a <name type="person" ref="http://viaf.org/viaf/31849912"></name>Luis Morales,<note type=editorial" resp="MTRS">Luis de Morales (Badajoz, <hi rend="italic">ca</hi>. 1510-1586). Pintor español de estilo manierista.</note> 
+en España a <name type="person" ref="http://viaf.org/viaf/31849912"></name>Luis Morales,<note type="editorial" resp="MTRS">Luis de Morales (Badajoz, <hi rend="italic">ca</hi>. 1510-1586). Pintor español de estilo manierista.</note> 
 o porque sólo se ejercitaba
 en asuntos sagrados, o por la perfección con que los 
 desempeñó. En la capilla de reliquias de Catedral, que
@@ -89,14 +89,14 @@ algún sabor de estilo holandés.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>El segundo es fray Diego Becerra,<hi rend="superscript">44</hi><note type="bibliográfica" 
+<p>El segundo es fray Diego Becerra,<hi rend="superscript">44</hi><note type="autor" 
 xml:id="nota44"><hi rend="superscript">44</hi> Véase a Sigüenza en el pasaje copiado en la nota 39.</note>
 lego franciscano,
 connovicio del padre Vetancurt, que le llama insigne,
 y por quien sabemos que en la segunda mitad del siglo
 pintó varias obras para su convento, las cuales se quitaron
 de la portería por lo que allí sufrían y se distribuyeron
-en otras partes del edificio.<hi rend="superscript">45</hi> <note type="bibliográfica" xml:id="nota45"><hi rend="superscript">45</hi> 
+en otras partes del edificio.<hi rend="superscript">45</hi> <note type="autor" xml:id="nota45"><hi rend="superscript">45</hi> 
 <bibl><title><hi rend="italic">Crónica</hi></title>, tratado 2o, cap. 32, núms. 42 y 51.</bibl></note>
 </p>
 </sp>

@@ -67,7 +67,7 @@
 <pb n="24" facs="#p24"/>
 <sp who="Pesado">
 <speaker></speaker>
-<p>conocidas.<hi rend="superscript">25</hi><note type="bibliográfica" xml:id="nota25"><hi rend="superscript">25</hi> <p>En el 
+<p>conocidas.<hi rend="superscript">25</hi><note type="autor" xml:id="nota25"><hi rend="superscript">25</hi> <p>En el 
 artículo «México» del <bibl><title><hi rend="italic">Diccionario</hi></title> 
 citado en la nota 5</bibl>, publicó el señor don Joaquín García Icazbalceta una curiosa noticia sobre la
 historia de la tipografía entre nosotros (tomo 5, p. 961). Prosiguiendo en sus indagaciones, ha hecho después nuevos descubrimientos y el
@@ -142,7 +142,7 @@ venir exprofeso los útiles necesarios».</quote></cit></p></note>
 La animación en las letras no debía ser
 corta, cuando en uno de los certámenes poéticos que
 por entonces hubo, se presentaron hasta trescientos 
-autores, aspirando al premio.<hi rend="superscript">26</hi><note type="bibliográfica" 
+autores, aspirando al premio.<hi rend="superscript">26</hi><note type="autor" 
 xml:id="nota26"><hi rend="superscript">26</hi> <bibl><author>Balbuena</author>, 
 <title><hi  rend="italic">Grandeza mexicana</hi></title>, edición de <date when="1603">1603</date>, p. 31 y a la vuelta.</bibl></note> 
 Yo bien sé que no habría en México trescientos poetas que mereciesen tal 
@@ -187,7 +187,7 @@ le dirigiera en <date when="1603">1603</date> este saludo:</p>
         <l n="16" rhyme="F">Templo de la beldad, alma del g<rhyme>usto</rhyme>,</l>
         <l n="17" rhyme="G">Indias del mundo, cielo de la ti<rhyme>erra</rhyme>!</l>
         <l n="18" rhyme="F">Todo esto es sombra tuya, ¡oh pueblo aug<rhyme>usto</rhyme>!</l>
-        <l n="19" rhyme="G">Y si hay más que esto, aún más en ti se enci<rhyme>erra</rhyme>.<hi rend="superscript">27</hi><note type="bibliográfica" 
+        <l n="19" rhyme="G">Y si hay más que esto, aún más en ti se enci<rhyme>erra</rhyme>.<hi rend="superscript">27</hi><note type="autor" 
         xml:id="nota27"><hi rend="superscript">27</hi> <bibl>El mismo <author>Balbuena</author> al 
         final del cap. 2 de la <title rend="italic">Grandeza mexicana</title>.</bibl></note></l>
     </lg>
