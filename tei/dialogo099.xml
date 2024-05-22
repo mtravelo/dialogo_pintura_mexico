@@ -69,7 +69,7 @@
 <div type="Notas">
 <pb n="99" facs="#p99"/>
 <!-- continuación nota 25 -->
-<note type="autor" xml:id="nota25b"> español del padre Molina, 
+<p> español del padre Molina, 
 impreso por Antonio de Espinosa en 1571,
 un tomo en folio. Pero la que sobre todas llama la atención es la del
 misal del mismo impresor, de que posee un ejemplar el señor Ramírez y
@@ -86,33 +86,33 @@ increíble que obra de tal consideración se ejecutase en nuestras
 imprentas a poco más de mediado el siglo <num value="16">XVI</num>, y yo dudaría del 
 hecho a no tener el libro a la vista. Hoy mismo, después de <num type="cardinal" value="3">tres</num> siglos,
 sería casi imposible ejecutar aquí cosa semejante, si no era haciendo
-venir exprofeso los útiles necesarios».</quote></cit></note>
+venir exprofeso los útiles necesarios».</quote></cit></p>
 
-<note type="autor" xml:id="nota26"><hi rend="superscript">26</hi> <bibl><author>Balbuena</author>, 
-<title><hi rend="italic">Grandeza mexicana</hi></title>, edición de<date when="1603">1603</date>, p. 31 y a la vuelta.</bibl></note>
+<p><hi rend="superscript">26</hi> <bibl><author>Balbuena</author>, 
+<title><hi rend="italic">Grandeza mexicana</hi></title>, edición de<date when="1603">1603</date>, p. 31 y a la vuelta.</bibl></p>
 
-<note type="autor" xml:id="nota27"><hi rend="superscript">27</hi> <bibl>El mismo <author>Balbuena</author> al 
-final del cap. 2 de la <title><hi rend="italic">Grandeza mexicana</hi></title>.</bibl></note>
+<p><hi rend="superscript">27</hi> <bibl>El mismo <author>Balbuena</author> al 
+final del cap. 2 de la <title><hi rend="italic">Grandeza mexicana</hi></title>.</bibl></p>
 
-<note type="autor" xml:id="nota28"><hi rend="superscript">28</hi> <bibl>Véase por ejemplo 
+<p><hi rend="superscript">28</hi> <bibl>Véase por ejemplo 
 al licenciado <author>Cayetano Cabrera</author>, <title><hi rend="italic">Escudo de armas de
-México</hi></title>, núm. 291.</bibl></note>
+México</hi></title>, núm. 291.</bibl></p>
 
-<note type="autor" xml:id="nota29"><hi rend="superscript">29</hi> <bibl><title><hi rend="italic">Monarquía 
-indiana</hi></title>, lib. 17, cap. 4.</bibl></note>
+<p><hi rend="superscript">29</hi> <bibl><title><hi rend="italic">Monarquía 
+indiana</hi></title>, lib. 17, cap. 4.</bibl></p>
 
-<note type="autor" xml:id="nota30"><hi rend="superscript">30</hi> <bibl><author>Vetancurt</author> en la <title><hi rend="italic">Crónica</hi></title>, 
-tratado 22, cap. 32, núm. 39.</bibl> </note>
+<p><hi rend="superscript">30</hi> <bibl><author>Vetancurt</author> en la <title><hi rend="italic">Crónica</hi></title>, 
+tratado 22, cap. 32, núm. 39.</bibl> </p>
 
-<note type="autor" xml:id="nota31"><hi rend="superscript">31</hi> <bibl>Don <author>Nicolás Antonio</author>, 
+<p><hi rend="superscript">31</hi> <bibl>Don <author>Nicolás Antonio</author>, 
 <title><hi rend="italic">Biblioteca nova</hi></title>; el señor <author>Eguiara</author>, <title><hi rend="italic">Biblioteca
 mexicana</hi></title>; y <author>Beristáin</author>, <title><hi rend="italic">Biblioteca hispano americana septentrional</hi></title>, en
 el artículo «Baltasar Echave». Debo advertir que algunos escritores 
 antiguos, como Balbuena y Vetancurt, le han llamado Chávez; pero él se
 firmaba en sus cuadros Echave. Conocida es la incuria y el desaliño de
-los antiguos en punto de ortografía española.</bibl></note>
+los antiguos en punto de ortografía española.</bibl></p>
 
-<note type="autor" xml:id="nota32a"><hi rend= "superscript">32</hi> <bibl>De este rarísimo libro no he encontrado un solo ejemplar en 
+<p><hi rend= "superscript">32</hi> <bibl>De este rarísimo libro no he encontrado un solo ejemplar en 
 ninguna biblioteca pública ni particular. Creo que lo tuvo a la vista don
 Nicolás Antonio, pues no pudo tomar de otro escritor anterior la
 noticia que de él da. El señor Eguiara se equivocó al decir que Enrico 
@@ -120,7 +120,7 @@ Martínez lo había mencionado en su Repertorio de los tiempos; don <author>Jos�
 Vargas y Ponce</author> lo citó en la foja 2 de la <title><hi rend="italic">Disertación acerca de la 
 lengua castellana</hi></title> que puso en seguida de la <title><hi rend="italic">Declamación contra los abusos
 introducidos en el castellano</hi></title>, Madrid, 1793; y por ahí tuyo noticia de su
-existencia el doctor don <author>Pedro Felipe Monlau</author>, quien lo ha listado bajo el</bibl></note>
+existencia el doctor don <author>Pedro Felipe Monlau</author>, quien lo ha listado bajo el</bibl></p>
 
 </div>
 </back>

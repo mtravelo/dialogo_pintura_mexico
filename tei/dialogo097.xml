@@ -71,40 +71,39 @@
 <back>
 <div type="Notas">
 <pb n="97" facs="#p97"/>
-<note type="autor" xml:id="nota14b">Aunque el padre no trabajara materialmente en ella, dirigía el
-trabajo.</note>
+<p>Aunque el padre no trabajara materialmente en ella, dirigía el
+trabajo.</p>
 
-<note type="autor" xml:id="nota15"><hi rend="superscript">15</hi> <cit><quote xml:lang="la">
-«Nullius enim nescius erat».</quote></cit> <bibl><author>Valadés</author></bibl>.</note>
+<p><hi rend="superscript">15</hi> <cit><quote xml:lang="la">
+«Nullius enim nescius erat».</quote></cit> <bibl><author>Valadés</author></bibl>.</p>
 
-<note type="autor" xml:id="nota16"><hi rend="superscript">16</hi> <bibl><author>Sariñana</author>, 
+<p><hi rend="superscript">16</hi> <bibl><author>Sariñana</author>, 
 <title><hi rend="italic">Noticia de la deseada y última dedicación del templo
-metropolitano de México</hi></title>, en <date when="1667-12-22">22 de diciembre de 1667</date>, p. 26, vuelta.</bibl></note>
+metropolitano de México</hi></title>, en <date when="1667-12-22">22 de diciembre de 1667</date>, p. 26, vuelta.</bibl></p>
 
-<note type="autor" xml:id="nota17"><hi rend="superscript">17</hi> <bibl>Véanse sobre todo 
+<p><hi rend="superscript">17</hi> <bibl>Véanse sobre todo 
 esto la excelente oración pronunciada por el señor
 Jovellanos en la Academia de San Fernando de Madrid el año de <date when="1781">1781</date>
 (tomo 2 de sus obras, p. 120, edición de don León Amarita, Madrid,
 <date when="1830">1830</date>), y a <author>Ceán Bermúdez</author> en la introducción del <title><hi rend="italic">Diccionario histórico
 de los profesores de bellas artes en España</hi></title>, y en los artículos de
 los artistas del siglo <num value="16">XVI</num>; en el tomo 6 hay catálogos cronológicos
-de todos.</bibl></note>
+de todos.</bibl></p>
 
-<note type="autor" xml:id="nota18"><hi rend="superscript">18</hi> <bibl>Lib. 17, 
-cap. 1 de la <title><hi rend="italic">Monarquía indiana</hi></title>.</bibl></note>
+<p><hi rend="superscript">18</hi> <bibl>Lib. 17, 
+cap. 1 de la <title><hi rend="italic">Monarquía indiana</hi></title>.</bibl></p>
 
-<note type="autor" xml:id="nota19"><hi rend="superscript">19</hi> <bibl><title><hi  rend="italic">Historia de los indios 
-de Nueva España</hi></title>, tratado 3o., cap. 13, edición de García Icazbalceta.</bibl></note>
+<p><hi rend="superscript">19</hi> <bibl><title><hi  rend="italic">Historia de los indios 
+de Nueva España</hi></title>, tratado 3o., cap. 13, edición de García Icazbalceta.</bibl></p>
 
-<note type="autor" xml:id="nota20"><hi rend="superscript">20</hi> <bibl><title><hi rend="italic">Historia verdadera 
-de la conquista</hi></title>, cap. 209.</bibl></note>
+<p><hi rend="superscript">20</hi> <bibl><title><hi rend="italic">Historia verdadera 
+de la conquista</hi></title>, cap. 209.</bibl></p>
 
-<note type="autor" xml:id="nota21"><hi rend="superscript">21</hi> <bibl><author>Cabrera</author> copió este 
+<p><hi rend="superscript">21</hi> <bibl><author>Cabrera</author> copió este 
 fragmento de Ibarra en la p. 10 de su <title><hi rend="italic">Maravilla americana</hi></title>, impresa en México en la imprenta del Colegio de
-San Ildefonso el año <date when="1756">1756</date>.</bibl></note>
+San Ildefonso el año <date when="1756">1756</date>.</bibl></p>
 <!-- cita 2 dentro de cita 1 -->
-<note type="autor" xml:id="nota22a"><hi rend="superscript">22</hi>
-<p>Describiendo uno de los altares que se pusieron en los corredores
+<p><hi rend="superscript">22</hi> Describiendo uno de los altares que se pusieron en los corredores
 de la Universidad en las funciones hechas a la Purísima en enero de
 1682, dice que había en él <cit type="cita1"><quote>«dos valientes imágenes, la una del arcángel
 gel san Miguel, príncipe de la milicia celestial y protector de la Iglesia,
@@ -123,7 +122,7 @@ de Montesclaros con la siguiente inscripción:</quote></cit></p>
 <lb/>semper Augusto Prefect: in regalis
 <lb/>Academix tutelam B. Catharine orte
 <lb/>Regalibus parentibus bonarum artium</quote></cit></p>
-</note>
+
 </div>
 </back>
 </text>   

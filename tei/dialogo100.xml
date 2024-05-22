@@ -70,13 +70,13 @@
 <div type="Notas">
 <pb n="100" facs="#p100"/>
 
-<note type="autor" xml:id="nota32b"><bibl>número 11 en la bibliografía con que cierra su <title><hi rend="italic">Diccionario etimológico
+<p><bibl>número 11 en la bibliografía con que cierra su <title><hi rend="italic">Diccionario etimológico
 de la lengua castellana</hi></title>, impreso en Madrid en 1856, pero confiesa ingenuamente que no pudo hallar un ejemplar de él en Madrid. Dudo que
-lo hubiese visto Vargas Ponce.</bibl></note>
+lo hubiese visto Vargas Ponce.</bibl></p>
 
-<note type="autor" xml:id="nota33"><hi rend="superscript">33</hi> <bibl><title><hi rend="italic">Grandeza mexicana</hi></title>, cap. 4.</bibl></note>
+<p><hi rend="superscript">33</hi> <bibl><title><hi rend="italic">Grandeza mexicana</hi></title>, cap. 4.</bibl></p>
 
-<note type="autor" xml:id="nota34"><hi rend="superscript">34</hi> <cit><quote>«En uno de sus altares 
+<p><hi rend="superscript">34</hi> <cit><quote>«En uno de sus altares 
 (de la Catedral), y es el que está erigido
 al trascoro, se ve entre vidrieras su imagen y valiente pintura (la de
 San Sebastián), asombro de los profesores del arte, y obra, según su
@@ -84,25 +84,25 @@ tradición, de la famosa Sumaya, célebre pintora en esta ciudad,
 maestra no sólo en pintura, sino en enseñar al celebrado vizcaíno Baltasar
 de Echave el primero, a quien tuvo por marido y discípulo, y de 
 cuyos padres no degeneraron sus hijos».</quote></cit> <bibl>Don <author>Cayetano Cabrera</author>, 
-<title><hi rend="italic">Escudo de armas de México</hi></title>, lib. 2, cap. 5, núm. 291.</bibl></note>
+<title><hi rend="italic">Escudo de armas de México</hi></title>, lib. 2, cap. 5, núm. 291.</bibl></p>
 
-<note type="autor" xml:id="nota35"><hi rend="superscript">35</hi> <bibl>En la oración citada en la 
-nota 17.</bibl></note>
+<p><hi rend="superscript">35</hi> <bibl>En la oración citada en la 
+nota 17.</bibl></p>
 
-<note type="autor" xml:id="nota36"><hi rend="superscript">36</hi> <bibl><title><hi rend="italic">Paraíso 
-occidental</hi></title>, lib. 1, cap. 9.</bibl></note>
+<p><hi rend="superscript">36</hi> <bibl><title><hi rend="italic">Paraíso 
+occidental</hi></title>, lib. 1, cap. 9.</bibl></p>
 
-<note type="autor" xml:id="nota37"><hi rend="superscript">37</hi> <bibl>Estos cuadros estaban 
+<p><hi rend="superscript">37</hi> <bibl>Estos cuadros estaban 
 ya en aquel sitio cuando el padre <author>Vetancurt</author>
 escribía su <title><hi rend="italic">Crónica</hi></title>, pues los menciona en el tratado 2o., cap. 32, 
-número 41.</bibl></note>
+número 41.</bibl></p>
 
-<note type="expicativa" xml:id="nota38"> <hi rend="superscript">38</hi> Los autos de fe más famosos de la Inquisición de México son, a
+<p> <hi rend="superscript">38</hi> Los autos de fe más famosos de la Inquisición de México son, a
 lo que entiendo, los cinco que celebró en los años de <date>1646</date>, <date>1647</date>, 
 <date>1648</date>, <date>1649</date> y <date>1659</date>, cuyas relaciones andan impresas. Aquella era cabalmente
-la época de Arteaga.</note>
+la época de Arteaga.</p>
 
-<note type="autor" xml:id="nota39a"> <hi rend="superscript">39</hi> Que Echave tuvo hijos pintores lo dice Cabrera en el pasaje
+<p> <hi rend="superscript">39</hi> Que Echave tuvo hijos pintores lo dice Cabrera en el pasaje
 copiado en la nota 34 y lo ha repetido Beristáin en su artículo.
 Balbuena parece indicar que entre ellos una era mujer. Por lo demás, la 
 existencia en el siglo <num value="17">XVII</num> de <num type="cardinal" value="3">tres</num> pintores de ese apellido está comprobada
@@ -118,7 +118,7 @@ Alonso Vásquez le emulaban a la naturaleza sus operaciones todas:
 los colores de Concha y Arrué [sospecho que es el mismo a quien Ibarra 
 llamó luego Juan de Rua], con el decoro de sus bien compartidos
 trazos, apostaban a hacer viviente la pintura con singulares ideas:
-en la mano de Luis Juárez se hallaba sin imitación la gracia, la hermosura</quote></cit></note>
+en la mano de Luis Juárez se hallaba sin imitación la gracia, la hermosura</quote></cit></p>
 </div>
 </back>
 </text>   
