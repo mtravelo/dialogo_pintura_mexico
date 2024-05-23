@@ -21,7 +21,7 @@
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
                 <biblStruct>
                 <monogr>
-                    <title>Diálogo sobre la historia de la pintura en México</title>
+                    <title n="024">Diálogo sobre la historia de la pintura en México</title>
                     <author>José Bernardo Cuoto</author>
                     <edition>2a.</edition>
                     <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
@@ -161,7 +161,7 @@ le dirigiera en <date when="1603">1603</date> este saludo:</p>
         <l n="2" rhyme="B">primor del mundo, traza peregr<rhyme>ina</rhyme>,</l>
         <l n="3" rhyme="A">grandeza ilustre, lustre sober<rhyme>ano</rhyme>;</l>
     </lg>
-    <lb></lb>
+    
     <lg type="terceto" n="2" rhyme="BCB" met="3x11">
         <l n="4" rhyme="B">Fénix de galas, de riquezas m<rhyme>ina</rhyme>,</l>
         <l n="5" rhyme="C">museo de ciencias, y de ingenios fu<rhyme>ente</rhyme>,</l>
