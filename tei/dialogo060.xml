@@ -70,7 +70,7 @@
 <p>empresas cuatro veces más laboriosas que aquella? Es
 necesario ver sus dos colecciones para apreciar todo lo que en
 ellas tuvo que hacer. Paréceme que nuestro artista 
-pintaba cuadros como en el siglo anterior <name type="person" ref="http://viaf.org/viaf/89773778">Lope de Vega</name><note type="editorial" resp="MTRS">Lope de Vega (Madrid, 1562-1635). Dramaturgo, poeta y narrador, uno de los autores más importantes del Siglo de Oro español y de la literatura universal.</note>
+pintaba cuadros como en el siglo anterior <persName ref="http://viaf.org/viaf/89773778">Lope de Vega</persName><note type="editorial" resp="MTRS">Lope de Vega (Madrid, 1562-1635). Dramaturgo, poeta y narrador, uno de los autores más importantes del Siglo de Oro español y de la literatura universal.</note>
 componía comedias.</p>
 </sp>
 <sp who="Pesado">
@@ -99,7 +99,7 @@ podrían decirse de una escuela.</p>
 <speaker>Couto</speaker>
 <!-- pendiente Alcíbar VIAF -->
 <p>Yo también he oído contar eso que dices, y en efecto
-sabemos que algunos pintores tan hábiles como <name type="person" ref="http://viaf.org/viaf/41713509" xml:id="JA"></name>Alcíbar<note type="editorial" resp="MTRS">José de Alcíbar (Ciudad de México, 1730-1803). Pintor novohispano, uno de los más activos y representativos de la segunda mitad del siglo XVIII.</note>
+sabemos que algunos pintores tan hábiles como <persName ref="http://viaf.org/viaf/41713509" xml:id="JA"></name>Alcíbar<note type="editorial" resp="MTRS">José de Alcíbar (Ciudad de México, 1730-1803). Pintor novohispano, uno de los más activos y representativos de la segunda mitad del siglo XVIII.</note>
 y Arnáez estaban a su lado. Hay, sin embargo, una
 circunstancia en que debe repararse, y es la unidad de</p>
 </sp>

@@ -76,7 +76,7 @@ doncella tan esbelta, tan bien parada, y al mismo
 tiempo tan modesta y ruborosa, que se percibe el 
 encogimiento con que tiende la mano para tocar la del esposo.
 Bueno es también éste y sobre todo los paños. 
-Nuestro amigo <name type="person" ref="http://viaf.org/viaf/69712888">Cavallari</name><note type="editorial" resp="MTRS">Francesco Saverio Cavallari o Javier Cavallari  (Palermo, 1809-1896). Arquitecto, pintor y arqueólogo italiano. Estuvo en México entre 1857 y 1864, fue director y profesor de la Academia de San Carlos.</note> 
+Nuestro amigo <persName ref="http://viaf.org/viaf/69712888">Cavallari</persName><note type="editorial" resp="MTRS">Francesco Saverio Cavallari o Javier Cavallari  (Palermo, 1809-1896). Arquitecto, pintor y arqueólogo italiano. Estuvo en México entre 1857 y 1864, fue director y profesor de la Academia de San Carlos.</note> 
 nos decía una vez que esa capa
 amarilla de san José le recordaba los grandes coloristas
 de la escuela veneciana y que el cuadro, en su conjunto,
@@ -85,8 +85,8 @@ a tanto, creo que es de los buenos y que debe merecer a
 su autor uno de los primeros puestos entre los pintores
 mexicanos. El de santo Tomás de que habló el señor
 Couto, confieso a ustedes que yo lo tomaría por de algún
-boloñés de la escuela de <name type="person" ref="http://viaf.org/viaf/29596926">Caracci</name>,<note type="editorial" resp="MTRS">Ludovico Carracci (Bolonia, 1555-1619). Pintor y grabador italiano con estilo manierista y naturalista.</note> 
-si la firma de <name ref="#SA">Arteaga</name>,
+boloñés de la escuela de <persName ref="http://viaf.org/viaf/29596926">Caracci</persName>,<note type="editorial" resp="MTRS">Ludovico Carracci (Bolonia, 1555-1619). Pintor y grabador italiano con estilo manierista y naturalista.</note> 
+si la firma de <persName ref="#SA">Arteaga</persName>,
 escrita al pie, no asegurara a éste la gloria de haber 
 ejecutado tan excelente pintura. Está hecha con un vigor
 y una fuerza desconocidos en la escuela mexicana, cuyo
@@ -102,7 +102,7 @@ de los Reyes, en que se nota su estilo fuerte y resuelto.</p>
 <speaker>Pesado</speaker>
 <p>Allí sobre la puerta veo un gran lienzo del entierro
 del Salvador, con el nombre 
-de <name type="person" ref="http://viaf.org/viaf/95825955" xml:id="BER">Baltasar de Echave</name>,<note type="editorial" resp="MTRS">Baltasar de Echave Rioja (Ciudad de México, 1632-1682). Pintor novohispano, tercera generación de “los Echave”, hijo de Baltasar de Echave Ibía, conocido como “el mozo”.
+de <persName ref="http://viaf.org/viaf/95825955" xml:id="BER">Baltasar de Echave</persName>,<note type="editorial" resp="MTRS">Baltasar de Echave Rioja (Ciudad de México, 1632-1682). Pintor novohispano, tercera generación de “los Echave”, hijo de Baltasar de Echave Ibía, conocido como “el mozo”.
 </note> 
 y</p>
 </sp>
