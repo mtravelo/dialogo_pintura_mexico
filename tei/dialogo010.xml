@@ -82,7 +82,7 @@ Cortés</persName>,<note type="editorial" resp="MTRS">Hernán Cortés de Monroy 
   linaje noble y algunos estudios en la Universidad de Salamanca que consiguió éxitos con la espada y la pluma. Lideró
   la conquista de México-Tenochtitlan en 1521, con la alianza de grupos indígenas sometidos por los aztecas. Con el fin
    del imperio mexica el territorio quedó bajo el dominio de la Corona de Castilla y se fundó el virreinato de la Nueva
-   España. <name ref="#HC">Cortés</name> escribió las <title><hi rend="italic">Cartas de relación</hi></title>, donde describe su viaje a México, la flora y la fauna, las costumbres 
+   España. <persName ref="#HC">Cortés</persName> escribió las <title><hi rend="italic">Cartas de relación</hi></title>, donde describe su viaje a México, la flora y la fauna, las costumbres 
    de los nativos, así como los sucesos previos, durante y posteriores a la conquista.
 </note>
  a quien siguió en su
@@ -115,7 +115,7 @@ Cifuentes es una que representa el bautismo de Magiscatzin
 donde están retratados éste y doña Marina, y que ese 
 cuadro se salvó del incendio en que perecieron muchos
 otros en la casa de los marqueses del Valle el año <date when="1652">1652</date>,
-por haberlo antes regalado <name ref="HC">Cortés</name> a los padres de San
+por haberlo antes regalado <persName ref="HC">Cortés</persName> a los padres de San
 Francisco de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:1005092" xml:id="recogito-6d768550-c8d0-4684-b48b-9b8edbbfa30d" cert="high">Tlaxcala</placeName>, 
 en cuyo convento asegura que
 está. Dice, por último, que el artista era disipado y

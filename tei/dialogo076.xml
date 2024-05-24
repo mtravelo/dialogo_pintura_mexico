@@ -73,7 +73,7 @@ enviado acá había sido <name  type="person" ref=" http://viaf.org/viaf/1152953
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Tal es la oscuridad en que han quedado los dos que
-le precedieron. Don <name ref="#RXP">Rafael Ximeno y Planes</name>,  
+le precedieron. Don <persName ref="#RXP">Rafael Ximeno y Planes</persName>,  
 educado en la Academia de San Carlos de Valencia, vino a 
 reemplazar a Acuña el año de <date when="1793">1793</date>. A la muerte de Aguirre
 en principios de este siglo, el gobierno quiso que fuese
@@ -93,7 +93,7 @@ que se llevase a cabo.</p>
 </sp>
 <sp who="Clavé">
 <speaker>Clavé</speaker>
-<p><name ref="#RXP">Ximeno</name>
+<p><persName ref="#RXP">Ximeno</persName>
 no merecerá a usted la censura que sus 
 predecesores, pues de su pericia quedan en México
 monumentos importantes. Tal es la pintura de la cúpula de 

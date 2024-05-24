@@ -67,7 +67,7 @@
 <pb n="29" facs="#p29"/>
 <sp who="Couto">
 <speaker></speaker>
-<p>pincel famoso de <name ref="#BEO">Baltasar de Echave</name>»;<hi rend="superscript">30</hi><note type="autor" 
+<p>pincel famoso de <persName ref="#BEO">Baltasar de Echave</persName>»;<hi rend="superscript">30</hi><note type="autor" 
 xml:id="nota30"><hi rend="superscript">30</hi> <bibl><author>Vetancurt</author> en 
 la <title><hi  rend="italic">Crónica</hi></title>, 
 tratado 22, cap. 32, núm. 39.</bibl> </note> 
@@ -79,7 +79,7 @@ o que la obra se trabajó originalmente con menos
 cuidado que otras, o que ha sufrido más por el desabrigo
 del lugar donde está, o finalmente que algún retocador
 puso en ella su mano indocta. En poder de particulares 
-hay también pinturas de <name ref="#BEO">Echave</name>, de que he visto
+hay también pinturas de <persName ref="#BEO">Echave</persName>, de que he visto
 algunas. Por último, si (como lo creo) son suyas una
 santa Cecilia que hay en San Agustín, y una Sacra 
 Familia en la Profesa, aunque no tienen su nombre, serán

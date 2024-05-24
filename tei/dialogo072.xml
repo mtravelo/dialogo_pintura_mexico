@@ -67,7 +67,7 @@
 <pb n="72" facs="#p72"/>
 <sp who="Couto">
 <speaker></speaker>
-<p><name ref="#JRJ">Juárez</name>. De Andrés López hay aquella Verónica, que
+<p><persName ref="#JRJ">Juárez</persName>. De Andrés López hay aquella Verónica, que
 parece trabajada pelo a pelo como si fuera obra de 
 miniatura, y en el General de San Ildefonso está el 
 retrato del benéfico señor don Cayetano Torres, hecho por él en
@@ -88,17 +88,17 @@ el del coro, en que cantan los religiosos con atavíos de
 <sp who="Pesado">
 <speaker>Pesado</speaker>
 <p>Junto al retrato de Carcanio veo ahí un san Luis
-Gonzaga de <name ref="#JA">José Alcíbar</name>, a quien varias veces han 
+Gonzaga de <persName ref="#JA">José Alcíbar</persName>, a quien varias veces han 
 mentado ustedes.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>El último de nuestros pintores de nombre y en el
 que se cierra la antigua escuela mexicana, que vimos
-principiar en <name ref="#BEO">Baltasar de Echave</name>. <name ref="#JA">Alcíbar</name> se distingue
+principiar en <persName ref="#BEO">Baltasar de Echave</persName>. <persName ref="#JA">Alcíbar</persName> se distingue
 por la blandura y suavidad, no obstante que es
 esa la cualidad general de la escuela, especialmente
-desde <name ref="#JRJ">Juan Rodríguez Juárez</name> para adelante. Alcanzó
+desde <persName ref="#JRJ">Juan Rodríguez Juárez</persName> para adelante. Alcanzó
 como Carcanio la fundación de esta Academia y fue</p>
 </sp>
 </div>
