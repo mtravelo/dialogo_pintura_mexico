@@ -101,8 +101,8 @@ Nueva España?</p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Nuestro difunto amigo el conde de la Cortina 
-escribió que fue un Rodrigo de Cifuentes, nacido en <name type="place" ref="http://sws.geonames.org/2519240" xml:id="recogito-b29ec293-eff1-47cc-96e7-6f19ba592e47" cert="high">Córdoba</name>,
-año <date when="1493">1493</date>; que en <date when="1513">1513</date> ayudaba en <name type="place" ref="http://sws.geonames.org/2510911" xml:id="recogito-29c7b479-1c5a-4230-97fc-8057d3bf9e10" cert="high">Sevilla</name> a su maestro</p>
+escribió que fue un Rodrigo de Cifuentes, nacido en <placeName ref="http://sws.geonames.org/2519240" xml:id="recogito-b29ec293-eff1-47cc-96e7-6f19ba592e47" cert="high">Córdoba</placeName>,
+año <date when="1493">1493</date>; que en <date when="1513">1513</date> ayudaba en <placeName ref="http://sws.geonames.org/2510911" xml:id="recogito-29c7b479-1c5a-4230-97fc-8057d3bf9e10" cert="high">Sevilla</placeName> a su maestro</p>
 </sp>
 </div>
 </body>

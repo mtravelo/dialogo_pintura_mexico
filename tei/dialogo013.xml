@@ -68,7 +68,7 @@
 <sp who="Couto">
 <speaker></speaker>
 <p>conocemos en México 
-es <name type="person" ref="http://viaf.org/viaf/309813029" xml:id="SA">Sebastián de Arteaga</name>,<note type="editorial" resp="MTRS">Sebastián López de Arteaga (Sevilla, 1610-Ciudad de México, 1656). Pintor barroco español que introdujo el estilo en la entonces Nueva España, ahora México. Fue uno de los pintores más destacados de cuadros religiosos, con un estilo tenebrista de fuertes </note> 
+es <persName ref="http://viaf.org/viaf/309813029" xml:id="SA">Sebastián de Arteaga</persName>,<note type="editorial" resp="MTRS">Sebastián López de Arteaga (Sevilla, 1610-Ciudad de México, 1656). Pintor barroco español que introdujo el estilo en la entonces Nueva España, ahora México. Fue uno de los pintores más destacados de cuadros religiosos, con un estilo tenebrista de fuertes </note> 
 de quien
 hay en esta sala ese excelente cuadro del Desposorio de
 la Virgen, estimado por ustedes como una de nuestras
@@ -187,7 +187,7 @@ que los posteriores.</p></note>
 No pudo, pues, ser el primer
 pintor europeo venido a Nueva España. Respecto del
 segundo, supongo que <name ref="#GB">Beltrami</name> quiso referirse a 
-<name type="person" ref="http://viaf.org/viaf/50072029" xml:id="CV">Cristóbal Villalpando</name>,<note type="editorial" resp="MTRS">Cristóbal de Villalpando (Ciudad de México, ca. 1649-1714). Pintor novohispano, uno de los más afamados de la época. Realizó para la Catedral Metropolitana cuatro pinturas que son consideradas como sus obras de mayor empeño.</note> de quien hay porción de pinturas en la
+<persName ref="http://viaf.org/viaf/50072029" xml:id="CV">Cristóbal Villalpando</persName>,<note type="editorial" resp="MTRS">Cristóbal de Villalpando (Ciudad de México, ca. 1649-1714). Pintor novohispano, uno de los más afamados de la época. Realizó para la Catedral Metropolitana cuatro pinturas que son consideradas como sus obras de mayor empeño.</note> de quien hay porción de pinturas en la
 ciudad. Pero por los cuadros de la Pasión, que están en
 los corredores altos de San Francisco, y (entre nosotros
 sea dicho) nada tienen de soberbio, consta que pintaba

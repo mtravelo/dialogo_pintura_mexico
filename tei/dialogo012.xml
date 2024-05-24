@@ -75,7 +75,7 @@ que no pueden haberse pintado cuadros para
 iglesia fundada por franciscanos en Tehuantepec por la
 sencilla razón de que aquellos padres no hicieron 
 fundación en ese lugar entonces ni después; y que en el
-inventario de los objetos secuestrados a <name type="person">Boturini</name>, el cual
+inventario de los objetos secuestrados a <persName>Boturini</persName>, el cual
 está en su proceso, no hay la partida referente a los 
 retratos de don Antonio de Mendoza y Alvar Núñez de
 Guzmán, siendo además este último persona 
@@ -91,11 +91,11 @@ de cabeza.</p>
 </sp>
 <sp>
 <speaker>Clavé</speaker>
-<p>Yo he leído en el viaje del italiano <name type="person" ref="http://viaf.org/viaf/169272" xml:id="GB">Beltrami</name>,<note type="editorial" resp="MTRS">Giacomo Costantino Beltrami (Bérgamo, 1779-Filottrano, 1855).  Jurista, escritor y explorador italiano, autor de <title><hi rend="italic">Le Mexique</hi></title>, obra epistolar donde narra sus impresiones sobre el país recién independizado. </note> 
+<p>Yo he leído en el viaje del italiano <persName ref="http://viaf.org/viaf/169272" xml:id="GB">Beltrami</persName>,<note type="editorial" resp="MTRS">Giacomo Costantino Beltrami (Bérgamo, 1779-Filottrano, 1855).  Jurista, escritor y explorador italiano, autor de <title><hi rend="italic">Le Mexique</hi></title>, obra epistolar donde narra sus impresiones sobre el país recién independizado. </note> 
 que estuvo acá por los años de <date when="1824">1824</date> y <date when="1825">1825</date>, que el primer pintor
 europeo que ilustró a México después de la conquista,
-fue un tal Arteaga y que tras él vino <name type="person">Cristóbal de 
-<hi rend="italic">Villalando</hi></name>; y dice que del primero vio una Visitación de la
+fue un tal Arteaga y que tras él vino <persName>Cristóbal de 
+<hi rend="italic">Villalando</hi></persName>; y dice que del primero vio una Visitación de la
 Virgen en Santa Teresa la Antigua, y del segundo 
 soberbias pinturas en San Francisco y San Agustín.<hi rend="superscript">9</hi><note type="autor" xml:id="nota9"><hi rend="superscript">9</hi> 
 <bibl><title><hi rend="italic">Le Mexique</hi></title>, París, 1830, tomo 2, carta XI, p. 203</bibl>.</note></p>
