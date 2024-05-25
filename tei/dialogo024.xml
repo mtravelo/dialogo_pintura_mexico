@@ -165,26 +165,22 @@ le dirigiera en <date when="1603">1603</date> este saludo:</p>
         <l n="4" rhyme="B">Fénix de galas, de riquezas m<rhyme>ina</rhyme>,</l>
         <l n="5" rhyme="C">museo de ciencias, y de ingenios fu<rhyme>ente</rhyme>,</l>
         <l n="6" rhyme="B">jardín de Venus, dulce golos<rhyme>ina</rhyme>;</l>
-    </lg>
-    <lb></lb>    
+    </lg>  
     <lg type="terceto" n="3" rhyme="CDC" met="3x11">
         <l n="7" rhyme="C">Del placer madre, piélago de g<rhyme>ente</rhyme>,</l>
         <l n="8" rhyme="D">de joyas cofre, erario de tes<rhyme>oro</rhyme></l>
         <l n="9" rhyme="C">flor de ciudades, gloria del Poni<rhyme>ente</rhyme>;</l>
     </lg >
-    <lb></lb>
     <lg type="terceto" n="4" rhyme="DED" met="3x11">
         <l n="10" rhyme="D">De amor el centro, de las musas c<rhyme>oro</rhyme>,</l>
         <l n="11" rhyme="E">de honor el reino, de virtud la esf<rhyme>era</rhyme>,</l>
         <l n="12" rhyme="D">de honrados patria, de avarientos <rhyme>oro</rhyme>;</l>
     </lg>
-    <lb></lb>
     <lg type="terceto" n="5" rhyme="EFE" met="3x11">
         <l n="13" rhyme="E">Cielo de ricos, rica primav<rhyme>era</rhyme>,</l>
         <l n="14" rhyme="F">pueblo de nobles, consistorio j<rhyme>usto</rhyme>,</l>
         <l n="15" rhyme="E">grave senado, discreción ent<rhyme>era</rhyme>;</l>
     </lg>
-     <lb></lb>
     <lg type="cuarteto" n="6" rhyme="FGFG" met="4x11"> 
         <l n="16" rhyme="F">Templo de la beldad, alma del g<rhyme>usto</rhyme>,</l>
         <l n="17" rhyme="G">Indias del mundo, cielo de la ti<rhyme>erra</rhyme>!</l>

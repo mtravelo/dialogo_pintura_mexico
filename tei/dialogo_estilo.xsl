@@ -17,14 +17,11 @@
         permalink: dialogo<xsl:apply-templates select="$doc_id"/>
        ---
   
-<div>
-<a href="../imgs/dialogo{$doc_id}.jpg"><img src="../imgs/dialogo(/{$doc_id}.jpg"></img></a>
-</div>
+
 <div>
 <a href="../imgs/dialogo{$doc_id}.jpg"><img src="../imgs/dialogo{$doc_id}.jpg"></img></a>
 </div>
-Gabriel Calarco
-9:40
+
 <div>
 <xsl:apply-templates select="//body/div"/>
 </div>
@@ -40,5 +37,120 @@ Gabriel Calarco
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+
+    <xsl:template match="//speaker">
+        <p>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+
+
+    <xsl:template match="//persName">
+        <a> 
+            <xsl:attribute name="href">
+                <xsl:value-of select="@ref"/>
+            </xsl:attribute>
+            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="class">
+                <xsl:value-of select="@type"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+
+    <xsl:template match="//placeName">
+        <a> 
+            <xsl:attribute name="href">
+                <xsl:value-of select="@ref"/>
+            </xsl:attribute>
+            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="class">
+                <xsl:value-of select="@type"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>  
+    
+
+    <xsl:template match="//orgName">
+        <a> 
+            <xsl:attribute name="href">
+                <xsl:value-of select="@ref"/>
+            </xsl:attribute>
+            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="class">
+                <xsl:value-of select="@type"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>  
+
+    <xsl:template match="//lg//l">
+        <p class="tercetos_encadenados">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+
+    <xsl:template match="//head">
+    <table>
+            <xsl:apply-templates/>
+    </table>
+    </xsl:template>
+
+    <xsl:template match="//row">
+    <table>
+        <tr>
+        <td><xsl:value-of select="label"/></td>
+        <td><xsl:value-of select="data"/></td>
+            <xsl:apply-templates/>
+        </tr>    
+    </table>
+    </xsl:template>
+
+    
+    <xsl:template match="//note[@type='editorial']">
+        <note>
+         <a> 
+            <xsl:attribute name="href">
+                <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:attribute name="target">blank
+            </xsl:attribute>
+            <xsl:attribute name="class">
+                <xsl:value-of select="@subtype"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+        </note>
+    </xsl:template>
+
+     <xsl:template match="//note[@type='autor']">
+        <note>
+         <a> 
+            <xsl:attribute name="href">
+                <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:attribute name="target">blank
+            </xsl:attribute>
+            <xsl:attribute name="class">
+                <xsl:value-of select="@subtype"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+        </note>
+    </xsl:template>
+
+    <xsl:template match="//hi[rend='italic']">
+        <span class="italic">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+
+    <xsl:template match="//hi[rend='superscript']">
+        <span class="italic">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+
 
 </xsl:stylesheet> 
