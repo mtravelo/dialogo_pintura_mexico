@@ -66,7 +66,6 @@
 <div>
 <pb n="73" facs="#p73"/>
 <sp who="Couto">
-<speaker></speaker>
 <p>también teniente de director. Pintó mucho en su vida,
 que debió ser larga, y sus cuadros de san Luis 
 Gonzaga eran muy apreciados de nuestros padres. Ciertas 
@@ -91,7 +90,7 @@ del doctor <author>Conde</author></bibl>.</note>
 En breve debió él mismo bajar al sepulcro.</p>
 </sp>
 <sp who="Pesado">
-<speaker></speaker>
+<speaker>Pesado</speaker>
 <p>Dices que con <persName ref="#JA">Alcíbar</persName> se cierra el catálogo de 
 nuestros antiguos pintores. Pero algunos años antes se 
 había fundado esta Academia, dotándola el soberano, y

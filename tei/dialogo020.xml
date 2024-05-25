@@ -65,7 +65,6 @@
 <div>
 <pb n="2o" facs="#p20"/>
 <sp who="Cuoto">
-<speaker></speaker>
 <p>español venido a México. La única que he encontrado, en
 testimonios antiguos, es la que nos da el pintor don 
 <persName ref="http://viaf.org/viaf/72567450" xml:id="JI">José de Ibarra</persName>,<note type="editorial" resp="MTRS">José de Ibarra (Guadalajara, 1685-Ciudad de México, 1756). Pintor 
@@ -73,8 +72,8 @@ novohispano discípulo de Juan Correa y una de las figuras más destacadas de la
 históricas de su arte. Escribiendo a don <persName ref="http://viaf.org/viaf/58928953">Miguel Cabrera</persName>,<note type="editorial" resp="MTRS">Miguel Mateo Maldonado y Cabrera (San Miguel Tlalixtac, 1695-Ciudad de México, 1768). 
 Pintor novohispano y uno de los máximos exponentes del barroco del virreinato. Fue fundador de la primera academia de pintura.</note>
 su amigo, le dice que con anterioridad a <persName ref="#BEO">Echave</persName>, 
-<persName ref="http://viaf.org/viaf/309813029">Arteaga</persName>, ="surname">los 
-Juárez</name>,<note type="editorial" resp="MTRS">Familia de pintores que abarcó tres generaciones: Luis Juárez, José Juárez y Juan Rodríguez Juárez.</note> Becerra, etcétera, es decir, antes de los
+<persName ref="http://viaf.org/viaf/309813029">Arteaga</persName>, <surname>los 
+Juárez</surname>,<note type="editorial" resp="MTRS">Familia de pintores que abarcó tres generaciones: Luis Juárez, José Juárez y Juan Rodríguez Juárez.</note> Becerra, etcétera, es decir, antes de los
 artistas del siglo <num value="17">XVII</num>, pasó a este reino 
 <persName ref=" http://viaf.org/viaf/95786799">Alonso Vázquez</persName>,<note type="editorial" resp="MTRS">Alonso Vázquez (Ronda, <hi rend="italic">ca.</hi> 1564-Ciudad de México, <hi rend="italic">ca.</hi> 1608). Pintor español de estilo manierista, cuya actividad se desarrolló en Sevilla antes de emigrar a México como pintor del virrey Juan de Mendoza.</note> insigne pintor europeo, quien introdujo buena
 doctrina que siguieron Juan de Rúa y otros.<hi rend="superscript">21</hi><note type="autor" 

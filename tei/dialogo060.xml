@@ -66,7 +66,7 @@
 <div>
 <pb n="60" facs="#p60"/>
 <sp who="Couto">
-<speaker></speaker>
+<speaker>Couto</speaker>
 <p>empresas cuatro veces más laboriosas que aquella? Es
 necesario ver sus dos colecciones para apreciar todo lo que en
 ellas tuvo que hacer. Paréceme que nuestro artista 
@@ -99,7 +99,7 @@ podrían decirse de una escuela.</p>
 <speaker>Couto</speaker>
 <!-- pendiente Alcíbar VIAF -->
 <p>Yo también he oído contar eso que dices, y en efecto
-sabemos que algunos pintores tan hábiles como <persName ref="http://viaf.org/viaf/41713509" xml:id="JA"></name>Alcíbar<note type="editorial" resp="MTRS">José de Alcíbar (Ciudad de México, 1730-1803). Pintor novohispano, uno de los más activos y representativos de la segunda mitad del siglo XVIII.</note>
+sabemos que algunos pintores tan hábiles como <persName ref="http://viaf.org/viaf/41713509" xml:id="JA"></persName>Alcíbar<note type="editorial" resp="MTRS">José de Alcíbar (Ciudad de México, 1730-1803). Pintor novohispano, uno de los más activos y representativos de la segunda mitad del siglo XVIII.</note>
 y Arnáez estaban a su lado. Hay, sin embargo, una
 circunstancia en que debe repararse, y es la unidad de</p>
 </sp>
