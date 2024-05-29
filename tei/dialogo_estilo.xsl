@@ -16,8 +16,6 @@
         title: Diálogo<xsl:apply-templates select="$doc_id"/>
         permalink: dialogo<xsl:apply-templates select="$doc_id"/>
        ---
-  
-
 <div>
 <a href="../imgs/dialogo{$doc_id}.jpg"><img src="../imgs/dialogo{$doc_id}.jpg"></img></a>
 </div>
@@ -25,6 +23,7 @@
 <div>
 <xsl:apply-templates select="//body/div"/>
 </div>
+
 
 
         </xsl:result-document>
@@ -39,7 +38,7 @@
     </xsl:template>
 
     <xsl:template match="//speaker">
-        <p>
+        <p class="speaker">
             <xsl:apply-templates/>
         </p>
     </xsl:template>
@@ -86,30 +85,17 @@
     </xsl:template>  
 
     <xsl:template match="//lg//l">
-        <p class="tercetos_encadenados">
+        <div class="tercetos_encadenados">
+        <div class="l">
             <xsl:apply-templates/>
-        </p>
+        </div>
+        </div>
     </xsl:template>
 
-    <xsl:template match="//head">
-    <table>
-            <xsl:apply-templates/>
-    </table>
-    </xsl:template>
-
-    <xsl:template match="//row">
-    <table>
-        <tr>
-        <td><xsl:value-of select="label"/></td>
-        <td><xsl:value-of select="data"/></td>
-            <xsl:apply-templates/>
-        </tr>    
-    </table>
-    </xsl:template>
-
+  
     
     <xsl:template match="//note[@type='editorial']">
-        <note>
+        <note class="editorial">
          <a> 
             <xsl:attribute name="href">
                 <xsl:value-of select="@target"/>
@@ -125,7 +111,7 @@
     </xsl:template>
 
      <xsl:template match="//note[@type='autor']">
-        <note>
+        <note class="autor">
          <a> 
             <xsl:attribute name="href">
                 <xsl:value-of select="@target"/>
@@ -140,16 +126,34 @@
         </note>
     </xsl:template>
 
-    <xsl:template match="//hi[rend='italic']">
-        <span class="italic">
+    <xsl:template match="//head">
+    <table>
+        <th>
             <xsl:apply-templates/>
-        </span>
+        </th>
+    </table>
+    </xsl:template>
+
+    <xsl:template match="//row">
+    <table>
+        <tr>
+        <td><xsl:value-of select="label"/></td>
+        <td><xsl:value-of select="data"/></td>
+            <xsl:apply-templates/>
+        </tr>    
+    </table>
+    </xsl:template>
+
+        <xsl:template match="//hi[rend='italic']">
+        <i>
+            <xsl:apply-templates/>
+        </i>
     </xsl:template>
 
     <xsl:template match="//hi[rend='superscript']">
-        <span class="italic">
+        <sup>
             <xsl:apply-templates/>
-        </span>
+        </sup>
     </xsl:template>
 
 
