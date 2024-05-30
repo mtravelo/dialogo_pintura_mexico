@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México: edición digital mínima</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="007">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo007.jpg" xml:id="p7"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="7" facs="#p7"/>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>No me descontenta esa doctrina. Donde se pinta 
+para escribir, y donde es artista todo escritor, temo que
+no ha de haber verdaderos pintores. Y tal debió 
+suceder a los mexicanos, puesto que no tenían otro sistema
+de escribir que el de jeroglíficos y pinturas.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Couto</speaker>
+<p><persName ref="http://viaf.org/viaf/34454460">Champollion 
+el Menor</persName><note type="editorial" resp="MTRS"> 
+Jean-François Champollion (Figeac, 1790-París, 1832). Historiador y lingüista francés, considerado el padre de la egiptología 
+por haber descifrado la escritura jeroglífica gracias al estudio de la piedra de Rosetta, fragmento de una estela antigua.</note>
+explica por este mismo 
+principio la imperfección de las obras egipcias. El arte no 
+tuvo allí por objeto propio la reproducción durable de las
+formas hermosas de la naturaleza, sino la notación de
+las ideas; de suerte que la escultura y pintura no fueron
+nunca sino ramos de la escritura. La imitación del 
+natural no debió, pues, llevarse sino hasta cierto punto:
+una estatua no era en realidad sino un signo y 
+como una letra escrita. Así es que luego que el artista
+lograba sacar con verdad la parte esencial y determinativa 
+del signo, que es la cabeza, sea reproduciendo la
+fisonomía del personaje cuya idea se trataba de 
+recordar, sea imitando de un modo resuelto la del animal
+que era símbolo de alguna divinidad, había llenado su
+objeto, y descuidaba los brazos, el torso, las piernas,
+que no se consideraban sino como partes accesorias. El
+concluirlas y acabarlas con precisión ni daría más 
+estima al signo, ni le añadiría 
+claridad.<hi rend="superscript">2</hi><note type="autor" xml:id="nota2"><hi rend="superscript">2</hi> 
+<bibl><title><hi  rend="italic">Lettres à M. 
+le Duc de Blacas, relatives au Musée Royal Egyptien de Turin</hi></title>, carta I.</bibl></note>
+</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Ahora hago memoria de que en <persName ref="http://viaf.org/viaf/71428093">Clavijero</persName><note type="editorial" resp="MTRS">Francisco 
+Javier Clavijero 
+(Puerto de Veracruz, 1731-Bolonia, 1787). Clérigo jesuita, historiador, filósofo y educador, considerado
+el exponente más destacado de la Ilustración en la Nueva España. Después de la expulsión de la Compañía de Jesús, 
+influyente y poderosa orden religiosa, fue precursor del indigenismo y uno de los autores fundamentales de la 
+Escuela Universalista Española del siglo XVIII.</note> he leído
+algo semejante a eso con aplicación a los 
+mexicanos. Si</p>
+</sp>
+</div>
+</body>        
+</text>   
+</TEI>

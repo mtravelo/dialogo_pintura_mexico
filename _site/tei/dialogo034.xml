@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="034">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo034.jpg" xml:id="p34"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="34" facs="#p34"/>
+<sp who="Clavé">
+<p>podíamos considerarlo sino bajo el respecto de su 
+mérito artístico. El semblante del Salvador en aquella
+tremenda hora es de una expresión singular.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>¿Decías que hubo varios artistas Juárez?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Ahí tienes luego al segundo que se llamó <persName ref="http://viaf.org/viaf/3414037" xml:id="JJ">José</persName><note type="editoral" resp="MTRS">José Juárez (Ciudad de México, 1617-1670). Pintor barroco novohispano, segunda generación de “los Juárez”, hijo de Luis Juárez. Su obra es de temática religiosa con estilo tenebrista.</note> 
+y es autor de ese cuadro grande apaisado que presenta una
+visión celestial de san Francisco. La Virgen llega a
+visitarlo, trayendo a su divino Hijo, acompañada de un
+numeroso cortejo de ángeles que le dan música. El 
+santo la recibe arrodillado y parece prepararse a tomar en
+sus brazos al niño.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Lástima que ese lienzo haya sufrido o del tiempo o
+de mano de los limpiadores. Sin embargo, ofrece rasgos
+que descubren un autor inteligente.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Por sólo él no puede estimarse a <persName ref="#JJ">José Juárez</persName> en lo
+que vale. En los claustros de la Profesa hay dos cuadros
+suyos, uno de san Alejo y otro de los dos niños 
+mártires, san Justo y san Pastor, que estarían bien en
+cualquier museo de pinturas en que se pusieran. Tal es la
+nobleza de las figuras, su excelente traza, el color muy</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

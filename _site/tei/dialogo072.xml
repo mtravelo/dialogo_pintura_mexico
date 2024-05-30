@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="072">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo072.jpg" xml:id="p72"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="72" facs="#p72"/>
+<sp who="Couto">
+<p><persName ref="#JRJ">Juárez</persName>. De Andrés López hay aquella Verónica, que
+parece trabajada pelo a pelo como si fuera obra de 
+miniatura, y en el General de San Ildefonso está el 
+retrato del benéfico señor don Cayetano Torres, hecho por él en
+el mismo año de <date when="1787">1787</date>. Don Manuel Carcanio, tercero de
+hábito descubierto de Santo Domingo, pintó una Vida
+de la Virgen, de figuras del tamaño natural, para el
+antecoro de aquel convento; alcanzó el establecimiento de
+nuestra Academia y fue en ella teniente de director
+de pintura. Su discípulo Joaquín de Vega sacó este
+retrato de él, que es una valiente pieza en su género. 
+Finalmente, Joaquín Esquivel, artista descuidado, y que
+parece una especie de Tapresto, ha dejado, sin embargo,
+en la vida de san Pedro Nolasco, en los claustros 
+bajos de la Merced, algún cuadro digno de estima, como
+el del coro, en que cantan los religiosos con atavíos de
+ángeles. Trabajaba en <date when="1797">1797</date>.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Junto al retrato de Carcanio veo ahí un san Luis
+Gonzaga de <persName ref="#JA">José Alcíbar</persName>, a quien varias veces han 
+mentado ustedes.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>El último de nuestros pintores de nombre y en el
+que se cierra la antigua escuela mexicana, que vimos
+principiar en <persName ref="#BEO">Baltasar de Echave</persName>. <persName ref="#JA">Alcíbar</persName> se distingue
+por la blandura y suavidad, no obstante que es
+esa la cualidad general de la escuela, especialmente
+desde <persName ref="#JRJ">Juan Rodríguez Juárez</persName> para adelante. Alcanzó
+como Carcanio la fundación de esta Academia y fue</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

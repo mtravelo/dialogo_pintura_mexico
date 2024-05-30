@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="077">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo077.jpg" xml:id="p77"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="77" facs="#p77"/>
+<sp who="Clavé">
+<p>embargo, <persName ref="#RXP">Ximeno</persName> se desempeñó bien y su obra es en
+materia de ornamentación lo mejor que se registra
+en aquel templo.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Que <persName ref="#RXP">Ximeno</persName> era un artista de mérito no tiene duda.
+Y cabalmente el género en que me parece que descollaba
+es ese que con razón gradúa usted del más difícil, la
+gran pintura mural. A más de la obra de que ha hablado
+usted, ejecutó otra que ya no existe. Don Antonio 
+González Velázquez, primer director de arquitectura en 
+esta casa, y que construyó la parroquia de San Pablo, la
+elegante plaza en que estuvo la estatua de Carlos IV 
+delante de palacio, el arco del foro del antiguo teatro y
+alguna otra cosa, había levantado la hermosa capilla del
+Señor de Santa Teresa, cuya cúpula, por su valentía,
+no ha tenido igual en la ciudad. La obra de pintura
+se encargó a don <persName ref="#RXP">Rafael Ximeno</persName>. En el dombo pintó la
+historia que corre de la renovación de la imagen; en el
+ábside, el alboroto que hubo en el pueblo del Cardonal
+cuando se dispuso trasladarla a México. El resto del
+templo lo adornó con elegancia. Mas todo aquello 
+acabó en el terremoto del <date when="1845-04-07">7 de abril de 1845</date>, a los
+<num type="cardinal" value="832">832</num> años de haberse estrenado. Después encontré en los 
+restos de su testamentaría, el boceto que había hecho para
+la pintura del ábside y me apresuré a adquirirlo para la
+Academia, como un recuerdo que por varios títulos 
+debe serle grato. Es ese que está colgado en el rincón.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Los frescos de <persName ref="#RXP">Ximeno</persName> me parecieron siempre preferibles
+a sus pinturas al óleo. Además de algunas</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

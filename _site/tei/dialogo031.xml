@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="031">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo031.jpg" xml:id="p31"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="31" facs="#p31"/>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Si dejamos a Pesado decir versos, nos relatará de coro
+toda la <title ><hi rend="italic">Grandeza Mexicana</hi></title>, y por añadidura algunos 
+libros de <title><hi rend="italic">El Bernardo</hi></title>. Volviendo a la mujer de <persName ref="#BEO">Echave</persName>, se
+le atribuye el cuadro de san Sebastian que sirve de
+remate al altar del Perdon en Catedral, cuadro que por
+la altura a que está, y por el cristal que tiene delante,
+no puede estudiarse; si bien la figura del mártir, que en
+sustancia es una academia, parece trazada con despejo.
+Pero lo que hay verdaderamente notable es una 
+antigua tradición que corre en México de que ella fue quien
+enseñó la pintura a su marido.<hi rend="superscript">34</hi><note type="autor" xml:id="nota34"><hi rend="superscript">34</hi> <cit><quote>«En uno de sus altares 
+(de la Catedral), y es el que está erigido
+al trascoro, se ve entre vidrieras su imagen y valiente pintura (la de
+San Sebastián), asombro de los profesores del arte, y obra, según su
+tradición, de la famosa Sumaya, célebre pintora en esta ciudad, 
+maestra no sólo en pintura, sino en enseñar al celebrado vizcaíno Baltasar
+de Echave el primero, a quien tuvo por marido y discípulo, y de 
+cuyos padres no degeneraron sus hijos».</quote></cit> <bibl>Don <author>Cayetano Cabrera</author>, <title><hi rend="italic">Escudo
+de armas de México</hi></title>, lib. 2, cap. 5, núm. 291.</bibl></note></p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Si tal hubiera sido, merecería esa artista dos coronas;
+una por haber ella manejado los pinceles y otra por 
+haberlos puesto en manos de <persName ref="#BEO">Echave</persName>.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Juzgando yo por simples reminiscencias, y después
+de no pocos años de ausencia de mi país, la filiación que
+creo reconocer en las obras de este hábil pintor es la
+del valenciano Vicente Joannes; bien sea que de su 
+escuela hubiese recibido inmediatamente la doctrina antes
+de venir a México, o que aquí la hubiera tomado por
+medio de su mujer o de otro. Desde la primera vez que 
+vi con atención sus cuadros, y los de algunos de sus
+contemporáneos, me asaltó la idea.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

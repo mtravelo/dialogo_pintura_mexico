@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="103">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo103.jpg" xml:id="p103"></graphic>
+</facsimile>
+<text>
+<front><p></p></front>
+<body>
+<p></p>
+</body>
+<back>
+<div type="Notas">
+<pb n="103" facs="#p103"/>
+<!-- continuación nota 53 -->
+<p><cit><quote>que pueda aprovechar en esta facultad (que no todos lo pueden 
+conseguir, porque para ésta y la poesía es fuerza nacer con estas gracias),
+le ordenará vaya a casa del secretario, y le diga cómo quiere aprender
+esta facultad con aquel maestro: y dicho secretario reconocerá, 
+llevando este dicho niño su fe de bautismo, si es de la calidad dicha. Y si 
+acaso ocurriere alguno con empeño para recepción, que no tuviere estas 
+condiciones, le dirá no se puede recibir, por estar prevenido por estatuto:
+y si no es como se dice, sino de calidad, etcétera, lo matriculará en su 
+libro, y le dará un billete para que lo reciban; y sólo de este modo se 
+recibirán los discípulos, y no de otra manera: con lo que no llorarán los
+futuros lo que hasta aquí los presentes».</quote></cit> <bibl><title><hi rend="italic">Estatutos o 
+constituciones que deberá observar y guardar la Academia de la muy noble
+e inmemorial arte de la Pintura</hi></title>, cap. 92.</bibl> Estos estatutos están firmados por
+Miguel Cabrera, presidente; José Manuel Domínguez, primer director;
+Miguel Espinosa de los Monteros; Juan Patricio Morlete Ruiz,
+segundo director; Pedro de Quintana, director; Francisco Antonio
+Vallejo, tercer director; José de Alcíbar, director. Ante mí, 
+Lorenzo Barba Figueroa, secretario.</p>
+
+<p><hi rend="superscript">54</hi> <bibl><title><hi rend="italic">Diccionario universal de historia y de geografía</hi></title>, reimpreso por
+Rafael, artículo «Cabrera».</bibl> Este artículo está suscrito con las iniciales de
+don Manuel Orozco y Berra, persona muy instruida en nuestra historia.
+Yo siento que no se me haya ofrecido ocasión antes de ahora de 
+presentarle los motivos de duda que tengo respecto de algunas de las aserciones
+contenidas en aquella pequeña biografía, pues me habría sido 
+grato discutirlos con persona tan capaz de dar voto en la materia.</p>
+
+<p><hi rend="superscript">55</hi> Entraron de religiosas en el convento de capuchinas españolas de
+esta ciudad. La primera, doña Luisa, no pudo permanecer en el claustro
+por falta de salud. La segunda, doña Mariana, profesó, vivió allí largos
+años, y murió en nuestra época. La madre de ambas, y mujer de 
+Cabrera, era doña Ana María Solano. Estos pormenores están sacados de la
+carta de edificación que, según la costumbre de las capuchinas, se 
+imprimió a su muerte. Quien haya conocido la inviolable persistencia de
+aquella comunidad en guardar sus reglas y usos se persuadirá de que
+no habría habido empeño ni valimiento que la hiciese admitir a una
+pretendiente a quien faltara alguna de las calidades requeridas.
+Mucho más cuando para ocurrir a casos de esta clase estaba fundado desde
+el primer tercio del siglo <num value="18">XVIII</num>, por el virrey marqués de Valero, el convento
+de capuchinas indias de Corpus Christi.</p>
+
+<p><hi rend="superscript">56</hi> <bibl><title><hi rend="italic">Manifiesto
+satisfactorio</hi></title></bibl>, parte primera, núm. 17</p>
+</div>
+</back>
+</text>   
+</TEI>

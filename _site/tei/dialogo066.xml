@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="066">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo066.jpg" xml:id="p66"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="66" facs="#p66"/>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>No he podido averiguar cuándo nació ni cuándo 
+murió. De sus obras, la que he visto con fecha más reciente
+es un retrato del padre jesuita Juan Manuel Azcarai,
+pintado en <date when="1764">1764</date>, que estaba en San Pedro y San Pablo.
+Es, pues, seguro que su muerte fue posterior a ese año.
+Parece haber sido persona de alguna cultura, adquirida
+por sí propio. Con ocasión del reconocimiento facultativo
+que en unión de otros pintores practicó de la 
+imagen de Guadalupe a instancias del cabildo de la 
+Colegiata en <date when="1751">1751</date>, escribió un papel titulado <title><hi rend="italic">Maravilla 
+americana, y conjunto de raras maravillas, observadas con la
+dirección de las reglas del arte de la pintura, en la prodigiosa
+imagen de Nuestra Señora de Guadalupe de México</hi></title>. 
+Bastante dice esta portada el asunto de la obrita; y en 
+cuanto a su desempeño, el doctor Bartolache, de genio un poco
+acedo, decía años adelante: <cit><quote>«Demasiado fue que un 
+hombre lego y sin otros estudios que los honrados
+domésticos del caballete y la paleta, acertase a componer un
+opúsculo en que unió la precisión con la claridad, 
+instruyendo y deleitando»</quote></cit>.<hi rend="superscript">56</hi><note type="autor" 
+xml:id="nota56"><hi rend="superscript">56</hi> <bibl><title><hi  rend="italic">Manifiesto
+satisfactorio</hi></title></bibl>, parte primera, núm. 17</note> 
+Esta calificación estomagaba
+a un escritor elegante de la época, el doctor Conde,
+quien sospechó que Bartolache había querido indicar
+que Cabrera no era capaz de escribir por sí aquello y
+que probablemente le habían llevado la pluma sus 
+amigos los jesuitas.<hi rend="superscript">57</hi><note type="autor" 
+xml:id="nota57"><hi rend="superscript">57</hi> <bibl><title><hi rend="italic">Disertación histórica 
+sobre la aparición de María Santísima de Guadalupe</hi></title>, cap. 4, § X, núm. 282 en la nota.</bibl></note>
+Sea de eso lo que fuere, el papel
+habla con lisura, y sin el estilo gongorino que entonces era
+de moda. Respecto de su sustancia, el mismo Bartolache
+daba a entender que a su juicio Cabrera había 
+registrado la imagen más con los ojos de la devoción que
+con los del arte.<hi rend="superscript">58</hi><note type="autor" xml:id="nota58"><hi rend="superscript">58</hi> <bibl>En la pieza 
+núm. 2 al fin del <title><hi  rend="italic">Manifiesto satisfactorio</hi></title></bibl>.</note>
+</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

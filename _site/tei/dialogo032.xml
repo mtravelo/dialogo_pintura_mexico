@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="032">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo032.jpg" xml:id="p32"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="32" facs="#p32"/>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Tengo presente que me la comunicó usted hace
+tiempo. Y debiéramos darnos el parabién en México, si 
+nuestra escuela se derivara de la del insigne Joannes, de
+quien decía Jovellanos que <cit><quote>«sus obras no parecen pintadas
+con la mano sino con el espíritu. ¡Pero qué espíritu, tan 
+sabio, tan devoto, tan profundo!»</quote></cit>.<hi rend="superscript">35</hi><note type="autor" xml:id="nota35"><hi rend="superscript">35</hi> 
+<bibl>En la oración citada en la 
+nota 17.</bibl></note></p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>¿De quién son estos cuadros que han puesto ustedes en
+seguida de los de <persName ref="#BEO">Echave</persName>?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>De <persName ref="http://viaf.org/viaf/223137517" xml:id="LJ">Luis Juárez</persName>,<note type="editoral" resp="MTRS">Luis Juárez de Alcaudete (Alcaudete, <hi>ca.</hi> 1585-Ciudad de México, 1639). Pintor novohispano del siglo XVII del que se conservan obras en retablo y óleos sobre madera y tela. Fundador de una dinastía de pintores que incluye a José Juárez y Juan Rodríguez Juárez.</note> 
+el primero de los cuatro pintores
+mexicanos que llevaron ese apellido. Don Carlos de
+Sigüenza y Góngora refiere que hacia el año <date when="1621">1621</date> se
+hizo el retablo grande que hubo en la iglesia de Jesús
+María, y costó nueve mil pesos; precio, añade, que no
+parecerá excesivo a quien haya regalado la vista con <cit><quote>«la
+inimitable suavidad de sus pinturas en que se excedió a sí
+mismo el mexicano <persName ref="#LJ">Luis Juárez</persName>, pintor excelente y uno de los
+mayores de aqueste siglo»</quote></cit>.36<hi rend="superscript">36</hi><note type="autor" 
+xml:id="nota36"><hi rend="superscript">36</hi> <bibl><title><hi rend="italic">Paraíso 
+occidental</hi></title>, lib. 1, cap. 9.</bibl></note>
+Desde algunos años antes ejercía
+ya el arte, pues ese cuadro que está ahí, de la Aparición
+del niño Jesús a san Antonio, tiene fecha de 1610. Es
+un presente que hizo a la Academia la comunidad de
+San Diego. De los otros tres que tenemos aquí, el
+primero y segundo representan la Anunciación y Aparición
+de la Virgen a san Ildefonso, el otro la leyenda del</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="023">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo023.jpg" xml:id="p23"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="23" facs="#p23"/>
+<sp who="Pesado">
+<p>de Europa, de África 
+y de las islas las semillas, las
+plantas, los animales que faltaban; con estos auxilios la
+nueva agricultura solicitaba y explotaba la feracidad de
+nuestra tierra. Se habían enseñado al pueblo las artes
+de la vida civil, y establecídose con regularidad el 
+comercio de Europa por Veracruz, y el de la 
+China por
+los puertos del Pacífico. Nuestras grandes poblaciones,
+<placeName ref="http://sws.geonames.org/3522509" xml:id="recogito-e5ba23d7-4404-4e66-9d26-ab240da5fa39" cert="low">Oaxaca</placeName>, 
+<placeName ref="http://sws.geonames.org/8859166" xml:id="recogito-1590110e-d966-4575-a548-6a217d790f51" cert="high">Mérida</placeName>, 
+<placeName ref="http://sws.geonames.org/3531732" xml:id="recogito-06c09727-8207-43e6-9e63-a035d4d54f29" cert="low">Campeche</placeName>, Veracruz, 
+<placeName ref="http://sws.geonames.org/3521081" xml:id="recogito-47594d46-9bf4-4d4b-9811-21fe22bb41fc" cert="high">Puebla</placeName>, 
+<placeName ref="http://sws.geonames.org/3520914" xml:id="recogito-b70b5ff9-dfbb-4d1f-9cb9-3719017c57cf" cert="high">Querétaro</placeName>,
+<placeName ref="http://sws.geonames.org/4021276" xml:id="recogito-4969454a-d13b-41c7-ac63-7927fc72f0dc" cert="high">Valladolid</placeName>,<note type="editorial" resp="MTRS">Ahora Morelia</note> 
+<placeName ref="http://sws.geonames.org/4005539" xml:id="recogito-e485a52d-2089-46a4-b4f6-4c302cbb4dbe" cert="high">Guadalajara</placeName>, 
+<placeName ref="http://sws.geonames.org/4012176" xml:id="recogito-6def5931-c0b9-4166-9895-43bf5728d895" cert="low">Culiacán</placeName>, 
+<placeName ref="http://sws.geonames.org/4011741" xml:id="recogito-fdcc9c12-ee1d-4fb0-8e25-03c806ab1524" cert="high">Durango</placeName>, 
+<placeName ref="http://sws.geonames.org/3979844" xml:id="recogito-77653eaa-67ff-43b3-83fa-c34306f5f880" cert="low">Zacatecas</placeName>, 
+<placeName ref="http://sws.geonames.org/3985606" xml:id="recogito-6cbbc268-61f0-4d15-b29e-ec5c3445ddce" cert="high">San Luis Potosí</placeName>, 
+el <placeName ref="http://sws.geonames.org/3988086" xml:id="recogito-030ba5ca-52ab-43ed-8ac2-2fd4900b2da9" cert="high">Saltillo</placeName>, deben su primer
+origen a ese periodo durante el cual se las sacó de 
+planta y llegaron ya algunas a bastante altura. La minería,
+bajo cuya sombra se creó todo entre nosotros, no sólo
+estaba plantificada, sino que había adquirido gran 
+desarrollo en una zona tan extensa como la que corre desde
+<placeName ref="http://sws.geonames.org/4012176" xml:id="recogito-8d28ba74-8477-46c2-9442-10526d7bb223" cert="low">Culiacán</placeName> 
+hasta 
+<placeName ref="http://sws.geonames.org/3516225" xml:id="recogito-c0b8ef63-dca8-48f8-811d-c08ed4ca5245" cert="high">Taxco</placeName> y 
+<placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:1000007" xml:id="recogito-89ae7b42-9c56-4089-ad6d-42e4f47a5613" cert="low">Pachuca</placeName>, que fue donde 
+<persName ref="http://viaf.org/viaf/4103946" >Bartolomé de Medina</persName><note type="editoral" resp="MTRS">Bartolomé de Medina (Sevilla, <hi rend="italic">ca.</hi> 1503-Pachuca, 1585). Metalurgista español, que desarrolló el procedimiento de amalgamación para la obtención de la plata y otros metales.</note> 
+inventó en <date when="1557">1557</date> el beneficio de metales
+por azogue en grandes patios, invento de inmensas
+consecuencias en el arte minero y que hoy mismo no es
+todavía reemplazado por otro mejor. La capital se había
+renovado en su mayor parte, y era ya la primera
+ciudad del Nuevo Mundo, emporio del tráfico que por
+ambos mares se hacia, centro de los negocios, foco de
+ilustración y de ciencia para todo el país. Existía en ella
+la Universidad, primera escuela de enseñanza general
+en el reino, dirigida por maestros tan hábiles como
+<persName ref="http://viaf.org/viaf/97726457">Cervantes de Salazar</persName ><note type="editoral" resp="MTRS">Francisco Cervantes de Salazar (Toledo, 1514/1518-Ciudad de México, 1575). Humanista y cronista español, primer catedrático de Retórica en la Real y Pontificia Universidad de México</note> 
+en las humanidades y el padre 
+<persName ref=" http://viaf.org/viaf/12347830
+" >Veracruz</persName ><note type="editoral" resp="MTRS">Alonso Gutiérrez Gutiérrez, conocido como Alonso de Veracruz o de la Vera Cruz (Caspueñas, 1507-Ciudad de México, 1584). Misionero agustino, teólogo y tratadista. Figura más importante de la filosofía en la Nueva España.</note>
+en ciencias sagradas. Había además otros tres
+colegios para la juventud estudiosa. La imprenta, de la
+que México fue cuna en las Américas, trabajaba desde
+<date when="1536">1536</date>; y para fin del siglo había habido siete u ocho 
+impresores, de los cuales nos quedan cerca de cien ediciones</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="005">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo005.jpg" xml:id="p5"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="5" facs="#p5"/>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>No querría tanto. Sé que esas pinturas, de grande 
+interés para la arqueología y la historia, no lo son 
+igualmente para el arte, que es lo que en esta casa se profesa.
+En ellas no hay que buscar dibujo correcto ni ciencia
+del claroscuro y la perspectiva, ni sabor de belleza y
+de gracia. Parece que a sus autores llamó poco la 
+atención la figura humana que a nuestros ojos es el
+prototipo de lo bello, así es que no la estudiaron ni 
+conocieron bien sus proporciones y actitudes, ni acertaron a
+expresar, por los medios que ella misma ofrece, las 
+cualidades morales y los afectos del ánimo. Además, se 
+nota en sus autores cierta propensión a observar y copiar
+de preferencia los objetos menos gentiles que presenta
+la naturaleza, como animales de ingrata vista. Todo 
+indica que en las razas indígenas no estaba despierto el 
+sentido de la belleza, que es de donde procede el arte.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Couto</speaker>
+<p>El sentido de la belleza ha sido dado a pocos pueblos
+en la tierra. Los griegos entre los antiguos, y los 
+italianos entre los modernos, lo han tenido en grado superior.
+Sin embargo, en la 
+Grecia misma fue necesario el 
+trascurso de siglos y la concurrencia de mil circunstancias
+felices para que se desenvolviera y afinara. En cuanto
+a los defectos de dibujo de las obras mexicanas, algunos
+son propios de la infancia del arte en todas partes, verbigracia,
+el poner de frente los ojos a las figuras que están
+trazadas de medio perfil; dicen que lo mismo se observa en</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

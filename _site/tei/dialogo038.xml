@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="038">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo038.jpg" xml:id="p38"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="38" facs="#p38"/>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>la data de 1665. Pero no parece del mismo autor que
+los que vimos antes.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Es en efecto del segundo pintor de ese nombre, así
+como el martirio de san Pedro de Verona, que está al
+lado, y los cuatro evangelistas chicos que hay abajo. El
+entierro se adquirió de la iglesia que llaman del 
+Hospital de Texcoco; los demás nos vienen de la Colegiata de
+Guadalupe, cuyo cabildo los donó a la Academia.
+Sospecho que este pintor pudo ser hijo del primer <persName ref="#BEO">Baltasar
+de Echave</persName> no sólo por llevar su nombre según el uso de
+las familias entre nosotros, sino porque algún biógrafo
+del padre dice positivamente que no sólo su mujer, sino
+también sus hijos eran pintores.<hi rend="superscript">39</hi><note type="autor" xml:id="nota39"> 
+<hi rend="superscript">39</hi> Que Echave tuvo hijos pintores lo dice Cabrera en el pasaje
+copiado en la nota 34 y lo ha repetido Beristáin en su artículo.
+Balbuena parece indicar que entre ellos una era mujer. Por lo demás, la 
+existencia en el siglo <num value="17">XVII</num> de tres pintores de ese apellido está comprobada
+no sólo por la presencia de sus obras, sino por el testimonio directo de
+don Carlos de Sigúenza y Góngora, escritor del mismo siglo, en un 
+pasaje que quiero copiar íntegro, por la conmemoración que hace de 
+nuestros artistas de aquella época. Hablando de los cuadros con que se 
+adornó la Universidad en las funciones de enero de 1682, dice:
+<cit><quote>«Eran éstos
+no sólo de extranjeros pinceles, por quien tendrán prolija vida los 
+coloridos, sino también de nuestros mexicanos compatriotas, que merecen 
+el ladeárseles como iguales... Porque allí las perfecciones de
+Alonso Vásquez le emulaban a la naturaleza sus operaciones todas:
+los colores de Concha y Arrué [sospecho que es el mismo a quien Ibarra 
+llamó luego Juan de Rua], con el decoro de sus bien compartidos
+trazos, apostaban a hacer viviente la pintura con singulares ideas:
+en la mano de Luis Juárez se hallaba sin imitación la gracia, la hermosura
+y la suavidad: lo esbelto de los cuerpos, con la disposición de
+escorzos y descuidados movimientos, se admiraban excedidos en el 
+profundo estudio del franciscano Becerra: la propiedad en la simetría de
+las partes, y en el natural aire de los ropajes, regalaban la vista en el
+pulido artificio del consumado Arteaga: ni faltaba la proporción de 
+todo un cuerpo humano, ejecutada en breve lienzo, ni la inimitable 
+trabajada prolijidad en lo pequeño, ni la valentía última en la expresión
+y robustez de lo grande, del dominicano divino Herrera: ni la viveza
+diestra en pintar las humanas carnes, añadir belleza a la hermosura
+en la distribución de los colores, y hacer verdad la ficción a 
+esfuerzos del dibujo, en las tres líneas o caracteres con que mutuamente
+diversos, aun más que por el tiempo, se dieron áa conocer los tres
+Echaves: como tampoco dejaron de ocupar su lugar y las atenciones
+los ingenios de Daza y Angulo, cuyos payses no tienen oposición, 
+sino hasta que se ponga a pintar la naturaleza».</quote></cit> <bibl><title><hi rend="italic">Triunpho parthenico</hi></title>
+§ 5, ff. 33v y 34.</bibl></note></p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>La diferencia del estilo entre los dos se echa de ver
+luego. El <rs ref="#BEO">Viejo</rs> atildaba y concluía perfectamente sus
+obras, en las cuales resplandece por otra parte un 
+excelente gusto y buena ciencia del arte. Este segundo era
+pintor de efecto, que daba golpes fuertes y no se 
+cuidaba mucho de acabar. Aun se observan incorrecciones de
+dibujo, que con un poco de atención se hubieran 
+evitado, como la que hay en este brazo que cuelga del 
+Salvador muerto. Sin embargo, la obra en totalidad hace
+impresión y manifiesta venir de una mano franca, capaz
+de ejecutar buenas cosas, cuando se detenga a estudiarlas.
+Hay aquí rasgos que recuerdan la pintura grasa y
+vigorosa de Arteaga en el santo Tomás de la iglesia de
+San Agustín.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

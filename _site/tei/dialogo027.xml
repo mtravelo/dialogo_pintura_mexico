@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="027">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo027.jpg" xml:id="p27"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="27" facs="#p27"/>
+<sp who="Couto">
+<p>pertenecieron a otro retablo como el de Tlatelolco,
+compuesto según la moda de aquel tiempo; y no es 
+remoto que fueran de la antigua iglesia de los jesuitas en
+su casa profesa y se hubieran quitado de allí cuando
+<persName ref="http://viaf.org/viaf/30419139" xml:id="MT">Tolsá</persName><note type="editorial" resp="MTRS">Manuel Tolsá Sarrión (Valencia, 1757-Ciudad de México, 1816). arquitecto y escultor español que emigró a la Nueva España. Fue director de Escultura en la Academia de San Carlos, responsable de concluir las obras de la Catedral Metropolitana, creador del Palacio de Minería y de la estatua ecuestre de Carlos IV</note> 
+hizo el nuevo altar mayor que hay ahora.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Pues a fe que la Virgen de la Adoración de Reyes no
+cede a las otras. Y el niño que tiene en el regazo, y el
+rey que le besa el pie son excelentes figuras. ¿Qué 
+suavidad, qué empaste de carnes! ¡Qué buenos paños, tan
+ricos y tan bien plegados! Y luego ese colorido tan 
+brillante y tan bien entendido.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Pero aquí, señor don Joaquín, sí que es decidida la 
+superioridad del otro cuadro que está a la derecha, el de la
+Oración del Huerto. Confieso a usted que no he encontrado
+en México figura más resignada, más celestial que
+la del Salvador orando; creo que el mismo
+<persName ref="http://viaf.org/viaf/58339" xml:id="JFO">Overbeck</persName><note type="editorial" resp="MTRS">Johann Friedrich Overbeck (Lubeca, 1789-Roma, 1869). Pintor y grabador alemán que perteneció a los nazarenos, grupo pictórico del romanticismo que revivió la espiritualidad del arte cristiano medieval.</note>
+con gusto la prohijaría por suya. Es cosa notable
+encontrar cuadros como ése pintados aquí, antes de la 
+época en que <persName ref="=#DRV">Velázquez</persName> y <persName ref="#BEM">Murillo</persName> florecían en España.
+Aquel del martirio de san Ponciano, comprado por
+nuestro don Bernardo a un particular, muestra la habilidad
+de <persName ref="#BEO">Echave</persName> en el desnudo. El torso del cuerpo del
+mártir, aunque en actitud violenta, y éste del sayón que
+figura en primer término con una tea en la mano, están
+modelados con pericia; pero noten ustedes aquella cara
+que asoma abajo, cerca del ángulo derecho del cuadro,</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

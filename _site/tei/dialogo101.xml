@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="101">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo101.jpg" xml:id="p101"></graphic>
+</facsimile>
+<text>
+<front><p></p></front>
+<body>
+<p></p>
+</body>
+<back>
+<div type="Notas">
+<pb n="101" facs="#p101"/>
+
+<p><cit><quote>y la suavidad: lo esbelto de los cuerpos, con la disposición de
+escorzos y descuidados movimientos, se admiraban excedidos en el 
+profundo estudio del franciscano Becerra: la propiedad en la simetría de
+las partes, y en el natural aire de los ropajes, regalaban la vista en el
+pulido artificio del consumado Arteaga: ni faltaba la proporción de 
+todo un cuerpo humano, ejecutada en breve lienzo, ni la inimitable 
+trabajada prolijidad en lo pequeño, ni la valentía última en la expresión
+y robustez de lo grande, del dominicano divino Herrera: ni la viveza
+diestra en pintar las humanas carnes, añadir belleza a la hermosura
+en la distribución de los colores, y hacer verdad la ficción a 
+esfuerzos del dibujo, en las tres líneas o caracteres con que mutuamente
+diversos, aun más que por el tiempo, se dieron áa conocer los tres
+Echaves: como tampoco dejaron de ocupar su lugar y las atenciones
+los ingenios de Daza y Angulo, cuyos payses no tienen oposición, 
+sino hasta que se ponga a pintar la naturaleza». <bibl><title><hi rend="italic">Triunpho parthenico</hi></title>
+§ 5, ff. 33v y 34.</bibl>,</quote></cit></p>
+
+<p><hi rend="superscript">40</hi> <bibl><title><hi rend="italic">Teatro de 
+virtudes políticas que constituyen a un príncipe</hi></title>, § 2.</bibl></p>
+
+<p><hi rend="superscript">41</hi>
+<bibl>Licenciado <author>Robles</author>, <title><hi  rend="italic">Diario de sucesos notables</hi></title>, 
+jueves 22 de marzo de 1674.</bibl></p>
+
+<p><hi rend="superscript">42</hi> 
+<bibl>Lib. 3., cap. 12, § 619.</bibl> Florencia había dicho que los siete eran
+<cit><quote>«todos examinados, aprobados y ejercitados con créditos y aplausos
+muchos años».</quote></cit> <bibl><title><hi rend="italic">La estrella del norte de México</hi></title>, cap. 13, 
+§ 4o.</bibl></p>
+
+<p><hi rend="superscript">43</hi> <bibl><author>Ceán Bermúdez</author>, en el <title><hi rend="italic">Diccionario histórico de los más ilustres
+profesores de las bellas artes en España</hi></title></bibl>, lista a un Pedro Ramírez,
+pintor, del que sólo da la noticia siguiente: <cit><quote>«uno de los primeros que
+asistieron y contribuyeron a sostener la Academia que él y otros 
+profesores establecieron en Sevilla el año de <date when="1660">1660</date>».</quote></cit> Don Rafael Lucio,
+inteligente y muy aficionado a pinturas mexicanas, me ha llamado la 
+atención sobre una especie que se lee en mister Viardot, y voy a copiar a la
+letra: <cit><quote>A la misma época (la del Greco <date when="1621">1621</date> en Toledo) creo que 
+puede referirse un juego de seis cuadros anónimos, que representan la
+historia de la Virgen. En la composición se parecen a los juegos de
+la misma clase, que más tarde hacia Francisco Antolinez en Sevilla;
+pero están pintados en fajas de madera, con incrustaciones de nácar
+que se unen a la primera, capricho que les da alguna semejanza con
+los cuadros chinos y más todavía con los mexicanos. Acaso sean obra
+de un tal Ramírez, artista español, que fue a establecerse en México.</quote></cit> <bibl><title><hi  rend="italic">Musées d’Espagne</hi></title></bibl>, en la descripción de la galería nacional, p. 162
+de la 2a. edición. Yo no sé si éste es el Ramírez de que habló Ceán</p>
+</div>
+</back>
+</text>   
+</TEI>

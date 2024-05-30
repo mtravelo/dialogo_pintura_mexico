@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="014">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo014.jpg" xml:id="p14"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="14" facs="#p14"/>
+<sp who="Couto">
+<p>misioneros. El documento más antiguo que conozco en
+el particular es la carta del primer obispo de Tlaxcala,
+don fray <persName ref="http://viaf.org/viaf/53980718">Julián Garcés</persName>,<note type="editorial" resp="MTRS">Julián Garcés (Zaragoza, 
+1452-Tlaxcala, 1542). Religioso dominico, primer obispo de la Nueva España y protector de los indígenas.</note> al papa Paulo <num type="ordinal" value="2">II</num>, que debió 
+escribirse cuando más tarde en <date when="1537">1537</date>. En ella habla de las
+escuelas que en los conventos se habían establecido 
+para los indios y solían contener hasta trescientos, 
+cuatrocientos y aun quinientos discípulos, según la holgura
+de cada población; y entre los ramos de enseñanza que
+menciona, cuenta expresamente la pintura y 
+escultura<hi rend="superscript">11</hi><note type="autor" xml:id="nota11"><hi rend="superscript">11</hi> 
+<cit><quote xml:lang="la">«Aluntur intra monasteriorum ambitum per suas classes et 
+contubernia, per scholas et doctrivia, ex ditioribus trecenteni, quadrigenteni,
+quingenteni, et sic de singulis ordinatim secundum magnitudinem
+civitatum et oppidorum... Jam vero ingenii docilitas supra 
+modum, ceu cantare jubeas, seu legere, scribere, pingere fingere ceteraque
+id genus liberalium artium et aliarum, ad rudimenta omnia perspicaces»</quote></cit> etcétera. 
+<bibl> <author> Dávila Padilla</author>, <title><hi rend="italic">Historia de la fundación y discurso de la 
+Provincia de Santiago de México de la orden de Predicadores</hi></title>, lib. 1o., cap.
+42</bibl>, trae íntegra la carta. La versión española que pone en seguida me
+parece que no siempre expresa con fidelidad y exactitud lo que dice el
+original latino, como sucede en el pasaje que acabo de copiar.</note>
+De aquellas escuelas, la más célebre fue la que 
+puso en México fray <persName ref="http://viaf.org/viaf/56640612">Pedro 
+de Gante</persName><note type="editorial" resp="MTRS">Pieter van der Moere o Pedro de Gante (Geraardsbergen, 1478-Ciudad de México, 1572). 
+Religioso franciscano,  educador  y defensor de los pueblos originarios. Fundador de la 
+escuela de San José de Belén para la nobleza indígena, primera escuela de artes y oficios.</note> en la capilla de San
+José, que él mismo edificó.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>¿Se sabe dónde estuvo esa capilla?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Advierta usted que, aunque se le dio tal nombre, era un 
+edificio vasto, sin puertas, de muchas naves, que luego
+se redujeron a cinco. Estaba en el convento de San
+Francisco, a la banda de oriente del atrio actual, hacia 
+la parte que ocupa ahora la capilla de Servitas, antiguo 
+sitio de la casa de recreo 
+de <persName ref="http://viaf.org/viaf/291707100">Moctezuma</persName>,<note type="editorial" resp="MTRS">Moctezuma II Xocoyotzin 
+(Tenochtitlan, 1468-1520). Último soberano del imperio azteca. En su reinado se dio el primer contacto con los exploradores-conquistadores españoles que  culminó con la conquista de México-Tenochtitlan.</note> 
+de que hablan
+los conquistadores.<hi rend="superscript">12</hi><note type="autor" xml:id="nota12"><hi rend="superscript">12</hi> 
+<bibl><author>Vetancurt</author>, 
+<title><hi rend="italic">Crónica de la Provincia del Santo Evangelio de 
+México</hi></title>, tratado 2o., cap. 3, núm. 63.</bibl></note>
+Fue en México la primera
+parroquia de españoles e indios; allí se les enseñaba la 
+doctrina y se celebraba la misa; fue tambien el primer 
+seminario y escuela de todo linaje de artes y oficios en 
+Nueva España. El padre Gante, que la estableció y 
+gobernó por largos años, puso allí en sendos departamentos
+talleres de sastres, zapateros, carpinteros y herreros.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

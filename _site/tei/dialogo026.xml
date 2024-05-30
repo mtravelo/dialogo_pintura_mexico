@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="026">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo026.jpg" xml:id="p26"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="26" facs="#p26"/>
+<sp who="Couto">
+<p>nosotros, pintó en tabla catorce cuadros, de los cuales
+cedieron los padres a la Academia estos dos, que se
+han reemplazado con copias fieles, colocadas en los 
+sitios mismos que los originales ocupaban.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Buenas pinturas ahora que las veo atentamente. Esta
+Virgen de la Visitación, en el acto de ser recibida por
+su prima Isabel, es una figura noble, hermosa y radiante
+con la luz del cielo, que parece que se la oye improvisar
+el glorioso Magnificat. Y santa Isabel no es una
+vieja puesta en el cuadro solamente para dar realce a la
+figura principal, como suelen hacerlo los pintores en tales
+casos. Si bien por la edad forma cierto contraste con
+la Virgen, es, sin embargo, una matrona que no queda
+desairada al lado de la visita.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Yo, sin embargo, quiero dar la preferencia a esa otra
+Virgen del cuadro de la aparición de san Francisco.
+Buena es la persona del Salvador que está a su izquierda;
+pero la Virgen es tan modesta, tan acabada, que aun
+tiene para mí cierto sabor de escuela rafaelesca</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>¿Y estos dos cuadros de la Adoracion de Reyes y la
+Oracion del Huerto?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Son del mismo <persName ref="#BEO">Echave</persName>: ahí tienes su firma en el primero.
+Nos los cedieron los padres del oratorio de San
+Felipe Neri, en cuyos claustros estaban. Probablemente</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

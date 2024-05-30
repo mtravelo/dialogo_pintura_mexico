@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="104">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo104.jpg" xml:id="p104"></graphic>
+</facsimile>
+<text>
+<front><p></p></front>
+<body>
+<p></p>
+</body>
+<back>
+<div type="Notas">
+<pb n="104" facs="#p194"/>
+
+<p><hi rend="superscript">57</hi> <bibl><title><hi rend="italic">Disertación histórica sobre la aparición 
+de María Santísima de Guadalupe</hi></title>, cap. 4, § X, núm. 282 en la nota.</bibl></p>
+
+<p><hi rend="superscript">58</hi> <bibl>En la pieza núm. 2 al 
+fin del <title><hi rend="italic">Manifiesto satisfactorio</hi></title></bibl>.</p>
+
+<p><hi rend="superscript">59</hi> <bibl>Apéndice al § X, cap. 4 
+de la <title><hi rend="italic">Disertación histórica</hi></title>
+del doctor <author>Conde</author></bibl>.</p>
+
+<p><hi rend="superscript">60</hi> Así resulta de las actas de 
+sesiones de la junta superior de gobierno de la Academia.</p>
+
+<p><hi rend="superscript">61</hi> <bibl><title><hi rend="italic">Essai 
+politique sur le royaume de la Nouvelle Espagne</hi></title>, lib. 2, cap. 7</bibl>.</p>
+
+<p><hi rend="superscript">62</hi> Véase el pasaje de don
+Carlos de Sigüenza y Góngora, copiado en
+la nota 39.</p>
+
+<p><hi rend="superscript">63</hi> <cit><quote xml:lang="la">Utinam 
+et Phidiam ab initio coluissent indigene, ut coluere 
+Vitruvium, atque Apellem! nam ut architectos, et pictores excellentes 
+habuere non paucos, ita statuariis optimis vulgo caruere</quote></cit>. <bibl>Maneyro, <title><hi rend="italic">De
+vitis aliquot mexicanorum</hi></title></bibl>. En la del padre Villavicencio, tomo 1,
+p. 10. Lo mismo pasa en la antigua España, pues habiendo 
+producido una de las más insignes escuelas de pintura de la Europa 
+moderna, y arquitectos de primer orden, carece casi absolutamente de
+estatuaria.</p>
+
+<p><hi rend="superscript">64</hi> El padre Torquemada hace la historia y la descripción de esta obra
+en los términos siguientes: <cit><quote>«Era varón (el padre Tembleque) de muy
+constante y determinado ánimo, lo cual se conoció en muchas y diversas
+ocasiones; una de las cuales fue, que morando en el convento de
+Otumpa [...] y viendo que toda aquella Provincia carecía de agua,
+que por ser muy alta la tierra no tiene fuentes ni arroyos, y que de
+tiempo de su gentilidad usaban de unas balsas que por otro nombre
+se llaman jagüeyes, en los cuales se recoge el agua llovediza [...] y
+viendo que la de estas balsas o jagüeyes, con que estos indios pasaban
+su año, y se sustentaban, se la encenegaban los españoles con sus 
+ganados y bestias, por ser camino pasajero para el puerto de Veracruz
+y Otras partes, e ir por él todas las cuadrillas de carros y carretas que
+siguen este viaje, y por esta causa estar ya estos dichos jagúeyes tales,
+que ya no bebian sus desventurados moradores sino cieno y lodo en 
+lugar de agua, de que ¡ba enfermando y muriendo mucha gente; 
+condoliéndose el caritativo religioso de tan extrema necesidad de los pobres indios, trató en su corazon 
+de remediarla, determinándose de traer
+agua al pueblo, acometiendo en esto una hazaña que grandes y poderosos
+reyes del mundo apenas se atreverían a salir con ella [...] Fue,
+pues, la traza traher agua corriente a Otumpa, de nueve o diez leguas
+adelante, hacia la misma parte del Norte, jurisdicción del pueblo de</quote></cit></p>
+</div>
+</back>
+</text>   
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="018">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo018.jpg" xml:id="p18"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="18" facs="#p18"/>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>primeros destellos de la escuela llamada del Renacimiento,
+cabalmente a la sazón que <persName ref="#HC">Hernán Cortés</persName> guerreaba en
+México por conquistar este imperio. Creció luego 
+aquella luz en manos de su discípulo <persName ref="http://viaf.org/viaf/62471598">Gaspar Becerra</persName>,<note type="editorial" resp="MTRS">Gaspar Becerra 
+(Baeza, <hi>ca</hi>. 1520-Madrid, 1570). Escultor y pintor español, personalidad destacada del Renacimiento en España.
+</note> 
+pintor, escultor y arquitecto, que fue como Berruguete a
+estudiar en Italia. Tras él porción de españoles volaron
+a la culta península, y de regreso a la patria esparcieron
+entre nosotros la doctrina que allí habían cogido. Así
+lo hicieron el mudo <persName ref="http://viaf.org/viaf/70645009">Navarrete</persName>,<note type="editorial" resp="MTRS">Juan Fernández de 
+Navarrete (Logroño, <hi rend="italic">ca.</hi> 1538-Madrid, 1579). 
+Pintor español que destacó en la segunda mitad del siglo <num value="16">XVI</num> y participó en la decoración del monasterio de El Escorial</note> 
+<persName ref="http://viaf.org/viaf/95686704">Vicente Joannes</persName>,<note type="editorial" resp="MTRS">Vicente Macip Comes, conocido como Vicente Joannes
+(¿Valencia?, <hi rend="italic">ca.</hi> 1555-Valencia, <hi rend="italic">ca.</hi> 1623). Pintor español renacentista, nieto  de Vicente Macip e hijo de Juan de Juanes.</note> 
+el célebre <persName ref=" http://viaf.org/viaf/5737049">Pablo de Céspedes</persName>,<note type="editorial" resp="MTRS">Pablo Céspedes (¿Córdoba?, <hi rend="italic">ca.</hi> 1538/1548-Córdoba, 1608). 
+Pintor, escultor, poeta y humanista del renacimiento y manierismo español.
+</note> 
+<persName ref="http://viaf.org/viaf/37712445">Francisco Ribalta</persName>,<note type="editorial" resp="MTRS">Francisco de Ribalta (Lérida, 1565-Valencia, 1628). Pintor español de estilo barroco que cultivó el naturalismo y un intenso claroscuro.</note> 
+Pedro de
+Villegas, mi paisano el catalán Mingot y otros.
+Además, algunos artistas extranjeros de alto mérito, como
+el <persName ref="http://viaf.org/viaf/109266837">Ticiano</persName>,<note type="editorial" resp="MTRS">
+Tiziano Vecellio di Gregorio, conocido como Tiziano o Tiaciano (Pieve di Cadores, 
+1488/1490-Venecia, 1576). Pintor italiano renacentista y uno de los exponentes más destacados de la escuela veneciana.</note> 
+vinieron a trabajar en España, atraídos de la
+regia munificencia de Carlos <num type="ordinal" value="5">V</num> y 
+Felipe <num type="ordinal" value="2">II</num>. De esa 
+manera se formó dentro del siglo <num value="16">XVI</num> la esclarecida 
+escuela española que en el siguiente tuvo hombres como 
+<persName ref="http://viaf.org/viaf/76324831" xml:id="DRV">Velázquez</persName>,<note type="editorial" resp="MTRS">Diego Rodríguez de Silva y Velázquez (Sevilla, 1599-Madrid, 1660). Pintor barroco español estimado uno de los exponentes más trascendentales de la pintura española y de la plástica mundial. Fue el primero en introducir en España el estilo naturalista y la iluminación tenebrista de Caravaggio. Ocupó el cargo más importante en la corte de Felipe IV, pintor de cámara, y se dedicó a retratar a la familia real y elaborar cuadros para decorar mansiones de la realeza. En su última etapa su estilo fue más esquemático y abocetado con un dominio
+ magistral de la luz y produjo sus últimas obras maestras: Las meninas y La hilanderas.</note> 
+<persName ref=" http://viaf.org/viaf/76584455" xml:id="BEM" >Murillo</persName><note type="editorial" resp="MTRS">Bartolomé Estebán Murillo (Sevilla, 1618-1682). Pintor barroco español con más fortuna crítica durante su época y pilar de la escuela sevillana, que reunió gran cantidad de discípulos 
+y seguidores. Produjo obras por encargo de carácter religioso, pintura de género y retratos.</note> y 
+<persName ref="http://viaf.org/viaf/83103470">Ribera</persName>,<note type="editorial" resp="MTRS">José de Ribera (Játiva, 1591-Nápoles, 1652). Pintor y grabador español que cultivó el naturalismo y un estilo tenebrista, desarrolló su carrera en Italia donde tuvo gran prestigio.
+</note> 
+y de la cual procede y es 
+una rama esta de 
+México.<hi rend="superscript">17</hi><note type="autor" xml:id="nota17"><hi rend="superscript">17</hi> <bibl>Véanse sobre todo 
+esto la excelente oración pronunciada por el señor
+Jovellanos en la Academia de San Fernando de Madrid el año de 1781
+(tomo 2 de sus obras, p. 120, edición de don León Amarita, Madrid,
+1830), y a <author>Ceán Bermúdez</author> en la introducción del <title><hi rend="italic">Diccionario histórico
+de los profesores de bellas artes en España</hi></title>, y en los artículos de
+los artistas del siglo <num value="16">XVI</num>; en el tomo 6 hay catálogos cronológicos
+de todos.</bibl></note></p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Lo que es el arte de copiar, o sea, reproducir 
+fielmente en la obra que se hace la obra que se toma por 
+dechado, parece cierto que había adelantado bastante en
+manos de los alumnos mexicanos de aquella época. 
+Torquemada asegura que si bien en tiempo de la gentilidad
+no sabían hacer hombres hermosos, después que fueron 
+cristianos y vieron los cuadros que se traían de Europa,
+no había retablo ni imagen por prima que fuese que no 
+la retrataran y contrahicieran.<hi rend="superscript">18</hi><note type="autor" xml:id="nota18"><hi rend="superscript">18</hi> 
+<bibl>Lib. 17, cap. 1 de la <title ><hi rend="italic">Monarquía indiana</hi></title>.</bibl></note>
+Lo mismo había escrito
+el padre <persName ref="http://viaf.org/viaf/104831464">Motolinía</persName>.<hi rend="superscript">19</hi><note type="autor" xml:id="nota19"><hi rend="superscript">19</hi> 
+<bibl><title ><hi rend="italic">Historia de los indios 
+de Nueva España</hi></title>, tratado 3o., cap. 13, edición de García 
+Icazbalceta.</bibl></note><note type="editorial" resp="MTRS">Toribio de Benavente 
+(Benavente, 1482-Ciudad de México, 1569). Misionero franciscano e historiador que sustituyó su nombre al observar que los indígenas calificaban con el adjetivo motolinia (en náhuatl, pobre) a los franciscanos que llegaron con él a México.</note>
+ nuestro buen Bernal Díaz del
+Castillo no sólo dice que los lapidarios y pintores que</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

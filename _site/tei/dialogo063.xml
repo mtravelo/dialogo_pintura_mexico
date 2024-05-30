@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="063">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo063.jpg" xml:id="p63"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="63" facs="#p63"/>
+<sp who="Clavé">
+<p>por lo que hace a <persName ref="#MC">Cabrera</persName>, puede conocérsele con sólo
+este cuadro grande que tenemos ahí de la visión del
+Apocalipsis, cuando la mujer misteriosa que había 
+parido al niño huye de delante del dragón, y san Miguel
+pelea con la fiera. La visión está aplicada a la Virgen.
+Note usted la belleza de su figura, la del niño, que 
+levanta con ambos brazos y, respectivamente, la de los demás
+personajes que se introducen en la escena. Creo que 
+todas las dotes de <persName ref="#MC">Cabrera</persName>, se registran en ese lienzo.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Bastante lo he visto en la Universidad antes que ustedes
+lo trajeran a esta galería. Aquella corporación parece
+que distinguió a <persName ref="#MC">Cabrera</persName>, y lo ocupó más que a ningún
+otro pintor.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>En eso hizo lo que casi todos los cuerpos y todas las
+personas importantes de la ciudad. Porque <persName ref="#MC">Cabrera</persName>, no
+fue de aquellos artistas desconocidos o desestimados en
+vida y a quienes no se tributa honra sino después del
+sepulcro. Nuestro pintor disfrutó en sus días toda su 
+fama y las atenciones que por ella merecía. El 
+arzobispo don Manuel José Rubio y Salinas lo hizo su pintor de
+cámara y con sus obras adornó su palacio. Las 
+comunidades religiosas, los templos, los establecimientos 
+públicos, todos a competencia quisieron tener pinturas de
+su mano. Pero quienes más se señalaron con él fueron
+los jesuitas, sagaces descubridores del talento y el
+mérito en todas líneas, <persName ref="#MC">Cabrera</persName>, fue el pintor de la Compañía,</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="043">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo043.jpg" xml:id="p43"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="43" facs="#p43"/>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Aun nos falta mostrarte algo de los dos Rodríguez
+Juárez, que lo cerraron dignamente y que dieron 
+principio a una nueva edad de la pintura entre nosotros.
+Pero antes quiero decirte que del mismo siglo <num value="16">XVI</num>
+conozco, además de otros oscuros, algunos que por su
+mérito te nombraré. Sea el primero Juan de Herrera,
+a quien nuestros antepasados llamaron el divino, como
+en España a <persName ref="http://viaf.org/viaf/31849912"></persName>Luis Morales,<note type="editorial" resp="MTRS">Luis de Morales (Badajoz, <hi rend="italic">ca</hi>. 1510-1586). Pintor español de estilo manierista.</note> 
+o porque sólo se ejercitaba
+en asuntos sagrados, o por la perfección con que los 
+desempeñó. En la capilla de reliquias de Catedral, que
+mencioné atrás, hay en el altar principal doce cuadritos 
+firmados de su nombre, con fecha de <date when="1698">1698</date>, que representan
+santos mártires, bien acabados y de bastante gusto.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Tengo muy presente que cuando los vimos nos dejaron
+algún sabor de estilo holandés.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>El segundo es fray Diego Becerra,<hi rend="superscript">44</hi><note type="autor" 
+xml:id="nota44"><hi rend="superscript">44</hi> Véase a Sigüenza en el pasaje copiado en la nota 39.</note>
+lego franciscano,
+connovicio del padre Vetancurt, que le llama insigne,
+y por quien sabemos que en la segunda mitad del siglo
+pintó varias obras para su convento, las cuales se quitaron
+de la portería por lo que allí sufrían y se distribuyeron
+en otras partes del edificio.<hi rend="superscript">45</hi> <note type="autor" xml:id="nota45"><hi rend="superscript">45</hi> 
+<bibl><title><hi rend="italic">Crónica</hi></title>, tratado 2o, cap. 32, núms. 42 y 51.</bibl></note>
+</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Ése ha de ser el Becerra franciscano, de quien ahora
+dos años vi en su convento de Puebla, en la escalera, tres</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

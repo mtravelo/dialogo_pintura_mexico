@@ -1,0 +1,22 @@
+title: Diálogo sobre la historia de la pintura en México
+email: ravelo.mt@gmail.com
+description: Descripción
+baseurl: "/dialogo_pintura_mexico/"
+url: "https://mtravelo.github.io"
+github_repo: viaje-al-rio-de-la-plata/
+github_username:  mtravelo
+
+
+social_link: twitter
+social_username: hdlabconicet
+
+theme_color: light
+
+# Build settings
+markdown: kramdown
+
+collections:
+    pages:
+      output: true
+    recursos:
+      output: true

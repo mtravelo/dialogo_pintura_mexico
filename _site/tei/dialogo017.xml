@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="017">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo017.jpg" xml:id="p17"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="17" facs="#p17"/>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>pronta para doctrinar a gentes rudas, que no sabían leer,
+y a quienes era preciso meter las cosas por los ojos.
+Pero ese método de catequizar exigía la producción de
+mayor número de obras artísticas, y debió contribuir a
+que la pintura y escultura tomaran desde temprano 
+mucho vuelo.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Reducido al principió el arte a la simple copia, 
+aunque se produjeran bastantes obras, no podía hacer 
+adelantos de importancia en sus partes esenciales: el dibujo
+y la composición. Fuera de que yo me figuro que al
+principio no vendrían a las Américas cuadros y 
+modelos de primera clase.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Alguna muestra de lo que venía se ha conservado 
+hasta nuestro tiempo y por ahí puede juzgarse. El 
+Santo Cristo de bulto que está en el retablo principal de la
+capilla, que llaman de reliquias en Catedral, contigua a
+la sacristía, fue un presente de <persName ref=" http://viaf.org/viaf/88598818">Carlos <num type="ordinal" value="5">V</num></persName><note type="editorial" resp="MTRS">Carlos I de España y V de Alemania (Gante, 1500-Yuste, 1558).  Rey de España y emperador del Sacro Imperio Romano Germánico. Durante su reinado la Corona española emprendió la conquista de imperios en América y expandió su territorio.</note> a la iglesia
+metropolitana.<hi rend="superscript">16</hi><note type="autor" xml:id="nota16"><hi rend="superscript">16</hi> 
+<bibl><author>Sariñana</author>, 
+<title><hi rend="italic">Noticia de la deseada y última dedicación del templo
+metropolitano de México</hi></title>, en <date when="1667-12-22">22 de diciembre de 1667</date>, p. 26, vuelta.</bibl></note></p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Decía yo que no vendrían en los primeros tiempos
+obras muy importantes, porque en España misma 
+empezaba entonces a introducirse el arte que ha prevalecido
+en los tres últimos siglos. <persName ref="http://viaf.org/viaf/106962913">Alonso Berruguete</persName>,<note type="editorial" resp="MTRS">Alonso Berruguete (Paredes de Nava, <hi>ca.</hi> 1486-Toledo, 1561). 
+Escultor y pintor español, representante del estilo manierista escultórico.</note> discípulo
+de <persName ref="http://viaf.org/viaf/24585191">Miguel 
+Ángel</persName>,<note type="editorial" resp="MTRS">Michelangelo di Lodovico Buonarroti Simoni (Caprese, 1475-Roma, 1564). Arquitecto, escultor y pintor italiano, 
+gran figura del Renacimiento que desarrolló su labor artística en Florencia y Roma.</note> 
+volviendo de Italia, nos traía los</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

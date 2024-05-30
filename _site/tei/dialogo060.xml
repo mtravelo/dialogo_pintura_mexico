@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="060">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo060.jpg" xml:id="p60"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="60" facs="#p60"/>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>empresas cuatro veces más laboriosas que aquella? Es
+necesario ver sus dos colecciones para apreciar todo lo que en
+ellas tuvo que hacer. Paréceme que nuestro artista 
+pintaba cuadros como en el siglo anterior <persName ref="http://viaf.org/viaf/89773778">Lope de Vega</persName><note type="editorial" resp="MTRS">Lope de Vega (Madrid, 1562-1635). Dramaturgo, poeta y narrador, uno de los autores más importantes del Siglo de Oro español y de la literatura universal.</note>
+componía comedias.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Pues a fe que a <persName ref="#MC">Cabrera</persName> no puede aplicarse lo que
+aquel esclarecido ingenio decía de sus piezas:</p>
+
+<p><cit><quote>Del vulgo vil solicité la risa
+<lb/>Siempre ocupado en fábulas de amores;
+<lb/>Así grandes pintores
+<lb/>Manchan la tabla aprisa.</quote></cit></p>
+
+<p>Lo que <persName ref="#MC">Cabrera</persName> nos ha dejado en sus tablas no son
+manchas, hablando en lo general, sino claros destellos
+de luz, que todavía hoy enamoran nuestros ojos. Por lo
+demás, la celeridad con que despachaba sus encargos,
+creo que en parte puede atribuirse a otra causa. He oído
+decir que tenía un gran taller, un verdadero obrador,
+en que pintaban con él porción de oficiales y aun
+algunos de los maestros más formados de la ciudad. 
+Naturalmente todos pondrían las manos en las obras que se
+le pedían; de manera que éstas, más que de un artista,
+podrían decirse de una escuela.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<!-- pendiente Alcíbar VIAF -->
+<p>Yo también he oído contar eso que dices, y en efecto
+sabemos que algunos pintores tan hábiles como <persName ref="http://viaf.org/viaf/41713509" xml:id="JA"></persName>Alcíbar<note type="editorial" resp="MTRS">José de Alcíbar (Ciudad de México, 1730-1803). Pintor novohispano, uno de los más activos y representativos de la segunda mitad del siglo XVIII.</note>
+y Arnáez estaban a su lado. Hay, sin embargo, una
+circunstancia en que debe repararse, y es la unidad de</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="028">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo028.jpg" xml:id="p28"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="28" facs="#p28"/>
+<sp who="Clavé">
+<p>es un soldado que conversa con el que está vuelto de
+espaldas. Señores, la mano que pintó esa cara, de tanta
+verdad y tanto carácter, era una mano maestra.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>No tenía yo de <persName ref="#BEO">Baltasar de Echave</persName>, a quien apenas
+conocía de oídas, el concepto que estos cuadros me 
+hacen formar. Lo reputo ahora uno de nuestros más 
+aventajados artistas y creo que en cualquier país donde 
+hubiera existido se habría hecho un distinguido lugar.
+¿Quedan muchas pinturas suyas en México?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>No escasean, si bien debe cuidarse de no confundirlas
+con las del segundo pintor del mismo nombre que
+antes mencioné. Del <rs ref="#BEO">Viejo</rs> he visto encima de la puerta
+grande del convento de San Francisco, un san Cristóbal
+colosal, pintado en <date when="1601">1601</date>, y que por desgracia retocó
+en <date when="1776">1776</date> un José Mariano Albo, desconocido para mí; en
+los claustros de la Profesa, una gloria de san Ignacio,
+un martirio de las Vírgenes de Colonia, y el de san
+Apronio; aquel de <date when="1610">1610</date>, y estos otros dos de 1612, cuadros
+de gran tamaño y ejecución; en el del martirio de
+san Apronio son notables las figuras de dos cautivos
+cristianos y de algunos soldados que hay abajo: un san
+Francisco de Paula del tamaño natural, de 1625, en una
+de las piezas de la sacristía de la Colegiata de Guadalupe;
+en el claustro de Santo Domingo, el martirio de 
+santa Catarina pintado en <date when="1640">1640</date>. En los corredores de abajo
+del primer patio de San Francisco, hay la vida del santo,
+que un cronista de la provincia menciona como «del</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="102">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo102.jpg" xml:id="p102"></graphic>
+</facsimile>
+<text>
+<front><p></p></front>
+<body>
+<p></p>
+</body>
+<back>
+<div type="Notas">
+<pb n="102" facs="#p102"/>
+<!-- continuación nota 43 -->
+<p>Bermúdez, y si es el mismo que pintó en México el cuadro de la 
+Academia, y otro que he visto firmado de su nombre, en poder del mismo señor
+Lucio.</p>
+
+<p><hi rend="superscript">44</hi> Véase a Sigüenza en el pasaje copiado en la nota 39.</p>
+
+<p><hi rend="superscript">45</hi> 
+<bibl><title><hi rend="italic">Crónica</hi></title>, tratado 2o, cap. 32, núms. 42 y 51.</bibl></p>
+
+<p><hi rend="superscript">46</hi> Véanse en 
+las <bibl><title><hi rend="italic">Gacetas de México</hi></title></bibl> de Sahagún de Arévalo la 
+correspondiente a ese mes, que es la primera que aquel periodista publicó.</p>
+
+<p><hi rend="superscript">47</hi> 
+<bibl><title><hi rend="italic">Museo pictórico</hi></title>, tercer tomo, artículo «Bartolomé Esteban 
+Murillo», que es el núm. 173</bibl>. El mismo autor refiere, y consta del testamento
+de Murillo, que su hijo don Gabriel, sujeto de grande habilidad en
+la pintura, y de mayores esperanzas, pasó a Indias, y aquí murió bien
+mozo. Recuerdo que el difunto señor arzobispo don Manuel Posadas estaba
+en la idea de que ese pintor había venido a Nueva España y que varios
+de los cuadros que aquí corren por del padre eran suyos. El hecho es
+posible, y entonces habría sido ése el mejor medio de que a nuestra 
+escuela se comunicara algo del estilo y la manera del insigne artista sevillano.
+Pero yo declaro que no he encontrado rastro alguno de la existencia
+entre nosotros de tal persona, que no es verosímil pasase enteramente
+desconocida. Ceán Bermúdez, en el artículo de su padre, corrigió la
+equivocacion en que había caído Palomino, llamándole José y no 
+Gabriel.</p>
+
+<p><hi rend="superscript">48</hi>
+<bibl><author>Conde y Oquendo</author>, <title><hi rend="italic">Disertacion 
+histórica sobre la aparición de María Santísima de Guadalupe</hi></title>, cap. 3, § 15, núm. 210.</bibl></p>
+
+<p><hi rend="superscript">49</hi> 
+<bibl>En el <title><hi rend="italic">Diccionario universal de historia y de geografía</hi></title>, 
+reimpreso aquí por don Rafael Rafael, artículo «Ibarra».</bibl></p>
+
+<p><hi rend="superscript">50</hi> 
+<bibl><title><hi rend="italic">Maravilla americana</hi></title>, § 4, p. 9.</bibl></p>
+
+<p><hi rend="superscript">51</hi> 
+<bibl><title><hi rend="italic">Escudo de armas de México</hi></title>, lib. 2, cap. 8, núm. 333.</bibl></p>
+
+<p><hi rend="superscript">52</hi> 
+<bibl>Véase en la <title><hi rend="italic">Biblioteca</hi></title> de Beristáin el artículo «Buzeta (fray Pedro
+José)».</bibl></p>
+
+<p><hi rend="superscript">53</hi> <cit><quote>«Ninguno puede 
+recibir discípulos de color quebrado; y el que contra
+este Estatuto lo ejecutare, se los expelerá la Junta cuando lo sepa.
+Mas el profesor que hubiere de recibir discípulos, ha de ser pintor 
+declarado por esta Academia. Siendo, como se ordena, él facultativo,
+cuando se le lleve un niño, deberá saber que sea español y de buenas
+costumbres. Y hará una inspección del genio del dicho; y será como
+se ha acostumbrado que es de mostrarle un ojo dentro de un círculo,
+con todo su repartimiento, y otro actuado de claro y oscuro, 
+instruyéndole el modo de esta operación, dándole tiempo suficiente para la
+ejecucion. Y si conociere que el genio del niño es competente para</quote></cit></p>
+</div>
+</back>
+</text>   
+</TEI>

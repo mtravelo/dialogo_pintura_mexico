@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="010">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo010.jpg" xml:id="p10"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="10" facs="#p10"/>
+<sp who="Couto">
+<p>Bartolomé de Mesa a pintar la sala capitular; que diez
+años después, el día <date when="1523-08-02">2 de octubre</date>, cuando se ajustaban
+apenas dos años de
+<rs xml:id="recogito-5fa2aae3-807e-48dc-b00e-ba8a64fbf3c6" type="event">ganado México</rs><note type="editorial" resp="MTRS">Se refiere a la 
+conquista del imperio azteca.</note>
+llegó a <placeName ref="http://sws.geonames.org/3514783" xml:id="recogito-e344a768-14e1-4d30-865b-7bf2b5d1058f" cert="high">Veracruz</placeName><note type="editorial" resp="MTRS">Ciudad costera
+ fundada por el explorador Hernán Cortés el <date when="1519-04-22">22 de abril de 1519</date>, que fue Viernes Santo, con el nombre de Villa Rica
+  de la Vera Cruz. Durante tres siglos fue el puerto más importante para el arribo de  la flota española
+   destinada al virreinato de la Nueva España.</note>
+ en compañía de algunas familias españolas, y se puso bajo
+los auspicios de <persName ref="http://viaf.org/viaf/49223767" xml:id="HC">Hernán 
+Cortés</persName>,<note type="editorial" resp="MTRS">Hernán Cortés de Monroy y Pizarro
+ Altamirano (Medellín, 1485-Castilleja de la Cuesta, 1547). Explorador, capitán general y escritor español de
+  linaje noble y algunos estudios en la Universidad de Salamanca que consiguió éxitos con la espada y la pluma. Lideró
+  la conquista de México-Tenochtitlan en 1521, con la alianza de grupos indígenas sometidos por los aztecas. Con el fin
+   del imperio mexica el territorio quedó bajo el dominio de la Corona de Castilla y se fundó el virreinato de la Nueva
+   España. <persName ref="#HC">Cortés</persName> escribió las <title><hi rend="italic">Cartas de relación</hi></title>, donde describe su viaje a México, la flora y la fauna, las costumbres 
+   de los nativos, así como los sucesos previos, durante y posteriores a la conquista.
+</note>
+ a quien siguió en su
+expedición de 
+<placeName  ref="http://sws.geonames.org/3608932" xml:id="recogito-cb84e2b8-f939-49c5-ab5d-25ee16f5ff22" cert="high">Hibueras;</placeName ><note type="editorial" resp="MTRS">Durante 
+la conquista el territorio hondureño también fue conocido como Hibueras o Higüeras.</note>
+que pintó cuadros para la 
+iglesia que los franciscanos fundaron en 
+<placeName  ref="http://sws.geonames.org/3516843" xml:id="recogito-93f166e6-662f-4308-8bdb-26e85aef14a3" cert="high">Tehuantepec</placeName>,
+para otros muchos templos y para la casa del conquistador;
+que retrató a éste en <date when="1538">1538</date>, a doña 
+<persName ref="http://viaf.org/viaf/57416895">Marina</persName><note type="editorial" resp="MTRS">También 
+conocida como Malinalli, Malintzin o Malinche 
+(Coatzacoalcos, <hi rend="italic">ca.</hi> 1500-Ciudad de México, 
+<hi rend="italic">ca.</hi> 1530). Mujer de clase alta en la sociedad mexica que fue cedida como tributo a los españoles por los indígenas de Tabasco 
+después de perder una batalla. Tuvo un papel importante en la conquista de México como intérprete, consejera e intermediaria de Hernán Cortés,
+con quien tuvo un hijo, Martín, uno de los primeros mestizos del Nuevo Mundo.</note> en
+<placeName ref="http://sws.geonames.org/3530517" xml:id="recogito-8652ace2-396f-40d2-a930-316ebd20da43" cert="high">Coatzacoalcos</placeName>, al padre fray
+<persName  ref="http://viaf.org/viaf/37806959">Martín Valencia</persName >,<note type="editorial" resp="MTRS">Martín de Valencia (León, 1474-Ciudad de México, 1534). Misionero franciscano, 
+líder de los doce apóstoles que iniciaron  la evangelización en la Nueva España en 1524.</note> al primer virrey 
+don Antonio de Mendoza y a Alvar Núñez de Guzmán.
+Estos dos últimos retratos dice que eran de cuerpo 
+entero y que los poseyó <persName  ref="http://viaf.org/viaf/9149365888285600495">Boturini</persName >,<note type="editorial" resp="MTRS">Lorenzo 
+Boturini Benaducci (Sondrio, <hi rend="italic">ca.</hi>1702-Madrid, 1755). Historiador,
+anticuario y cronista de las culturas indígenas de la Nueva España. Promotor de la devoción a la Virgen de Guadalupe.</note>
+según una de las
+partidas del inventario que se formó de los objetos que le
+quitaron. Añade que acaso la mejor pintura de 
+Cifuentes es una que representa el bautismo de Magiscatzin
+donde están retratados éste y doña Marina, y que ese 
+cuadro se salvó del incendio en que perecieron muchos
+otros en la casa de los marqueses del Valle el año <date when="1652">1652</date>,
+por haberlo antes regalado <persName ref="HC">Cortés</persName> a los padres de San
+Francisco de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:1005092" xml:id="recogito-6d768550-c8d0-4684-b48b-9b8edbbfa30d" cert="high">Tlaxcala</placeName>, 
+en cuyo convento asegura que
+está. Dice, por último, que el artista era disipado y
+que perdía en el juego cuanto ganaba con sus
+pinceles.<hi rend="superscript">5</hi><note type="autor" xml:id="nota5"><hi rend="superscript">5</hi> 
+<bibl>En el <title><hi rend="italic">Diccionario universal de historia y de geografía</hi></title>, que con amplias adiciones reimprimió en México don Rafael Rafael, 1853, tomo 2, p. 314.</bibl></note>
+</p>
+</sp>
+<sp>
+<speaker>Pesado</speaker>
+<p>¿De dónde tomaría nuestro amigo tan curiosas noticias?</p>
+</sp>
+<sp>
+<speaker>Couto</speaker>
+<p>Dos ocasiones se lo pregunté: la primera me señaló
+como fuentes el archivo de la Casa de Contratación de
+Sevilla, si bien a mí me pareció cosa extraña que en</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

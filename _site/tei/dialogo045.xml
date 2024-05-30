@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="045">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo045.jpg" xml:id="p45"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="45" facs="#p45"/>
+<sp who="Couto">
+<p>varias de las figuras y las echó a perder del modo
+más lastimoso. Quedan sólo algunas intactas y por ellas
+puede juzgarse de lo que era la obra en su estado original.
+El rancio de los colores me hace creer que fue
+anterior al siglo pasado. Nuestro amable amigo don Urbano
+Fonseca, más paciente que yo, ha influido para que
+esa bellísima ruina (que así puede llamarse) pasara a la
+Escuela de Medicina, donde actualmente se halla.</p>
+</sp>
+<sp who="Clavé">
+<speaker>Clavé</speaker>
+<p>Lo que usted cuenta de ese cuadro me recuerda el
+dicho de un inteligente: más obras han estropeado los 
+restauradores que la mano del tiempo.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Ibas a enseñarme algo de Rodríguez Juárez. A uno
+de ellos conozco desde que en años pasados vimos 
+juntos tú y yo alguna cosa de su mano que nos llamó la
+atención en el Colegio de Tepozotlán, antiguo noviciado
+de jesuitas. Del otro no tengo noticia.</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Pues comenzaré por ese otro. Era presbítero y se llamaba
+<persName ref=" http://viaf.org/viaf/8289126" xml:id="NRJ">Nicolás</persName>.<note type="editorial" resp="MTRS">Nicolás Rodríguez Juárez  (Ciudad de México, 1666-1734). Pintor y clérigo, miembro de una familia de pintores, bisnieto de Luis Juárez, nieto de José Juárez, hijo de Antonio Rodríguez y hermano de Antonio Rodríguez Juárez.</note> 
+Esta santa Gertrudis que ves aquí ofreciendo
+su corazón al Cristo crucificado, que está sobre el 
+altar, fue pintada por él en <date when="1690">1690</date>, según consta de la firma
+que se lee abajo. En los claustros de la Profesa hay obras
+suyas, que no abundan mucho en la ciudad, quizá porque
+siendo clérigo no tenía de oficio la pintura y sólo</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

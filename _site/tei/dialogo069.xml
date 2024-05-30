@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="069">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo069.jpg" xml:id="p69"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="69" facs="#p69"/>
+<sp who="Couto">
+<p>como murió en la isla desierta de Sancian, parece exhalar
+todavía el perfume que creían percibir los que se 
+acercaban a él. A su lado un anciano, vestido con rica seda
+de la China, se postra como para recoger el último aliento
+del santo. Pero la obra principal que de <persName ref="#FV">Vallejo</persName> hay
+en aquel Colegio es el lienzo que llena la testera de la
+sacristía: al verlo solamente se desea que hubiera en
+la pieza más luz para gozarlo mejor. En el plano de 
+abajo, y casi en una línea, están san José arrodillado, con
+el niño en los brazos, y a su izquierda santa Ana en
+igual postura. A la derecha, la Virgen y san Joaquín
+sentados; a uno y otro lado, los siete arcángeles con los
+emblemas propios de sus oficios. Todas las figuras son
+buenas, pero la excelencia de la obra y la impresión que
+produce me parece que provienen de otra causa, y es el
+partido que el autor supo sacar del enorme tamaño de
+su cuadro. Yo he oído decir a ustedes que en pintura 
+conviene agrupar para concentrar mejor la atención y que
+las figuras juntas dan más golpe. Pero esta regla debe
+padecer excepciones, pues en el lienzo de que estoy
+hablando, el efecto lo obtuvo <persName ref="#FV">Vallejo</persName> cabalmente por el
+principio contrario, el esparcimiento en la totalidad de
+la composición. Encima del plano, en que está la Sacra
+Familia, dejó un grande espacio vacío, interrumpido
+únicamente al medio por la paloma que simboliza al
+Espíritu Santo; y luego en la altura hizo aparecer sobre
+querubines al Padre Eterno, que es en sí mismo una 
+figura magnífica, quizá la mejor del cuadro. La distancia
+que separa a la divinidad de los seres que habitan
+la tierra da a la composición un aire de grandiosidad y
+elevación que yo no recuerdo haber encontrado en otra
+pintura mexicana.</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

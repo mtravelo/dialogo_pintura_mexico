@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="009">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+</teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo009.jpg" xml:id="p9"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="9" facs="#p9"/>
+<sp who="Couto">
+<p>Este último lo fabricaban también de ixtle y de
+maguey, de algodón y de algunas otras materias. Para los
+colores se servían de tierras minerales, palos de tinte y
+yerbas. Por ejemplo: el negro lo sacaban del humo de
+ocote,<hi rend="superscript">b</hi><note type="autor" xml:id="notaB"><hi rend="superscript">b</hi> Especie 
+de pino, muy conocida en el país.</note>
+el azul del añil, el purpúreo de la grana, etcétera.
+Trazaban la composición sobre una tira larga de lienzo
+o papel, que luego plegaban en partes o arrollaban 
+sobre sí misma, como hacían los antiguos con sus 
+volúmenes.<hi rend="superscript">4</hi><note type="autor" xml:id="nota4"><hi rend="superscript">4</hi> 
+<bibl>El mismo <author>Clavijero</author>, allí.</bibl></note>
+Una cosa se observa, casi sin excepción, en sus
+dibujos, y hace honor a sus sentimientos, y es que 
+siempre presentaban cubierto en las figuras de uno y otro
+sexo lo que el pudor quiere que se oculte.</p>
+</sp>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Mas sea lo que fuere de las obras de los indios, ellas
+nada tienen que hacer con la pintura que hoy usamos,
+la cual es toda europea y vino después de la conquista.
+Si los mexicanos pintaban (y en efecto pintaron mucho),
+ése es un hecho suelto que precedió al origen del arte
+entre nosotros, pero que no se enlaza con su historia
+posterior. Cuando decía yo que a la que ustedes van 
+formando en esta sala le falta el principio, aludía a que no
+veo cuadros del siglo <num value="16">XVI</num>, que fue cuando entraron a
+la tierra los hombres y las artes de Europa. ¿Se ha 
+logrado averiguar quién fue el primer maestro que pasó a
+Nueva España?</p>
+</sp>
+<sp who="Couto">
+<speaker>Couto</speaker>
+<p>Nuestro difunto amigo el conde de la Cortina 
+escribió que fue un Rodrigo de Cifuentes, nacido en <placeName ref="http://sws.geonames.org/2519240" xml:id="recogito-b29ec293-eff1-47cc-96e7-6f19ba592e47" cert="high">Córdoba</placeName>,
+año <date when="1493">1493</date>; que en <date when="1513">1513</date> ayudaba en <placeName ref="http://sws.geonames.org/2510911" xml:id="recogito-29c7b479-1c5a-4230-97fc-8057d3bf9e10" cert="high">Sevilla</placeName> a su maestro</p>
+</sp>
+</div>
+</body>
+</text>   
+</TEI>

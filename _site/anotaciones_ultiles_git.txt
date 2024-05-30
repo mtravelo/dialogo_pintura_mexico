@@ -1,0 +1,11 @@
+Anotaciones últiles de Git
+
+Para establecer nombre de usuario y contraseña de Github en caso de que sea necesario:
+https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git?platform=mac
+
+Comandos para usar Git en la terminal:
+
+git add 'filename'
+git commit -m 'mensaje del commit'
+git pull
+git push

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="dialogo_pintura_mexico.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diálogo sobre la historia de la pintura en México</title>
+                <respStmt>
+                    <resp>Edición y codificación</resp>
+                    <name xml:id="MTRS"> María Teresa Ravelo Sánchez</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <pubPlace>México</pubPlace>
+                <date when="2024-06-04">4 de junio de 2024 </date>
+                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
+                <biblStruct>
+                <monogr>
+                    <title n="003">Diálogo sobre la historia de la pintura en México</title>
+                    <author>José Bernardo Cuoto</author>
+                    <edition>2a.</edition>
+                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
+                    <imprint>
+                        <pubPlace>México</pubPlace>
+                        <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
+                        <date when="1889">1889</date>
+                    </imprint>
+                </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+            <language ident="ES"/>
+            </langUsage>
+</profileDesc>
+        <encodingDesc>
+        <projectDesc>
+            <p>Downloaded from  https://recogito.pelagios.org/</p>
+        </projectDesc>
+            <editorialDecl>
+                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
+                <p><list>
+                    <item>• Acentuación según las normas actuales</item>
+                    <item>• Normalización de nombres; por ejemplo, <hi rend="italic">Balbuena</hi> por <hi rend="italic">Valbuena</hi> </item>
+                    <item>• Resolver abreviaturas; por ejemplo, <hi rend="italic">ustedes</hi> por <hi rend="italic">vdes.</hi> </item>
+                    <item>• Eliminar coma entre sujeto y verbo, y entre complementos</item>
+                    <item>• Sustituir punto y coma (;) en oraciones sencillas por comma (,)</item>
+                </list>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+<facsimile>
+    <graphic url="../imgs/dialogo003.jpg" xml:id="p3"></graphic>
+</facsimile>
+<text>
+<body>
+<div>
+<pb n="3" facs="#p3"/>
+<p>Una mañana 8 de los últimos meses del año de <date when="1860">1860</date>,
+entrábamos en la <orgName ref="http://viaf.org/viaf/155250580">Academia de San 
+Carlos</orgName><note type="editorial" resp="MTRS"> Fundada en 1781, con el nombre de Real Academia de San Carlos de las Nobles Artes 
+de la Nueva España, por el rey de España Carlos III (Madrid, 1716-Madrid, 1788) a petición de los funcionarios 
+de la Casa de Moneda para establecer una escuela de grabado que apoyara y mejorara la producción y acuñación de
+ monedas. Primera academia de artes en el continente americano, que siguió el modelo de la Real Academia de San 
+ Fernando de Madrid, con tres ramas principales: arquitectura, pintura y escultura. Durante el siglo XIX su existencia 
+ y permanencia fueron inestables debido a la guerra de Independencia, invasiones extranjeras y revueltas internas.</note> mi primo 
+don <persName ref="http://viaf.org/viaf/63665754">José Joaquín
+Pesado</persName><note type="editorial" resp="MTRS">José Joaquín Pesado 
+(Palmar del Bravo, 1801-Ciudad de México, 1861). Escritor, poeta y político mexicano. Militante del Partido Liberal y ministro del 
+Interior y de Relaciones Interiores y Exteriores. Miembro de la Academia de Letrán, de la Academia de la Lengua y profesor de filosofía 
+en la Universidad de México.</note>
+y <rs ref="Couto" type="person">yo</rs>.<note type="editorial" resp="MTRS"> Se refiere al autor 
+del <title><hi rend="italic">Diálogo</hi></title>. <persName ref="http://viaf.org/viaf/70025777">José Bernardo Couto</persName> (Orizaba, 1803-Ciudad de México, 1862). 
+Jurista, escritor y académico mexicano. Diputado federal y senador por el Partido Liberal Moderado, 
+consejero de Estado y ministro de Justicia. Miembro de la Real Academia Española de la Lengua de Madrid.
+ Presidente de la Junta Directiva de la Academia de Nobles Artes de San Carlos, en la que contribuyó en su 
+ restauración con reformas al edificio, la construcción de salones de galería y de actos, la contratación de maestros 
+ europeos para impartir clases de pintura: el catalán Pelegrín Clavé (Barcelona, 1811-Barcelona, 1880), el italiano 
+ Eugenio Landesio (Altessano, 1810-Roma, 1879) y el inglés George August Periam (1801-<hi rend="italic">ca.</hi> 1853).
+</note>  El director de pintura, 
+don <persName ref="http://viaf.org/viaf/9908023">Pelegrín 
+Clavé,</persName><note type="editorial" resp="MTRS">Pelegrín Clavé y Roque
+(Barcelona, 1811-1880). Pintor catalán cercano al grupo de los nazarenos, pintores del romanticismo alemán, en particular 
+a Johann Friedrich Overbeck (Lubeca, 1789-Roma, 1869), a quien conoció durante una estancia en la Ciudad Eterna. En México fue director de 
+la Academia de San Carlos (1846-1868). Fue miembro de la Real Academia Catalana de Bellas Artes de San Jorge, de la Academia de Bellas Artes 
+de Brera y de la Real Academia de las Tres Nobles Artes de San Fernando de Madrid.</note> que nos encontró acaso, aprovechó
+la ocasión de devolverme un papel que le había
+yo prestado, con apuntes de fechas y citas relativas a los
+antiguos pintores mexicanos. Informado mi primo de
+lo que era, picó aquello su curiosidad y nos propuso
+que con el papel en la mano visitáramos la sala donde
+se van poniendo los cuadros que de esos pintores adquiere
+la Academia. 
+Muy de grado aceptamos la propuesta 
+el director y yo, y subido que hubimos a la sala,
+después de dar una ojeada por mayor a los cuadros,
+comenzó entre los tres esta conversación.</p>
+<sp who="Pesado">
+<speaker>Pesado</speaker>
+<p>Sea en hora buena. Veo que está adelantado el 
+pensamiento de juntar aquí una colección de obras de los
+maestros nacionales de más nombre, para que su 
+memoria florezca y nuestros jóvenes alumnos tengan más</p>
+</sp>
+</div>
+</body>
+</text>
+</TEI>
