@@ -49,13 +49,8 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
-            <!-- <xsl:attribute name="class">
-                <xsl:value-of select="@type"/>
-            </xsl:attribute> 
-            Esta indicación me servía en mi xsl, pero creo que aquí la podemos sacar
+            <xsl:attribute name="target">_blank</xsl:attribute>
             
-            -->
             <xsl:apply-templates/>
         </a>
     </xsl:template>
@@ -65,10 +60,8 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
-            <xsl:attribute name="class">
-                <xsl:value-of select="@type"/>
-            </xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
+
             <xsl:apply-templates/>
         </a>
     </xsl:template>  
@@ -79,10 +72,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
-            <xsl:attribute name="class">
-                <xsl:value-of select="@type"/>
-            </xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:apply-templates/>
         </a>
     </xsl:template>  
@@ -103,10 +93,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@target"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
-            <xsl:attribute name="class">
-                <xsl:value-of select="@subtype"/>
-            </xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:apply-templates/>
         </a>
         </note>
@@ -118,11 +105,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@target"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank
-            </xsl:attribute>
-            <xsl:attribute name="class">
-                <xsl:value-of select="@subtype"/>
-            </xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:apply-templates/>
         </a>
         </note>

@@ -38,7 +38,7 @@
                         <xsl:attribute name="href">
                             <xsl:value-of select="@ref"/>
                         </xsl:attribute>
-                        <xsl:attribute name="target">blank</xsl:attribute>
+                        <xsl:attribute name="target">_blank</xsl:attribute>
                         <xsl:apply-templates/>
                     </a>
                 </xsl:template>      
@@ -58,7 +58,7 @@
                             <xsl:attribute name="href">
                             <xsl:value-of select="@target"/>
                             </xsl:attribute>
-                            <xsl:attribute name="target">blank</xsl:attribute>
+                            <xsl:attribute name="target">_blank</xsl:attribute>
                             <xsl:attribute name="class">
                                 <xsl:value-of select="@subtype"/>
                             </xsl:attribute>
@@ -85,7 +85,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
             </xsl:attribute>
@@ -99,7 +99,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
             </xsl:attribute>
@@ -113,7 +113,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
             </xsl:attribute>
