@@ -50,9 +50,12 @@
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
             <xsl:attribute name="target">blank</xsl:attribute>
-            <xsl:attribute name="class">
+            <!-- <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
-            </xsl:attribute>
+            </xsl:attribute> 
+            Esta indicación me servía en mi xsl, pero creo que aquí la podemos sacar
+            
+            -->
             <xsl:apply-templates/>
         </a>
     </xsl:template>
@@ -100,8 +103,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@target"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank
-            </xsl:attribute>
+            <xsl:attribute name="target">blank</xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:value-of select="@subtype"/>
             </xsl:attribute>
@@ -144,13 +146,13 @@
     </table>
     </xsl:template>
 
-        <xsl:template match="//hi[rend='italic']">
+        <xsl:template match="//hi[@rend='italic']">
         <i>
             <xsl:apply-templates/>
         </i>
     </xsl:template>
 
-    <xsl:template match="//hi[rend='superscript']">
+    <xsl:template match="//hi[@rend='superscript']">
         <sup>
             <xsl:apply-templates/>
         </sup>
