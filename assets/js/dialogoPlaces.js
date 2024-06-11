@@ -1,4 +1,4 @@
-var dialogoPlaces = {
+var Places = {
 	"Burgos": [42.34106, -3.70184],
 	"Campeche": [19.84386, -90.52554],
 	"Ciudad de México": [19.42847, -99.12766],
