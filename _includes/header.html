@@ -7,12 +7,17 @@
           Inicio
         </a>
       </li>
+      <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+        <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">
+          <!-- {{ site.title }} -->
+          Criterios editoriales
+        </a>
+      </li>
       {% for my_page in site.pages %}
         {% if my_page.title %}
         <li class="inline-block block-lg text-right ml-1 ml-lg-0">
           <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
-            <!-- {{ my_page.title }} -->
-          Criterios editoriales
+            {{ my_page.title }}
           </a>
         </li>
         {% endif %}
