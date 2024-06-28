@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crédito
+title: Créditos
 permalink: /creditos/
 type: extras
 ---
