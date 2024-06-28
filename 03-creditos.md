@@ -4,6 +4,7 @@ title: Créditos
 permalink: /creditos/
 type: extras
 ---
+<div>
 
 <div class="row">
    <div class="col-left" style="padding-left: 2px;
@@ -20,9 +21,7 @@ Coordinador de Publicaciones: Jaime Soler Frost
 
 
 
-Fondo reservado, Biblioteca Justino Fernández:
-
-María de los Ángeles Juárez Jiménez
+Fondo reservado, Biblioteca Justino Fernández: María de los Ángeles Juárez Jiménez
 
 Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda, Archivo Fotográfico Manuel Toussaint
 
@@ -31,6 +30,7 @@ Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda,
  <div class="col-right" style="padding-left: 25px; width: 50%;">
 
  Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)
+
 
 Directora: Gimena del Río Riande
 
@@ -43,8 +43,12 @@ Laura Volkind
 Nidia Hernández
 
 </div>
+
 <div>
 
-Edición y codificación: María Teresa Ravelo
+Edición y codificación: María Teresa Ravelo (IIE)
+Aseoría técnica: Gabriel Calarco (LAB)
+Revisión: Itzel Rodríguez González (IIE)
+</div>
 
 </div>

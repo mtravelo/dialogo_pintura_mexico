@@ -8,13 +8,13 @@ type: extras
 ## Acerca de esta edición digital
 
 El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
-                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
+                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.
                 
 En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:
 
 • Se corrigió la acentuación según las normas actuales
 
-• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i> </
+• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>
 
 • Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i>
 
