@@ -30,13 +30,20 @@ Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda,
  <div class="col-right" style="padding-left: 25px; width: 50%;">
 
  Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)
+ 
 Directora: Gimena del Río Riande
 
 Grupo responsable
+
 Romina de León
+
 Laura Volkind
+
 Nidia Hernández
 
 </div>
+<div>
 
 Edición y codificación: María Teresa Ravelo
+
+</div>

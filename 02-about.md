@@ -12,15 +12,15 @@ El testimonio de este proyecto es la la segunda edición de 1889, que se conserv
                 
 En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:
 
-• Acentuación según las normas actuales
+• Se corrigió la acentuación según las normas actuales
 
-• Normalización de nombres; por ejemplo, <i>Balbuena</hi> por <hi rend="italic">Valbuena</i> </item>
+• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i> </
 
-• Resolver abreviaturas; por ejemplo, <i>ustedes</i> por <i rend="italic">vdes.</i> </item>
+• Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i>
 
 • Se eliminó coma entre sujeto y verbo, y entre complementos
 
-• Sustitución de punto y coma (;) en oraciones sencillas por comma (,)</item>
+• Sustitución de punto y coma (;) en oraciones sencillas por comma (,)
 
 
 *Argentina y conquista del Río de la Plata* de Martín del Barco Centenera es un extenso poema que entremezcla la épica, el romance o la historiografía con los más diversos tiempos, relatos, personajes y geografías en un esquema métrico que, por el contrario, se decanta por las formas fijas y la poca variedad de rimas. Se trata de veintiocho cantos estructurados en mil trescientas cuarenta y una octavas reales con redondilla final que unen la rima alterna ABABAB con dos versos pareados de rima CC. La abrumadora abundancia de los detalles de la narración se ordena en un metro que desde el siglo XVI comienza a ser el preferido para temas solemnes, el endecasílabo, que en este caso manifiesta una machacante terminación grave. 
