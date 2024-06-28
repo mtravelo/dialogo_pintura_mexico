@@ -47,6 +47,10 @@ Nidia Hernández
 
 <div>
 
+Edición digital del <i>Diálogo sobre la historia de la pintura en México</i>
+
+
+
 Edición y codificación: María Teresa Ravelo (IIE)
 Aseoría técnica: Gabriel Calarco (LAB)
 Revisión: Itzel Rodríguez González (IIE)
