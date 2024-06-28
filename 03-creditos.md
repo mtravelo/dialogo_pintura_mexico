@@ -10,7 +10,7 @@ type: extras
    float: left;
    width: 50%;">
 
-Instituto de Investigaciones Estéticas de la UNAM (IIE)</br>
+Instituto de Investigaciones Estéticas de la UNAM (IIE)
 
 Directora: Angélica Velázquez Guadarrama
 
@@ -20,7 +20,8 @@ Coordinador de Publicaciones: Jaime Soler Frost
 
 
 
-Fondo reservado, Biblioteca Justino Fernández:</br>
+Fondo reservado, Biblioteca Justino Fernández:
+
 María de los Ángeles Juárez Jiménez
 
 Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda, Archivo Fotográfico Manuel Toussaint
@@ -30,7 +31,7 @@ Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda,
  <div class="col-right" style="padding-left: 25px; width: 50%;">
 
  Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)
- 
+
 Directora: Gimena del Río Riande
 
 Grupo responsable
