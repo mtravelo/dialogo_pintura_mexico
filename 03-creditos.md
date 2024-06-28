@@ -43,6 +43,7 @@ Laura Volkind
 Nidia Hernández
 
 </div>
+</div>
 
 <div>
 
