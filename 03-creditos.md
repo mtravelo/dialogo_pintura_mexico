@@ -46,7 +46,7 @@ Grupo responsable: Romina de León, Laura Volkind y Nidia Hernández
 
 
 
-Grupo colaborador: Juliana Gandini, Virginia Brussa, Gabriela Striker, Gabriel Calarco,Marisol Fila, Diego Ferreyra, Agustina Tyckeboer, Susana Allés-Torrent, Ricardo Pimenta, Carlos Nusch
+Grupo colaborador: Juliana Gandini, Virginia Brussa, Gabriela Striker, Gabriel Calarco,  Marisol Fila, Diego Ferreyra, Agustina Tyckeboer, Susana Allés-Torrent, Ricardo Pimenta, Carlos Nusch
 
 
 
