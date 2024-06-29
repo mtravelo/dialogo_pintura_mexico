@@ -19,11 +19,7 @@ Secretario Académico: Luis Vargas de Santiago
 
 Coordinador de Publicaciones: Jaime Soler Frost
 
-
-
-Fondo reservado, Biblioteca Justino Fernández: María de los Ángeles Juárez Jiménez
-
-Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda, Archivo Fotográfico Manuel Toussaint
+Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda, 
 
 </div>
 
@@ -31,6 +27,7 @@ Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda,
 
  Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)
 
+***
 
 Directora: Gimena del Río Riande
 
@@ -42,17 +39,43 @@ Laura Volkind
 
 Nidia Hernández
 
+***
+Grupo colaborador
+
+Juliana Gandini
+
+Virginia Brussa
+
+Gabriela Striker
+
+Gabriel Calarco
+
+Marisol Fila
+
+Diego Ferreyra
+
+Agustina Tyckeboer
+
+Susana Allés-Torrent
+
+Ricardo Pimenta
+
+Carlos Nusch
+
+
 </div>
 </div>
 
 <div>
 
-Edición digital del <i>Diálogo sobre la historia de la pintura en México</i>
-
 
 
 Edición y codificación: María Teresa Ravelo (IIE)
+
+Plantilla: Jekyll-LAB
+
 Aseoría técnica: Gabriel Calarco (LAB)
+
 Revisión: Itzel Rodríguez González (IIE)
 </div>
 
