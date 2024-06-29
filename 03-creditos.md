@@ -15,7 +15,7 @@ type: extras
 
 Edición y codificación: María Teresa Ravelo (IIE)
 
-Diseño: Grupo resposanble LAB
+Diseño: Grupo responsable (LAB)
 
 Asesoría técnica: Gabriel Calarco (LAB)
 
@@ -44,7 +44,7 @@ Directora: Gimena del Río Riande
 
 Grupo responsable  
 
-> Romina de León  
+Romina de León  
 
 Laura Volkind  
 
