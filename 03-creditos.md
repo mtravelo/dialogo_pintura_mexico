@@ -38,7 +38,7 @@ Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda
  <div class="col-right" style="padding-left: 25px; width: 50%;"> -->
 * * *
 
-**Laboratorio de Humanidades Digitales del Instituto de Investiagacioes Bibliográficas y Crítica Textual, CONICET (LAB)**  
+**Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, CONICET (LAB)**  
 
 Directora: Gimena del Río Riande  
 
