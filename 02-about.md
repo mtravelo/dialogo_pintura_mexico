@@ -5,7 +5,7 @@ permalink: /acerca-de/
 type: extras
 ---
 
-## Acerca de esta edición digital
+## Edición digital
 
 El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
                     Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.

@@ -42,37 +42,11 @@ Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda
 
 Directora: Gimena del Río Riande  
 
-Grupo responsable  
-
-Romina de León  
-
-Laura Volkind  
-
-Nidia Hernández
+Grupo responsable: Romina de León, Laura Volkind y Nidia Hernández
 
 
 
-Grupo colaborador
-
-Juliana Gandini
-
-Virginia Brussa
-
-Gabriela Striker
-
-Gabriel Calarco
-
-Marisol Fila
-
-Diego Ferreyra
-
-Agustina Tyckeboer
-
-Susana Allés-Torrent
-
-Ricardo Pimenta
-
-Carlos Nusch
+Grupo colaborador: Juliana Gandini, Virginia Brussa, Gabriela Striker, Gabriel Calarco,Marisol Fila, Diego Ferreyra, Agustina Tyckeboer, Susana Allés-Torrent, Ricardo Pimenta, Carlos Nusch
 
 
 
