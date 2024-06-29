@@ -4,26 +4,26 @@ title: Créditos
 permalink: /creditos/
 type: extras
 ---
-<div>
+<!-- <div>
 
 <div class="row">
    <div class="col-left" style="padding-left: 2px;
    float: left;
    width: 50%;">
-
+ -->
 Instituto de Investigaciones Estéticas de la UNAM (IIE)  
 
-Directora: Angélica Velázquez Guadarrama
+Directora: Angélica Velázquez Guadarrama </br>
 
 Secretario Académico: Luis Vargas de Santiago  
 
 Coordinador de Publicaciones: Jaime Soler Frost  
 
-Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda, 
+Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda, 
 
-</div>
+<!-- </div>
 
- <div class="col-right" style="padding-left: 25px; width: 50%;">
+ <div class="col-right" style="padding-left: 25px; width: 50%;"> -->
 
  Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)  
 
@@ -31,7 +31,7 @@ Directora: Gimena del Río Riande
 
 Grupo responsable  
 
-> Romina de León  
+Romina de León  
 
 Laura Volkind  
 
