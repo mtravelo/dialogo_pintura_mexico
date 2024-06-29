@@ -12,16 +12,25 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
                 
 En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:
 
-• Se corrigió la acentuación según las normas actuales
+• Se corrigió la acentuación según las normas actuales.
 
-• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>
+• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.
 
 • Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i>
 
-• Se eliminó coma entre sujeto y verbo, y entre complementos
+• Se eliminó coma entre sujeto y verbo, y entre complementos.
 
-• Se sustituyó punto y coma (;) en oraciones sencillas por comma (,)
+• Se sustituyó punto y coma (;) en oraciones sencillas por comma (,).
 
+• Se completaron años abreviados: <i>57</i> por <i>1757</i>.
+
+• Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
+
+• Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.
+
+• Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. 
+
+• En cada nombre de personas o institución se añadió referencia al VIAF: Fichero de Autoridades Virtual e Internacional.
 
 
 Citar esta edición como: 
