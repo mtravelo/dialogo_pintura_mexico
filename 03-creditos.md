@@ -15,16 +15,17 @@ type: extras
 
 Edición y codificación: María Teresa Ravelo (IIE)
 
-Diseño: Equipo LAB
+Diseño: Grupo resposanble LAB
 
 Asesoría técnica: Gabriel Calarco (LAB)
 
 Revisión: Itzel Rodríguez González (IIE)
 
+* * *
 
 **Instituto de Investigaciones Estéticas de la UNAM (IIE)**
 
-Directora: Angélica Velázquez Guadarrama </br>
+Directora: Angélica Velázquez Guadarrama
 
 Secretario Académico: Luis Vargas de Santiago  
 
@@ -37,13 +38,13 @@ Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda
  <div class="col-right" style="padding-left: 25px; width: 50%;"> -->
 * * *
 
-** Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)**  
+**Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)**  
 
 Directora: Gimena del Río Riande  
 
 Grupo responsable  
 
-Romina de León  
+> Romina de León  
 
 Laura Volkind  
 
