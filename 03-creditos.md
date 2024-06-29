@@ -11,17 +11,13 @@ type: extras
    float: left;
    width: 50%;">
 
-Instituto de Investigaciones Estéticas de la UNAM (IIE)
-
+Instituto de Investigaciones Estéticas de la UNAM (IIE)  
 
 Directora: Angélica Velázquez Guadarrama
 
+Secretario Académico: Luis Vargas de Santiago  
 
-Secretario Académico: Luis Vargas de Santiago
-
-
-Coordinador de Publicaciones: Jaime Soler Frost
-
+Coordinador de Publicaciones: Jaime Soler Frost  
 
 Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda, 
 
@@ -29,27 +25,17 @@ Fotografías de facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda,
 
  <div class="col-right" style="padding-left: 25px; width: 50%;">
 
- Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)
+ Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)  
 
+Directora: Gimena del Río Riande  
 
-Directora: Gimena del Río Riande
+Grupo responsable  
 
+> Romina de León  
 
-
-Grupo responsable
-
-
-
-Romina de León
-
-
-
-Laura Volkind
-
-
+Laura Volkind  
 
 Nidia Hernández
-
 
 
 
@@ -95,12 +81,9 @@ Carlos Nusch
 
 Edición y codificación: María Teresa Ravelo (IIE)
 
+Diseño: LAB
 
-Plantilla: Jekyll-LAB
-
-
-Aseoría técnica: Gabriel Calarco (LAB)
-
+Asesoría técnica: Gabriel Calarco (LAB)
 
 Revisión: Itzel Rodríguez González (IIE)
 </div>
