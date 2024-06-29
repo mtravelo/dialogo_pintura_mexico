@@ -8,7 +8,7 @@ type: extras
 ## Edición digital
 
 El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
-                    Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.
+Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.
                 
 En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:
 
@@ -20,17 +20,12 @@ En esta edición digital se ha modernizado la ortografía, la puntuación y el u
 
 • Se eliminó coma entre sujeto y verbo, y entre complementos
 
-• Sustitución de punto y coma (;) en oraciones sencillas por comma (,)
+• Se sustituyó punto y coma (;) en oraciones sencillas por comma (,)
 
 
-*Argentina y conquista del Río de la Plata* de Martín del Barco Centenera es un extenso poema que entremezcla la épica, el romance o la historiografía con los más diversos tiempos, relatos, personajes y geografías en un esquema métrico que, por el contrario, se decanta por las formas fijas y la poca variedad de rimas. Se trata de veintiocho cantos estructurados en mil trescientas cuarenta y una octavas reales con redondilla final que unen la rima alterna ABABAB con dos versos pareados de rima CC. La abrumadora abundancia de los detalles de la narración se ordena en un metro que desde el siglo XVI comienza a ser el preferido para temas solemnes, el endecasílabo, que en este caso manifiesta una machacante terminación grave. 
-
-
-
-El texto de esta edición digital se tomó de *Diálogo sobre la historia de la pintura en México*, México, Oficina Tipográfica de la Secretaría de Fomento, 1889. Se comparte a través de la licencia [Creative Commons 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 Citar esta edición como: 
 
-<p style="font-size: 14px;"> <i>Diálogo sobre la historia de la pintura en México</i>. UNAM-Instituto de Investigaciones Estéticas. <a href="{{ site.baseurl }}/">http://hdlab.space/Argentina-y-conquista-del-Rio-de-la-plata/</a> [Fecha de consulta]</p>
+<p style="font-size: 14px;"> <i>Diálogo sobre la historia de la pintura en México</i>. México: UNAM-Instituto de Investigaciones Estéticas. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
 
 

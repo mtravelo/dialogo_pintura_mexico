@@ -23,7 +23,7 @@ Revisión: Itzel Rodríguez González (IIE)
 
 * * *
 
-**Instituto de Investigaciones Estéticas de la UNAM (IIE)**
+**Instituto de Investigaciones Estéticas, UNAM (IIE)**
 
 Directora: Angélica Velázquez Guadarrama
 
@@ -38,7 +38,7 @@ Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda
  <div class="col-right" style="padding-left: 25px; width: 50%;"> -->
 * * *
 
-**Laboratorio de Humanidades Digitales del IIIBICRIT de CONICET (LAB)**  
+**Laboratorio de Humanidades Digitales del Instituto de Investiagacioes Bibliográficas y Crítica Textual, CONICET (LAB)**  
 
 Directora: Gimena del Río Riande  
 
