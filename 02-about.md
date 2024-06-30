@@ -30,7 +30,7 @@ En esta edición se ha modernizado la ortografía, la puntuación y el uso de ma
 
 • Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. 
 
-• En cada nombre de personas o institución se añadió referencia al VIAF: Fichero de Autoridades Virtual e Internacional.
+• En cada nombre de persona o institución anotados se añadió la referencia al VIAF: Fichero de Autoridades Virtual e Internacional.
 
 
 Citar esta edición como: 
