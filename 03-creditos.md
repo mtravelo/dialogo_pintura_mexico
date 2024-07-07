@@ -13,9 +13,9 @@ type: extras
  -->
 
 
-Edición y codificación: María Teresa Ravelo (IIE)
+Edición, codificación y líne de tiempo: María Teresa Ravelo (IIE)
 
-Diseño: Grupo responsable (LAB)
+Diseño: plantilla del LAB
 
 Asesoría técnica: Gabriel Calarco (LAB)
 
