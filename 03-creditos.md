@@ -13,7 +13,7 @@ type: extras
  -->
 
 
-Edición, codificación y líne de tiempo: María Teresa Ravelo (IIE)
+Edición, codificación y línea de tiempo: María Teresa Ravelo (IIE)
 
 Diseño: plantilla del LAB
 
