@@ -4,20 +4,12 @@ title: Créditos
 permalink: /creditos/
 type: extras
 ---
-<!-- <div>
-
-<div class="row">
-   <div class="col-left" style="padding-left: 2px;
-   float: left;
-   width: 50%;">
- -->
-
 
 Edición, codificación y línea de tiempo: María Teresa Ravelo (IIE)
 
-Diseño: plantilla del LAB
+Diseño: plantilla del HD LAB
 
-Asesoría técnica: Gabriel Calarco (LAB)
+Asesoría técnica: Gabriel Calarco (HD LAB)
 
 Revisión: Itzel Rodríguez González (IIE)
 
@@ -38,7 +30,7 @@ Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda
  <div class="col-right" style="padding-left: 25px; width: 50%;"> -->
 * * *
 
-**Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, CONICET (LAB)**  
+**Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, CONICET (HD LAB)**  
 
 Directora: Gimena del Río Riande  
 
