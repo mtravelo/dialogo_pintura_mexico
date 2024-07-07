@@ -35,6 +35,6 @@ En esta edición se ha modernizado la ortografía, la puntuación y el uso de ma
 
 Citar esta edición como: 
 
-<p style="font-size: 14px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenoa Aires: CONYCET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
+<p style="font-size: 14px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenos Aires: CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
 
 
