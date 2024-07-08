@@ -13,6 +13,8 @@ Asesoría técnica: Gabriel Calarco (HD LAB)
 
 Revisión: Itzel Rodríguez González (IIE)
 
+Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda (IIE)
+
 * * *
 
 **Instituto de Investigaciones Estéticas, UNAM (IIE)**
@@ -23,7 +25,7 @@ Secretario Académico: Luis Vargas de Santiago
 
 Coordinador de Publicaciones: Jaime Soler Frost  
 
-Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda
+
 
 
 * * *
