@@ -21,7 +21,7 @@ Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda (IIE)
 
 Directora: Angélica Velázquez Guadarrama
 
-Secretario Académico: Luis Vargas de Santiago  
+Secretario Académico: Luis Adrián Vargas de Santiago  
 
 Coordinador de Publicaciones: Jaime Soler Frost  
 
