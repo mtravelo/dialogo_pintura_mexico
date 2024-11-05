@@ -20,7 +20,7 @@ En esta edición se ha modernizado la ortografía, la puntuación y el uso de ma
 
 • Se eliminó coma entre sujeto y verbo, y entre complementos.
 
-• Se sustituyó punto y coma (;) en oraciones sencillas por comma (,).
+• Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).
 
 • Se completaron años abreviados: <i>57</i> por <i>1757</i>.
 
