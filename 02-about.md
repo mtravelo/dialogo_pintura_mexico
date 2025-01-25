@@ -30,7 +30,9 @@ En esta edición se ha modernizado la ortografía, la puntuación y el uso de ma
 
 • Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. 
 
-• En cada nombre de persona o institución anotados se añadió la referencia al VIAF: Fichero de Autoridades Virtual e Internacional.
+• En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).
+
+• Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
 
 
 Citar esta edición como: 
