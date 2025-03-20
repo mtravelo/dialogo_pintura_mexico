@@ -16,7 +16,7 @@ La edición digital es parte del trabajo final del Máster en Humanidades
 Digitales de la Universidad Nacional de Educación a Distancia (UNED), España, dirigido por Gimena del Río Riande. Sigue 
 principios de <a href="https://go-dh.github.io/mincomp/about/" target="_blank">Minimal Computing</a> y emplea el estándar 
 <a href="https://tei-c.org/" target="_blank">Text Encoding Initiative</a> (XML-TEI). La cronología fue realizada con 
-Timeline JS del  <a href="//timeline.knightlab.com/">Knight LAB</a>.
+Timeline JS del  <a href="//timeline.knightlab.com/" target="_blank">Knight LAB</a>.
       
         
 Para la realización de este proyecto tomé como modelo las ediciones del 
