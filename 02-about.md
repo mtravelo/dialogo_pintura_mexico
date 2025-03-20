@@ -5,38 +5,24 @@ permalink: /acerca-de/
 type: extras
 ---
 
-## Edición digital
+## Acerca de
 
-El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
-Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.
-                
-En esta edición se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:
+        <p> El proyecto se originó en el Instituto de
+          Investigaciones Estéticas (<a href="https://www.esteticas.unam.mx/" target="blank">IIE</a>), UNAM, México, por iniciativa de Angélica 
+          Velázquez Guadarrama y con el apoyo del Archivo Fotográfico Manuel Toussaint y la Biblioteca Justino Fernández del IIE. Para los especialistas en historia del arte, el <i>Diálogo</i>  es el primer estudio 
+          sobre pintura en México que sigue teniendo vigencia y por ello se decidió publicarlo en línea. El objetivo es iniciar una colección digital de obras clásicas 
+          que estén disponibles para el lector especializado y el público interesado en la historia y el arte mexicanos.</p>
 
-• Se corrigió la acentuación según las normas actuales.
-
-• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.
-
-• Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i>
-
-• Se eliminó coma entre sujeto y verbo, y entre complementos.
-
-• Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).
-
-• Se completaron años abreviados: <i>57</i> por <i>1757</i>.
-
-• Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
-
-• Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.
-
-• Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. 
-
-• En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).
-
-• Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
-
-
-Citar esta edición como: 
-
-<p style="font-size: 14px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenos Aires: CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
+      <p>La edición digital es parte del trabajo final del Máster en Humanidades
+         Digitales de la Universidad Nacional de Educación a Distancia (UNED), España, dirigido por Gimena del Río Riande. Sigue 
+         principios de <a href="https://go-dh.github.io/mincomp/about/" target="_blank">Minimal Computing</a> y emplea el estándar 
+        <a href="https://tei-c.org/" target="_blank">Text Encoding Initiative</a> (XML-TEI). La cronología fue realizada con 
+        Timeline JS del  <a href="//timeline.knightlab.com/">Knight LAB</a>.</p>
+      
+        
+      <p>Para la realización de este proyecto tomé como modelo las ediciones del 
+        Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, CONICET, Argentina (<a href="https://hdlab.space/" target="_blank">HD LAB</a>), que
+        pueden consultarse en el menú Biblioteca Digital HD LAB, y usé el diseño web que ha desarrollado el grupo responsable.
+      </p>
 
 
