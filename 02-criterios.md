@@ -5,12 +5,12 @@ permalink: /criterios/
 type: extras
 ---
 
-## Edición digital
+<!-- ## Edición digital -->
 
-El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
+El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
 Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.
                 
-En esta edición se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:
+En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:
 
 • Se corrigió la acentuación según las normas actuales.
 
