@@ -13,7 +13,7 @@
                     <xsl:result-document method="html" encoding="utf-8"
                         href="_pages/dialogo{$doc_id}.html" omit-xml-declaration="yes">---
         layout: textoporpagina
-        title: Diálogo<xsl:apply-templates select="$doc_id"/>
+        <!-- title: Diálogo<xsl:apply-templates select="$doc_id"/> -->
         permalink: dialogo<xsl:apply-templates select="$doc_id"/>
        ---
 <div>
