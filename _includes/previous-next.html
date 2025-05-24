@@ -4,7 +4,7 @@
   <div class="col-4 sm-width-full left mr-lg-4 mt-3">
     <a class="no-underline-hover py-1 block" href="{{ page.previous.url | prepend: full_base_url }}">
       <span class="h5 bold">Anterior</span>
-      <p class="bold h3 link-primary mb-1">{{ page.previous.pagenum }}</p>
+      <p class="bold h5 link-primary mb-1">{{ page.previous.pagenum }}</p>
     </a>
   </div>
   {% endif %}
@@ -12,7 +12,7 @@
   <div class="col-4 sm-width-full right mt-3">
     <a class="no-underline-hover py-1 block" href="{{ page.next.url | prepend: full_base_url }}">
       <span class="h5 bold">Siguiente</span>
-      <p class="bold h3 link-primary mb-1">{{ page.next.pagenum }}</p>
+      <p class="bold h5 link-primary mb-1">{{ page.next.pagenum }}</p>
     </a>
   </div>
 {% endif %}
