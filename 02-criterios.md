@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Criterios editoriales
+title: Criterios de edición
 permalink: /criterios/
 type: extras
 ---
