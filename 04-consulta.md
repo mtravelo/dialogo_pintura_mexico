@@ -8,7 +8,7 @@ type: extras
 Anónimo, «Noticia biográfica»
 
 
- <a class="no-underline" href="{{ site.baseurl }}/JGHestudio09.html">Juan Gutiérrez Haces, «Estudio introductorio» </a>
+ <a class="no-underline" href="{{ site.baseurl }}/JGHestudio09.html">Juana Gutiérrez Haces, «Estudio introductorio» </a>
 
 
  Bibliografía
