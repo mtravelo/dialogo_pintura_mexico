@@ -5,7 +5,7 @@ permalink: /consulta/
 type: extras
 ---
 
-«Noticia biográfica»
+Anónimo, «Noticia biográfica»
 
  <a class="no-underline" href="{{ site.baseurl }}/consulta/JGHestudio09.html">«Estudio introductorio» de Juana Gutiérrez Haces</a>
 
