@@ -22,3 +22,5 @@ collections:
       output: true
     dialogos:
       output: true
+    consulta:
+      output: true
