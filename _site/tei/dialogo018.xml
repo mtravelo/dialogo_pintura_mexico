@@ -11,10 +11,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -23,7 +25,6 @@
                     <title n="018">Diálogo sobre la historia de la pintura en México</title>
                     <author>José Bernardo Cuoto</author>
                     <edition>2a.</edition>
-                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
                     <imprint>
                         <pubPlace>México</pubPlace>
                         <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
@@ -43,7 +44,7 @@
             <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
-                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                <p>El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
                     Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
                 <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
                 <p><list>
@@ -88,7 +89,7 @@ Pintor, escultor, poeta y humanista del renacimiento y manierismo español.
 Pedro de
 Villegas, mi paisano el catalán Mingot y otros.
 Además, algunos artistas extranjeros de alto mérito, como
-el <persName ref="http://viaf.org/viaf/109266837">Ticiano</persName>,<note type="editorial" resp="MTRS">
+el <persName ref="http://viaf.org/viaf/109266837">Tiziano</persName>,<note type="editorial" resp="MTRS">
 Tiziano Vecellio di Gregorio, conocido como Tiziano o Tiaciano (Pieve di Cadores, 
 1488/1490-Venecia, 1576). Pintor italiano renacentista y uno de los exponentes más destacados de la escuela veneciana.</note> 
 vinieron a trabajar en España, atraídos de la
@@ -121,7 +122,7 @@ dechado, parece cierto que había adelantado bastante en
 manos de los alumnos mexicanos de aquella época. 
 Torquemada asegura que si bien en tiempo de la gentilidad
 no sabían hacer hombres hermosos, después que fueron 
-cristianos y vieron los cuadros que se traían de Europa,
+cristianos y vieron los cuadros que se traían de Europa
 no había retablo ni imagen por prima que fuese que no 
 la retrataran y contrahicieran.<hi rend="superscript">18</hi><note type="autor" xml:id="nota18"><hi rend="superscript">18</hi> 
 <bibl>Lib. 17, cap. 1 de la <title ><hi rend="italic">Monarquía indiana</hi></title>.</bibl></note>
@@ -131,7 +132,7 @@ el padre <persName ref="http://viaf.org/viaf/104831464">Motolinía</persName>.<h
 de Nueva España</hi></title>, tratado 3o., cap. 13, edición de García 
 Icazbalceta.</bibl></note><note type="editorial" resp="MTRS">Toribio de Benavente 
 (Benavente, 1482-Ciudad de México, 1569). Misionero franciscano e historiador que sustituyó su nombre al observar que los indígenas calificaban con el adjetivo motolinia (en náhuatl, pobre) a los franciscanos que llegaron con él a México.</note>
- nuestro buen Bernal Díaz del
+ Y nuestro buen Bernal Díaz del
 Castillo no sólo dice que los lapidarios y pintores que</p>
 </sp>
 </div>

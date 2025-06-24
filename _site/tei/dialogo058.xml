@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -98,7 +100,7 @@ demás, aunque juntemos los nombres de Ibarra y
 Cabrera, no creo por eso que pretendamos igualarlos. Cabrera
 es en México la personificación del grande artista, del
 pintor por excelencia, y un siglo después de muerto 
-conserva intacta la supremacía que supo merecer, y que
+conserva intacta la supremacía que supo merecer y que
 nadie, a lo que entiendo, le disputó en vida.</p>
 </sp>
 </div>

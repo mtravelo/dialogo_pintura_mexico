@@ -11,10 +11,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -23,7 +25,6 @@
                     <title n="020">Diálogo sobre la historia de la pintura en México</title>
                     <author>José Bernardo Cuoto</author>
                     <edition>2a.</edition>
-                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
                     <imprint>
                         <pubPlace>México</pubPlace>
                         <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
@@ -43,7 +44,7 @@
             <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
-                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                <p>El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
                     Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
                 <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
                 <p><list>
@@ -83,8 +84,8 @@ San Ildefonso el año <date when="1756">1756</date>.</bibl></note>
 Por don <persName ref="http://viaf.org/viaf/59112593">Carlos de Sigüenza</persName> y Góngora<note type="editorial" resp="MTRS">Carlos de Sigüenza y Góngora (Ciudad de México, 1645-1700). Polígrafo, cosmógrafo, matemático, historiador y poeta jesuita. Una de las figuras intelectuales más sobresalientes de la Nueva España.</note> sabemos que las 
 pinturas del altar mayor de la capilla de la <orgName ref="http://viaf.org/viaf/126551000">Universidad</orgName>,<note type="editorial" resp="MTRS">Se refiere a la Real y Pontificia Universidad de México, fundada en 1551 por cédula real de Carlos V, que se organizó en cuatro facultades mayores (Teología, Derecho Canónico, Derecho Civil y Medicina) y una menor (Artes).</note> 
 dedicada a santa Catarina Mártir, eran de mano del 
-«excelentísimo pintor Alonso Vázquez»; que fueron su
-última obra; y que con ellas hizo un presente a la
+«excelentísimo pintor Alonso Vázquez», que fueron su
+última obra y que con ellas hizo un presente a la
 Universidad el virrey marqués de Montesclaros, quien
 gobernó desde <date when="1603">1603</date> hasta <date when="1607">1607</date>.<hi rend="superscript">22</hi><note type="autor" xml:id="nota22">
 <!-- cita 2 dentro de cita 1 -->
@@ -107,7 +108,7 @@ de Montesclaros con la siguiente inscripción:</quote></cit></p>
 <lb/>semper Augusto Prefect: in regalis
 <lb/>Academix tutelam B. Catharine orte
 <lb/>Regalibus parentibus bonarum artium
-<lb/>Tutelari, vere sapientiz illuminatrici
+<lb/>Tutelari, verae sapientiae illuminatrici
 <lb/>celeberrimum hoc mnemosynon. D.»
 <lb/><bibl>(<title><hi rend="italic">Triunpho parthenico</hi></title>, § V, p. 30, vuelta)</bibl>
 </quote></cit></p>
@@ -115,27 +116,27 @@ de Montesclaros con la siguiente inscripción:</quote></cit></p>
 Si el virrey mismo las
 había mandado hacer, entonces Vázquez coexistió en
 sus últimos años con <persName ref="#BEO">Baltasar de Echave</persName> todavía joven.
-Aquellas obras han desaparecido; y yo hasta ahora no
+Aquellas obras han desaparecido y yo hasta ahora no
 he logrado ver ningún otro cuadro que lleve el nombre
-de nuestro primer pintor, ni el de su discípulo Rúa.
+de nuestro primer pintor ni el de su discípulo Rúa.
 Tampoco he visto nada de <persName ref=" http://viaf.org/viaf/21167622178403342302">Andrés de Concha</persName>,<note type="editorial" resp="MTRS">Andrés de Concha (Sevilla, <hi rend="italic">ca.</hi> 1559-Oaxaca, 1612). Pintor español, escultor, ensamblador y arquitecto que emigró a la Nueva España y es considerado uno de los mejores representantes del siglo XVI.</note> 
 celebradísimo de sus contemporáneos, entre otros,
 de <persName ref="http://viaf.org/viaf/71617613">Bernardo de Balbuena</persName>
 en la <title><hi rend="italic">Grandeza mexicana</hi></title>.<note type="editorial" resp="MTRS">Bernardo de Balbuena (Valdepeñas, 1562-San Juan, Puerto Rico, 1627). Eclesiástico y poeta establecido en la Nueva España y las Antillas Mayores, figura sobresaliente en la poesía hispana de la época. Compuso un gran poema dedicado a su segunda patria, <title><hi rend="italic">Grandeza mexicana</hi></title>, que pertenece al género de la corografía y se divide en nueve capítulos.
 </note>  Consta que hizo
 las pinturas del túmulo erigido por la Inquisición
-para las exequias de<name>Felipe <num type="ordinal" value="2">II</num></name><note type="editorial" resp="MTRS">Felipe II (Valladolid, 1527-San Lorenzo El Escorial, 1598). Rey de España y monarca del mayor imperio del mundo que se extendió a Portugal, Nápoles, Sicilia, en el continente europeo, los virreinatos de América y las islas Filipinas en Asia.</note>
+para las exequias de <persName ref="http://viaf.org/viaf/88973996">Felipe <num type="ordinal" value="2">II</num></persName><note type="editorial" resp="MTRS">Felipe II (Valladolid, 1527-San Lorenzo El Escorial, 1598). Rey de España y monarca del mayor imperio del mundo que se extendió a Portugal, Nápoles, Sicilia, en el continente europeo, los virreinatos de América y las islas Filipinas en Asia.</note>
 en <date when="1599">1599</date> y el retablo que
 poco antes se había puesto en San Agustín<hi rend="superscript">23</hi><note type="autor"
  xml:id="nota23"><hi rend="superscript">23</hi> <bibl><title><hi rend="italic">Relación histórica de las exequias 
 funerales del rey don Philippo II N.S., hechas por el Tribunal del Santo Oficio de la Inquisición de
 esta Nueva España</hi></title>, etcétera, México, 1600.</bibl></note> 
-y que si
+y que, si
 estuvo en la antigua iglesia, probablemente perecería
 en el incendio de la noche del <date when="1676-12-11">11 de diciembre de 1676</date>.
 Mas para juzgar en globo como Ibarra, Balbuena y los
 demás, quiero decir, para creer que hubo ya en el 
-siglo <num value="16">XVI</num> pintores bien aleccionados en México, me</p>
+siglo <num value="16">XVI</num> pintores bien aleccionados en México me</p>
 </sp>
 </div>
 </body>

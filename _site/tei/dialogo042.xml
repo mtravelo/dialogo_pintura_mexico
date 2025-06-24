@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -67,8 +69,8 @@
 <pb n="42" facs="#p42"/>
 <sp who="Couto">
 <p><persName>López de Ávalos</persName>,<note type="editorial" resp="MTRS">Sebastián López de Dávalos o Ávalos (Puebla, <hi rend="italic">ca.</hi> 1615-Ciudad de México, <hi rend="italic">ca.</hi> 1690). Pintor novohispano activo durante del primer tercio del siglo XVII relacionado con la imagen más venerada en México.</note>
-Nicolás de Fuen Labrada, Nicolás de
-Angulo, Juan Sánchez y Alonso Zárate; <hi rend="italic">sus obras</hi>, 
+Nicolás de Fuenlabrada, Nicolás de
+Angulo, Juan Sánchez y Alonso Zárate; sus obras, 
 escribía el autor del escudo de armas de México, 
 hacia mediados del siglo último, aún nos están diciendo sus
 aciertos.<hi rend="superscript">42</hi> <note type="autor" xml:id="nota42"><hi rend="superscript">42</hi> 
@@ -76,24 +78,24 @@ aciertos.<hi rend="superscript">42</hi> <note type="autor" xml:id="nota42"><hi r
 <cit><quote>«todos examinados, aprobados y ejercitados con créditos y aplausos
 muchos años».</quote></cit> <bibl><title><hi rend="italic">La estrella del norte de México</hi></title>, cap. 13, 
 § 4o.</bibl></note> 
-Yo no he visto hasta ahora todos ellos sino
+Yo no he visto hasta ahora todos ellos, sino
 unos cuadros apaisados del Ávalos, que están en el 
 altar de la testera de la capilla de San Cosme en 
 Catedral, y son poca cosa a juicio de los inteligentes. Por
 cierto que en la misma capilla hay, en el altar de la 
 izquierda, seis cuadros, sin nombre de autor, pero que 
-parecen de escuela mexicana y llaman justamente la 
-atención por la armonía de entonación que al señor Clavé le
+parecen de escuela mexicana, y llaman justamente la 
+atención, por la armonía de entonación que al señor Clavé le
 recordaba la de la escuela de <persName ref="=#BEM">Murillo</persName>. El del centro
-representa a san Agustín, encima hay una Anunciación
-y, de los cuatro de los lados, uno es san Ignacio y otro
+representa a san Agustín, encima hay una Anunciación,
+y de los cuatro de los lados, uno es san Ignacio, y otro
 san Felipe Neri. El retablo en que están no carecería
-de gracia y es lástima que no se conserve con más aseo.</p>
+de gracia y es lástima que no se conserve con más aseo</p>
 </sp>
 <sp who="Clavé">
 <speaker>Clavé</speaker>
 <p>Recuerdo a usted que en una pieza de abajo tenemos
-un lienzo de gran tamaño que representa el 
+un lienzo de gran tamaño, que representa el 
 nacimiento del Salvador, pintado por Pedro Ramírez, artista un
 poco grotesco, aunque no careciera de ejecución, y en
 el que usted ha creído reconocer semejanza con algunos

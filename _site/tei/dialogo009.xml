@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -24,7 +26,6 @@
                     <title n="009">Diálogo sobre la historia de la pintura en México</title>
                     <author>José Bernardo Cuoto</author>
                     <edition>2a.</edition>
-                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
                     <imprint>
                         <pubPlace>México</pubPlace>
                         <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
@@ -44,7 +45,7 @@
             <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
-                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                <p>El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
                     Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
                 <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
                 <p><list>
@@ -69,7 +70,7 @@
 <p>Este último lo fabricaban también de ixtle y de
 maguey, de algodón y de algunas otras materias. Para los
 colores se servían de tierras minerales, palos de tinte y
-yerbas. Por ejemplo: el negro lo sacaban del humo de
+yerbas. Por ejemplo, el negro lo sacaban del humo de
 ocote,<hi rend="superscript">b</hi><note type="autor" xml:id="notaB"><hi rend="superscript">b</hi> Especie 
 de pino, muy conocida en el país.</note>
 el azul del añil, el purpúreo de la grana, etcétera.

@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -78,11 +80,11 @@ usar las reglas.</p>
 <p>Otro cuadro hay en la misma sacristía que no tiene
 firma, pero que supongo ser también de <persName ref="#FV">Vallejo</persName> y 
 representa la Pentecostés. El semblante de la Virgen, que
-ocupa el centro del cenáculo, tiene mucha expresión, y
+ocupa el centro del cenáculo, tiene mucha expresión y
 la nube rojiza que se abre arriba, y de la cual se 
 desprenden las lenguas de fuego que bajan sobre los
 apóstoles, hace buen efecto. Lo hace también en su conjunto
-otro cuadro suyo, el descendimiento de la cruz, que 
+otro cuadro suyo, el escendimiento de la cruz, que 
 existe en la capilla alta de la Casa de Ejercicios de la 
 Profesa. En general <persName ref="#FV">Vallejo</persName> tiene la facilidad, la blandura
 y la belleza que caracterizan a <persName ref="#MC">Cabrera</persName>.</p>

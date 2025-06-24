@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -68,11 +70,11 @@
 <sp who="Pesado">
 <p>de Europa, de África 
 y de las islas las semillas, las
-plantas, los animales que faltaban; con estos auxilios la
+plantas, los animales que faltaban, con estos auxilios la
 nueva agricultura solicitaba y explotaba la feracidad de
 nuestra tierra. Se habían enseñado al pueblo las artes
-de la vida civil, y establecídose con regularidad el 
-comercio de Europa por Veracruz, y el de la 
+de la vida civil y establecídose con regularidad el 
+comercio de Europa por Veracruz y el de la 
 China por
 los puertos del Pacífico. Nuestras grandes poblaciones,
 <placeName ref="http://sws.geonames.org/3522509" xml:id="recogito-e5ba23d7-4404-4e66-9d26-ab240da5fa39" cert="low">Oaxaca</placeName>, 
@@ -101,7 +103,7 @@ inventó en <date when="1557">1557</date> el beneficio de metales
 por azogue en grandes patios, invento de inmensas
 consecuencias en el arte minero y que hoy mismo no es
 todavía reemplazado por otro mejor. La capital se había
-renovado en su mayor parte, y era ya la primera
+renovado en su mayor parte y era ya la primera
 ciudad del Nuevo Mundo, emporio del tráfico que por
 ambos mares se hacia, centro de los negocios, foco de
 ilustración y de ciencia para todo el país. Existía en ella
@@ -114,7 +116,7 @@ en las humanidades y el padre
 en ciencias sagradas. Había además otros tres
 colegios para la juventud estudiosa. La imprenta, de la
 que México fue cuna en las Américas, trabajaba desde
-<date when="1536">1536</date>; y para fin del siglo había habido siete u ocho 
+<date when="1536">1536</date> y para fin del siglo había habido siete u ocho 
 impresores, de los cuales nos quedan cerca de cien ediciones</p>
 </sp>
 </div>

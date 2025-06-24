@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -80,7 +82,7 @@ Colegiata en <date when="1751">1751</date>, escribió un papel titulado <title><
 americana, y conjunto de raras maravillas, observadas con la
 dirección de las reglas del arte de la pintura, en la prodigiosa
 imagen de Nuestra Señora de Guadalupe de México</hi></title>. 
-Bastante dice esta portada el asunto de la obrita; y en 
+Bastante dice esta portada el asunto de la obrita y en 
 cuanto a su desempeño, el doctor Bartolache, de genio un poco
 acedo, decía años adelante: <cit><quote>«Demasiado fue que un 
 hombre lego y sin otros estudios que los honrados
@@ -98,7 +100,7 @@ amigos los jesuitas.<hi rend="superscript">57</hi><note type="autor"
 xml:id="nota57"><hi rend="superscript">57</hi> <bibl><title><hi rend="italic">Disertación histórica 
 sobre la aparición de María Santísima de Guadalupe</hi></title>, cap. 4, § X, núm. 282 en la nota.</bibl></note>
 Sea de eso lo que fuere, el papel
-habla con lisura, y sin el estilo gongorino que entonces era
+habla con lisura y sin el estilo gongorino que entonces era
 de moda. Respecto de su sustancia, el mismo Bartolache
 daba a entender que a su juicio Cabrera había 
 registrado la imagen más con los ojos de la devoción que

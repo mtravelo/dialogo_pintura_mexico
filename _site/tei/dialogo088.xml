@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
@@ -66,7 +68,7 @@
 <div>
 <pb n="88" facs="#p88"/>
 <sp who="Pesado">
-<p>del siglo pasado, decía que en México Apeles y 
+<p>del siglo pasado decía que en México Apeles y 
 Vitruvio habían tenido siempre mejores discípulos que
 Fidias.<hi rend="superscript">63</hi><note type="autor" 
 xml:id="nota63"><hi rend="superscript">63</hi> <cit><quote xml:lang="la">«Utinam 
@@ -82,14 +84,14 @@ estatuaria.</note></p>
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Y tenía razón porque la historia de nuestra escuela
-de escultura habrá que tomarla desde <persName ref="#MT">Tolsá</persName> y <persName ref="http://viaf.org/viaf/77495162"></persName>Vilar<note type="editorial" resp="MTRS"> Manuel Vilar  Roca (Barcelona, 1812-Ciudad de México, 1860). Escultor españo y director de Escultura en la Academia de San Carlos</note> 
+de escultura habrá que tomarla desde <persName ref="#MT">Tolsá</persName> y <persName ref="http://viaf.org/viaf/77495162"></persName>Vilar<note type="editorial" resp="MTRS"> Manuel Vilar  Roca (Barcelona, 1812-Ciudad de México, 1860). Escultor español y director de Escultura en la Academia de San Carlos</note> 
 para adelante. En lo de atrás nada hay notable, si no es
 acaso algún trabajo de talla, como la hermosa sillería
 del coro de San Agustín. Pero respecto de la arquitectura
 no sucede lo mismo. Comenzando por las casas de
 habitación, en México se ha edificado en los tiempos 
 pasados si no con exquisita elegancia, sí con solidez, con
-holgura y aun con cierta grandiosidad; las que poseía
+holgura y aun con cierta grandiosidad: las que poseía
 la familia del conde de San Mateo Valparaíso en las 
 calles del Puente del Espíritu Santo y primera de San Francisco,
 hoy Hotel de Iturbide, construidas (al menos aquella)

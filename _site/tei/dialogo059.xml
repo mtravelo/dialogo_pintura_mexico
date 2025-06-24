@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -70,7 +72,7 @@
 <p>¡Tiene tan buenos títulos para mantenerla! Lo primero
 que siempre ha llamado la atención en él es una 
 fecundidad sin ejemplo. Formar la lista de sus obras 
-sería cosa imposible, porque materialmente llenó de ellas
+sería cosa imposible porque materialmente llenó de ellas
 el reino y no sólo las hay en todas las grandes 
 poblaciones, sino que suele encontrárselas hasta en las
 pequeñas y aun en el campo. Esta fecundidad no 

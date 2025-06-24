@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -86,7 +88,7 @@ Coyoacán.</p>
 <speaker>Clavé</speaker>
 <p>Ya usted sabe la estima que he hecho de ese hábil 
 pintor desde que examinamos juntos el gran cuadro que
-hay en la escalera de la Universidad, y me hizo usted ver
+hay en la escalera de la Universidad y me hizo usted ver
 en el Colegio de San Ildefonso los que allí trabajó.</p>
 </sp>
 <sp who="Pesado">
@@ -98,7 +100,7 @@ en el Colegio de San Ildefonso los que allí trabajó.</p>
 <speaker>Couto</speaker>
 <p>Con él fue nombrado como uno de los primeros
 maestros de la ciudad para el reconocimiento de la imagen
-de Guadalupe el año de <date when="1751">1751</date>, y suscribió en unión de</p>
+de Guadalupe el año de <date when="1751">1751</date> y suscribió, en unión de</p>
 </sp>
 </div>
 </body>

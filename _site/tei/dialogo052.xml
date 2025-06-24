@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -84,7 +86,7 @@ Por lo demás, de <persName ref="#CV">Villalpando</persName> he visto obras más
 chicas, cuadros de caballete, en que me ha parecido 
 encontrar juicio y mejor gusto; por ejemplo, uno que hay
 en la Encarnación y representa a san Francisco 
-orando en el desierto, la figura del santo es sumamente 
+orando en el desierto; la figura del santo es sumamente 
 devota y expresiva. Respecto del colorido, tiene razón el
 señor Clavé, <persName ref="#CV">Villalpando</persName> no adoptó el de <persName ref="#JRJ">Juan Rodríguez</persName>
 y sus secuaces, sino que usó siempre el suyo propio. 
@@ -93,7 +95,7 @@ bachiller Carlos, de quien tenemos aquí ese cuadrito de
 perspectiva que presenta el exterior de la iglesia de Belén.
 Suyo es también un medio punto grande que está en la
 iglesia de San Agustín, sobre la puerta que queda 
-frente a la del costado y tiene por asunto la predicación de
+frente a la del costado, y tiene por asunto la predicación de
 san Javier a los indios. En éste se nota algo del nuevo
 colorido que se iba introduciendo en nuestra escuela y
 que, fuera del de Cristóbal, adoptaron, como he dicho,

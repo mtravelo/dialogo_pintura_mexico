@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -68,7 +70,7 @@
 <sp who="Clavé">
 <p>el siglo <num value="16">XVI</num>, que fue cuando <persName ref="#BEO">Echave</persName> debió formarse,
 puesto que tenemos obras suyas desde los primeros años
-del siguiente. <persName ref="#BEO">Echave</persName> es siempre fiel a esos principios;
+del siguiente. <persName ref="#BEO">Echave</persName> es siempre fiel a esos principios,
 correcto, gracioso, de ejecución detenida y acabada, de
 bastante esmalte en el color, lo cual da a sus tablas 
 frescura y brillantez. Sobre sus huellas fueron <persName ref="#LJ">Luis Juárez</persName>
@@ -83,10 +85,10 @@ resueltamente y desde sus primeros pasos, sino por
 grados, según se infiere del estudio y observación de los
 pocos cuadros que nos quedan. Por punto de partida en
 esa vía puede tomarse el lienzo de los Desposorios que
-aquí tenemos, y por término el de santo Tomás, del
+aquí tenemos y por término el de santo Tomás, del
 presbiterio de San Agustín. Su pintura es vigorosa,
-grasa, y aun si se quiere de más verdad que la de 
-<persName ref="#BEO">Echave</persName>, porque a pesar de sus incorrecciones quizá se 
+grasa y aun si se quiere de más verdad que la de 
+<persName ref="#BEO">Echave</persName> porque a pesar de sus incorrecciones quizá se 
 pegaba más al natural. En cambio, carece de la gracia de su
 antecesor y de la sencillez y pureza que lo distinguen.
 En <persName ref="#SA">Arteaga</persName> hay más fuerza y mucho más rasgo en el

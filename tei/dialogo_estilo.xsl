@@ -11,7 +11,7 @@
                     <!-- Recuperamos el id del documento en una variable para nombrar el archivo de salida -->
                     <!-- Redirigir el resultado hacia un archivo -->        
                     <xsl:result-document method="html" encoding="utf-8"
-                        href="_pages/dialogo{$doc_id}.html" omit-xml-declaration="yes">---
+                        href="_dialogos/dialogo{$doc_id}.html" omit-xml-declaration="yes">---
         layout: textoporpagina
         title: Diálogo<xsl:apply-templates select="$doc_id"/>
         permalink: dialogo<xsl:apply-templates select="$doc_id"/>

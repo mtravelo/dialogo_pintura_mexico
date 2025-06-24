@@ -11,10 +11,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -23,7 +25,6 @@
                     <title n="004">Diálogo sobre la historia de la pintura en México</title>
                     <author>José Bernardo Cuoto</author>
                     <edition>2a.</edition>
-                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
                     <imprint>
                         <pubPlace>México</pubPlace>
                         <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
@@ -43,7 +44,7 @@
             <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
-                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                <p>El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
                     Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
                 <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
                 <p><list>
@@ -70,13 +71,13 @@ la Academia
 que no se encontrase en ella recuerdo alguno de
 la antigua escuela mexicana, en la que por cierto no 
 faltaron hombres de mérito. Ahora lo que importa es que
-esta colección, que empieza a reparar esa falta no sólo
+esta colección, que empieza a reparar esa falta, no sólo
 se conserve, sino que se enriquezca cada día con nuevas
 adquisiciones.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>Sólo enriqueciéndola y completándola, llenará el
+<p>Sólo enriqueciéndola y completándola llenará el
 propósito que se tuvo al poner mano a su formación, que
 fue presentar, por medio de una serie de cuadros, la
 historia del arte en 
@@ -106,7 +107,8 @@ se echa menos todo lo anterior.</p>
 <sp>
 <speaker>Clavé</speaker>
 <p>¿No me diría el señor don Joaquín a qué llama lo 
-anterior? ¿Alude acaso a las pinturas de los mexicanos?</p>
+anterior? ¿Alude acaso a las pinturas de los mexicanos?
+ </p>
 </sp>
 </div>
 </body>

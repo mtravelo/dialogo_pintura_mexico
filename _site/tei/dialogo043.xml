@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -67,13 +69,13 @@
 <pb n="43" facs="#p43"/>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>Aun nos falta mostrarte algo de los dos Rodríguez
+<p>Aún nos falta mostrarte algo de los dos Rodríguez
 Juárez, que lo cerraron dignamente y que dieron 
 principio a una nueva edad de la pintura entre nosotros.
-Pero antes quiero decirte que del mismo siglo <num value="17">XVII</num>
+Pero antes quiero decirte que del mismo siglo <num value="16">XVI</num>
 conozco, además de otros oscuros, algunos que por su
 mérito te nombraré. Sea el primero Juan de Herrera,
-a quien nuestros antepasados llamaron el <hi rend="italic">divino</hi>, como
+a quien nuestros antepasados llamaron el divino, como
 en España a <persName ref="http://viaf.org/viaf/31849912"></persName>Luis Morales,<note type="editorial" resp="MTRS">Luis de Morales (Badajoz, <hi rend="italic">ca</hi>. 1510-1586). Pintor español de estilo manierista.</note> 
 o porque sólo se ejercitaba
 en asuntos sagrados, o por la perfección con que los 

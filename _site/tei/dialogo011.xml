@@ -11,10 +11,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -23,7 +25,6 @@
                     <title n="011">Diálogo sobre la historia de la pintura en México</title>
                     <author>José Bernardo Cuoto</author>
                     <edition>2a.</edition>
-                    <editor>Instituto de Investigaciones Estéticas, UNAM</editor>
                     <imprint>
                         <pubPlace>México</pubPlace>
                         <publisher>Oficina Tipográfica de la Secretaría de Fomento</publisher>
@@ -43,7 +44,7 @@
             <p>Downloaded from  https://recogito.pelagios.org/</p>
         </projectDesc>
             <editorialDecl>
-                <p>El testimonio de este proyecto es la la segunda edición de 1889, que se conserva en el 
+                <p>El testimonio de este proyecto es la segunda edición de 1889, que se conserva en el 
                     Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM. </p>
                 <p>En esta edición digital se ha modernizado la ortografía, la puntuación y el uso de mayúsculas y minúsculas:</p>
                 <p><list>
@@ -70,14 +71,14 @@ todos los particulares que acabo de referir. La segunda
 me dijo que los había sacado de unos apuntes del 
 erudito padre Pichardo, que un amigo suyo le había 
 regalado. Aun me agregó que la marca o cifra con que 
-firmaba sus cuadros Rodrigo de Cifuentes, era ésta: una
+firmaba sus cuadros Rodrigo de Cifuentes era ésta: una
 <hi rend="italic">R</hi>, cuyo trazo delantero inferior, muy prolongado, 
 llevaba inscritas una <hi rend="italic">o</hi> y una 
 <hi rend="italic">c</hi>, y arriba una <hi rend="italic">s</hi>.</p>
 </sp>
 <sp>
 <speaker>Clavé</speaker>
-<p>Paréceme que usted tiene algún empacho en admitir de
+<p>Paréceme que usted tiene algún empacho<note type="editorial" resp="MTRS">En el español de México significa “reparo”</note> en admitir de
 plano las noticias del conde.</p>
 </sp>
 <sp>

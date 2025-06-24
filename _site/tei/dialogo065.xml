@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -82,7 +84,7 @@ con todo su repartimiento, y otro actuado de claro y oscuro,
 instruyéndole el modo de esta operación, dándole tiempo suficiente para la
 ejecucion. Y si conociere que el genio del niño es competente para 
 que pueda aprovechar en esta facultad (que no todos lo pueden 
-conseguir, porque para ésta y la poesía es fuerza nacer con estas gracias),
+conseguir porque para ésta y la poesía es fuerza nacer con estas gracias),
 le ordenará vaya a casa del secretario, y le diga cómo quiere aprender
 esta facultad con aquel maestro: y dicho secretario reconocerá, 
 llevando este dicho niño su fe de bautismo, si es de la calidad dicha. Y si 
@@ -126,7 +128,7 @@ para él y los suyos.</p>
 <speaker>Couto</speaker>
 <p>En cuanto al lugar de su nacimiento, la tradición oral,
 que de mozo alcancé yo entre los pintores de México,
-lo hacía natural de la Villa de San Miguel el Grande en
+lo hacía natural de la Villa de San Miguel el Grande, en
 el departamento de Guanajuato, y respecto de su 
 origen, además de la reflexión que acabas de hacer, la 
 colocación que tuvieron dos de sus hijas contradice el que

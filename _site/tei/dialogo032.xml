@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -68,7 +70,7 @@
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>Tengo presente que me la comunicó usted hace
-tiempo. Y debiéramos darnos el parabién en México si 
+tiempo. Y debiéramos darnos el parabién en México, si 
 nuestra escuela se derivara de la del insigne Joannes, de
 quien decía Jovellanos que <cit><quote>«sus obras no parecen pintadas
 con la mano sino con el espíritu. ¡Pero qué espíritu, tan 
@@ -88,7 +90,7 @@ el primero de los cuatro pintores
 mexicanos que llevaron ese apellido. Don Carlos de
 Sigüenza y Góngora refiere que hacia el año <date when="1621">1621</date> se
 hizo el retablo grande que hubo en la iglesia de Jesús
-María y costó nueve mil pesos, precio, añade, que no
+María, y costó nueve mil pesos; precio, añade, que no
 parecerá excesivo a quien haya regalado la vista con <cit><quote>«la
 inimitable suavidad de sus pinturas en que se excedió a sí
 mismo el mexicano <persName ref="#LJ">Luis Juárez</persName>, pintor excelente y uno de los

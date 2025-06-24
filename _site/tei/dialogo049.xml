@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -93,7 +95,7 @@ Cabrera, etcétera.</p>
 <speaker>Clavé</speaker>
 <p>Todavía la diferencia se haría más sensible si 
 pudiéramos cotejar el mismo san Juan de Dios con otras 
-pinturas de <persName ref="#JRJ">Juan Rodríguez</persName>, <hi rend="italic">verbi gratia</hi>, algunos pasajes del
+pinturas de <persName ref="#JRJ">Juan Rodríguez</persName>, verbigracia, algunos pasajes del
 Evangelio que hay en los corredores altos de la Profesa, 
 como la Transfiguración y la Tempestad en la barca. Si no</p>
 </sp>

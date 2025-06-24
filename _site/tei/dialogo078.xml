@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -79,9 +81,9 @@ por ese medio el efecto.</p>
 en que él se formó, época que no es de la que más 
 puede gloriarse nuestra escuela. Yo no alcancé los frescos
 que mi antecesor pintó en la capilla del Señor de Santa
-Teresa porque llegué á México el año de <date when="1846">1846</date>; pero a
+Teresa porque llegué á México el año de <date when="1846">1846</date>, pero a
 juzgar por los de Catedral, creo que tiene razón el señor don
-Joaquín: vale aquello más que sus obras de caballete.
+Joaquín, vale aquello más que sus obras de caballete.
 La mejor que de esta clase he visto es una Purísima
 grande que hoy posee el señor Escandón y fue pintada
 originalmente, según me han dicho, para el señor Pérez,

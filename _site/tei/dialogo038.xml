@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -76,7 +78,7 @@ los que vimos antes.</p>
 como el martirio de san Pedro de Verona, que está al
 lado, y los cuatro evangelistas chicos que hay abajo. El
 entierro se adquirió de la iglesia que llaman del 
-Hospital de Texcoco, los demás nos vienen de la Colegiata de
+Hospital de Texcoco; los demás nos vienen de la Colegiata de
 Guadalupe, cuyo cabildo los donó a la Academia.
 Sospecho que este pintor pudo ser hijo del primer <persName ref="#BEO">Baltasar
 de Echave</persName> no sólo por llevar su nombre según el uso de
@@ -115,7 +117,7 @@ esfuerzos del dibujo, en las tres líneas o caracteres con que mutuamente
 diversos, aun más que por el tiempo, se dieron áa conocer los tres
 Echaves: como tampoco dejaron de ocupar su lugar y las atenciones
 los ingenios de Daza y Angulo, cuyos payses no tienen oposición, 
-sino hasta que se ponga a pintar la naturaleza».</quote></cit> <bibl><title><hi rend="italic">Triunpho parthenico</hi></title>
+sino hasta que se ponga a pintar la naturaleza».</quote></cit> <bibl><title><hi rend="italic">Triunpho parthenico</hi></title>,
 § 5, ff. 33v y 34.</bibl></note></p>
 </sp>
 <sp who="Clavé">
@@ -124,13 +126,13 @@ sino hasta que se ponga a pintar la naturaleza».</quote></cit> <bibl><title><hi
 luego. El <rs ref="#BEO">Viejo</rs> atildaba y concluía perfectamente sus
 obras, en las cuales resplandece por otra parte un 
 excelente gusto y buena ciencia del arte. Este segundo era
-pintor de efecto que daba golpes fuertes y no se 
+pintor de efecto, que daba golpes fuertes y no se 
 cuidaba mucho de acabar. Aun se observan incorrecciones de
-dibujo que con un poco de atención se hubieran 
+dibujo, que con un poco de atención se hubieran 
 evitado, como la que hay en este brazo que cuelga del 
 Salvador muerto. Sin embargo, la obra en totalidad hace
 impresión y manifiesta venir de una mano franca, capaz
-de ejecutar buenas cosas cuando se detenga a estudiarlas.
+de ejecutar buenas cosas, cuando se detenga a estudiarlas.
 Hay aquí rasgos que recuerdan la pintura grasa y
 vigorosa de Arteaga en el santo Tomás de la iglesia de
 San Agustín.</p>

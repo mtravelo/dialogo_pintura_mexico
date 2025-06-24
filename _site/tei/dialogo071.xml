@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -73,9 +75,10 @@ Osorio andan obras en la ciudad.</p>
 </sp>
 <sp who="Couto">
 <speaker>Couto</speaker>
-<p>pintura que había en México. Fuera de los que ya hemos
+<p>Por aquel tiempo eran bastantes los profesores de 
+pintura que había en México. Fuera de los que ya hemos
 mencionado, con <persName ref="#MC">Cabrera</persName> se unieron para la fundación
-de la Academia, José Manuel Domínguez, como primer
+de la Academia José Manuel Domínguez, como primer
 director, Miguel Espinosa de los Monteros y Pedro
 Quintana. Florecía también a la sazón José Páez, que
 pintó en el claustro bajo de San Fernando la vida de
@@ -94,7 +97,7 @@ discípulo de Cabrera, don Manuel García, don Roberto
 José Gutiérrez, don Andrés López y don Rafael Joaquín
 Gutiérrez, examinaron con Bartolache la imágen de
 Guadalupe el año <date when="1787">1787</date>, en su calidad de profesores
-de pintura, y firmaron el atestado que aquel publicó.
+de pintura y firmaron el atestado que aquel publicó.
 De Vázquez tenemos ahí su retrato, pintado por él 
 mismo, que es ese que hace juego con el de <persName ref="#JRJ">Juan Rodríguez</persName></p>
 </sp>

@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -86,13 +88,13 @@ Guipúzcoa.<hi rend="superscript">31</hi><note type="autor" xml:id="nota31"><hi 
 mexicana</hi></title>; y <author>Beristáin</author>, <title><hi rend="italic">Biblioteca hispano 
 americana septentriona</hi></title>, en
 el artículo «Baltasar Echave». Debo advertir que algunos escritores 
-antiguos, como Balbuena y Vetancurt, le han llamado Chávez; pero él se
+antiguos, como Balbuena y Vetancurt, le han llamado Chávez, pero él se
 firmaba en sus cuadros Echave. Conocida es la incuria y el desaliño de
 los antiguos en punto de ortografía española.</bibl></note> 
 Trabajó en México, al menos desde los
 primeros años del siglo <num value="17">XVII</num> hasta <date when="1640">1640</date>. No era 
 simple artista, sino filólogo y escritor. En 1607 imprimió
-en casa de <persName ref="http://viaf.org/viaf/38544858">Enrico Martínez</persName><note type="editoral" resp="MTRS">Enrico Martínez  o Heinrich Martin  (¿Hamburgo?, 1550-Cuautitlán, 1632). Cosmógrafo real, intérprete de la Inquisición e ingeniero hidráulico.</note> (el insigne y desgraciado
+en casa de <persName ref="http://viaf.org/viaf/38544858">Enrico Martínez</persName><note type="editoral" resp="MTRS">Enrico Martínez  o Heinrich Martin  (¿Hamburgo?, 1550-Cuautitlán, 1632). Cosmógrafo real, intérprete de la Inquisición, impresor e ingeniero hidráulico.</note> (el insigne y desgraciado
 ingeniero del desagüe de Huehuetoca)<note type="editoral" resp="MTRS">La Ciudad de México estaba asentada en la cuenca de cinco lagos. Con la llegada de los españoles comenzó a construirse un canal artificial  para drenar los cuerpos de agua, que colapsó y provocó una gran inundación después de una intensa lluvia.</note> un tratado sobre
 la antigüedad de la lengua de Cantabria, no escaso de
 saber y de doctrina, según dice el señor Eguiara.<hi rend="superscript">32</hi><note type="autor" 

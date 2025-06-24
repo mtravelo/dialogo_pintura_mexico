@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -71,7 +73,7 @@
 cuando en su gentil aunque desarreglada poesía 
 requebraba a México de esa manera. Pero volviendo a
 nuestro asunto de la pintura, al amanecer del siglo
-<num value="18">XVII</num> la encontramos con el vigor y lozanía que se 
+<num value="18">XVII</num> la encontramos con el vigor y la lozanía que se 
 nota en los cuadros que hay aquí de <persName ref="#BEO">Baltasar de Echave</persName> el
 <rs ref="#BEO">Viejo</rs>, o sea, el primero...</p>
 </sp>
@@ -86,20 +88,20 @@ xml:id="nota28"><hi rend="superscript">28</hi> <bibl>Véase por ejemplo
 al licenciado <author>Cayetano Cabrera</author>, <title><hi rend="italic">Escudo de armas de
 México</hi></title>, núm. 291.</bibl></note>
 sin duda para distinguirlo de otro pintor del mismo
-nombre, que existió despues, y de quien más adelante
+nombre, que existió después, y de quien más adelante
 te enseñaré alguna cosa. Estos dos cuadros del <rs ref="#BEO">Viejo</rs>,
 que representan la Visitacion de santa Isabel, y una
 aparición del Salvador y la Virgen a san Francisco, 
 pertenecían al retablo del altar mayor de la iglesia de 
 Santiago Tlatelolco. Torquemada cuenta que el altar se
-concluía y estrenaba a la sazon que él escribia en <date when="1609">1609</date>,
+concluía y estrenaba a la sazón que él escribía en <date when="1609">1609</date>,
 y que la obra de pincel había sido hecha «por un español
 vizcaíno llamado <persName ref="#BEO">Baltasar de Echave</persName>, único en su arte».<hi rend="superscript">29</hi><note type="autor" 
 xml:id="nota29"><hi rend="superscript">29</hi> <bibl><title><hi  rend="italic">Monarquía 
 indiana</hi></title>, lib. 17, cap. 4.</bibl></note>
 De manera que se le consideraba entonces el primer
 pintor de México. En el retablo, monumento histórico
-de bastante interes para formar idea de la escultura, la
+de bastante interés para formar idea de la escultura, la
 talla y la arquitectura monumental del siglo <num value="17">XVII</num> entre</p>
 </sp>
 </div>

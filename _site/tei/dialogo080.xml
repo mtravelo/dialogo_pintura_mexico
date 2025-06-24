@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -70,9 +72,9 @@
 <p>La era que desde entonces corre no creo que pueda
 llamarse una continuación de la vieja escuela mexicana.
 Los maestros que a ésta pertenecieron fueron
-sucediéndose sin interrupción unos a otros; los posteriores eran
-discípulos de los anteriores; de ellos recibían la doctrina
-que pasaban luego a sus aprendices, y así se conservaba
+sucediéndose sin interrupción unos a otros, los posteriores eran
+discípulos de los anteriores, de ellos recibían la doctrina
+que pasaban luego a sus aprendices y así se conservaba
 una constante tradición de enseñanza. Mas a la llegada
 del señor Clavé y demás profesores venidos de Europa, la
 cadena tradicional, rota ya después de medio siglo, no

@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -68,13 +70,13 @@
 <sp who="Couto">
 <p>Los particulares y el gobierno mismo poco o nada habían
 hecho por el arte antes de la erección de la 
-Academia; pero no lo necesitaba porque los profesores 
+Academia, pero no lo necesitaba porque los profesores 
 encontraban empleo sobrado en los templos, en los conventos,
 en los colegios, en fin, en todas las casas, en todos los
 establecimientos de comunidad, que casi sin excepción
 eran eclesiásticos. Y esto es lo que realmente hace 
 florecer y prosperar la pintura, como las otras artes sus
-hermanas, según enseña la experiencia: donde quiera
+hermanas, según enseña la experiencia, donde quiera
 que han encontrado un teatro como el que aquí 
 tuvieron, allí se han desenvuelto con holgura porque allí es
 donde la competencia hace esforzarse al ingenio, donde
@@ -87,7 +89,7 @@ establecimientos de la clase de la Academia son nada en
 comparación de ese otro, para avivar y levantar el ingenio.
 Pero desde antes de concluirse el siglo pasado, y en el
 primer decenio del presente, las comunidades 
-eclesiásticas dejaron de ocupar a los pintores, por causas que
+eclesiásticas dejaron de ocupar a los pintores por causas que
 no es ahora ocasión de indagar. En seguida vino la 
 insurrección y la serie de revueltas que a ella se 
 siguieron. Nada notable nos queda de todo ese periodo, pero

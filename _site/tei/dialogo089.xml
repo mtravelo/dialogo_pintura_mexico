@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o"/>
@@ -70,9 +72,9 @@
 en sí mismo un elegante palacio, monumento del 
 ingenio de <persName ref="#MT">Tolsá</persName> y que adornaría la plaza de cualquier 
 capital. Respecto de templos, la suntuosidad ha sido 
-extrema; y averiguando los maestros que en ellos trabajaron,
+extrema y averiguando los maestros que en ellos trabajaron,
 desde Alonso Pérez Castañeda, que a principios
-del siglo <num value="17">XVII</num> entendía en la montea y construcción;
+del siglo <num value="17">XVII</num> entendía en la montea y construcción,
 de Catedral, hasta don <persName ref="http://viaf.org/viaf/23939282">Francisco Tresguerras</persName>,<note type="editorial" resp="MTRS">Francisco Eduardo Tresguerras (Celaya, 1759-1833). Arquitecto, pintor y grabador. Uno de los artistas más importantes en el cambio del siglo XVIII al XIX.</note> 
 el 
 arquitecto del Carmen y el puente de Celaya, se formaría un
@@ -117,7 +119,7 @@ nuestra raza no hubiera tenido ni vocablo con que llamar
 esa clase de obras) cubierto en lo interior con bóveda
 de mampostería, que en nuestros días y en cualquier
 país se tendría por empresa de gran cuenta. Otras 
-semejantes se continuaron sin interrupción, hasta el 
+semejantes se continuaron sin interrupción hasta el 
 presente siglo, en que los Consulados de México y 
 Veracruz a competencia hicieron las dos carreteras que
 bajan a aquel puerto. Más corta la del segundo, como que

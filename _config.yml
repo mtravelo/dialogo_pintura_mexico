@@ -20,3 +20,5 @@ collections:
       output: true
     recursos:
       output: true
+    dialogos:
+      output: true

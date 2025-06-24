@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -71,7 +73,7 @@
 <sp who="Couto">
 <speaker>Couto</speaker>
 <p>El tercero es otro Becerra, Nicolás, de quien hay en
-el hospital de Terceros un cuadro grande de san
+el Hospital de Terceros un cuadro grande de san
 Luquecio, pintado en <date when="1693">1693</date>, y que parece una anticipación del
 estilo que años adelante usó <persName ref="MC">Cabrera</persName>. El cuarto es el
 padre Manuel, jesuita, de cuya vida no he podido alcanzar

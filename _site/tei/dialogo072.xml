@@ -12,10 +12,12 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>Instituto de Investigaciones Estéticas, UNAM</publisher>
+                <publisher>Instituto de Investigaciones Estéticas, UNAM/</publisher>
                 <pubPlace>México</pubPlace>
-                <date when="2024-06-04">4 de junio de 2024 </date>
-                <address><addrLine>Circuito Mario de la Cueva, Zona Cultura, Ciudad Universitaria. México</addrLine></address>
+                <publisher>Laboratorio de Humanidades Digitales del Instituto de Investigaciones 
+                Bibliográficas y Crítica Textual, CONICET</publisher>
+                <pubPlace>Buenos Aires</pubPlace>
+                <date when="2024-08-02">2 de agosto de 2024 </date>    
             </publicationStmt>
             <sourceDesc>
                 <bibl source="https://recogito.pelagios.org/document/tbjthrmhsfycig"/>
@@ -77,7 +79,7 @@ antecoro de aquel convento; alcanzó el establecimiento de
 nuestra Academia y fue en ella teniente de director
 de pintura. Su discípulo Joaquín de Vega sacó este
 retrato de él, que es una valiente pieza en su género. 
-Finalmente, Joaquín Esquivel, artista descuidado, y que
+Finalmente, Joaquín Esquivel, artista descuidado y que
 parece una especie de Tapresto, ha dejado, sin embargo,
 en la vida de san Pedro Nolasco, en los claustros 
 bajos de la Merced, algún cuadro digno de estima, como
@@ -96,7 +98,7 @@ mentado ustedes.</p>
 que se cierra la antigua escuela mexicana, que vimos
 principiar en <persName ref="#BEO">Baltasar de Echave</persName>. <persName ref="#JA">Alcíbar</persName> se distingue
 por la blandura y suavidad, no obstante que es
-esa la cualidad general de la escuela, especialmente
+ésa la cualidad general de la escuela, especialmente
 desde <persName ref="#JRJ">Juan Rodríguez Juárez</persName> para adelante. Alcanzó
 como Carcanio la fundación de esta Academia y fue</p>
 </sp>
