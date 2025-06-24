@@ -15,6 +15,8 @@ Revisión: Itzel Rodríguez González y Jaime Soler Frost (IIE)
 
 Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda (IIE)
 
+Digitalización de textos de consulta: María Teresa Marín (IIE)
+
 * * *
 
 **Instituto de Investigaciones Estéticas, UNAM (IIE)**
