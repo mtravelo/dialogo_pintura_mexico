@@ -1,19 +1,13 @@
 ---
 layout: page
-title: Créditos
-permalink: /creditos/
+title: Recursos de consulta
+permalink: /consulta/
 type: extras
 ---
 
-Edición, codificación y línea de tiempo: María Teresa Ravelo (IIE)
-
-Plantilla web: diseño y desarrollo del HD LAB
-
-Asesoría técnica: Gabriel Calarco (HD LAB)
-
-Revisión: Itzel Rodríguez González y Jaime Soler Frost (IIE)
-
-Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda (IIE)
+«Estudio introductorio» de Juana Gutiérrez Haces <div class="collapse" id="collapse1">
+    <a class="no-underline" href="{{ site.baseurl }}//consulta/JGHesetudioi09"><h6>Página 3</h6><span class="link-index">Una mañana de los últimos meses del año de 1860... <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg></span></a>
+    <div>
 
 * * *
 
