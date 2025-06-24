@@ -7,7 +7,10 @@ type: extras
 
 «Noticia biográfica»
 
- <a href="{{ site.baseurl }}../consulta/JGHestudio09.html">«Estudio introductorio» de Juana Gutiérrez Haces</a>
+ <a class="no-underline" href="{{ site.baseurl }}/consulta/JGHestudio09.html">«Estudio introductorio» de Juana Gutiérrez Haces</a>
+
+ <a class="no-underline" href="{{ site.baseurl }}/consulta/JGHestudio09.html">Juan Gutiérrez Haces, «Estudio introductorio» </a>
+
 
  Bibliografía
 
