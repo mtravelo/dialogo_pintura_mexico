@@ -27,12 +27,12 @@ Grupo responsable: Romina de León, Laura Volkind,  Gabriel Calarco y Nidia Hern
 
 
 Grupo colaborador: Juliana Gandini, Virginia Brussa, Gabriela Striker, Marisol Fila, Diego Ferreyra, Agustina Ryckeboer, Susanna Allés-Torrent, Ricardo Pimenta, Carlos Nusch
-<p>&nbsp;</p>
+
 * * *
 
 Edición, codificación, línea de tiempo y bibliografía: María Teresa Ravelo (IIE)
 
-Plantilla web: diseño y desarrollo del HD LAB
+Diseño y desarroññp de plantilla web: grupo responsable del HD LAB
 
 Asesoría técnica: Gabriel Calarco (HD LAB)
 
