@@ -42,7 +42,6 @@ Directora: Gimena del Río Riande
 Grupo responsable: Romina de León, Laura Volkind,  Gabriel Calarco y Nidia Hernández
 
 
-
 Grupo colaborador: Juliana Gandini, Virginia Brussa, Gabriela Striker, Marisol Fila, Diego Ferreyra, Agustina Ryckeboer, Susanna Allés-Torrent, Ricardo Pimenta, Carlos Nusch
 
 
