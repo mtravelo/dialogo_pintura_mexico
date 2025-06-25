@@ -32,7 +32,7 @@ Grupo colaborador: Juliana Gandini, Virginia Brussa, Gabriela Striker, Marisol F
 
 Edición, codificación, línea de tiempo y bibliografía: María Teresa Ravelo (IIE)
 
-Diseño y desarroññp de plantilla web: grupo responsable del HD LAB
+Diseño y desarrollo de plantilla web: grupo responsable del HD LAB
 
 Asesoría técnica: Gabriel Calarco (HD LAB)
 
