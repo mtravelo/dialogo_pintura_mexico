@@ -6,8 +6,6 @@ type: extras
 ---
 
 
-* * *
-
 **Instituto de Investigaciones Estéticas, UNAM (IIE)**
 
 Directora: Angélica Velázquez Guadarrama
@@ -19,7 +17,7 @@ Coordinador de Publicaciones: Jaime Soler Frost
 Coordinadora de la Biblioteca Justino Fernández: María de los Ángeles Juárez Jiménez 
 
 Coordinadora del Archivo Fotográfico Manuel Toussaint: Columba Sánchez Jiménez
-
+<p>&nbsp;</p>
 
 **Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, CONICET (HD LAB)**  
 
