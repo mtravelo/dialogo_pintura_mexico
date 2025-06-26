@@ -12,7 +12,7 @@ Investigaciones Estéticas (<a href="https://www.esteticas.unam.mx/" target="bla
 Velázquez Guadarrama y con el apoyo del Archivo Fotográfico Manuel Toussaint y la Biblioteca Justino Fernández del IIE. Para los especialistas en historia del arte, el <i>Diálogo</i>  es el primer estudio sobre pintura en México que sigue teniendo vigencia y por ello se decidió publicarlo en línea. El objetivo es iniciar una colección digital de obras clásicas 
 que estén disponibles para el lector especializado y el público interesado en la historia y el arte mexicanos.
 
-La edición digital es parte del trabajo final del Máster en Humanidades
+La edición digital fue parte del trabajo final del Máster en Humanidades
 Digitales de la Universidad Nacional de Educación a Distancia (UNED), España, dirigido por Gimena del Río Riande. Sigue 
 principios de <a href="https://go-dh.github.io/mincomp/about/" target="_blank">Minimal Computing</a> y emplea el estándar 
 <a href="https://tei-c.org/" target="_blank">Text Encoding Initiative</a> (XML-TEI). La cronología fue realizada con 
