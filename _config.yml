@@ -24,3 +24,5 @@ collections:
       output: true
     consulta:
       output: true
+    noticia:
+      output: true
