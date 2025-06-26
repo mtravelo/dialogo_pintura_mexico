@@ -8,8 +8,7 @@ type: extras
 
 **Instituto de Investigaciones Estéticas, UNAM (IIE)**
 
-Directora: Angélica Velázquez Guadarrama</br>
-
+Directora: Angélica Velázquez Guadarrama  
 Secretario Académico: Luis Vargas Santiago </br> 
 
 Coordinador de Publicaciones: Jaime Soler Frost  
