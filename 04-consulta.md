@@ -5,7 +5,7 @@ permalink: /consulta/
 type: extras
 ---
 
-<a class="no-underline" href="{{ site.baseurl }}/noticia/noticia_biografica05">«Noticia biográfica»</a>
+<a class="no-underline" href="{{ site.baseurl }}/noticia_biografica05.html">«Noticia biográfica»</a>
 
 3434
 
