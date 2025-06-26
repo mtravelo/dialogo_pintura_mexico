@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recursos de consulta
-permalink: /consulta/
+permalink: 
 type: extras
 ---
 
