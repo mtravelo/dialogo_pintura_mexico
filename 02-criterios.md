@@ -5,7 +5,7 @@ permalink: /criterios/
 type: extras
 ---
 <details>
-<span fontsize="22px"><summary >Diálogo</summary></span>
+<span fontsize="22px"><summary>Diálogo</summary></span>
 
 <p>El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
 Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.</p>
@@ -21,24 +21,24 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <li>Se eliminó coma entre sujeto y verbo, y entre complementos.</li>
 
-<li> Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).
+<li> Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).</li>
 
-<li> Se completaron años abreviados: <i>57</i> por <i>1757</i>.
+<li> Se completaron años abreviados: <i>57</i> por <i>1757</i>.</li>
 
-<li> Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
+<li> Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).</li>
 
-<li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.
+<li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
 
-<li> Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. 
+<li> Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. </li>
 
-<li> En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).
+<li> En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).</li>
 
-<li> Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
+<li> Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.</li>
 </ul>
 
 </details>
 <details>
-<summary> Paratextos</summary>
+<summary> <span fontsize="22px> Paratextos</span></summary>
 La fuente de la de la "Noticia biográfica del autor
 </details>
 
