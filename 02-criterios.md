@@ -5,7 +5,7 @@ permalink: /criterios/
 type: extras
 ---
 <details>
-<summary fontsize="22px">Diálogo</summary>
+<span fontsize="22px"><summary >Diálogo</summary></span>
 
 <p>El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
 Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.</p>
@@ -13,28 +13,28 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <p>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:</p>
 
 <ul>
-<li>• Se corrigió la acentuación según las normas actuales.</li>
+<li> Se corrigió la acentuación según las normas actuales.</li>
 
-<li>• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.</li>
+<li> Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.</li>
 
-</li> Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i></li>
+<li> Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i></li>
 
+<li>Se eliminó coma entre sujeto y verbo, y entre complementos.</li>
+
+<li> Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).
+
+<li> Se completaron años abreviados: <i>57</i> por <i>1757</i>.
+
+<li> Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
+
+<li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.
+
+<li> Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. 
+
+<li> En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).
+
+<li> Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
 </ul>
-• Se eliminó coma entre sujeto y verbo, y entre complementos.
-
-• Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).
-
-• Se completaron años abreviados: <i>57</i> por <i>1757</i>.
-
-• Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
-
-• Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.
-
-• Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. 
-
-• En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).
-
-• Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
 
 </details>
 <details>
