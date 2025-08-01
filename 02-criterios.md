@@ -6,7 +6,6 @@ type: extras
 ---
 <details>
 <summary fontsize="12px">Diálogo</summary>
-# Edición digital
 
 <summary fontsize="12px">El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
 Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.<summary>
