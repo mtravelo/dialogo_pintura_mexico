@@ -14,7 +14,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <ul>
 <li> Se corrigió la acentuación según las normas actuales.</li>
-<li> Se conservó el acento en pronombres demostrativos con función pronominal como éste, ése, ésta.
+<li> Se conservó el acento en pronombres demostrativos con función pronominal como éste, ése, ésta.</i>
 
 <li> Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.</li>
 
@@ -50,7 +50,8 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 </ul>
 </details>
 
-<details><summary><span style="font-size: 20px;">Sistema de citación</span</summary>
+<details>
+<summary><span style="font-size: 20px;">Sistema de citación</span</summary>
 <p>Se conservaron las referencias bibliográficas originales del <i>Diálogo</i> y los paratextos («Noticia biográfica del autor» y «Estudio introductorio»). Se usó el sistema Chicago para la bibliografía de Recursos de consulta.</p>
 
 </details>
