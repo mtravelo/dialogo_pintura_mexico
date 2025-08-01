@@ -5,7 +5,7 @@ permalink: /criterios/
 type: extras
 ---
 <details>
-<summary>Diálogo</symmary>
+<summary>Diálogo</summary>
 <!-- ## Edición digital -->
 
 El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
@@ -39,6 +39,7 @@ En esta edición se ha modernizado la ortografía, la puntuación, y el uso de m
 
 <details>
 <summary> Paratextos</summary>
+La fuente de la de la "Noticia biográfica del autor
 
 
 
