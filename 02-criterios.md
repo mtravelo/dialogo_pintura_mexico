@@ -48,13 +48,15 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
 <li> Se conservó el número de página original</li>
 </ul>
-<p>El «Estudio introductorio» de Juana Gutiérrez Haces y las notas críticas de Rogelio Ruiz Gomar se tomaron de José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México (México: Consejo Nacional para la Cultura y las Artes, 1995)</i></p>
+<p>El «Estudio introductorio» de Juana Gutiérrez Haces y las notas críticas de Rogelio Ruiz Gomar se tomaron de José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i> (México: Consejo Nacional para la Cultura y las Artes, 1995)</p>
 
 </details>
 
 <details>
 <summary><span style="font-size: 20px;">Sistema de citación</span></summary>
-<p>Se conservaron las referencias bibliográficas originales del <i>Diálogo</i> y los paratextos («Noticia biográfica del autor» y «Estudio introductorio»). Se usó el sistema Chicago para la bibliografía de Recursos de consulta.</p>
+<p>Se conservaron las referencias bibliográficas originales del <i>Diálogo</i> y los paratextos («Noticia biográfica del autor», «Estudio introductorio» y notas críticas).</p>
+
+<p> Se usó el sistema Chicago la referencias de esta edición y la bibliografía de Recursos de consulta.</p>
 
 </details>
 
