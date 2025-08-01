@@ -56,7 +56,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <summary><span style="font-size: 20px;">Sistemas de citación</span></summary>
 <p>Se conservaron las referencias bibliográficas originales del <i>Diálogo</i> y los paratextos («Noticia biográfica del autor», «Estudio introductorio» y notas críticas).</p>
 
-<p> Se usó el sistema Chicago la referencias de esta edición y la bibliografía de Recursos de consulta.</p>
+<p> Se usó el sistema Chicago en las referencias de esta edición y en la bibliografía de Recursos de consulta.</p>
 
 </details>
 
