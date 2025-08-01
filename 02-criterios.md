@@ -33,6 +33,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 • En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).
 
 • Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
+</p>
 </details>
 <details>
 <summary> Paratextos</summary>
