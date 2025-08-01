@@ -5,7 +5,7 @@ permalink: /criterios/
 type: extras
 ---
 <details>
-<summary><h1>Diálogo</h1></summary>
+<summary><span style="font-size: 20px;">Diálogo</h1></summary>
 
 <p>El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
 Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.</p>
