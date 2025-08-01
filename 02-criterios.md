@@ -46,7 +46,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <li> Se corrigió la acentuación según las normas actuales.</li>
 <li> Se unifomó el uso de comillas americanas (“”) por angulares («»).</li>
 <li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
-
+<li> Se conservó el número de página original</li>
 </ul>
 </details>
 
