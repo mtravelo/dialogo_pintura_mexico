@@ -16,7 +16,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 • Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.
 
-<p>• Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i></p>
+• Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i>
 
 • Se eliminó coma entre sujeto y verbo, y entre complementos.
 
