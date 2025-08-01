@@ -7,13 +7,14 @@ type: extras
 <details>
 <summary><span style="font-size: 20px;">Diálogo</span></summary>
 
-<p>El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
-Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.</p>
+<p>El testimonio del <i>Diálogo</i> es el ejemplar que se conserva en el 
+Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM: José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i> (México: Oficina Tipográfica de la Secretaría de Fomento, 1889).</p>
                 
 <p>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:</p>
 
 <ul>
 <li> Se corrigió la acentuación según las normas actuales.</li>
+<li> Se conservó el acento en pronombres demostrativos con función pronominal como éste, ése, ésta.
 
 <li> Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.</li>
 
@@ -38,11 +39,19 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 </details>
 <details>
-<summary> Paratextos</summary>
-La fuente de la de la "Noticia biográfica del autor
+<summary><span style="font-size: 20px;">Paratextos</span></summary>
+<p>La «Noticia biográfica del autor» se tomó de <i>Obras del Doctor D. José Bernardo Couto</i>, tomo 13 (México: V. Agüeros, 1898). </p>
+<ul>
+<li>Se modernizó la ortografía, la puntuación, y el uso de mayúsculas y minúsculas</li>
+<li> Se corrigió la acentuación según las normas actuales.</li>
+<li> Se unifomó el uso de comillas americanas (“”) por angulares («»).</li>
+<li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
+
+
 </details>
 
-<details><summary>Sistema de citación</summary>
+<details><summary><span style="font-size: 20px;">Sistema de citación</span</summary>
+<p>Se conservaron las referencias bibliográficas originales del <i>Diálogo</i> y los paratextos («Noticia biográfica del autor» y «Estudio introductorio»). Se usó el sistema Chicago para la bibliografía de Recursos de consulta.</p>
 
 </details>
 
