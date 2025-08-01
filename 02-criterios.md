@@ -34,9 +34,6 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 • Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
 
-</details>
-
-<details>
 <summary> Paratextos</summary>
 La fuente de la de la "Noticia biográfica del autor
 
