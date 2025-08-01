@@ -7,12 +7,12 @@ type: extras
 <details>
 <summary fontsize="12px">Diálogo</summary>
 
-<summary fontsize="12px">El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
-Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.<summary>
+<p>El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
+Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.</p>
                 
-<summary>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:</summary>
+<p>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:</p>
 
-<summary>• Se corrigió la acentuación según las normas actuales.</summary>
+• Se corrigió la acentuación según las normas actuales.
 
 • Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.
 
