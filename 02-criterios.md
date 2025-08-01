@@ -4,7 +4,8 @@ title: Criterios de edición
 permalink: /criterios/
 type: extras
 ---
-
+<details>
+<summary>Diálogo</symmary>
 <!-- ## Edición digital -->
 
 El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
@@ -34,6 +35,14 @@ En esta edición se ha modernizado la ortografía, la puntuación, y el uso de m
 
 • Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
 
+</details>
+
+<details>
+<summary> Paratextos</summary>
+
+
+
+</details>
 
 Citar esta edición como: 
 
