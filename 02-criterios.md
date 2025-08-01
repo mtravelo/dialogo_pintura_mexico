@@ -4,14 +4,14 @@ title: Criterios de edición
 permalink: /criterios/
 type: extras
 ---
-<details>
-<summary>Diálogo</summary>
+<details open>
+<summary> ##Diálogo</summary>
 <!-- ## Edición digital -->
 
-El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
-Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.
+<summary>El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
+Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.<summary>
                 
-En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:
+<summary>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:<summary>
 
 • Se corrigió la acentuación según las normas actuales.
 
