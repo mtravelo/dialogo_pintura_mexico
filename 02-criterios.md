@@ -38,7 +38,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 </details>
 <details>
-<summary> <span fontsize="22px> Paratextos</span></summary>
+<summary> Paratextos</summary>
 La fuente de la de la "Noticia biográfica del autor
 </details>
 
