@@ -10,11 +10,12 @@ type: extras
 <p>El testimonio de este proyecto es la segunda edición de 1889 que se conserva en el 
 Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM.</p>
                 
-<p>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:</br>
+<p>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:</p>
 
-• Se corrigió la acentuación según las normas actuales.</br>
+<ul>
+<li>• Se corrigió la acentuación según las normas actuales.</li>
 
-• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.
+<li>• Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.</li>
 
 • Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i>
 
@@ -22,9 +23,9 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 • Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).
 
-* Se completaron años abreviados: <i>57</i> por <i>1757</i>.
+• Se completaron años abreviados: <i>57</i> por <i>1757</i>.
 
-* Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
+• Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
 
 • Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.
 
@@ -33,13 +34,14 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 • En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).
 
 • Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.
-</p>
+
 </details>
 <details>
 <summary> Paratextos</summary>
 La fuente de la de la "Noticia biográfica del autor
 </details>
 
+<details><summary>Sistema de citación</summary>
 
 </details>
 
