@@ -22,7 +22,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 • Se sustituyó punto y coma (;) en oraciones sencillas por coma (,).
 
-• Se completaron años abreviados: <i>57</i> por <i>1757</i>.
+* Se completaron años abreviados: <i>57</i> por <i>1757</i>.
 
 * Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).
 
