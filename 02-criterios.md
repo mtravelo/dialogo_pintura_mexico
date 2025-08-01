@@ -14,11 +14,11 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <ul>
 <li> Se corrigió la acentuación según las normas actuales.</li>
-<li> Se conservó el acento en pronombres demostrativos con función pronominal como éste, ése, ésta.</i>
+<li> Se conservó el acento en pronombres demostrativos con función pronominal como éste, ése, ésta.</li>
 
-<li> Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.
+<li> Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.</li>
 
-<li> Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i>
+<li> Se resolvieron abreviaturas; por ejemplo, <i>ustedes</i> por <i >vdes.</i></li>
 
 <li>Se eliminó coma entre sujeto y verbo, y entre complementos.</li>
 
