@@ -5,7 +5,7 @@ permalink: /criterios/
 type: extras
 ---
 <details>
-<summary><span style="font-size: 20px;">Diálogo</span></summary>
+<summary><span style="font-size: 20px;"><i>Diálogo</i></span></summary>
 
 <p>El testimonio del <i>Diálogo</i> es el ejemplar que se conserva en el 
 Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM: José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i> (México: Oficina Tipográfica de la Secretaría de Fomento, 1889).</p>
@@ -53,7 +53,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 </details>
 
 <details>
-<summary><span style="font-size: 20px;">Sistema de citación</span></summary>
+<summary><span style="font-size: 20px;">Sistemas de citación</span></summary>
 <p>Se conservaron las referencias bibliográficas originales del <i>Diálogo</i> y los paratextos («Noticia biográfica del autor», «Estudio introductorio» y notas críticas).</p>
 
 <p> Se usó el sistema Chicago la referencias de esta edición y la bibliografía de Recursos de consulta.</p>
