@@ -47,7 +47,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <li> Se unifomó el uso de comillas americanas (“”) por angulares («»).</li>
 <li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
 
-
+</ul>
 </details>
 
 <details><summary><span style="font-size: 20px;">Sistema de citación</span</summary>
