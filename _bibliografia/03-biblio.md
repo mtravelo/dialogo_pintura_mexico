@@ -10,10 +10,19 @@ icon: book
 ### Ediciones del _Diálogo_
 * Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. México: Imprenta de I. Escalante, 1872.
 
-*  Del Barco Centenera, Martín. La Argentina [1602]. Ed. Juan María Gutiérrez. Buenos Aires: Peuser, 1912.
+*  ———. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. [Facsímil disponible en:](https://cd.dgb.uanl.mx/handle/201504211/14092).
   
-* Del Barco Centenera, Martín. Argentina y Conquista del Río de la Plata [1602]. Ed. Silvia Tieffemberg. Universidad de Buenos Aires: Instituto de Literatura
-Hispanoamericana, 1998.
+* ——. _Diálogo sobre la historia de la pintura en México_. En Obras del Doctor D. José Bernardo Couto, tomo 13. México: V. Agüeros, 1898. [Facsimil disponible en:](http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html).
+
+——. _Diálogo sobre la historia de la pintura en México_, edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 1947. 
+
+——. _Diálogo sobre la historia de la pintura en México_, 1a. reimp., edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 1979.
+
+——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. en Cien de México, edición y estudio introductorio de Juana Gutiérrez Haces y notas de Rogelio Ruiz Gomar. México: Consejo Nacional para la Cultura y las Artes, 1995.
+
+——. _Diálogo sobre la historia de la pintura en México_, 1a. reimp. en Cien de México, edición y estudio introductorio de Juana Gutiérrez Haces y notas de Rogelio Ruiz Gomar. México: Consejo Nacional para la Cultura y las Artes, 2003.
+
+——. Diálogo sobre la historia de la pintura en México, 1a. ed. digital en España. Alicante: Biblioteca Virtual Miguel de Cervantes, 2004, HTML. [Disponible en:](https://www.cervantesvirtual.com/obra/dialogo-sobre-la-historia-de-la-pintura-en-mexico--0/)
 
 ### Estudios
 
