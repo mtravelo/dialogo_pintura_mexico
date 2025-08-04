@@ -10,5 +10,5 @@ type: extras
  <a class="no-underline" href="{{ site.baseurl }}/JGHestudio09.html">Juana Gutiérrez Haces, «Estudio introductorio» </a>
 
 
- Bibliografía
+  <a class="no-underline" href="{{ site.baseurl }}/03-biblio.md">Bibliografía</a>
 
