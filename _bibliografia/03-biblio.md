@@ -10,7 +10,7 @@ icon: book
 ### Ediciones del _Diálogo_
 Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. México: Imprenta de I. Escalante, 1872.
 
-———. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. Facsímil disponible en [Colección digital UANL](https://cd.dgb.uanl.mx/handle/201504211/14092){:target="_blank"}.
+——. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. Facsímil disponible en [Colección digital UANL](https://cd.dgb.uanl.mx/handle/201504211/14092){:target="_blank"}.
   
 ——. _Diálogo sobre la historia de la pintura en México_. En Obras del Doctor D. José Bernardo Couto, tomo 13. México: V. Agüeros, 1898. Facsímil disponible en [Colección digital UANL](http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html){:target="_blank"}.
 
@@ -41,7 +41,7 @@ Fernández, Justino. «La crítica de arte». En _El arte del siglo XIX en Méxi
 
 Gutiérrez Haces, Juana. «Estudio introductorio». En José Bernardo Couto, _Diálogo sobre la historia de la pintura en México_, 9-64. México: Consejo Nacional para la Cultura y las Artes, 1995.
 
-———. _Fortuna y decadencia de una generación. De prodigios de la pintura a glorias nacionales_, 94-101. México: Universidad Nacional Autónoma de México-Instituto de Investigaciones Estéticas, 2011.
+——. _Fortuna y decadencia de una generación. De prodigios de la pintura a glorias nacionales_, 94-101. México: Universidad Nacional Autónoma de México-Instituto de Investigaciones Estéticas, 2011.
 
 Rojas Garcidueñas, José. _Don Bernardo Couto, jurista, diplomático y escritor_, 41-52. Xalapa: Universidad Veracruzana, 1964.
 
@@ -52,12 +52,12 @@ Toussaint, Manuel. _Pintura colonial en México_, IX-X, 16-15, 89-90, 96-102, 10
 
 Koppke, Karolyna de Paula. «Considerações sobre a formação de uma galeria dedicada à ‘antigua escuela de pintura’ no México oitocentista». [_Revista de História da Arte e da Cultura_ 5, núm. 2 (2024): 87-102](https://econtents.bc.unicamp.br/inpec/index.php/rhac/article/view/19743){:target="_blank"}.
 
-Santiago Silva, José de y Renato González Mello. «Las galerías de pintura y el laberinto de palabras. La Academia de San Carlos y el Diálogo sobre la historia de la pintura en México, de José Bernardo Couto». _Anales del Instituto de Investigaciones Estéticas XIV_, núm. 123 (2023): 179-233](https://www.analesiie.unam.mx/index.php/analesiie/article/view/2834){:target="_blank"}.
+Santiago Silva, José de y Renato González Mello. «Las galerías de pintura y el laberinto de palabras. La Academia de San Carlos y el Diálogo sobre la historia de la pintura en México, de José Bernardo Couto». [_Anales del Instituto de Investigaciones Estéticas XIV_, núm. 123 (2023): 179-233](https://www.analesiie.unam.mx/index.php/analesiie/article/view/2834){:target="_blank"}.
 
 
 ### Tesis
 
 Colomer Hernández, Gabriela Donajo. «Diálogo sobre la historia de la pintura en México. Un criterio académico del arte a través de José Bernardo Couto». Tesis de licenciatura, Universidad Nacional Autónoma de México, 2006. Disponible en [TESIUNAM](
-https://tesiunam.dgb.unam.mx/F/CCPPTL4KQS2B79HIHMQAH19VFLMF4RHDVCQIQC2LAF7BNM7986-06331?func=full-set-set&set_number=029814&set_entry=000002&format=999).
+https://tesiunam.dgb.unam.mx/F/CCPPTL4KQS2B79HIHMQAH19VFLMF4RHDVCQIQC2LAF7BNM7986-06331?func=full-set-set&set_number=029814&set_entry=000002&format=999){:target="_blank"}.
 
 Gómez Guerrero, Isaías. (2000) «José Bernardo Couto: el historiador, dos trilogías y un diálogo». Tesis de maestría, Universidad Nacional Autónoma de México. 2000. [TESIUNAM](https://tesiunam.dgb.unam.mx/F/21K1ILGQ645GHKSI7ARMRE647K99ND869ENIKP454D15615S1Q-08934?func=full-set-set&set_number=062399&set_entry=000030&format=999){:target="_blank"}.
