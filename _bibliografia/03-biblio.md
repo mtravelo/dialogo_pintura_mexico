@@ -8,11 +8,11 @@ icon: book
 
 
 ### Ediciones del _Diálogo_
-* Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. México: Imprenta de I. Escalante, 1872.
+Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. México: Imprenta de I. Escalante, 1872.
 
-*  ———. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. [Facsímil disponible en:](https://cd.dgb.uanl.mx/handle/201504211/14092).
+———. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. Facsímil disponible en [Colección digital UANL](https://cd.dgb.uanl.mx/handle/201504211/14092){:target="_blank"}.
   
-* ——. _Diálogo sobre la historia de la pintura en México_. En Obras del Doctor D. José Bernardo Couto, tomo 13. México: V. Agüeros, 1898. [Facsimil disponible en:](http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html).
+——. _Diálogo sobre la historia de la pintura en México_. En Obras del Doctor D. José Bernardo Couto, tomo 13. México: V. Agüeros, 1898. Facsímil disponible en [Colección digital UANL](http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html){:target="_blank"}.
 
 ——. _Diálogo sobre la historia de la pintura en México_, edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 1947. 
 
@@ -22,26 +22,42 @@ icon: book
 
 ——. _Diálogo sobre la historia de la pintura en México_, 1a. reimp. en Cien de México, edición y estudio introductorio de Juana Gutiérrez Haces y notas de Rogelio Ruiz Gomar. México: Consejo Nacional para la Cultura y las Artes, 2003.
 
-——. Diálogo sobre la historia de la pintura en México, 1a. ed. digital en España. Alicante: Biblioteca Virtual Miguel de Cervantes, 2004, HTML. [Disponible en:](https://www.cervantesvirtual.com/obra/dialogo-sobre-la-historia-de-la-pintura-en-mexico--0/)
+——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. digital en España. Alicante: Biblioteca Virtual Miguel de Cervantes, 2004, HTML. Disponible en [Biblioteca Digital Miguel de Cervantes](https://www.cervantesvirtual.com/obra/dialogo-sobre-la-historia-de-la-pintura-en-mexico--0/){:target="_blank"}.
 
-### Estudios
+——. _Diálogo sobre la historia de la pintura en México_, 2a. ed., edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 2006.
 
-* Fitte, Ernesto (1963). Hambre y desnudeces en la conquista del Río de la Plata. Buenos Aires: Emecé.
-  
-* Tieffemberg, S. (1991). [Martín del Barco Centenera Argentina y conquista del Río de la Plata](http://repositorio.filo.uba.ar/handle/filodigital/1506). Universidad de Buenos Aires. Facultad de Filosofía y Letras.
-  
-* Vittori, José Luis (1991). Del Barco Centenera y “La Argentina”: orígenes del realismo mágico en América. Santa Fe: Colmegna.
+——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. electrónica en Argentina. Buenos Aires: Editorial del Cardo, 2006, PDF. Disponible en [Biblioteca Virtual Universal]( https://biblioteca.org.ar/libros/130476.pdf){:target="_blank"}.
+
+——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. electrónica en México, edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 2009, EPUB.
+
+——. _Diálogo sobre la historia de la pintura en México_, 2a. ed. electrónica en México, edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 2011, EPUB.
+
+
+### Capítulo de libro
+
+Carrillo y Gariel, Abelardo. _Las galerías de pintura de la Academia de San Carlos_, 32-33, 37, 39-43, 63. México: Universidad Nacional Autónoma de México -Instituto de Investigaciones Estéticas, 1944.
+
+Fernández, Justino. «La crítica de arte». En _El arte del siglo XIX en México_, 129-130. México: Universidad Nacional Autónoma de México-Instituto de Investigaciones Estéticas, 1967.
+
+Gutiérrez Haces, Juana. «Estudio introductorio». En José Bernardo Couto, _Diálogo sobre la historia de la pintura en México_, 9-64. México: Consejo Nacional para la Cultura y las Artes, 1995.
+
+———. _Fortuna y decadencia de una generación. De prodigios de la pintura a glorias nacionales_, 94-101. México: Universidad Nacional Autónoma de México-Instituto de Investigaciones Estéticas, 2011.
+
+Rojas Garcidueñas, José. _Don Bernardo Couto, jurista, diplomático y escritor_, 41-52. Xalapa: Universidad Veracruzana, 1964.
+
+Toussaint, Manuel. _Pintura colonial en México_, IX-X, 16-15, 89-90, 96-102, 105- 108, 110-112, 141-147, 151-153, 167-174, 177-180, 205-208, 214. México: UNAM-Instituto de Investigaciones Estéticas, 1965. 
+
 
 ### Artículos
 
-* Aldao, María Inés. (2014). [De sirenas, gigantes y apariciones: Maravilla y monstruosidad en Argentina y Conquista del Río de la Plata (1602), de Martín del Barco Centenera](http://rephip.unr.edu.ar/xmlui/handle/2133/15548).Badebec, 3(6).
+Koppke, Karolyna de Paula. «Considerações sobre a formação de uma galeria dedicada à ‘antigua escuela de pintura’ no México oitocentista». [_Revista de História da Arte e da Cultura_ 5, núm. 2 (2024): 87-102](https://econtents.bc.unicamp.br/inpec/index.php/rhac/article/view/19743){:target="_blank"}.
 
-* Apolinaire, E., & Bastourre, L. (2016). [Los documentos históricos de los primeros momentos de la conquista del Río de la Plata (siglos XVI-XVII): Una síntesis etnohistórica comparativa.](http://sedici.unlp.edu.ar/handle/10915/58501). Relaciones de la Sociedad Argentina de Antropología, 41(2).
+Santiago Silva, José de y Renato González Mello. «Las galerías de pintura y el laberinto de palabras. La Academia de San Carlos y el Diálogo sobre la historia de la pintura en México, de José Bernardo Couto». _Anales del Instituto de Investigaciones Estéticas XIV_, núm. 123 (2023): 179-233](https://www.analesiie.unam.mx/index.php/analesiie/article/view/2834){:target="_blank"}.
 
-### Capítulos de libro
 
-* Maturo, Graciela. (2004). “Humanismo y denuncia en la épica cómica de Martín del Barco Centenera”. Graciela Maturo (Dir.). Relectura de las crónicas coloniales del Cono
-Sur. Buenos Aires: Facultad de Filosofía y Letras de la Universidad del Salvador, pp.31-73.
+### Tesis
 
-* Tieffemberg, Silvia.(1996). “Disputas y debates en torno a un poema: la Argentina de Barco Centenera”. Noé Jitrik (Dir.). Atípicos en la literatura latinoamericana.
-Buenos Aires: Instituto de Literatura Hispanoamericana, pp. 365-372.
+Colomer Hernández, Gabriela Donajo. «Diálogo sobre la historia de la pintura en México. Un criterio académico del arte a través de José Bernardo Couto». Tesis de licenciatura, Universidad Nacional Autónoma de México, 2006. Disponible en [TESIUNAM](
+https://tesiunam.dgb.unam.mx/F/CCPPTL4KQS2B79HIHMQAH19VFLMF4RHDVCQIQC2LAF7BNM7986-06331?func=full-set-set&set_number=029814&set_entry=000002&format=999).
+
+Gómez Guerrero, Isaías. (2000) «José Bernardo Couto: el historiador, dos trilogías y un diálogo». Tesis de maestría, Universidad Nacional Autónoma de México. 2000. [TESIUNAM](https://tesiunam.dgb.unam.mx/F/21K1ILGQ645GHKSI7ARMRE647K99ND869ENIKP454D15615S1Q-08934?func=full-set-set&set_number=062399&set_entry=000030&format=999){:target="_blank"}.
