@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bibliografía
-permalink: /bibliografia/
+permalink: 03-biblio
 type: extras
 icon: book
 ---
