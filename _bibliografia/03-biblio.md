@@ -33,7 +33,7 @@ Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. M�
 ——. _Diálogo sobre la historia de la pintura en México_, 2a. ed. electrónica en México, edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 2011, EPUB.
 
 
-### Capítulo de libro
+### Capítulos de libro
 
 Carrillo y Gariel, Abelardo. _Las galerías de pintura de la Academia de San Carlos_, 32-33, 37, 39-43, 63. México: Universidad Nacional Autónoma de México -Instituto de Investigaciones Estéticas, 1944.
 
@@ -60,4 +60,4 @@ Santiago Silva, José de y Renato González Mello. «Las galerías de pintura y 
 Colomer Hernández, Gabriela Donajo. «Diálogo sobre la historia de la pintura en México. Un criterio académico del arte a través de José Bernardo Couto». Tesis de licenciatura, Universidad Nacional Autónoma de México, 2006. Disponible en [TESIUNAM](
 https://tesiunam.dgb.unam.mx/F/CCPPTL4KQS2B79HIHMQAH19VFLMF4RHDVCQIQC2LAF7BNM7986-06331?func=full-set-set&set_number=029814&set_entry=000002&format=999){:target="_blank"}.
 
-Gómez Guerrero, Isaías. (2000) «José Bernardo Couto: el historiador, dos trilogías y un diálogo». Tesis de maestría, Universidad Nacional Autónoma de México. 2000. [TESIUNAM](https://tesiunam.dgb.unam.mx/F/21K1ILGQ645GHKSI7ARMRE647K99ND869ENIKP454D15615S1Q-08934?func=full-set-set&set_number=062399&set_entry=000030&format=999){:target="_blank"}.
+Gómez Guerrero, Isaías. «José Bernardo Couto: el historiador, dos trilogías y un diálogo». Tesis de maestría, Universidad Nacional Autónoma de México. 2000. [TESIUNAM](https://tesiunam.dgb.unam.mx/F/21K1ILGQ645GHKSI7ARMRE647K99ND869ENIKP454D15615S1Q-08934?func=full-set-set&set_number=062399&set_entry=000030&format=999){:target="_blank"}.
