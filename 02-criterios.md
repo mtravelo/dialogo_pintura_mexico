@@ -46,15 +46,21 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <li> Se corrigió la acentuación según las normas actuales.</li>
 <li> Se unifomó el uso de comillas americanas (“”) por angulares («»).</li>
 <li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
-<li> Se conservó el número de página original</li>
+<li> Se conservó ela paginación original.</li>
 </ul>
 <p>El «Estudio introductorio» de Juana Gutiérrez Haces y las notas críticas de Rogelio Ruiz Gomar se tomaron de José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i> (México: Consejo Nacional para la Cultura y las Artes, 1995)</p>
+
+<p>Se conservó la páginación y original del texto de Gutiérrez Haces.</p>
+
+<p>Los números de las notas de Ruiz Gomar están en un color distinto (verde) y entre corchetes para advertir al lector que no son del original.</p>
 
 </details>
 
 <details>
-<summary><span style="font-size: 20px;">Sistemas de citación</span></summary>
-<p>Se conservaron las referencias bibliográficas originales del <i>Diálogo</i> y los paratextos («Noticia biográfica del autor», «Estudio introductorio» y notas críticas).</p>
+<summary><span style="font-size: 20px;">Referencias bibliográficas</span></summary>
+<p>Se conservaron las referencias en las notas del <i>Diálogo</i> y de «Noticia biográfica del autor»</p>
+
+<p> Se mantuvo el sistema latino-humanístico en «Estudio introductorio» y notas críticas.</p>
 
 <p> Se usó el sistema Chicago en las referencias de esta edición y en la bibliografía de Recursos de consulta.</p>
 

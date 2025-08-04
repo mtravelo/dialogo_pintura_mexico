@@ -26,3 +26,5 @@ collections:
       output: true
     noticia:
       output: true
+    bibliografia:
+      output: true
