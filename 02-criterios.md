@@ -72,6 +72,6 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 Citar esta edición como: 
 
-<p style="font-size: 16px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenos Aires: CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
+<p style="font-size: 14px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenos Aires: CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
 
 
