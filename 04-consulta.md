@@ -12,3 +12,5 @@ type: extras
 
   <a class="no-underline" href="{{ site.baseurl }}/03-biblio">Bibliografía</a>
 
+  <a class="no-underline" href="{{ site.baseurl }}/03-search">Búsqueda</a>
+
