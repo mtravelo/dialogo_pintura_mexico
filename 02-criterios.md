@@ -50,9 +50,11 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 </ul>
 <p>El «Estudio introductorio» de Juana Gutiérrez Haces y las notas críticas de Rogelio Ruiz Gomar se tomaron de José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i> (México: Consejo Nacional para la Cultura y las Artes, 1995).</p>
 
-<p>Se conservó la páginación y original del texto de Gutiérrez Haces.</p>
+<ul>
+<li>Se conservó la páginación y original del texto de Gutiérrez Haces.</li>
 
-<p>Los números de las notas de Ruiz Gomar están en un color distinto (verde) y entre corchetes para advertir al lector que no son del original.</p>
+<li>Los números de las notas de Ruiz Gomar están en un color distinto (verde) y entre corchetes para advertir al lector que no son del original.</li>
+</ul>
 
 </details>
 
@@ -70,6 +72,6 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 Citar esta edición como: 
 
-<p style="font-size: 14px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenos Aires: CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
+<p style="font-size: 16px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenos Aires: CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
 
 
