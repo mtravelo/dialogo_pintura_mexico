@@ -25,7 +25,7 @@ Diseño y desarrollo de plantilla web: grupo responsable del HD LAB
 Asesoría técnica: Gabriel Calarco (HD LAB)  
 Revisión: Itzel Rodríguez González y Jaime Soler Frost (IIE)  
 Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda (IIE)  
-Digitalización de textos de consulta: María Teresa Marín (IIE)
+Digitalización de textos de consulta: María Teresa Marín (IIE)  
 Gestión de permisos de reproducción de paratextos (IIE)
 
 * * *
