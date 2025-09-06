@@ -51,7 +51,7 @@ Toussaint, Manuel. _Pintura colonial en México_, caps. III, IX, XI, XIV-XVIII, 
 
 ### Artículos
 
-Hernández-Durán, Ray.  «“Nombres dignos de memoria”: redactando la historia del arte mexicano en el siglo diecinueve» / «“Nombres dignos de memoria”: Writing the History of Mexican Art in the Nineteenth-Century». [_Revista de História da Arte e da Cultura_, núm. 24 (2915): 11-127](https://econtents.bc.unicamp.br/inpec/index.php/rhac/article/view/13375){:target="_blank"}.
+Hernández-Durán, Ray.  «“Nombres dignos de memoria”: redactando la historia del arte mexicano en el siglo diecinueve» / «“Nombres dignos de memoria”: Writing the History of Mexican Art in the Nineteenth-Century». [_Revista de História da Arte e da Cultura_, núm. 24 (2015): 11-127](https://econtents.bc.unicamp.br/inpec/index.php/rhac/article/view/13375){:target="_blank"}.
 
 Koppke, Karolyna de Paula. «Considerações sobre a formação de uma galeria dedicada à ‘antigua escuela de pintura’ no México oitocentista». [_Revista de História da Arte e da Cultura_ 5, núm. 2 (2024): 87-102](https://econtents.bc.unicamp.br/inpec/index.php/rhac/article/view/19743){:target="_blank"}.
 
