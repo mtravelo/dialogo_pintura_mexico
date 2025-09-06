@@ -40,7 +40,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 </details>
 <details>
 <summary><span style="font-size: 20px;">Paratextos</span></summary>
-<p>La «Noticia biográfica del autor» se tomó de <i>Obras del Doctor D. José Bernardo Couto</i>, tomo 13 (México: V. Agüeros, 1898). Disponible en: <a href="http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html" target="_blank">Colección Digital UANL</a>.</p>
+<p>La «Noticia del autor» se tomó de <i>Obras del Doctor D. José Bernardo Couto</i>, tomo 13 (México: V. Agüeros, 1898). Disponible en: <a href="http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html" target="_blank">Colección Digital UANL</a>.</p>
 <ul>
 <li>Se modernizó la ortografía, la puntuación, y el uso de mayúsculas y minúsculas</li>
 <li> Se corrigió la acentuación según las normas actuales.</li>
