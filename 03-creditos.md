@@ -28,11 +28,6 @@ Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda (IIE)
 Digitalización de textos de consulta: María Teresa Marín (IIE)  
 Gestión de permisos de reproducción: Lourdes Padilla  Cabrera (IIE)
 
-* * *
-
-1a. ed. digital en México: 13 de agosto de 2025
-
-© «Estudio introductorio»
 
 
 
