@@ -16,7 +16,7 @@ Ciudad Universitaria,
 04510, Alcaldía Coyoacán, Ciudad de México
  
 
-<a href="https://www.esteticas.unam.mx/" target="blank">Instituo de Investigaciones Estéticas</a>  
+<a href="https://www.esteticas.unam.mx/" target="blank">Instituto de Investigaciones Estéticas</a>  
 Tel.: 5255 5622 7250, ext. 85026  
 [libroest@unam.mx](mailto:libroest@unam.mx)   
  
