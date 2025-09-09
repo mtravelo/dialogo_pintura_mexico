@@ -22,5 +22,11 @@ Timeline JS del  <a href="//timeline.knightlab.com/" target="_blank">Knight LAB<
     
 La edición se enriqueció con notas críticas de Rogelio Ruiz Gomar y el «Estudio introductorio» de Juana Gutiérrez Haces, historiadores del arte expertos en el periodo virreinal, y otros recursos de consulta.
     
+  * * *
+  
+  Citar esta edición como: 
+  
+  <p style="font-size: 14px;"> José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>, edición de María Teresa Ravelo. México: UNAM-Instituto de Investigaciones Estéticas/Buenos Aires: CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
+    
 
 
