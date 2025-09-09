@@ -10,9 +10,9 @@ icon: book
 ### Ediciones del _Diálogo_
 Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. México: Imprenta de I. Escalante, 1872.
 
-——. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. Facsímil disponible en: [Colección Digital UANL](https://cd.dgb.uanl.mx/handle/201504211/14092){:target="_blank"}.
+——. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. Facsímil disponible en: [Colección Digital UANL](https://cd.dgb.uanl.mx/handle/201504211/14092){:target="_blank"} y en: [Biblioteca Digital Hispánica](https://bdh-rd.bne.es/viewer.vm?id=0000101761&page=1){:target="_blank"}.
   
-——. _Diálogo sobre la historia de la pintura en México_. En Obras del Doctor D. José Bernardo Couto, tomo 13. México: V. Agüeros, 1898. Facsímil disponible en: [Colección Digital UANL](http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html){:target="_blank"}.
+——. _Diálogo sobre la historia de la pintura en México_. En _Obras del Doctor D. José Bernardo Couto.  Tomo I. Opúsculos varios_,  México: V. Agüeros, 1898. Facsímil disponible en: [Colección Digital UANL](http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html){:target="_blank"}.
 
 ——. _Diálogo sobre la historia de la pintura en México_, edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 1947. 
 
@@ -46,7 +46,7 @@ Gutiérrez Haces, Juana. «Estudio introductorio». En José Bernardo Couto, _Di
 
 Rojas Garcidueñas, José. _Don Bernardo Couto, jurista, diplomático y escritor_, 41-52. Xalapa: Universidad Veracruzana, 1964.
 
-Toussaint, Manuel. _Pintura colonial en México_, caps. III, IX, XI, XIV-XVIII, XXII-XXVII, XXI-XXII. México: UNAM-Instituto de Investigaciones Estéticas, 1965. 
+Toussaint, Manuel. _Pintura colonial en México_, caps. III, IX, XI, XIV-XVIII, XXII-XXVII, XXXI-XXXII. México: Universidad Nacional Autónoma de México-Instituto de Investigaciones Estéticas, 1965. 
 
 
 ### Artículos
