@@ -30,9 +30,11 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
 
-<li> Se añadieron notas editoriales con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. </li>
+<li> Se añadieron notas de contexto con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. </li>
 
-<li> En cada nombre de persona o institución anotados se añadió la referencia al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés Virtual International Authority File).</li>
+<li> Cada nombre de persona o institución tiene un enlace al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés, Virtual International Authority File).</li>
+
+<li>Se inlcuyeron vínculos de georreferenciación en las ciudades.</li>
 
 <li> Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.</li>
 </ul>
