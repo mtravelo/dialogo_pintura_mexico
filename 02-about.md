@@ -13,7 +13,7 @@ Velázquez Guadarrama y con el apoyo del Archivo Fotográfico Manuel Toussaint y
 que estén disponibles para el lector especializado y el público interesado en la historia y el arte mexicanos.
 
 La edición fue parte del trabajo final del Máster en Humanidades Digitales  —Universidad Nacional de Educación a Distancia (UNED), España— que cursé gracias al apoyo del IIE y terminé con la tutoría de Gimena del Río Riande. Tomé como modelo las ediciones del 
-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, CONICET, Argentina (<a href="https://hdlab.space/" target="_blank">HD LAB</a>) y usé el diseño web que ha desarrollado el grupo responsable.
+Laboratorio de Humanidades Digitales, dirigido por ellas, del Instituto de Investigaciones Bibliográficas y Crítica Textual, CONICET, Argentina (<a href="https://hdlab.space/" target="_blank">HD LAB</a>), y usé el diseño web que ha desarrollado el grupo responsable.
 
 El proyecto emplea el estándar 
 <a href="https://tei-c.org/" target="_blank">Text Encoding Initiative</a> (XML-TEI) y sigue principios de <a href="https://go-dh.github.io/mincomp/about/" target="_blank">Minimal Computing</a>. La cronología fue realizada con 
