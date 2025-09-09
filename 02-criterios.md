@@ -8,7 +8,7 @@ type: extras
 <summary><span style="font-size: 20px;"><i>Diálogo</i></span></summary>
 
 <p>El testimonio del <i>Diálogo</i> es el ejemplar que se conserva en el 
-Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM: José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i> (México: Oficina Tipográfica de la Secretaría de Fomento, 1889).</p>
+Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigaciones Estéticas, UNAM: José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>. México: Oficina Tipográfica de la Secretaría de Fomento, 1889.</p>
                 
 <p>En esta edición se ha modernizado la ortografía, la puntuación, y el uso de mayúsculas y minúsculas:</p>
 
@@ -42,7 +42,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 </details>
 <details>
 <summary><span style="font-size: 20px;">Paratextos</span></summary>
-<p>La «Noticia del autor» se tomó de <i>Obras del Doctor D. José Bernardo Couto</i>, tomo 13 (México: V. Agüeros, 1898). Disponible en: <a href="http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html" target="_blank">Colección Digital UANL</a>.</p>
+<p>La «Noticia del autor» se tomó de <i>Obras del Doctor D. José Bernardo Couto. Tomo I. Opúsculos varios</i>. México: V. Agüeros, 1898. Disponible en: <a href="http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html" target="_blank">Colección Digital UANL</a>.</p>
 <ul>
 <li>Se modernizó la ortografía, la puntuación, y el uso de mayúsculas y minúsculas</li>
 <li> Se corrigió la acentuación según las normas actuales.</li>
@@ -50,7 +50,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
 <li> Se conservó la paginación original.</li>
 </ul>
-<p>El «Estudio introductorio» de Juana Gutiérrez Haces y las notas críticas de Rogelio Ruiz Gomar se tomaron de José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i> (México: Consejo Nacional para la Cultura y las Artes, 1995).</p>
+<p>El «Estudio introductorio» de Juana Gutiérrez Haces y las notas críticas de Rogelio Ruiz Gomar se tomaron de José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>. México: Consejo Nacional para la Cultura y las Artes, 1995.</p>
 
 <ul>
 <li>Se conservó la páginación y original del texto de Gutiérrez Haces.</li>

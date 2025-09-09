@@ -22,7 +22,7 @@ Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. M�
 
 ——. _Diálogo sobre la historia de la pintura en México_, 1a. reimp. en Cien de México, edición y estudio introductorio de Juana Gutiérrez Haces y notas de Rogelio Ruiz Gomar. México: Consejo Nacional para la Cultura y las Artes, 2003.
 
-——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. digital en España. Alicante: Biblioteca Virtual Miguel de Cervantes, 2004, HTML. Disponible en: [Biblioteca Digital Miguel de Cervantes](https://www.cervantesvirtual.com/obra/dialogo-sobre-la-historia-de-la-pintura-en-mexico--0/){:target="_blank"}.
+——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. digital en España. Alicante: Biblioteca Virtual Miguel de Cervantes, 2004, HTML. Disponible en: [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/obra/dialogo-sobre-la-historia-de-la-pintura-en-mexico--0/){:target="_blank"}.
 
 ——. _Diálogo sobre la historia de la pintura en México_, 2a. ed., edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 2006.
 
