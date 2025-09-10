@@ -62,7 +62,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <details>
 <summary><span style="font-size: 20px;">Referencias bibliográficas</span></summary>
-<p>Se conservaron las referencias en las notas del <i>Diálogo</i> y de «Noticia biográfica del autor».</p>
+<p>Se respetó cómo se citan las fuentes  en las notas del <i>Diálogo</i> y de «Noticia del autor».</p>
 
 <p> Se mantuvo el sistema latino-humanístico en «Estudio introductorio» y notas críticas.</p>
 
