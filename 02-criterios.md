@@ -28,9 +28,13 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <li> Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).</li>
 
-<li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
+<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, la cuales se señalan el color rojo.</li>
 
-<li> Se añadieron notas de contexto con información sobre personas, instituciones, lugares y sucesos aludidos en el texto. </li>
+<li> Se empleó el recurso de una minipestaña con barra de desplazamiento en las notas para que pueda seguirse la lectura cuando el texto es extenso.</li>
+
+<li> Se conservó la numeración con letra de dos notas de edición original con la indicación [N.E. original].</li>
+
+<li> Se señalaron nombres de personas, instituciones, lugares y sucesos con notas de contexto que aparecen en ventanas emergentes (<i>pop up</i>).</li>
 
 <li> Cada nombre de persona o institución tiene un enlace al Fichero de Autoridades Virtual e Internacional (VIAF por sus siglas en inglés, Virtual International Authority File).</li>
 
@@ -44,18 +48,19 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <summary><span style="font-size: 20px;">Paratextos</span></summary>
 <p>La «Noticia del autor» se tomó de <i>Obras del Doctor D. José Bernardo Couto. Tomo I. Opúsculos varios</i>. México: V. Agüeros, 1898. Disponible en: <a href="http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html" target="_blank">Colección Digital UANL</a>.</p>
 <ul>
-<li>Se modernizó la ortografía, la puntuación, y el uso de mayúsculas y minúsculas</li>
+<li>Se modernizó la ortografía, la puntuación, y el uso de mayúsculas y minúsculas.</li>
 <li> Se corrigió la acentuación según las normas actuales.</li>
 <li> Se unifomó el uso de comillas americanas (“”) por angulares («»).</li>
-<li> Se respetó la ubicación de las llamadas de notas después de signo de puntuación por corresponder al uso en México.</li>
-<li> Se conservó la paginación original.</li>
+<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, la cuales se señalan el color rojo.</li>
+<li> Se empleó el recurso de una minipestaña con barra de desplazamiento en las notas para que pueda seguirse la lectura cuando el texto es extenso.</li>
+<li> Se conservó la paginación original en números romanos.</li>
 </ul>
 <p>El «Estudio introductorio» de Juana Gutiérrez Haces y las notas críticas de Rogelio Ruiz Gomar se tomaron de José Bernardo Couto, <i>Diálogo sobre la historia de la pintura en México</i>. México: Consejo Nacional para la Cultura y las Artes, 1995.</p>
 
 <ul>
-<li>Se conservó la páginación y original del texto de Gutiérrez Haces.</li>
+<li>Se conservó la páginación original del texto de Gutiérrez Haces.</li>
 
-<li>Los números de las notas de Ruiz Gomar están en un color distinto (verde) y entre corchetes para advertir al lector que no son del original.</li>
+<li>Los números de las notas de Ruiz Gomar están en un color distinto (verde) y entre corchetes para advertir al lector que no son del original con la indicación [N.R.R.G.].</li>
 </ul>
 
 </details>

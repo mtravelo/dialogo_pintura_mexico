@@ -20,6 +20,8 @@ Timeline JS del  <a href="//timeline.knightlab.com/" target="_blank">Knight LAB<
       
     
 La edición se enriqueció con notas críticas de Rogelio Ruiz Gomar y el «Estudio introductorio» de Juana Gutiérrez Haces, historiadores del arte expertos en el periodo virreinal, así como otros recursos de consulta.
+
+María Teresa Ravelo
     
   * * *
   
