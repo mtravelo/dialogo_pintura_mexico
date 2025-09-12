@@ -19,7 +19,8 @@ El proyecto emplea
 Timeline JS del  <a href="//timeline.knightlab.com/" target="_blank">Knight LAB</a>.
       
     
-La edición se enriqueció con notas críticas de Rogelio Ruiz Gomar y el «Estudio introductorio» de Juana Gutiérrez Haces, historiadores del arte expertos en el periodo virreinal, así como otros recursos de consulta.
+La edición se enriqueció con notas de contexto, vínculos al <a href="https://viaf.org/es" target="_blank">
+Fichero de Autoridades Virtual e Internacional</a> (VIAF por sus siglas en inglés, Virtual International Authority File), georreferenciación, notas críticas de Rogelio Ruiz Gomar y el «Estudio introductorio» de Juana Gutiérrez Haces, historiadores del arte expertos en el periodo virreinal, así como otros recursos de consulta.
 
 María Teresa Ravelo
     
