@@ -28,7 +28,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <li> Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).</li>
 
-<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, la cuales se señalan el color rojo.</li>
+<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, las cuales se señalan el color rojo.</li>
 
 <li> Se empleó el recurso de una minipestaña con barra de desplazamiento en las notas para que pueda seguirse la lectura cuando el texto es extenso.</li>
 
@@ -40,7 +40,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <li>Se incluyeron vínculos de georreferenciación en las ciudades.</li>
 
-<li> Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>,  México: Academia Mexicana de la Lengua, 2014.</li>
+<li> Los poemas de Bernado de Balbuena se uniformaron de acuerdo con la edición de Luis Íñigo-Madrigal de la <i>Grandeza mexicana</i>.  México: Academia Mexicana de la Lengua, 2014.</li>
 </ul>
 
 </details>
@@ -51,7 +51,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <li>Se modernizó la ortografía, la puntuación, y el uso de mayúsculas y minúsculas.</li>
 <li> Se corrigió la acentuación según las normas actuales.</li>
 <li> Se unifomó el uso de comillas americanas (“”) por angulares («»).</li>
-<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, la cuales se señalan el color rojo.</li>
+<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, las cuales se señalan el color rojo.</li>
 <li> Se empleó el recurso de una minipestaña con barra de desplazamiento en las notas para que pueda seguirse la lectura cuando el texto es extenso.</li>
 <li> Se conservó la paginación original en números romanos.</li>
 </ul>
@@ -67,12 +67,13 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <details>
 <summary><span style="font-size: 20px;">Referencias bibliográficas</span></summary>
-<p>Se respetó cómo se citan las fuentes  en las notas del <i>Diálogo</i> y de «Noticia del autor».</p>
+<ul>
+<li>Se respetó cómo se citan las fuentes  en las notas del <i>Diálogo</i> y de «Noticia del autor».</li>
 
-<p> Se mantuvo el sistema latino-humanístico en «Estudio introductorio» y notas críticas.</p>
+<li> Se mantuvo el sistema latino-humanístico en el «Estudio introductorio» de Juana Gutiérrez Haces y en las notas de Rogelio Ruiz Gomar.</li>
 
-<p> Se usó el sistema Chicago en las referencias de esta edición y en la bibliografía de Recursos de consulta.</p>
-
+<li> Se usó el sistema Chicago en las referencias de esta edición y en la bibliografía de Recursos de consulta.</li>
+</ul>
 </details>
 
 

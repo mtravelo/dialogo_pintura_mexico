@@ -27,7 +27,7 @@ Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. M�
 ——. _Diálogo sobre la historia de la pintura en México_, 2a. ed., edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 2006.
 
 ——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. electrónica en Argentina. Buenos Aires: Editorial del Cardo, 2006, PDF. Disponible en:
- [Biblioteca Virtual Universal]( https://biblioteca.org.ar/libros/130476.pdf){:target="_blank"}.
+ [Biblioteca Virtual Universal]( https://biblioteca.org.ar/libros/130476.pdf){:target="_blank"}. Consultado en 2024.
 
 ——. _Diálogo sobre la historia de la pintura en México_, 1a. ed. electrónica en México, edición, prólogo, notas e índice analítico de Manuel Toussaint. México: Fondo de Cultura Económica, 2009, EPUB.
 
