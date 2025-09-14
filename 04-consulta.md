@@ -5,8 +5,9 @@ permalink: /consulta/
 type: extras
 ---
 
-<a class="no-underline" href="{{ site.baseurl }}/noticia_biografica05.html">«Noticia del autor»</a>
-
+<div>
+<a class="no-underline" href="{{ site.baseurl }}/noticia_biografica05.html"><h3>«Noticia del autor»</h3></a>
+</div>
  <a class="no-underline" href="{{ site.baseurl }}/JGHestudio09.html">Juana Gutiérrez Haces, «Estudio introductorio» </a>
 
 <div class="py-1 mb-0 prose">
