@@ -8,7 +8,7 @@ type: extras
 <div>
 <a class="no-underline" href="{{ site.baseurl }}/noticia_biografica05.html"><h3>«Noticia del autor»</h3></a>
 </div>
- <a class="no-underline" href="{{ site.baseurl }}/JGHestudio09.html">Juana Gutiérrez Haces, «Estudio introductorio» </a>
+ <!-- <a class="no-underline" href="{{ site.baseurl }}/JGHestudio09.html">Juana Gutiérrez Haces, «Estudio introductorio» </a> -->
 
 <div class="py-1 mb-0 prose">
   <a class="no-underline" data-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapseExample"><h3 class="h3-index"> Juana Gutiérrez Haces, «Estudio introductorio» <span class="caret"/></h3></a>
