@@ -22,7 +22,10 @@ type: extras
 
 <p></p>
 
-  <a class="no-underline" href="{{ site.baseurl }}/03-biblio">Bibliografía</a>
+<div>
+  <a class="no-underline" href="{{ site.baseurl }}/03-biblio"><h3>Bibliografía</h3 ></a>
+  </div>
 
-  <a class="no-underline" href="{{ site.baseurl }}/03-search">Búsqueda</a>
-
+<div>
+  <a class="no-underline" href="{{ site.baseurl }}/03-search"><h3>Búsqueda</h3></a>
+</div>
