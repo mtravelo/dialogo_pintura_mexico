@@ -5,7 +5,7 @@
 
 //Create the lunr index for the search
 var index = elasticlunr(function () {
-  // this.addField('section')
+  this.addField('section')
   this.addField('pagenum')
   this.addField('layout')
   this.addField('content')
@@ -14,7 +14,7 @@ var index = elasticlunr(function () {
 
 {% assign count = 0 %}{% for text in site.dialogos %}
 index.addDoc({
-  // section: {{text.section | jsonify}},
+  section: {{text.section | jsonify}},
   pagenum: {{text.pagenum | jsonify}},
   layout: {{text.layout | jsonify}},
   content: {{text.content | jsonify | strip_html}},
@@ -23,7 +23,7 @@ index.addDoc({
 console.log( jQuery.type(index) );
 
 var store = [{% for text in site.dialogos %}{
-  // "section": {{text.section | jsonify}},
+  "section": {{text.section | jsonify}},
   "pagenum": {{text.pagenum | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
