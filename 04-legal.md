@@ -24,10 +24,10 @@ Esta obra está licenciada por el Instituto de Investigaciones  Estéticas. Uste
 
  
 2025 CC BY 4.0 <a href="https://hdlab.space/" target="blank">HD Lab</a>  
-Biblioteca digital. ISSN 3072-7715
-Marcelo T. de Alvear 1694, Buenos Aires (CABA), Argentina
+Biblioteca digital. ISSN 3072-7715  
+Marcelo T. de Alvear 1694, Buenos Aires (CABA), Argentina  
+Teléfono 5411 4129 1158  
 [secrit@conicet.gov.ar](mailto:secrit@conicet.gov.ar) / [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com)
-Teléfono 5411 4129 1158
 
 Hecho en México
 
