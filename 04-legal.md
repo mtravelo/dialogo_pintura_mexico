@@ -23,7 +23,7 @@ Teléfono: 5255 5622 7250, ext. 85026
 Esta obra está licenciada por el Instituto de Investigaciones  Estéticas. Usted es libre de utilizarla con fines académicos, no  lucrativos, ni comerciales. Al hacer uso de este material, usted  se compromete en todo momento a respetar los derechos del autor   y  citar de manera correcta dando los créditos respectivos. Lo invitamos a leer el texto íntegro de la <a href="http://www.ebooks.esteticas.unam.mx/derechos_autor" target="_blank">Licencia</a>
 
  
-2025 CC BY 4.0 <a href="https://hdlab.space/" target="blank">HD Lab</a>  
+2025 CC BY 4.0 <a href="https://hdlab.space/" target="blank">HD LAB</a>  
 Biblioteca digital. ISSN 3072-7715  
 Marcelo T. de Alvear 1694, Buenos Aires (CABA), Argentina  
 Teléfono 5411 4129 1158  
