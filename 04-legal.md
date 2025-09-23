@@ -12,9 +12,7 @@ type: extras
 
 D.R. © 2025 Universidad Nacional Autónoma de México,
 Avenida Universidad 3000,  
-Ciudad Universitaria, 04510, Alcaldía Coyoacán, Ciudad de México, México
- 
-
+Ciudad Universitaria, 04510, Alcaldía Coyoacán, Ciudad de México, México  
 <a href="https://www.esteticas.unam.mx/" target="blank">Instituto de Investigaciones Estéticas</a>  
 Teléfono: 5255 5622 7250, ext. 85026  
 [libroest@unam.mx](mailto:libroest@unam.mx)   
