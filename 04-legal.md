@@ -26,7 +26,6 @@ Marcelo T. de Alvear 1694, Buenos Aires (CABA), Argentina
 Teléfono 5411 4129 1158  
 [secrit@conicet.gov.ar](mailto:secrit@conicet.gov.ar) / [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com)
 
-Hecho en México
 
 
 
