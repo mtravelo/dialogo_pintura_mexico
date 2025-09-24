@@ -20,7 +20,7 @@ Timeline JS del  <a href="//timeline.knightlab.com/" target="_blank">Knight LAB<
       
     
 La edición se enriqueció con notas de contexto, vínculos al <a href="https://viaf.org/es" target="_blank">
-Fichero de Autoridades Virtual e Internacional</a> (VIAF por sus siglas en inglés, Virtual International Authority File), georreferenciación, notas críticas de Rogelio Ruiz Gomar y el «Estudio introductorio» de Juana Gutiérrez Haces, así como otros recursos de consulta.
+Fichero de Autoridades Virtual e Internacional</a> (VIAF por sus siglas en inglés, Virtual International Authority File), georreferenciación, notas de Rogelio Ruiz Gomar y el «Estudio introductorio» de Juana Gutiérrez Haces, así como otros recursos de consulta.
 
 María Teresa Ravelo
     
