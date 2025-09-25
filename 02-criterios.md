@@ -14,7 +14,10 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <ul>
 <li> Se corrigió la acentuación según las normas actuales.</li>
+
 <li> Se conservó el acento en pronombres demostrativos con función pronominal como éste, ése, ésta.</li>
+
+<li> Se conservó el acento en el adverbio sólo.</li>
 
 <li> Se normalizaron  nombres; por ejemplo, <i>Balbuena</i> por <i>Valbuena</i>.</li>
 
