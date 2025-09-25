@@ -1,2 +1,2 @@
-# dialogo_pintura_mexico
-Repositorio de materiales de la edición digital de _Diálogo sobre la historia de la pintura en México_ de José Bernardo Couto, realizada por el Instituto de Investigaciones Estéticas de la UNAM en colaboración en el HD LAB, disponible en (https://mtravelo.github.io/dialogo_pintura_mexico//){:target="_blank"}
+# Diálogo sobre la historia de la pintura en México
+Repositorio de materiales de la edición digital de _Diálogo sobre la historia de la pintura en México_ de José Bernardo Couto, realizada por el Instituto de Investigaciones Estéticas de la UNAM en colaboración en el HD LAB, disponible en <a href="https://www.esteticas.unam.mx/" target="blank">https://mtravelo.github.io/dialogo_pintura_mexico//</a>
