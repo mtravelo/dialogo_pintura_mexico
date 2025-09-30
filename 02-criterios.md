@@ -31,7 +31,7 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <li> Se unifomó el uso de comillas americanas (“”) y angulares («») por angulares («»).</li>
 
-<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, las cuales se señalan el color rojo.</li>
+<li> Se respetó la ubicación de las llamadas de las notas después del signo de puntuación por corresponder al uso en México, las cuales se señalan en color rojo.</li>
 
 <li> Se empleó el recurso de una minipestaña con barra de desplazamiento en las notas para que pueda seguirse la lectura cuando el texto es extenso.</li>
 
