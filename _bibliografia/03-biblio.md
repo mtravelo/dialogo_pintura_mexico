@@ -64,3 +64,8 @@ Colomer Hernández, Gabriela Donajo. «Diálogo sobre la historia de la pintura 
 https://tesiunam.dgb.unam.mx/F/CCPPTL4KQS2B79HIHMQAH19VFLMF4RHDVCQIQC2LAF7BNM7986-06331?func=full-set-set&set_number=029814&set_entry=000002&format=999){:target="_blank"}.
 
 Gómez Guerrero, Isaías. «José Bernardo Couto: el historiador, dos trilogías y un diálogo». Tesis de maestría, Universidad Nacional Autónoma de México, 2000. Disponible en: [TESIUNAM](https://tesiunam.dgb.unam.mx/F/21K1ILGQ645GHKSI7ARMRE647K99ND869ENIKP454D15615S1Q-08934?func=full-set-set&set_number=062399&set_entry=000030&format=999){:target="_blank"}.
+
+### Reseñas
+
+Juan Manuel Yánez García, «_Diálogo sobre la historia de la pintura en México_, José Bernardo Couto». En _Veinticinco años de la Biblioteca Fray Francisco de Burgos de la ciudad de Oaxaca_, coordinado por Selene del Carmen García Jiménez. Oaxaca: Universidad Autónoma Benito Juárez de Oaxaca, 2021. Disponible en [Academia.edu](
+https://www.academia.edu/103353729/Di%C3%A1logo_sobre_historia_de_la_pintura_en_Mexico).
