@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="13" facs="#p13"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>conocemos en México 
 es <persName ref="http://viaf.org/viaf/309813029" xml:id="SA">Sebastián de Arteaga</persName>,<note type="editorial" resp="MTRS">Sebastián López de Arteaga (Sevilla, 1610-Ciudad de México, 1656). Pintor barroco español que introdujo el estilo en la entonces Nueva España, ahora México. Fue uno de los pintores más destacados de cuadros religiosos, con un estilo tenebrista de fuertes </note> 
 de quien
@@ -202,13 +202,13 @@ no puede ponerse gran confianza en sus noticias
 porque generalmente son inexactas.
 </p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Estoy notando que usted se conforma con contradecir
 los orígenes del arte que se le indican y se guarda de
 mostrarnos cómo cree que tuvo principio en México.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Yo pienso que quienes trajeron acá el arte de la 
 pintura, y empezaron a enseñarlo a los indios, fueron los</p>

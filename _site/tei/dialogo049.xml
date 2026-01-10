@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="49" facs="#p49"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>En las obras de este célebre maestro me ha parecido
 observar dos tonos distintos correspondientes a dos 
@@ -83,7 +83,7 @@ de Dios pertenece a la época primera y los bocetos a la
 segunda. La diferencia de entonación en el color salta
 luego a la vista.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Efectivamente, el san Juan de Dios recuerda bastante
 la manera de los pintores de quienes hemos venido
@@ -91,7 +91,7 @@ mirando cuadros hasta aquí, al paso que los bocetos
 parecen marcar el punto de partida de la escuela de Ibarra,
 Cabrera, etcétera.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Todavía la diferencia se haría más sensible si 
 pudiéramos cotejar el mismo san Juan de Dios con otras 

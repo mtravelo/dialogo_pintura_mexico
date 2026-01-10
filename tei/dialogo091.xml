@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="91" facs="#p91"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <p>estatuaria, produzca colmados frutos y corresponda a la
 civilización de la época. La arquitectura si no es la más
 bella de las tres artes, es la primogénita entre las
@@ -77,7 +77,7 @@ las ciudades y las naciones. Las dos hermanas menores
 vienen luego a decorar y ataviar lo que ha hecho la 
 mayor. Pero en todas materias antes es lo útil que lo bello.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Hagamos votos por el adelantamiento de todas.
 Con esto terminó nuestra plática y nos separamos.</p>

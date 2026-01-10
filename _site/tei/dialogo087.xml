@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="87" facs="#p87"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>estaban brindando excelentes fondos en una tierra 
 como México, donde la naturaleza se ostenta tan variada,
 tan rica, tan galana que parece que se pavonea para ser
@@ -89,7 +89,7 @@ sólo las familias, sino los cuerpos todos, las comunidades,
 los colegios hacían copiar a cuantas personas de su
 seno llegaban a distinguirse de algún modo.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Y a fe que algunos de esos retratos no carecen de
 mérito, como los que nos ha dejado <persName ref="#JRJ">Juan Rodríguez Juárez</persName>
@@ -101,7 +101,7 @@ México a iguales pasos que la pintura. Ni escultores ni
 arquitectos conozco que hayan ganado la reputación que
 los pintores que hemos venido mencionando.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Ya otros habían hecho esa observación, pero limitada
 a la escultura. Me acuerdo que algún escritor de fines</p>

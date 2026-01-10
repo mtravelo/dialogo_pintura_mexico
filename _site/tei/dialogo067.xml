@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="67" facs="#p67"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Me parece que dijo usted antes que en rededor de 
 <persName ref="#MC">Cabrera</persName> se agrupaban algunos de los pintores sus 
@@ -76,7 +76,7 @@ en su taller. Yo tengo notado que se le parecen,
 aunque disten bastante de él casi todos los que conozco de
 su tiempo.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Si alguno puede estar a su lado, creo que es don 
 <persName ref="http://viaf.org/viaf/96161240" xml:id="FV">Francisco Antonio Vallejo</persName>,<note type="editorial" resp="MTRS">Francisco Antonio Vallejo (Ciudad de México, 1722-1785). Pintor novohispano del barroco tardío.</note> 
@@ -84,19 +84,19 @@ de quien tenemos en esta
 galería aquella Purísima que nos vino de la parroquia de
 Coyoacán.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Ya usted sabe la estima que he hecho de ese hábil 
 pintor desde que examinamos juntos el gran cuadro que
 hay en la escalera de la Universidad y me hizo usted ver
 en el Colegio de San Ildefonso los que allí trabajó.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Pesado
 ¿<persName ref="#FV">Vallejo</persName> era, pues, coetáneo de <persName ref="#MC">Cabrera</persName>?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Con él fue nombrado como uno de los primeros
 maestros de la ciudad para el reconocimiento de la imagen

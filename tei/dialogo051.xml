@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="51" facs="#p51"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>padre.<hi rend="superscript">47</hi> <note type="autor" xml:id="nota47"><hi rend="superscript">47</hi> 
 <bibl><title><hi rend="italic">Museo pictórico</hi></title>, tercer tomo, artículo «Bartolomé Esteban 
@@ -93,18 +93,18 @@ cierto es que en <persName ref="#JRJ">Juan Rodríguez</persName> encontramos una
 verdadera novedad, una revolución (como ahora dicen) en
 la pintura.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Un maestro, sin embargo, conozco que no la siguió,
 y era de aquel tiempo, según usted me ha dicho,
 <persName ref="#CV">Cristóbal de Villalpando</persName>.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>En efecto, hay pinturas de él, a lo menos desde <date when="1683">1683</date>
 hasta <date when="1710">1710</date>.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p><persName ref="#CV">Villalpando</persName> se me ha hecho notable, en primer lugar,
 por la gran desigualdad de sus obras. En algunas se 

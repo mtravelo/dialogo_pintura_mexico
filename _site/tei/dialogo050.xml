@@ -67,12 +67,12 @@
 <body>
 <div>
 <pb n="50" facs="#p50"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>constara que todas son de un autor, yo diría que entre
 aquella y éstas había mediado un siglo, según lo que 
 varía el colorido.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Yo no sé si la novedad hecha por <persName ref="JRJ">Juan Rodríguez</persName> 
 debe atribuirse, al menos en parte, a inspiración venida

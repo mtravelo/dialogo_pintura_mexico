@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="17" facs="#p17"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>pronta para doctrinar a gentes rudas, que no sabían leer,
 y a quienes era preciso meter las cosas por los ojos.
@@ -75,7 +75,7 @@ mayor número de obras artísticas, y debió contribuir a
 que la pintura y escultura tomaran desde temprano 
 mucho vuelo.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Reducido al principio el arte a la simple copia, 
 aunque se produjeran bastantes obras, no podía hacer 
@@ -84,7 +84,7 @@ y la composición. Fuera de que yo me figuro que al
 principio no vendrían a las Américas cuadros y 
 modelos de primera clase.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Alguna muestra de lo que venía se ha conservado 
 hasta nuestro tiempo y por ahí puede juzgarse. El 
@@ -96,7 +96,7 @@ metropolitana.<hi rend="superscript">16</hi><note type="autor" xml:id="nota16"><
 <title><hi rend="italic">Noticia de la deseada y última dedicación del templo
 metropolitano de México</hi></title>, en <date when="1667-12-22">22 de diciembre de 1667</date>, p. 26, vuelta.</bibl></note></p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Decía yo que no vendrían en los primeros tiempos
 obras muy importantes porque en España misma 

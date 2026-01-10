@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="57" facs="#p57"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>años no se creía que sus obras hubieran sido hechas aquí
 y se atribuían a artistas extranjeros. Había, por 
 ejemplo, quien porfiaba haber visto desencajonar, traída de
@@ -82,7 +82,7 @@ faltaba.<hi rend="superscript">51</hi> <note type="autor"
 xml:id="nota51"><hi rend="superscript">51</hi> 
 <bibl><title><hi  rend="italic">Escudo de armas de México</hi></title>, lib. 2, cap. 8, núm. 333.</bibl></note></p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>De esas preocupaciones hay en todos tiempos y en
 todos los países. Acuérdate del Cupido que Miguel Ángel
@@ -93,7 +93,7 @@ Y eso en la ciudad y en el siglo más cultos en materia
 de bellas artes, en la Roma de Julio <num type="ordinal" value="2">II</num> 
 y Leon <num type="ordinal" value="10">X</num>.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>No daría poco que reír a <persName ref="=#JI">Ibarra</persName> la disputa de los que
 habían visto llegar del extranjero su cuadro si bien
@@ -102,7 +102,7 @@ chistes se le escaparían en la ocasión porque parece que era
 hombre decidor, de cierta vena y que aun cultivaba la
 poesía.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>No recuerdo haber visto nada suyo en ese género.</p>
 </sp>

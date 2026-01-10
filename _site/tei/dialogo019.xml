@@ -65,7 +65,7 @@
 <body>
 <div>
 <pb n="19" facs="#p19"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>aquí se iban formando eran muy extremados oficiales,
 sino que según se le significaba, a su juicio, ni aquel tan
 nombrado pintor como fue el muy 
@@ -93,12 +93,12 @@ queda siempre lo bastante para que creamos que
 algunos de nuestros paisanos eran, a lo menos, regulares
 copistas.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Pero todavía eso no es el arte, es apenas el principio
 de su aprendizaje.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Mas antes de acabar el siglo <num value="16"></num>XVI se había ya aquí
 salido de la estrechez de la copia y empezádose a

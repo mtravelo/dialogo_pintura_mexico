@@ -67,13 +67,13 @@
 <body>
 <div>
 <pb n="55" facs="#p55"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>está formado con inteligencia, y la figura de la Virgen,
 que con ternura maternal aparta el rostro para no ver
 el acto, es interesante. En los otros cuadros suyos que
 están ahí á los lados, se nota igual pericia y gusto.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Lo más importante que de <persName ref="#JI">Ibarra</persName> conozco en México
 son los dos lienzos que cubren las testeras del aula 

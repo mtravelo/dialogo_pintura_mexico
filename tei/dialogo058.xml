@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="58" facs="#p58"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>La muestra que conozco es de versos según la moda
 de su época en México, versos de conceptos y agudezas.
@@ -76,12 +76,12 @@ lo que entonces privaba.<hi rend="superscript">52</hi> <note type="autor" xml:id
 <bibl>Véase en la <title><hi  rend="italic">Biblioteca</hi></title> de Beristáin el artículo «Buzeta (fray Pedro
 José)».</bibl></note></p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Ibarra nos conduce como por la mano al taller de 
 Cabrera, con quien tuvo buena amistad según ha dicho usted.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Juzgo que Ibarra era un poco mayor en años que 
 Cabrera. De las relaciones de ambos quedan hartos 
@@ -91,7 +91,7 @@ contemporáneos y la conservan en la posteridad. Sus
 nombres andan juntos en nuestras bocas y casi nunca
 pronunciamos el de uno sin recordar al otro.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>La buena amistad de esos dos maestros es una 
 lección para ciertos artistas que, sin ser lo que ellos fueron,

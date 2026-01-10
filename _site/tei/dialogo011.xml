@@ -65,7 +65,7 @@
 <body>
 <div>
 <pb n="11" facs="#p11"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>los documentos de aquella oficina se encontrasen 
 todos los particulares que acabo de referir. La segunda
 me dijo que los había sacado de unos apuntes del 
@@ -76,12 +76,12 @@ firmaba sus cuadros Rodrigo de Cifuentes era ésta: una
 llevaba inscritas una <hi rend="italic">o</hi> y una 
 <hi rend="italic">c</hi>, y arriba una <hi rend="italic">s</hi>.</p>
 </sp>
-<sp>
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Paréceme que usted tiene algún empacho<note type="editorial" resp="MTRS">En el español de México significa “reparo”</note> en admitir de
 plano las noticias del conde.</p>
 </sp>
-<sp>
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Meses pasados platicaba sobre ellas con el señor don 
 Fernando Ramírez, a quien también dieron en rostro por

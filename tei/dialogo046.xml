@@ -67,12 +67,12 @@
 <body>
 <div>
 <pb n="46" facs="#p46"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>la ejercitaba por afición. Era también hábil retratista.
 He visto de su mano un niño, sobrino del señor Santa
 Cruz, obispo de Puebla, ejecutado no sin gracia.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>En este cuadro de santa Gertrudis es notable la 
 dificultad que presentaba el pensamiento que sirvió de tema
@@ -92,7 +92,7 @@ conjunto de la composición dan a la obra cierto aspecto
 de seriedad y alteza, en que se detiene no sin miramiento
 el espectador.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Las pinturas que en Tepozotlán nos llamaron la 
 atención son de <persName ref="http://viaf.org/viaf/95750441" xml:id="JRJ">Juan Rodríguez Juárez</persName><note type="editorial" resp="MTRS">Juan Rodríguez Juáez (Ciudad de México, 1675-1728 ). Pintor novohispano que perteneció a una numerosa familia de pintores: bisnieto de Luis Juárez, nieto de José Juárez, hijo de Antonio Rodríguez y hermano Nicolás Rodríguez Juárez.</note> 

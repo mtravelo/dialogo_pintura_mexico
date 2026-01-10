@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="90" facs="#p90"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>monte de las Cruces y el de Río Frío, cruza toda la mesa
 central de la cordillera y va a buscar por Orizaba y
 Córdoba el descenso al mar. Alguna de las partes que
@@ -79,13 +79,13 @@ a quien se proponga escribir la historia de esta arte en
 México no le faltará materia y ha de encontrar
 nombres dignos de memoria.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Acabas de pronunciar el de Tresguerras y veo ahí
 un cuadrito de su mano que me parece representar la
 infancia de la Virgen.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Presente que me hizo mi bondadoso amigo el licenciado don
 Víctor Covarrubias y que creí deber colocar en esta 
@@ -103,7 +103,7 @@ alabanzas propias, todo con una ingenuidad, una ufanía casi infantiles.
 Su vanidad no ofende, por lo mismo que se presenta sin el menor 
 embozo de fingida modestia.</note></p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Ahora que en la Academia se ha establecido la 
 enseñanza de esa noble arte con la extensión y plenitud que

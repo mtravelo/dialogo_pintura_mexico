@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="56" facs="#p56"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>a pesar de las propuestas que le hicimos. Es un Calvario
 que exhala un perfume de devoción que se comunica al
 espectador. Y tiene la particularidad de haber sido 
@@ -78,7 +78,7 @@ noviembre de ese año.<hi rend="superscript">48</hi><note type="autor" xml:id="n
 histórica sobre la aparición de María Santísima de Guadalupe</hi></title>, cap. 3, 
 § 15, núm. 210.</bibl></note></p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>A juzgar por la porción de obras que ha dejado 
 dentro y fuera de la capital, su vida debió ser larga y 
@@ -86,7 +86,7 @@ laboriosa, pues acababa bien lo que hacía y no era de los
 artistas que buscan el efecto en unos cuantos toques 
 dados con bizarría.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Frescamente se ha escrito que nació en <date when="1688">1688</date>, aunque
 no se señala la fuente de donde se tomó la 

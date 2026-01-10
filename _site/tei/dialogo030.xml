@@ -67,17 +67,17 @@
 <body>
 <div>
 <pb n="30" facs="#p30"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>trayendo en las garras una corona de espinas. ¡Qué
 emblema! Otros pintores nuestros habrán, si se quiere,
 igualado a Echave en la ejecución; en la invención, en
 los pensamientos, creo que ninguno.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿Y de su persona has recogido noticias?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Todos dicen que era vizcaíno, y algunos señalan por
 lugar de su nacimiento a Zumaya, en la provincia de
@@ -114,7 +114,7 @@ lo hubiese visto Vargas Ponce.</bibl></note>
 <persName ref="#BEO">Echave</persName> no era en su familia el único artista; también su mujer
 pintaba, y sospecho que una hija, y quizá un hijo suyo.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Ahora recuerdo que Balbuena alude sin duda a eso,
 cuando, al hablar de los artistas de la ciudad, dice que

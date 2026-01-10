@@ -65,7 +65,7 @@
 <body>
 <div>
 <pb n="5" facs="#p5"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>No querría tanto. Sé que esas pinturas, de grande 
 interés para la arqueología y la historia, no lo son 
@@ -84,7 +84,7 @@ la naturaleza, como animales de ingrata vista. Todo
 indica que en las razas indígenas no estaba despierto el 
 sentido de la belleza, que es de donde procede el arte.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>El sentido de la belleza ha sido dado a pocos pueblos
 en la tierra. Los griegos entre los antiguos, y los 

@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="31" facs="#p31"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Si dejamos a Pesado decir versos, nos relatará de coro
 toda la <title ><hi rend="italic">Grandeza Mexicana</hi></title>, y por añadidura algunos 
@@ -89,13 +89,13 @@ de Echave el primero, a quien tuvo por marido y discípulo, y de
 cuyos padres no degeneraron sus hijos».</quote></cit> <bibl>Don <author>Cayetano Cabrera</author>, <title><hi rend="italic">Escudo
 de armas de México</hi></title>, lib. 2, cap. 5, núm. 291.</bibl></note></p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Si tal hubiera sido, merecería esa artista dos coronas;
 una por haber ella manejado los pinceles y otra por 
 haberlos puesto en manos de <persName ref="#BEO">Echave</persName>.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Juzgando yo por simples reminiscencias, y después
 de no pocos años de ausencia de mi país, la filiación que

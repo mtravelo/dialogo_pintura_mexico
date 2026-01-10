@@ -77,11 +77,11 @@ nuestro asunto de la pintura, al amanecer del siglo
 nota en los cuadros que hay aquí de <persName ref="#BEO">Baltasar de Echave</persName> el
 <rs ref="#BEO">Viejo</rs>, o sea, el primero...</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿Por qué le das esos nombres?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Porque así le llamaron nuestros antiguos escritores,<hi rend="superscript">28</hi><note type="autor" 
 xml:id="nota28"><hi rend="superscript">28</hi> <bibl>Véase por ejemplo 

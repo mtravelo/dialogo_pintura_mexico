@@ -67,13 +67,13 @@
 <body>
 <div>
 <pb n="26" facs="#p26"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>nosotros, pintó en tabla catorce cuadros, de los cuales
 cedieron los padres a la Academia estos dos, que se
 han reemplazado con copias fieles, colocadas en los 
 sitios mismos que los originales ocupaban.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Buenas pinturas ahora que las veo atentamente. Esta
 Virgen de la Visitación, en el acto de ser recibida por
@@ -86,7 +86,7 @@ casos. Si bien por la edad forma cierto contraste con
 la Virgen, es, sin embargo, una matrona que no queda
 desairada al lado de la visita.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Yo, sin embargo, quiero dar la preferencia a esa otra
 Virgen del cuadro de la aparición de san Francisco.
@@ -94,12 +94,12 @@ Buena es la persona del Salvador que está a su izquierda;
 pero la Virgen es tan modesta, tan acabada, que aun
 tiene para mí cierto sabor de escuela rafaelesca</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿Y estos dos cuadros de la Adoracion de Reyes y la
 Oracion del Huerto?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Son del mismo <persName ref="#BEO">Echave</persName>: ahí tienes su firma en el primero.
 Nos los cedieron los padres del oratorio de San

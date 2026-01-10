@@ -65,7 +65,7 @@
 <body>
 <div>
 <pb n="12" facs="#p12"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>hubiera retratado en Coatzacoalcos a doña Marina porque
 sólo se detuvieron allí seis días y para entonces había
 ella roto sus relaciones con Cortés, habiéndose casado
@@ -101,7 +101,7 @@ Virgen en Santa Teresa la Antigua, y del segundo
 soberbias pinturas en San Francisco y San Agustín.<hi rend="superscript">9</hi><note type="autor" xml:id="nota9"><hi rend="superscript">9</hi> 
 <bibl><title><hi rend="italic">Le Mexique</hi></title>, París, 1830, tomo 2, carta XI, p. 203</bibl>.</note></p>
 </sp>
-<sp>
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>No son ésas las únicas ni quizá las mayores 
 equivocaciones del viajero piamontés. El pintor Arteaga que</p>

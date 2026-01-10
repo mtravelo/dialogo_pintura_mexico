@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="14" facs="#p14"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>misioneros. El documento más antiguo que conozco en
 el particular es la carta del primer obispo de Tlaxcala,
 don fray <persName ref="http://viaf.org/viaf/53980718">Julián Garcés</persName>,<note type="editorial" resp="MTRS">Julián Garcés (Zaragoza, 
@@ -96,11 +96,11 @@ Religioso franciscano,  educador  y defensor de los pueblos originarios. Fundado
 escuela de San José de Belén para la nobleza indígena, primera escuela de artes y oficios.</note> en la capilla de San
 José, que él mismo edificó.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>¿Se sabe dónde estuvo esa capilla?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Advierta usted que, aunque se le dio tal nombre, era un 
 edificio vasto, sin puertas, de muchas naves, que luego

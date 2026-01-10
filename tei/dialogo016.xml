@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="16" facs="#p16"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>Parece ser que estuvo limitada a la simple copia de los
 cuadros y esculturas que por entonces se traían de 
 España, Italia 
@@ -87,7 +87,7 @@ de cuadros y estatuas, ya por la multitud de templos
 que en todas partes se levantaban, ya por el método de
 catequizaron que con los indios se usó.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Bien veo a que aludes en lo último que acabas de 
 decir. Una parte de la enseñanza, especialmente en lo que

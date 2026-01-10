@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="10" facs="#p10"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>Bartolomé de Mesa a pintar la sala capitular; que diez
 años después, el día <date when="1523-10-02">2 de octubre</date>, cuando se ajustaban
 apenas dos años de
@@ -125,11 +125,11 @@ pinceles.<hi rend="superscript">5</hi><note type="autor" xml:id="nota5"><hi rend
 <bibl>En el <title><hi rend="italic">Diccionario universal de historia y de geografía</hi></title>, que con amplias adiciones reimprimió en México don Rafael Rafael, 1853, tomo 2, p. 314.</bibl></note>
 </p>
 </sp>
-<sp>
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿De dónde tomaría nuestro amigo tan curiosas noticias?</p>
 </sp>
-<sp>
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Dos ocasiones se lo pregunté: la primera me señaló
 como fuentes el archivo de la Casa de Contratación de

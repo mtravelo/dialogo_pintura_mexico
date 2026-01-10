@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="41" facs="#p41"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>sean éstas dos las mejores. <persName ref="#JC">Correa</persName> pintó mucho: suyos
 son, entre otros, los dos cuadros del purgatorio que están
 a los costados del altar del Perdón en Catedral, y tienen
@@ -85,13 +85,13 @@ papel aceitado, en el cual se habían tomado al trasluz
 los perfiles de la imagen. Mezquina traza para un 
 artista.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>El estudio de <persName>Nuestra Señora de Guadalupe</persName><note type="editorial" resp="MTRS">Advocación mariana de la Iglesia católica de México.  De acuerdo con la tradición oral y documentación histórica, María, madre de Jesús, se apareció cinco veces al indio Juan Diego (del 9 al 12 de diciembre de 1531) en el cerro del Tepeyac para pedirle que se construyera un templo y contactara al obispo Juan de Zumárraga para llevarlo a cabo, quien dudó de esto y exigió una prueba. En la última aparición Juan Diego llevó su ayate o manta con flores que ella solicitó, cuando regresó a la casa arzobispal y desplegó su tilma la imagen de la Virgen estaba impresa con rasgos mestizos.</note>
  creo que
 fue cosa que ocupó mucho a los pintores de aquel tiempo.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Desde que en <date when="1648">1648</date> publicó el presbítero Miguel 
 Sánchez la primera historia de la aparición, se fijó la 

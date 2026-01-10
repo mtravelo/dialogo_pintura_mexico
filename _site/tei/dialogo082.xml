@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="82" facs="#p82"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <p>exactamente se ha observado lo mismo en todas partes,
 vuelvan ustedes los ojos a los países donde han prevalecido
 de tres siglos para acá las sectas iconoclastas; y a
@@ -76,7 +76,7 @@ reunido circunstancias sumamente favorables para el
 desarrollo de las nobles artes, en vano se buscará allí la
 pintura.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Hay, sin embargo, un género en que acaso podrá 
 todavía emplearse y que hace poco mencionábamos, la

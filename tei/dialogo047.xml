@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="47" facs="#p47"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <p>tinta que hay sobre del rostro de la Virgen y expresa
 la sombra que le forma el tocado que lleva en la cabeza.
 En el conjunto de los cuadros nos pareció notar alguna
@@ -77,7 +77,7 @@ Antonio, ambas de su mano, justamente celebradas. Pero
 de su persona no tengo noticias, supongo que algo
 habrás tú averiguado.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Dícese que era hermano del presbítero <persName ref="#NRJ">Nicolás</persName> y 
 ambos sobrinos de <persName ref="#JJ">José Juárez</persName>. Debió nacer el año de <date when="1675">1675</date>

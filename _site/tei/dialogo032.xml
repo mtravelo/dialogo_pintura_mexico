@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="32" facs="#p32"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Tengo presente que me la comunicó usted hace
 tiempo. Y debiéramos darnos el parabién en México, si 
@@ -78,12 +78,12 @@ sabio, tan devoto, tan profundo!»</quote></cit>.<hi rend="superscript">35</hi><
 <bibl>En la oración citada en la 
 nota 17.</bibl></note></p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿De quién son estos cuadros que han puesto ustedes en
 seguida de los de <persName ref="#BEO">Echave</persName>?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>De <persName ref="http://viaf.org/viaf/223137517" xml:id="LJ">Luis Juárez</persName>,<note type="editoral" resp="MTRS">Luis Juárez de Alcaudete (Alcaudete, <hi>ca.</hi> 1585-Ciudad de México, 1639). Pintor novohispano del siglo XVII del que se conservan obras en retablo y óleos sobre madera y tela. Fundador de una dinastía de pintores que incluye a José Juárez y Juan Rodríguez Juárez.</note> 
 el primero de los cuatro pintores

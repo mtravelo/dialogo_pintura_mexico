@@ -67,18 +67,18 @@
 <body>
 <div>
 <pb n="52" facs="#p52"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>Asunción de Nuestra Señora, la gloria de san Miguel,
 su lucha con el Dragón, el triunfo de la Eucaristía o de
 la fe, etcétera. Aquel hombre manejaba el lápiz y el pincel
 a grandes tajos.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Alguna vez he considerado esos cuadros y me ha 
 parecido que su autor concebía como un poeta.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Sí, como un poeta, pero del tiempo de <persName ref=" http://viaf.org/viaf/12309145">Góngora</persName><note type="editorial" resp="MTRS">Luis de Góngora y Argote (Córdoba, 1561-1627).  Poeta y dramaturgo español del Siglo de Oro, máximo representante del culteranismo, corriente literaria del barroco en España.</note> 
 y <persName ref="http://viaf.org/viaf/56604566">Villegas</persName>.<note type="editorial" resp="MTRS">Francisco de Quevedo y Villegas (Madrid, 1580, Ciudad Real, 1645). Político y literato español del Siglo de Oro perteneciente a la  corriente conceptista.</note> 

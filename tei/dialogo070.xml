@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="69" facs="#p69"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>La observación que sobre ella hace usted es exacta. Por
 lo demás, la regla de agrupar es como todas las reglas,
@@ -75,7 +75,7 @@ se necesita tino para aplicarla y hay casos en que
 conviene no seguirla. El talento de un artista está en saber
 usar las reglas.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Otro cuadro hay en la misma sacristía que no tiene
 firma, pero que supongo ser también de <persName ref="#FV">Vallejo</persName> y 
@@ -89,12 +89,12 @@ existe en la capilla alta de la Casa de Ejercicios de la
 Profesa. En general <persName ref="#FV">Vallejo</persName> tiene la facilidad, la blandura
 y la belleza que caracterizan a <persName ref="#MC">Cabrera</persName>.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>De los otros pintores que mentaste hablando de éste,
 no veo que hayan ustedes adquirido obras.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Aquí tenemos de <persName ref="http://viaf.org/viaf/96667863" xml:id="JPM">Juan Patricio Morlete Ruiz</persName>,<note type="editorial" resp="MTRS">Juan Patricio Morlete Ruiz (Guanajuato, 1713-Ciudad de México, 1772). Pintor novohispano que producía retratos, vistas urbanas, motivos devotos y pintura de castas.</note> 
 ese 

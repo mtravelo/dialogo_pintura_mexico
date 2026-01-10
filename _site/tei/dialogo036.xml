@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="36" facs="#p36"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Dije, en efecto, que por el Santo Cristo que está en
 la sacristía de la Colegiata de Guadalupe consta que
@@ -89,7 +89,7 @@ Tomás, metiendo la mano en la llaga del costado de
 Cristo, que hay en el presbiterio de la iglesia de San
 Agustín, sobre la puerta que da a la sacristía.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Pues a fe que si por ésta del desposorio hemos de 
 juzgar de su habilidad, debemos sentir que el señor 
@@ -97,7 +97,7 @@ notario no se hubiera dejado los procesos, los expedientes y
 toda la balumba de papeles de la notaría para darse 
 exclusivamente al pincel y los colores.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>La composición, aunque sencilla, está bien ideada.
 Un pontífice colocado en el centro toma con una de sus

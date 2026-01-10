@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="35" facs="#p35"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>bien entendido, y un total en que descansa regaladamente
 la vista. Tengo también por de <persName ref="#JJ">José Juárez</persName>,
 aunque no están firmados, los tres grandes lienzos que hay
@@ -80,11 +80,11 @@ ya en aquel sitio cuando el padre <author>Vetancurt</author>
 escribía su <title><hi rend="italic">Crónica</hi></title>, pues los menciona en el tratado 2o., cap. 32, 
 número 41.</bibl></note></p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿Sabes la época precisa en que pintaba?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>En la portería de San Diego hay un cuadro apaisado
 del niño Jesús y san Juan, firmado de su mano y con
@@ -96,7 +96,7 @@ cristalina, símbolo de la pureza sacerdotal, y es de 1698.
 De manera que trabajó en la ciudad al menos por 
 espacio de <num type="cardinal" value="56">56</num> años.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Creo que has dicho antes que hacia el mismo tiempo
 florecía <persName ref="#SA">Sebastián de Arteaga</persName>, a quien <persName ref="#GB">Beltrami</persName>  supuso

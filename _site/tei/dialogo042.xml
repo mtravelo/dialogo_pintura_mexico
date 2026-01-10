@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="42" facs="#p42"/>
-<sp who="Couto">
+<sp who="#couto">
 <p><persName>López de Ávalos</persName>,<note type="editorial" resp="MTRS">Sebastián López de Dávalos o Ávalos (Puebla, <hi rend="italic">ca.</hi> 1615-Ciudad de México, <hi rend="italic">ca.</hi> 1690). Pintor novohispano activo durante del primer tercio del siglo XVII relacionado con la imagen más venerada en México.</note>
 Nicolás de Fuenlabrada, Nicolás de
 Angulo, Juan Sánchez y Alonso Zárate; sus obras, 
@@ -92,7 +92,7 @@ y de los cuatro de los lados, uno es san Ignacio, y otro
 san Felipe Neri. El retablo en que están no carecería
 de gracia y es lástima que no se conserve con más aseo</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Recuerdo a usted que en una pieza de abajo tenemos
 un lienzo de gran tamaño, que representa el 
@@ -123,7 +123,7 @@ de la 2a. edición. Yo no sé si éste es el Ramírez de que habló Ceán Bermú
 Academia, y otro que he visto firmado de su nombre, en poder del mismo señor
 Lucio.</note></p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Pues por lo que veo, hubo en México no corto número
 de pintores en el siglo <num value="17">XVII</num>.</p>

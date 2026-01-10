@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="85" facs="#p85"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>dominó por todo el siglo <num value="18">XVIII</num>. Yo tengo la sospecha de
 que durante él los profesores para componer sus obras
 se guiaban más por estampas y grabados que por el
@@ -82,7 +82,7 @@ blandura, que parece inspirada por el dulce ambiente
 que en este país se respira y que copia bien la índole
 de sus habitantes.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Por lo que he podido notar, otra cualidad de distinto
 orden señala también a la escuela, y la honra en sumo
@@ -91,7 +91,7 @@ cosa rara encontrar obra suya que ofenda la vista.
 Recuerden ustedes lo que ha sido la pintura en algunos países y
 en manos de ciertos profesores.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Los de México parece que habían oído ya la elocuente
 declamación de nuestro sabio compatriota el doctor don

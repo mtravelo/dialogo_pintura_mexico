@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="15" facs="#p15"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>Puso también escuela de pintura; y el padre 
 Torquemada recordaba que él había alcanzado a ver en la 
 fragua de los herreros y, en otra sala grande, algunas cajas
@@ -75,7 +75,7 @@ si bien al tiempo que escribía no quedaba ya rastro de
 aquello.<hi rend="superscript">13</hi><note type="autor" xml:id="nota13"> <hi rend="superscript">13</hi> <bibl><title><hi rend="italic">Monarquía 
 indiana</hi></title>, lib. 17, cap. 2, y lib. 20, cap. 19. </bibl></note></p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¡En qué materia no tendremos los mexicanos que ir
 a buscar la primera cuna de nuestra civilización en el
@@ -84,12 +84,12 @@ decía que Francia era una monarquía creada por los
 obispos, en menor escala México fue realmente una 
 sociedad formada por ellos y por los misioneros.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>¿Pero usted cree que el mismo padre Gante enseñaba a
 los indios a pintar?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Así parecen indicarlo los términos en que se 
 explican los escritores antiguos.<hi rend="superscript">14</hi><note type="autor" xml:id="nota14"><hi rend="superscript">14</hi>

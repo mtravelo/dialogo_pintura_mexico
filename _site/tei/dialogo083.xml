@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="83" facs="#p83"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>del gran salón construido en la fachada. Los frescos
 que allí trabajen nuestros alumnos no sólo les servirán
@@ -79,7 +79,7 @@ logramos que el público forme su paladar y tome gusto
 a estas cosas. Tal es la mira que nos hemos propuesto.
 </p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Los espejos, que tanto te escuecen y tan mala 
 competencia hacen a la pintura, siempre gustarán en el
@@ -93,7 +93,7 @@ de la pintura en México, holgárame de que el señor
 Clavé nos manifestase el sentir que ella le ha inspirado,
 vista en su conjunto y por mayor.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Si tomamos la escuela desde <persName ref="#BEO">Baltasar de Echave</persName>, 
 porque para juzgar de lo que le precedió faltan

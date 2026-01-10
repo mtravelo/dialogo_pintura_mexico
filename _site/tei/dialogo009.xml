@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="9" facs="#p9"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>Este último lo fabricaban también de ixtle y de
 maguey, de algodón y de algunas otras materias. Para los
 colores se servían de tierras minerales, palos de tinte y
@@ -84,7 +84,7 @@ dibujos, y hace honor a sus sentimientos, y es que
 siempre presentaban cubierto en las figuras de uno y otro
 sexo lo que el pudor quiere que se oculte.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Mas sea lo que fuere de las obras de los indios, ellas
 nada tienen que hacer con la pintura que hoy usamos,
@@ -99,7 +99,7 @@ la tierra los hombres y las artes de Europa. ¿Se ha
 logrado averiguar quién fue el primer maestro que pasó a
 Nueva España?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Nuestro difunto amigo el conde de la Cortina 
 escribió que fue un Rodrigo de Cifuentes, nacido en <placeName ref="http://sws.geonames.org/2519240" xml:id="recogito-b29ec293-eff1-47cc-96e7-6f19ba592e47" cert="high">Córdoba</placeName>,

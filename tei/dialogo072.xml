@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="72" facs="#p72"/>
-<sp who="Couto">
+<sp who="#couto">
 <p><persName ref="#JRJ">Juárez</persName>. De Andrés López hay aquella Verónica, que
 parece trabajada pelo a pelo como si fuera obra de 
 miniatura, y en el General de San Ildefonso está el 
@@ -86,13 +86,13 @@ bajos de la Merced, algún cuadro digno de estima, como
 el del coro, en que cantan los religiosos con atavíos de
 ángeles. Trabajaba en <date when="1797">1797</date>.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Junto al retrato de Carcanio veo ahí un san Luis
 Gonzaga de <persName ref="#JA">José Alcíbar</persName>, a quien varias veces han 
 mentado ustedes.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>El último de nuestros pintores de nombre y en el
 que se cierra la antigua escuela mexicana, que vimos

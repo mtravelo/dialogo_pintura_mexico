@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="75" facs="#p75"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>prueba de la verdad de lo que acabo de decir, pues cuando
 el arte llegó a su apogeo en la escuela de <persName ref="#MC">Cabrera</persName>, él y
 los otros profesores se dieron modo de plantear una
@@ -77,7 +77,7 @@ verdad, llama la atención. Hay, pues, que buscar otras
 causas para explicar el hecho de haber decaído aquí la
 pintura, cuando se abrió esta escuela el año de <date when="1785">1785</date>.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Me ocurre desde luego que pueden señalarse dos
 entre otras. La una es que la elección de los primeros

@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="39" facs="#p39"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Otro tercer <persName ref="http://viaf.org/viaf/96549861">Echave</persName> (Manuel)<note type="editorial" resp="MTRS">Manuel de Echave Ibía (Ciudad de México, <hi rendition="italic">ca.</hi> 1583-<hi rend="italic">ca.</hi> 1630). Pintor novohispano, hijo de Baltasar Echave Orio y hermano Baltasar Echave Ibía.</note>
  hubo hacia el mismo
@@ -78,14 +78,14 @@ le mencionara, a no ser por el apellido que lleva, y que
 acaso atestigua su deudo de sangre con los dos de 
 quienes hemos hablado.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>De suerte que entonces pudiera aplicársele en el 
 Nobilario de las Artes el dicho del poeta latino:</p>
 <p> <cit xml:lang="la"><quote>perit omnis in illo /
 nobilitas, cujus laus est in origine sola.</quote></cit></p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Aquel cuadro más chico que queda acá a la izquierda,
 y es un santo obispo dando limosna a unos pobres,

@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="80" facs="#p80"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>La era que desde entonces corre no creo que pueda
 llamarse una continuación de la vieja escuela mexicana.
@@ -81,7 +81,7 @@ cadena tradicional, rota ya después de medio siglo, no
 pudo continuar y el arte hubo de plantearse casi tan de
 nuevo como en el siglo <num value="16">XVI</num>.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>A la verdad que eso nos sucedió. Yo no encontré en
 México ninguna escuela buena ni mala y empecé a 

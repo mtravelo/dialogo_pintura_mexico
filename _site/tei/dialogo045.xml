@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="45" facs="#p45"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>varias de las figuras y las echó a perder del modo
 más lastimoso. Quedan sólo algunas intactas y por ellas
 puede juzgarse de lo que era la obra en su estado original.
@@ -77,13 +77,13 @@ Fonseca, más paciente que yo, ha influido para que
 esa bellísima ruina (que así puede llamarse) pasara a la
 Escuela de Medicina, donde actualmente se halla.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Lo que usted cuenta de ese cuadro me recuerda el
 dicho de un inteligente: más obras han estropeado los 
 restauradores que la mano del tiempo.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Ibas a enseñarme algo de Rodríguez Juárez. A uno
 de ellos conozco desde que en años pasados vimos 
@@ -91,7 +91,7 @@ juntos tú y yo alguna cosa de su mano que nos llamó la
 atención en el Colegio de Tepozotlán, antiguo noviciado
 de jesuitas. Del otro no tengo noticia.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Pues comenzaré por ese otro. Era presbítero y se llamaba
 <persName ref=" http://viaf.org/viaf/8289126" xml:id="NRJ">Nicolás</persName>.<note type="editorial" resp="MTRS">Nicolás Rodríguez Juárez  (Ciudad de México, 1666-1734). Pintor y clérigo, miembro de una familia de pintores, bisnieto de Luis Juárez, nieto de José Juárez, hijo de Antonio Rodríguez y hermano de Antonio Rodríguez Juárez.</note> 

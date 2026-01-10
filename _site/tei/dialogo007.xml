@@ -66,7 +66,7 @@
 <body>
 <div>
 <pb n="7" facs="#p7"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>No me descontenta esa doctrina. Donde se pinta 
 para escribir, y donde es artista todo escritor, temo que
@@ -74,7 +74,7 @@ no ha de haber verdaderos pintores. Y tal debió
 suceder a los mexicanos, puesto que no tenían otro sistema
 de escribir que el de jeroglíficos y pinturas.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p><persName ref="http://viaf.org/viaf/34454460">Champollion 
 el Menor</persName><note type="editorial" resp="MTRS"> 
@@ -103,7 +103,7 @@ claridad.<hi rend="superscript">2</hi><note type="autor" xml:id="nota2"><hi rend
 le Duc de Blacas, relatives au Musée Royal Egyptien de Turin</hi></title>, carta I.</bibl></note>
 </p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Ahora hago memoria de que en <persName ref="http://viaf.org/viaf/71428093">Clavijero</persName><note type="editorial" resp="MTRS">Francisco 
 Javier Clavijero 

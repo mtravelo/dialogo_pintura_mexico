@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="62" facs="#p62"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>vigor que distingue a <persName ref="#SA">Sebastián de Arteaga</persName> en algunas de
 sus obras, pero no sé qué magia hay en <persName ref="#MC">Cabrera</persName> que
 siempre se le ve con placer, siempre gusta. Una de las
@@ -76,7 +76,7 @@ todas son bellas. Y ya ustedes considerarán cuánto tiene
 adelantado el pintor que sabe poner buenas cabezas a
 sus figuras.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Aquí lo estaba yo observando en este san Bernardo
 y este san Anselmo, de cuerpo entero y de tamaño
@@ -99,7 +99,7 @@ la segunda esté tan estropeada de manos de los soldados
 que a menudo se han alojado en aquellos claustros, 
 algunos de los lienzos acabaron ya.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Donde quiera que ponen el pie los hombres de armas
 dejan tras sí esa huella de destrucción y de ruina. Mas</p>

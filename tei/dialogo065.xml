@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="65" facs="#p65"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>admita por discípulo a hombre de color quebrado; que
 todo el que pretenda matricularse compruebe antes
 que es español; y que si a pesar de todo se introdujere
@@ -106,7 +106,7 @@ arte valga menos, y aun llegue a envilecerse, si es
 ejercitado por otras manos. Raro sentir en maestros que
 todo se lo debían a su mérito individual.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Paréceme que eso que cuentas hace poco verosímil la
 voz que algunos traen en México de que <persName ref="#MC">Cabrera</persName> era
@@ -124,7 +124,7 @@ Si tal hubiera sido, no habría escrito y firmado en los
 estatutos un artículo que sería una ejecutoria de degradación
 para él y los suyos.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>En cuanto al lugar de su nacimiento, la tradición oral,
 que de mozo alcancé yo entre los pintores de México,
@@ -148,7 +148,7 @@ el primer tercio del siglo <num value="18">XVIII</num>, por el virrey marqués d
 de capuchinas indias de Corpus Christi.</note>
 </p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>¿Y de su vida qué ha rastreado usted? Holgaría de
 saber algo de tan señalado artista.</p>

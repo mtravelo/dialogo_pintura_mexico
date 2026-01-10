@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="86" facs="#p86"/>
-<sp who="Couto">
+<sp who="#couto">
 <p><cit><quote>Escultura por la viva y deliciosa impresión que hacen en
 los ánimos las imágenes que se presentan al alma por
 la vista, tanto más tristes y perniciosos efectos obra el
@@ -90,7 +90,7 @@ para culto, ¿qué será, digo, pintarlas licenciosamente? No,
 no se halla vocablo que explique por entero tan gran
 maldad»</quote></cit>.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Lo que de verdad he extrañado yo en nuestra 
 antigua escuela es que se hubiera encerrado totalmente
@@ -98,7 +98,7 @@ dentro del género religioso, y no hubiese tocado ninguno
 otro, cuando para ello no podían faltarle ni ocasiones
 ni inspiración.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Cosa es en efecto digna de reparo. Al paisaje, por
 ejemplo, que es tan bello y gentil ramo de pintura, se</p>

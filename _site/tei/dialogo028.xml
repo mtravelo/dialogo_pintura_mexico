@@ -67,12 +67,12 @@
 <body>
 <div>
 <pb n="28" facs="#p28"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>es un soldado que conversa con el que está vuelto de
 espaldas. Señores, la mano que pintó esa cara, de tanta
 verdad y tanto carácter, era una mano maestra.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>No tenía yo de <persName ref="#BEO">Baltasar de Echave</persName>, a quien apenas
 conocía de oídas, el concepto que estos cuadros me 
@@ -81,7 +81,7 @@ aventajados artistas y creo que en cualquier país donde
 hubiera existido se habría hecho un distinguido lugar.
 ¿Quedan muchas pinturas suyas en México?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>No escasean, si bien debe cuidarse de no confundirlas
 con las del segundo pintor del mismo nombre que

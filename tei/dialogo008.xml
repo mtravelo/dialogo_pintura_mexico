@@ -65,7 +65,7 @@
 <body>
 <div>
 <pb n="8" facs="#p8"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <p>mal no recuerdo, en el libro en que explica sus artes,
 dice que la historia y la pintura son dos cosas que no
 pueden separarse en las antigüedades mexicanas, 
@@ -87,7 +87,7 @@ contorno.<hi rend="superscript">3</hi><note type="autor" xml:id="nota3"><hi rend
 del Messico</hi></title>, lib. 7, §§ 47, 48 y 49.</bibl></note>
 </p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Ya supondrán ustedes que la regularidad y belleza de
 la figura es lo primero para un artista y que a sus ojos
@@ -98,7 +98,7 @@ existe, pero no la hacen desaparecer. Mas lo que ahora
 querría yo saber es si quedan noticias de la traza que
 los mexicanos se daban para pintar.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Lo hacían sobre tejidos de filamentos de maguey o
 de ixtle,<hi rend="superscript">a</hi><note type="autor" xml:id="notaA"> <hi rend="superscript">a</hi> Es la palma llamada en

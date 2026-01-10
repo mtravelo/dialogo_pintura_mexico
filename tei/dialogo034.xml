@@ -67,16 +67,16 @@
 <body>
 <div>
 <pb n="34" facs="#p34"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <p>podíamos considerarlo sino bajo el respecto de su 
 mérito artístico. El semblante del Salvador en aquella
 tremenda hora es de una expresión singular.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿Decías que hubo varios artistas Juárez?</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Ahí tienes luego al segundo que se llamó <persName ref="http://viaf.org/viaf/3414037" xml:id="JJ">José</persName><note type="editoral" resp="MTRS">José Juárez (Ciudad de México, 1617-1670). Pintor barroco novohispano, segunda generación de “los Juárez”, hijo de Luis Juárez. Su obra es de temática religiosa con estilo tenebrista.</note> 
 y es autor de ese cuadro grande apaisado que presenta una
@@ -86,13 +86,13 @@ numeroso cortejo de ángeles que le dan música. El
 santo la recibe arrodillado y parece prepararse a tomar en
 sus brazos al niño.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>Lástima que ese lienzo haya sufrido o del tiempo o
 de mano de los limpiadores. Sin embargo, ofrece rasgos
 que descubren un autor inteligente.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Por sólo él no puede estimarse a <persName ref="#JJ">José Juárez</persName> en lo
 que vale. En los claustros de la Profesa hay dos cuadros

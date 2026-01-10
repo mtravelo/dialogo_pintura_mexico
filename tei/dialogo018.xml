@@ -65,7 +65,7 @@
 <body>
 <div>
 <pb n="18" facs="#p18"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>primeros destellos de la escuela llamada del Renacimiento,
 cabalmente a la sazón que <persName ref="#HC">Hernán Cortés</persName> guerreaba en
@@ -114,7 +114,7 @@ de los profesores de bellas artes en España</hi></title>, y en los artículos d
 los artistas del siglo <num value="16">XVI</num>; en el tomo 6 hay catálogos cronológicos
 de todos.</bibl></note></p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Lo que es el arte de copiar, o sea, reproducir 
 fielmente en la obra que se hace la obra que se toma por 

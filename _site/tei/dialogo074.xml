@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="74" facs="#74"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Se esperaría lo que quisieres, pero ciertamente no 
 sucedió lo que se esperaba. La muerte de la pintura en
@@ -76,7 +76,7 @@ y después de Acíbar, en un espacio de medio siglo, no
 vuelve a aparecer pintor mexicano que dejara obras 
 importantes y ganara nombre.</p>
 </sp>
-<sp who="Pesado">
+<sp who="#pesado">
 <speaker>Pesado</speaker>
 <p>¿Si confirmará ese hecho la antigua acusación contra
 las academias de que, inspirando timidez, apagan el 
@@ -84,7 +84,7 @@ ingenio y reducen el arte a encogidos procedimientos que
 al fin lo hacen morir mezquinamente?
 </p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Bien pensarán ustedes que un hombre que recibió 
 educación académica, y es hoy profesor en una academia,

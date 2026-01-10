@@ -67,12 +67,12 @@
 <body>
 <div>
 <pb n="76" facs="#p76"/>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Pues yo pensé que el primer director de pintura 
 enviado acá había sido <name  type="person" ref=" http://viaf.org/viaf/11529531" xml:id="RXP">Ximeno</name>.<note type="editorial" resp="MTRS">Rafael Ximeno y Planes (Valencia, 1759-Ciudad de México, 1825). Pintor e ilustrador español, segundo director de la Academia de San Carlos, realizó los frescos de las iglesias de Jesús María y la Profesa.</note></p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Tal es la oscuridad en que han quedado los dos que
 le precedieron. Don <persName ref="#RXP">Rafael Ximeno y Planes</persName>,  
@@ -93,7 +93,7 @@ que la conocieron. Sin embargo, su nombramiento
 para la Academia encontró dificultades que impidieron
 que se llevase a cabo.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p><persName ref="#RXP">Ximeno</persName>
 no merecerá a usted la censura que sus 

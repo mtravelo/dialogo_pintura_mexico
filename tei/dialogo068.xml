@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="68" facs="#p68"/>
-<sp who="Couto">
+<sp who="#couto">
 <p>Ibarra, Osorio, Juan Patricio, <persName ref="#JA">Alcíbar</persName> y Arnáez, el
 juicio que se expone en la <hi rend="italic">Maravilla americana</hi>. Entre las
 pinturas de San Ildefonso, una tiene fecha de <date when="1761">1761</date> y
@@ -89,12 +89,12 @@ san Juan Nepomuceno y san Luis Gonzaga, patronos
 de los estudios. La figura de la Virgen, en especial, es
 bella.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Debe sentirse que ese interesante cuadro haya sufrido
 bastante por el desabrigo del sitio en que está.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Afortunadamente los de San Ildefonso se conservan
 bien. Uno, que hay en el General Chico, representa la

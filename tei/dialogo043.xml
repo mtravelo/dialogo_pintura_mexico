@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="43" facs="#p43"/>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Aún nos falta mostrarte algo de los dos Rodríguez
 Juárez, que lo cerraron dignamente y que dieron 
@@ -84,12 +84,12 @@ mencioné atrás, hay en el altar principal doce cuadritos
 firmados de su nombre, con fecha de <date when="1698">1698</date>, que representan
 santos mártires, bien acabados y de bastante gusto.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Tengo muy presente que cuando los vimos nos dejaron
 algún sabor de estilo holandés.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>El segundo es fray Diego Becerra,<hi rend="superscript">44</hi><note type="autor" 
 xml:id="nota44"><hi rend="superscript">44</hi> Véase a Sigüenza en el pasaje copiado en la nota 39.</note>
@@ -102,7 +102,7 @@ en otras partes del edificio.<hi rend="superscript">45</hi> <note type="autor" x
 <bibl><title><hi rend="italic">Crónica</hi></title>, tratado 2o, cap. 32, núms. 42 y 51.</bibl></note>
 </p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Ése ha de ser el Becerra franciscano, de quien ahora
 dos años vi en su convento de Puebla, en la escalera, tres</p>

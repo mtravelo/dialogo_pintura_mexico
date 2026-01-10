@@ -67,7 +67,7 @@
 <body>
 <div>
 <pb n="78" facs="#p78"/>
-<sp who="Pesado">
+<sp who="#pesado">
 <p>incorrecciones de dibujo que en ellas se observan y que a
 la verdad son de extrañarse en una persona tan
 académica, hay la circunstancia de que su colorido es poco
@@ -75,7 +75,7 @@ agradable y de que no concluía ni afinaba sus cuadros,
 sino que daba sólo algunas pinceladas fuertes, buscando
 por ese medio el efecto.</p>
 </sp>
-<sp who="Clavé">
+<sp who="#clavé">
 <speaker>Clavé</speaker>
 <p>Ése era el estilo que dominaba en España en la época
 en que él se formó, época que no es de la que más 
@@ -95,7 +95,7 @@ oír del señor Couto cuál fue en su juicio la segunda causa
 que hubo para que la pintura decayera en México 
 hacia la época del establecimiento de la Academia.</p>
 </sp>
-<sp who="Couto">
+<sp who="#couto">
 <speaker>Couto</speaker>
 <p>Haberle faltado la ocupación que le daba la Iglesia.
 Recuerden ustedes que bajo sus alas nació en el siglo <num value="16">XVI</num>
