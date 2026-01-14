@@ -23,7 +23,7 @@ Grupo colaborador: Juliana Gandini, Virginia Brussa, Gabriela Striker, Marisol F
 Edición, codificación, notas de contexto, línea de tiempo y bibliografía: María Teresa Ravelo (IIE)  
 Diseño y desarrollo de plantilla web: grupo responsable del HD LAB  
 Asesoría técnica: Gabriel Calarco (HD LAB)  
-Revisión: Itzel Rodríguez González y Jaime Soler Frost (IIE)  
+Revisión: Itzel Rodríguez González (IIE)  
 Fotos del facsímil: Ernesto Peñaloza Méndez y Gerardo Vázquez Miranda (IIE)  
 Digitalización de textos de consulta: María Teresa Marín (IIE)  
 Gestión de permisos de reproducción: Lourdes Padilla  Cabrera (IIE)
