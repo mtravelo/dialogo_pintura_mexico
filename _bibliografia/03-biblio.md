@@ -67,5 +67,5 @@ Gómez Guerrero, Isaías. «José Bernardo Couto: el historiador, dos trilogías
 
 ### Reseñas
 
-Juan Manuel Yánez García, «_Diálogo sobre la historia de la pintura en México_, José Bernardo Couto». En _Veinticinco años de la Biblioteca Fray Francisco de Burgos de la ciudad de Oaxaca_, coordinado por Selene del Carmen García Jiménez. Oaxaca: Universidad Autónoma Benito Juárez de Oaxaca, 2021. Disponible en [Academia.edu](
+Juan Manuel Yánez García, «_Diálogo sobre la historia de la pintura en México_, José Bernardo Couto». En _Veinticinco años de la Biblioteca Fray Francisco de Burgos de la ciudad de Oaxaca_, coordinado por Selene del Carmen García Jiménez. Oaxaca: Universidad Autónoma Benito Juárez de Oaxaca, 2021. Disponible en: [Academia.edu](
 https://www.academia.edu/103353729/Di%C3%A1logo_sobre_historia_de_la_pintura_en_Mexico).
