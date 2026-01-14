@@ -35,7 +35,9 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 
 <li> Se empleó el recurso de una minipestaña con barra de desplazamiento en las notas para que pueda seguirse la lectura cuando el texto es extenso.</li>
 
-<li> Se conservó la numeración con letra de dos notas de edición original con la indicación [N.E. original].</li>
+<li> Se conservó la numeración con letra de dos notas de edición original con la indicación [N. de edición original].</li>
+
+<li> Información adicional o alguna aclaración se incorporaron en las notas entre corchetes con la indicación N.E.</li>
 
 <li> Se señalaron nombres de personas, instituciones, lugares y sucesos con notas de contexto que aparecen en ventanas emergentes (<i>pop up</i>).</li>
 
@@ -64,6 +66,9 @@ Fondo Histórico de la Biblioteca Justino Fernández del Instituto de Investigac
 <li>Se conservó la páginación original del texto de Gutiérrez Haces.</li>
 
 <li>Los números de las notas de Ruiz Gomar están en un color distinto (verde) y entre corchetes para advertir al lector que no son del original con la indicación [N.R.R.G.].</li>
+
+<li> Información adicional o alguna aclaración se incorporaron en las notas entre corchetes con la indicación N.E.</li>
+
 </ul>
 
 </details>
