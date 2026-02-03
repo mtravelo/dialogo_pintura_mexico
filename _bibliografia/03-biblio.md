@@ -10,7 +10,7 @@ icon: book
 ### Ediciones del _Diálogo_
 Couto, José Bernardo. _Diálogo sobre la historia de la pintura en México_. México: Imprenta de I. Escalante, 1872.
 
-——. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. Facsímil disponible en: [Colección Digital UANL](https://cd.dgb.uanl.mx/handle/201504211/14092){:target="_blank"} y en: [Biblioteca Digital Hispánica](https://bdh-rd.bne.es/viewer.vm?id=0000101761&page=1){:target="_blank"}.
+——. _Diálogo sobre la historia de la pintura en México_. México: Oficina Tip. de la Secretaría de Fomento, 1889. Facsímil disponible en: [Biblioteca Digital Hispánica](https://bdh-rd.bne.es/viewer.vm?id=0000101761&page=1){:target="_blank"} y [Colección Digital UANL](https://cd.dgb.uanl.mx/handle/201504211/14092){:target="_blank"}.
   
 ——. _Diálogo sobre la historia de la pintura en México_. En _Obras del Doctor D. José Bernardo Couto.  Tomo I. Opúsculos varios_,  México: V. Agüeros, 1898. Facsímil disponible en: [Colección Digital UANL](http://cdigital.dgb.uanl.mx/la/1080013799/1080013799.html){:target="_blank"}.
 
