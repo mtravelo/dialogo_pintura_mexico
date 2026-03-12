@@ -28,7 +28,7 @@ María Teresa Ravelo
   
   Citar esta edición como: 
   
-  <p style="font-size: 14px;">María Teresa Ravelo (ed.). José Bernardo Couto. <i>Diálogo sobre la historia de la pintura en México</i>. México/Buenos Aires: UNAM-Instituto de Investigaciones Estéticas/CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024-2025. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
+  <p style="font-size: 14px;">Ravelo, María Teresa,  ed. José Bernardo Couto. <i>Diálogo sobre la historia de la pintura en México</i>. México/Buenos Aires: UNAM-Instituto de Investigaciones Estéticas/CONICET-Laboratorio de Humanidades Digitales del Instituto de Investigaciones Bibliográficas y Crítica Textual, 2024-2025. <a href="{{ site.baseurl }}/">https://mtravelo.github.io/dialogo_pintura_mexico//</a> [Fecha de consulta]</p>
     
 
 
