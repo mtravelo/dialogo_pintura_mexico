@@ -57,7 +57,7 @@
                 </p>
             </editorialDecl>
         </encodingDesc>
-    </teiHeader>
+</teiHeader>
 <facsimile>
     <graphic url="../imgs/dialogo003.jpg" xml:id="p3"></graphic>
 </facsimile>
